@@ -1903,7 +1903,7 @@
  desc_aju_gold_trade_deal_ally:0 "Мы решили принять сделку Аджурана, и теперь мы им поставляем золото в обмен на чеканные монеты."
  kon_great_power:0 "Превосходство над великой державой"
  desc_kon_great_power:0 "Вопреки всему, наше государство добилось решительной победы в войне против одной из великих мировых держав! Слава [Root.GetTagDT]!"
-  ###EVENTS###
+ ###EVENTS###
  #EAST AFRICAN MISSIONS
  east_africa_economic_base_title:0 "Создать экономический базис"
  east_africa_economic_base_desc:0 "Для развития нашего народа нужно заложить прочный экономический фундамент. Давайте накопим золота и создадим прибыльные предприятия."
@@ -2081,7 +2081,7 @@
  gen_hoa_control_india_ocean.tooltip4:0 "§Y[Root.GetName]§! имеет §Y30%§! торгового влияния в §YКороманделе§!"
  gen_hoa_control_india_ocean.tooltip5:0 "§Y[Root.GetName]§! имеет §Y15%§! торгового влияния в §YБенгалии§!"
  gen_hoa_control_india_ocean.tooltip6:0 "§Y[Root.GetName]§! имеет §Y15%§! торгового влияния в §YМалакке§!"
-###WEST AFRICA MISSIONS###
+ ###WEST AFRICA MISSIONS###
  west_africa_assemble_warband_title:0 "Собрать банду"
  west_africa_assemble_warband_desc:0 "Чтобы эффективно контролировать нашу территорию, нам нужно собрать банду храбрых вояк."
  west_africa_strong_leadership_title:0 "Сильное лидерство"
