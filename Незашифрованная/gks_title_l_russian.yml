@@ -1,0 +1,2789 @@
+﻿l_russian:
+ ###на вопрос нет кого?
+ SPEAKER_RD:0 "спикера" #GetTitleRD
+ CHANCELOR_RD:0 "канцлера" #GetTitleRD
+ PRESIDENT_RD:0 "президента" #GetTitleRD
+ DUKE_RD:0 "герцога" #GetTitleRD
+ KING_RD:0 "короля" #GetTitleRD
+ EMPEROR_RD:0 "императора" #GetTitleRD
+ GRAND_PENSIONARY_RD:0 "великого пенсионария" #GetTitleRD
+ STADTHOLDER_RD:0 "статхаудера" #GetTitleRD
+ GREAT_STADTHOLDER_RD:0 "главного статхаудера" #GetTitleRD
+ PRINCE_ELECTOR_RD:0 "князя-курфюрста" #GetTitleRD
+ KING_ELECTOR_RD:0 "короля-курфюрста" #GetTitleRD
+ EARL_RD:0 "эрла" #GetTitleRD
+ HIGH_KING_RD:0 "верховного короля" #GetTitleRD
+ LORD_RD:0 "лорда" #GetTitleRD
+ SHOGUN_RD:0 "сёгуна" #GetTitleRD
+ ATABEG_RD:0 "атабека" #GetTitleRD
+ FAAMA_RD:0 "фаамы" #GetTitleRD
+ GREAT_MANSA_RD:0 "великого мансы" #GetTitleRD
+ JAM_RD:0 "джама" #GetTitleRD
+ GRAND_JAM_RD:0 "большого джама" #GetTitleRD
+ GREAT_JAM_RD:0 "великого джама" #GetTitleRD
+ GRAND_DUKE_RD:0 "великого князя" #GetTitleRD
+ ARCHDUKE_RD:0 "эрцгерцога" #GetTitleRD
+ ARCHKING_RD:0 "эрцкороля" #GetTitleRD
+ PRINCE_RD:0 "князя" #GetTitleRD
+ BAN_TITLE_RD:0 "бана" #GetTitleRD
+ KRALJ_RD:0 "краля" #GetTitleRD
+ CAR_RD:0 "царя" #GetTitleRD
+ VOJVODA_RD:0 "воеводы" #GetTitleRD
+ DESPOT_RD:0 "деспота" #GetTitleRD
+ AUTOKRATOR_RD:0 "автократора" #GetTitleRD
+ BASILEUS_RD:0 "базилевса" #GetTitleRD
+ MBRET_RD:0 "мбрета" #GetTitleRD
+ NOMARCH_RD:0 "номарха" #GetTitleRD
+ PHARAOH_RD:0 "фараона" #GetTitleRD
+ GREAT_PHARAOH_RD:0 "великого фараона" #GetTitleRD
+ TYRANT_RD:0 "тирана" #GetTitleRD
+ HEGEMON_RD:0 "гегемона" #GetTitleRD
+ CHIEF_RD:0 "вождя" #GetTitleRD
+ REX_RD:0 "рекса" #GetTitleRD
+ IMPERATOR_RD:0 "императора" #GetTitleRD
+ VOIVODE_RD:0 "воеводы" #GetTitleRD
+ RAJA_RD:0 "раджи" #GetTitleRD
+ MAHARAJA_RD:0 "махараджи" #GetTitleRD
+ CHHATRAPATI_RD:0 "чхатрапати" #GetTitleRD
+ RANA_RD:0 "раны" #GetTitleRD
+ MAHARANA_RD:0 "махараны" #GetTitleRD
+ PESHWA_RD:0 "пешвы" #GetTitleRD
+ TATKISHO_RD:0 "таткишо" #GetTitleRD
+ TATO_RD:0 "тато" #GetTitleRD
+ ATIO_RD:0 "атио" #GetTitleRD
+ RAS_title_RD:0 "расы" #GetTitleRD
+ NEGUS_RD:0 "негусы" #GetTitleRD
+ NEGUSA_NEGAST_RD:0 "негуса нагасты" #GetTitleRD
+ MUGABE_RD:0 "мугабы" #GetTitleRD
+ GREAT_MUGABE_RD:0 "великого мугабы" #GetTitleRD
+ OMUKAMA_RD:0 "омукамы" #GetTitleRD
+ GREAT_OMUKAMA_RD:0 "великого омукамы" #GetTitleRD
+ BALOPWE_RD:0 "балопвы" #GetTitleRD
+ MULOPWE_RD:0 "мулопвы" #GetTitleRD
+ GREAT_MULOPWE_RD:0 "великого мулопвы" #GetTitleRD
+ MWENEMUTAPA_RD:0 "мвенемутапы" #GetTitleRD
+ GREAT_MWENEMUTAPA_RD:0 "великого мвенемутапы" #GetTitleRD
+ MAMBO_RD:0 "мамбо" #GetTitleRD
+ GRAND_MAMBO_RD:0 "великого мамбо" #GetTitleRD
+ GREAT_MAMBO_RD:0 "верховного мамбо" #GetTitleRD
+ BAKUNGU_RD:0 "бакунгы" #GetTitleRD
+ MWAMI_RD:0 "мвани" #GetTitleRD
+ KABAKA_RD:0 "кабаки" #GetTitleRD
+ GREAT_KABAKA_RD:0 "великого кабаки" #GetTitleRD
+ ANDRIANONI_RD:0 "андрианони" #GetTitleRD
+ GRAND_ANDRIANONI_RD:0 "великого андрианони" #GetTitleRD
+ GREAT_ANDRIANONI_RD:0 "верховного андрианони" #GetTitleRD
+ FILOHANY_RD:0 "филоханы" #GetTitleRD
+ MPANJAKE_BE_RD:0 "мпанджак-бе" #GetTitleRD
+ KURAKA_RD:0 "кураки" #GetTitleRD
+ APU_RD:0 "апу" #GetTitleRD
+ SAPA_INKA_RD:0 "сапа Инки" #GetTitleRD
+ MARGRAVE_RD:0 "маркграфа" #GetTitleRD
+ VICEROY_RD:0 "вице-короля" #GetTitleRD
+ IMAM_RD:0 "имама" #GetTitleRD
+ GREAT_IMAM_RD:0 "великого имама" #GetTitleRD
+ HIGH_IMAM_RD:0 "верховного имама" #GetTitleRD
+ EMIR_RD:0 "эмира" #GetTitleRD
+ SULTAN_RD:0 "султана" #GetTitleRD
+ GREAT_SULTAN_RD:0 "великого султана" #GetTitleRD
+ DAI_male_RD:0 "даи" #GetTitleRD
+ PADISHAH_RD:0 "падишаха" #GetTitleRD
+ MALIK_RD:0 "малика" #GetTitleRD
+ SHAH_RD:0 "шаха" #GetTitleRD
+ SHAHANSHAH_RD:0 "шахиншаха" #GetTitleRD
+ SHEIKH_RD:0 "шейха" #GetTitleRD
+ GERAD_RD:0 "герада" #GetTitleRD
+ BEY_RD:0 "бейя" #GetTitleRD
+ PRINC_RD:0 "князя" #GetTitleRD
+ NAWAB_RD:0 "наваба" #GetTitleRD
+ NIZAM_RD:0 "низама" #GetTitleRD
+ KHEDIVE_RD:0 "хедива" #GetTitleRD
+ SAOPHA_RD:0 "саофы" #GetTitleRD
+ KNIAZ_RD:0 "князя" #GetTitleRD
+ GREAT_KNIAZ_RD:0 "великого князя" #GetTitleRD
+ TLATOANI_RD:0 "тлатоани" #GetTitleRD
+ HUEHUETLATOANI_RD:0 "хуэй тлатоани" #GetTitleRD
+ BISHOP_ELECTOR_RD:0 "епископа-курфюрста" #GetTitleRD
+ ARCHBISHOP_ELECTOR_RD:0 "архиепископа-курфюрста" #GetTitleRD
+ PATRIARCH_ELECTOR_RD:0 "патриарха-курфюрста" #GetTitleRD
+ BISHOP_RD:0 "епископа" #GetTitleRD
+ ARCHBISHOP_RD:0 "архиепископа" #GetTitleRD
+ PATRIARCH_RD:0 "патриарха" #GetTitleRD
+ PROTECTOR_RD:0 "протектора" #GetTitleRD
+ LORD_PROTECTOR_RD:0 "лорда-протектора" #GetTitleRD
+ JINONG_RD:0 "джинона" #GetTitleRD
+ KHAN_RD:0 "хана" #GetTitleRD
+ KHAGAN_RD:0 "кагана" #GetTitleRD
+ NUTSAL_RD:0 "нуцала" #GetTitleRD
+ BEILE_RD:0 "бэиле" #GetTitleRD
+ JUNWANG_RD:0 "цзюньвана" #GetTitleRD
+ HIGH_CHIEF_RD:0 "верховного вождя" #GetTitleRD
+ PARAMOUNT_CHIEF_RD:0 "первого вождя" #GetTitleRD
+ ELDER_RD:0 "старейшины" #GetTitleRD
+ HIGH_ELDER_RD:0 "главного старейшины" #GetTitleRD
+ PARAMOUNT_ELDER_RD:0 "верховного старейшины" #GetTitleRD
+ AYATOLLAH_RD:0 "аятоллы" #GetTitleRD
+ KHOJA_RD:0 "ходжи" #GetTitleRD
+ GREAT_KHOJA_RD:0 "великого ходжи" #GetTitleRD
+ GREAT_EMIR_RD:0 "великого эмира" #GetTitleRD
+ PASHA_RD:0 "паши" #GetTitleRD
+ OLDERMAND_RD:0 "альдермана" #GetTitleRD
+ STORBONDE_RD:0 "стурбонда" #GetTitleRD
+ LANDSBONDE_RD:0 "ландсбонда" #GetTitleRD
+ JATHEDAR_RD:0 "джатедара" #GetTitleRD
+ MISLDAR_RD:0 "мисальдара" #GetTitleRD
+ GREAT_MISLDAR_RD:0 "великого мисальдара" #GetTitleRD
+ RABBI_RD:0 "раввина" #GetTitleRD
+ GRAND_RABBI_RD:0 "высшего раввина" #GetTitleRD
+ KOHEN_GADOL_RD:0 "коэн-гадоля" #GetTitleRD
+ HERBAD_RD:0 "хирбада" #GetTitleRD
+ MOBED_RD:0 "мобеда" #GetTitleRD
+ MOABADAN_MOABAD_RD:0 "моабадан моабада" #GetTitleRD
+ PANDIT_RD:0 "пандита" #GetTitleRD
+ PANDITRAO_RD:0 "пандитрао" #GetTitleRD
+ HIGH_GURU_RD:0 "высшего гуру" #GetTitleRD
+ O_KANNUSHI_RD:0 "о'каннуси" #GetTitleRD
+ LAMA_RD:0 "ламы" #GetTitleRD
+ TULKU_RD:0 "тулку" #GetTitleRD
+ GREAT_TULKU_RD:0 "великого тулку" #GetTitleRD
+ SON_OF_HEAVEN_RD:0 "сына Неба" #GetTitleRD
+ MICHOQ_RD:0 "мичока" #GetTitleRD
+ HIGH_PRIEST_RD:0 "верховного жреца" #GetTitleRD
+ WILLAQ_UMU_RD:0 "вилак уму" #GetTitleRD
+ PRIEST_RD:0 "жреца" #GetTitleRD
+ PARAMOUNT_PRIEST_RD:0 "первого жреца" #GetTitleRD
+ TSAR_RD:0 "царя" #GetTitleRD
+ IMAME_RD:0 "имама" #GetTitleRD
+ HOCHMEISTER_RD:0 "гохмейстера" #GetTitleRD
+ LANDMEISTER_RD:0 "ландмейстера" #GetTitleRD
+ GROSSMEISTER_RD:0 "гроссмейстера" #GetTitleRD
+ GRAND_MASTER_RD:0 "великого магистра" #GetTitleRD
+ DOGE_RD:0 "дожа" #GetTitleRD
+ SERENE_DOGE_RD:0 "светлейшего дожа" #GetTitleRD
+ GREAT_DOGE_RD:0 "великого дожа" #GetTitleRD
+ RECTOR_RD:0 "ректора" #GetTitleRD
+ GRAND_RECTOR_RD:0 "главного ректора" #GetTitleRD
+ GREAT_RECTOR_RD:0 "великого ректора" #GetTitleRD
+ GRAND_KNIAZ_RD:0 "великого князя" #GetTitleRD
+ KEFALIJA_RD:0 "кефала" #GetTitleRD
+ DUZHD_RD:0 "дужа" #GetTitleRD
+ GONFALONIERE_RD:0 "гонфалоньера" #GetTitleRD
+ CONSUL_RD:0 "консула" #GetTitleRD
+ GRAND_CONSUL_RD:0 "главного консула" #GetTitleRD
+ GREAT_CONSUL_RD:0 "великого консула" #GetTitleRD
+ CAPTAIN_DEFENDER_RD:0 "капитана-защитника" #GetTitleRD
+ SYNDIC_RD:0 "синдика" #GetTitleRD
+ GRAND_SYNDIC_RD:0 "великого синдика" #GetTitleRD
+ SADR_RD:0 "садра" #GetTitleRD
+ PRATINIDHI_RD:0 "пратинидхи" #GetTitleRD
+ VIZIER_RD:0 "визиря" #GetTitleRD
+ GRANDVIZIER_RD:0 "великого визиря" #GetTitleRD
+ COUNCILOR_RD:0 "советника" #GetTitleRD
+ GRAND_COUNCILOR_RD:0 "великого советника" #GetTitleRD
+ HIGH_COUNCILOR_RD:0 "верховного советника" #GetTitleRD
+ NACOM_RD:0 "накома" #GetTitleRD
+ HALACH_UINIK_RD:0 "халач-уиника" #GetTitleRD
+ K_UHUL_AJAW_RD:0 "кухуль-ахавы" #GetTitleRD
+ POPE_RD:0 "папы" #GetTitleRD
+ DIRECTOR_RD:0 "директора" #GetTitleRD
+ GOVERNOR_RD:0 "губернатора" #GetTitleRD
+ ATAMAN_RD:0 "атамана" #GetTitleRD
+ HETMAN_RD:0 "гетмана" #GetTitleRD
+ GREAT_HETMAN_RD:0 "великого гетмана" #GetTitleRD
+ SHARIF_RD:0 "шарифа" #GetTitleRD
+ GRAND_SHARIF_RD:0 "великого шарифа" #GetTitleRD
+ GREAT_SHARIF_RD:0 "верховного шарифа" #GetTitleRD
+ DATU_RD:0 "дату" #GetTitleRD
+ LAKAN_RD:0 "лакана" #GetTitleRD
+ GREAT_LAKAN_RD:0 "великого лакана" #GetTitleRD
+ BURGMEISTER_RD:0 "бургомистра" #GetTitleRD
+ MAYOR_RD:0 "мэра" #GetTitleRD
+ ILKHAN_RD:0 "ильхана" #GetTitleRD
+ SYNTH_RULER_RD:0 "исполнителя" #GetTitleRD
+ ###на вопрос дать кому?
+ SPEAKER_DT:0 "спикеру" #GetTitleDT
+ CHANCELOR_DT:0 "канцлеру" #GetTitleDT
+ PRESIDENT_DT:0 "президенту" #GetTitleDT
+ DUKE_DT:0 "герцогу" #GetTitleDT
+ KING_DT:0 "королю" #GetTitleDT
+ EMPEROR_DT:0 "императору" #GetTitleDT
+ GRAND_PENSIONARY_DT:0 "великому пенсионарию" #GetTitleDT
+ STADTHOLDER_DT:0 "статхаудеру" #GetTitleDT
+ GREAT_STADTHOLDER_DT:0 "главному статхаудеру" #GetTitleDT
+ PRINCE_ELECTOR_DT:0 "князю-курфюрсту" #GetTitleDT
+ KING_ELECTOR_DT:0 "королю-курфюрсту" #GetTitleDT
+ EARL_DT:0 "эрлу" #GetTitleDT
+ HIGH_KING_DT:0 "верховному королю" #GetTitleDT
+ LORD_DT:0 "лорду" #GetTitleDT
+ SHOGUN_DT:0 "сёгуну" #GetTitleDT
+ ATABEG_DT:0 "атабеку" #GetTitleDT
+ FAAMA_DT:0 "фааму" #GetTitleDT
+ GREAT_MANSA_DT:0 "великому мансу" #GetTitleDT
+ JAM_DT:0 "джаму" #GetTitleDT
+ GRAND_JAM_DT:0 "большому джаму" #GetTitleDT
+ GREAT_JAM_DT:0 "великому джаму" #GetTitleDT
+ GRAND_DUKE_DT:0 "великому князю" #GetTitleDT
+ ARCHDUKE_DT:0 "эрцгерцогу" #GetTitleDT
+ ARCHKING_DT:0 "эрцкоролю" #GetTitleDT
+ PRINCE_DT:0 "князю" #GetTitleDT
+ BAN_TITLE_DT:0 "бану" #GetTitleDT
+ KRALJ_DT:0 "кралю" #GetTitleDT
+ CAR_DT:0 "царю" #GetTitleDT
+ VOJVODA_DT:0 "воеводе" #GetTitleDT
+ DESPOT_DT:0 "деспоту" #GetTitleDT
+ AUTOKRATOR_DT:0 "автократору" #GetTitleDT
+ BASILEUS_DT:0 "базилевсу" #GetTitleDT
+ MBRET_DT:0 "мбрету" #GetTitleDT
+ NOMARCH_DT:0 "номарху" #GetTitleDT
+ PHARAOH_DT:0 "фараону" #GetTitleDT
+ GREAT_PHARAOH_DT:0 "великому фараону" #GetTitleDT
+ TYRANT_DT:0 "тирану" #GetTitleDT
+ HEGEMON_DT:0 "гегемону" #GetTitleDT
+ CHIEF_DT:0 "вождю" #GetTitleDT
+ REX_DT:0 "рексу" #GetTitleDT
+ IMPERATOR_DT:0 "императору" #GetTitleDT
+ VOIVODE_DT:0 "воеводе" #GetTitleDT
+ RAJA_DT:0 "радже" #GetTitleDT
+ MAHARAJA_DT:0 "махарадже" #GetTitleDT
+ CHHATRAPATI_DT:0 "чхатрапати" #GetTitleDT
+ RANA_DT:0 "ране" #GetTitleDT
+ MAHARANA_DT:0 "махаране" #GetTitleDT
+ PESHWA_DT:0 "пешве" #GetTitleDT
+ TATKISHO_DT:0 "таткишо" #GetTitleDT
+ TATO_DT:0 "тато" #GetTitleDT
+ ATIO_DT:0 "атио" #GetTitleDT
+ RAS_title_DT:0 "расе" #GetTitleDT
+ NEGUS_DT:0 "негусе" #GetTitleDT
+ NEGUSA_NEGAST_DT:0 "негуса нагасте" #GetTitleDT
+ MUGABE_DT:0 "мугабе" #GetTitleDT
+ GREAT_MUGABE_DT:0 "великому мугабе" #GetTitleDT
+ OMUKAMA_DT:0 "омукаме" #GetTitleDT
+ GREAT_OMUKAMA_DT:0 "великому омукаме" #GetTitleDT
+ BALOPWE_DT:0 "балопве" #GetTitleDT
+ MULOPWE_DT:0 "мулопве" #GetTitleDT
+ GREAT_MULOPWE_DT:0 "великому мулопве" #GetTitleDT
+ MWENEMUTAPA_DT:0 "мвенемутапе" #GetTitleDT
+ GREAT_MWENEMUTAPA_DT:0 "великому мвенемутапе" #GetTitleDT
+ MAMBO_DT:0 "мамбо" #GetTitleDT
+ GRAND_MAMBO_DT:0 "великому мамбо" #GetTitleDT
+ GREAT_MAMBO_DT:0 "верховному мамбо" #GetTitleDT
+ BAKUNGU_DT:0 "бакунге" #GetTitleDT
+ MWAMI_DT:0 "мвани" #GetTitleDT
+ KABAKA_DT:0 "кабаке" #GetTitleDT
+ GREAT_KABAKA_DT:0 "великому кабаке" #GetTitleDT
+ ANDRIANONI_DT:0 "андрианони" #GetTitleDT
+ GRAND_ANDRIANONI_DT:0 "великому андрианони" #GetTitleDT
+ GREAT_ANDRIANONI_DT:0 "верховному андрианони" #GetTitleDT
+ FILOHANY_DT:0 "филохане" #GetTitleDT
+ MPANJAKE_BE_DT:0 "мпанджак-бе" #GetTitleDT
+ KURAKA_DT:0 "кураке" #GetTitleDT
+ APU_DT:0 "апу" #GetTitleDT
+ SAPA_INKA_DT:0 "сапа Инке" #GetTitleDT
+ MARGRAVE_DT:0 "маркграфу" #GetTitleDT
+ VICEROY_DT:0 "вице-королю" #GetTitleDT
+ IMAM_DT:0 "имаму" #GetTitleDT
+ GREAT_IMAM_DT:0 "великому имаму" #GetTitleDT
+ HIGH_IMAM_DT:0 "верховному имаму" #GetTitleDT
+ EMIR_DT:0 "эмиру" #GetTitleDT
+ SULTAN_DT:0 "султану" #GetTitleDT
+ GREAT_SULTAN_DT:0 "великому султану" #GetTitleDT
+ DAI_male_DT:0 "даи" #GetTitleDT
+ PADISHAH_DT:0 "падишаху" #GetTitleDT
+ MALIK_DT:0 "малику" #GetTitleDT
+ SHAH_DT:0 "шаху" #GetTitleDT
+ SHAHANSHAH_DT:0 "шахиншаху" #GetTitleDT
+ SHEIKH_DT:0 "шейху" #GetTitleDT
+ GERAD_DT:0 "гераду" #GetTitleDT
+ BEY_DT:0 "бейю" #GetTitleDT
+ PRINC_DT:0 "князю" #GetTitleDT
+ NAWAB_DT:0 "навабу" #GetTitleDT
+ NIZAM_DT:0 "низаму" #GetTitleDT
+ KHEDIVE_DT:0 "хедиву" #GetTitleDT
+ SAOPHA_DT:0 "саофу" #GetTitleDT
+ KNIAZ_DT:0 "князю" #GetTitleDT
+ GREAT_KNIAZ_DT:0 "великому князю" #GetTitleDT
+ TLATOANI_DT:0 "тлатоани" #GetTitleDT
+ HUEHUETLATOANI_DT:0 "хуэй тлатоани" #GetTitleDT
+ BISHOP_ELECTOR_DT:0 "епископу-курфюрсту" #GetTitleDT
+ ARCHBISHOP_ELECTOR_DT:0 "архиепископу-курфюрсту" #GetTitleDT
+ PATRIARCH_ELECTOR_DT:0 "патриарху-курфюрсту" #GetTitleDT
+ BISHOP_DT:0 "епископу" #GetTitleDT
+ ARCHBISHOP_DT:0 "архиепископу" #GetTitleDT
+ PATRIARCH_DT:0 "патриарху" #GetTitleDT
+ PROTECTOR_DT:0 "протектору" #GetTitleDT
+ LORD_PROTECTOR_DT:0 "лорду-протектору" #GetTitleDT
+ JINONG_DT:0 "джинону" #GetTitleDT
+ KHAN_DT:0 "хану" #GetTitleDT
+ KHAGAN_DT:0 "кагану" #GetTitleDT
+ NUTSAL_DT:0 "нуцалу" #GetTitleDT
+ BEILE_DT:0 "бэиле" #GetTitleDT
+ JUNWANG_DT:0 "цзюньвану" #GetTitleDT
+ HIGH_CHIEF_DT:0 "верховному вождю" #GetTitleDT
+ PARAMOUNT_CHIEF_DT:0 "первому вождю" #GetTitleDT
+ ELDER_DT:0 "старейшине" #GetTitleDT
+ HIGH_ELDER_DT:0 "главному старейшине" #GetTitleDT
+ PARAMOUNT_ELDER_DT:0 "верховному старейшине" #GetTitleDT
+ AYATOLLAH_DT:0 "аятолле" #GetTitleDT
+ KHOJA_DT:0 "ходже" #GetTitleDT
+ GREAT_KHOJA_DT:0 "великому ходже" #GetTitleDT
+ GREAT_EMIR_DT:0 "великому эмиру" #GetTitleDT
+ PASHA_DT:0 "паше" #GetTitleDT
+ OLDERMAND_DT:0 "альдерману" #GetTitleDT
+ STORBONDE_DT:0 "стурбонду" #GetTitleDT
+ LANDSBONDE_DT:0 "ландсбонду" #GetTitleDT
+ JATHEDAR_DT:0 "джатедару" #GetTitleDT
+ MISLDAR_DT:0 "мисальдару" #GetTitleDT
+ GREAT_MISLDAR_DT:0 "великому мисальдару" #GetTitleDT
+ RABBI_DT:0 "раввину" #GetTitleDT
+ GRAND_RABBI_DT:0 "высшему раввину" #GetTitleDT
+ KOHEN_GADOL_DT:0 "коэн-гадолю" #GetTitleDT
+ HERBAD_DT:0 "хирбаду" #GetTitleDT
+ MOBED_DT:0 "мобеду" #GetTitleDT
+ MOABADAN_MOABAD_DT:0 "моабадан моабаду" #GetTitleDT
+ PANDIT_DT:0 "пандите" #GetTitleDT
+ PANDITRAO_DT:0 "пандитрао" #GetTitleDT
+ HIGH_GURU_DT:0 "высшему гуру" #GetTitleDT
+ O_KANNUSHI_DT:0 "о'каннуси" #GetTitleDT
+ LAMA_DT:0 "ламе" #GetTitleDT
+ TULKU_DT:0 "тулку" #GetTitleDT
+ GREAT_TULKU_DT:0 "великому тулку" #GetTitleDT
+ SON_OF_HEAVEN_DT:0 "сыну Неба" #GetTitleDT
+ MICHOQ_DT:0 "мичоку" #GetTitleDT
+ HIGH_PRIEST_DT:0 "верховному жрецу" #GetTitleDT
+ WILLAQ_UMU_DT:0 "вилак уму" #GetTitleDT
+ PRIEST_DT:0 "жрецу" #GetTitleDT
+ PARAMOUNT_PRIEST_DT:0 "первому жрецу" #GetTitleDT
+ TSAR_DT:0 "царю" #GetTitleDT
+ IMAME_DT:0 "имаму" #GetTitleDT
+ HOCHMEISTER_DT:0 "гохмейстеру" #GetTitleDT
+ LANDMEISTER_DT:0 "ландмейстеру" #GetTitleDT
+ GROSSMEISTER_DT:0 "гроссмейстеру" #GetTitleDT
+ GRAND_MASTER_DT:0 "великому магистру" #GetTitleDT
+ DOGE_DT:0 "дожу" #GetTitleDT
+ SERENE_DOGE_DT:0 "светлейшему дожу" #GetTitleDT
+ GREAT_DOGE_DT:0 "великому дожу" #GetTitleDT
+ RECTOR_DT:0 "ректору" #GetTitleDT
+ GRAND_RECTOR_DT:0 "главному ректору" #GetTitleDT
+ GREAT_RECTOR_DT:0 "великому ректору" #GetTitleDT
+ GRAND_KNIAZ_DT:0 "великому князю" #GetTitleDT
+ KEFALIJA_DT:0 "кефалу" #GetTitleDT
+ DUZHD_DT:0 "дужу" #GetTitleDT
+ GONFALONIERE_DT:0 "гонфалоньеру" #GetTitleDT
+ CONSUL_DT:0 "консулу" #GetTitleDT
+ GRAND_CONSUL_DT:0 "главному консулу" #GetTitleDT
+ GREAT_CONSUL_DT:0 "великому консулу" #GetTitleDT
+ CAPTAIN_DEFENDER_DT:0 "капитану-защитнику" #GetTitleDT
+ SYNDIC_DT:0 "синдику" #GetTitleDT
+ GRAND_SYNDIC_DT:0 "великому синдику" #GetTitleDT
+ SADR_DT:0 "садру" #GetTitleDT
+ PRATINIDHI_DT:0 "пратинидхи" #GetTitleDT
+ VIZIER_DT:0 "визирю" #GetTitleDT
+ GRANDVIZIER_DT:0 "великому визирю" #GetTitleDT
+ COUNCILOR_DT:0 "советнику" #GetTitleDT
+ GRAND_COUNCILOR_DT:0 "великому советнику" #GetTitleDT
+ HIGH_COUNCILOR_DT:0 "верховному советнику" #GetTitleDT
+ NACOM_DT:0 "накому" #GetTitleDT
+ HALACH_UINIK_DT:0 "халач-уинику" #GetTitleDT
+ K_UHUL_AJAW_DT:0 "кухуль-ахаве" #GetTitleDT
+ POPE_DT:0 "папе" #GetTitleDT
+ DIRECTOR_DT:0 "директору" #GetTitleDT
+ GOVERNOR_DT:0 "губернатору" #GetTitleDT
+ ATAMAN_DT:0 "атаману" #GetTitleDT
+ HETMAN_DT:0 "гетману" #GetTitleDT
+ GREAT_HETMAN_DT:0 "великому гетману" #GetTitleDT
+ SHARIF_DT:0 "шарифу" #GetTitleDT
+ GRAND_SHARIF_DT:0 "великому шарифу" #GetTitleDT
+ GREAT_SHARIF_DT:0 "верховному шарифу" #GetTitleDT
+ DATU_DT:0 "дату" #GetTitleDT
+ LAKAN_DT:0 "лакану" #GetTitleDT
+ GREAT_LAKAN_DT:0 "великому лакану" #GetTitleDT
+ BURGMEISTER_DT:0 "бургомистру" #GetTitleDT
+ MAYOR_DT:0 "мэру" #GetTitleDT
+ ILKHAN_DT:0 "ильхану" #GetTitleDT
+ SYNTH_RULER_DT:0 "исполнителю" #GetTitleDT
+ ###на вопрос исполнено кем?
+ SPEAKER_TV:0 "спикером" #GetTitleTV
+ CHANCELOR_TV:0 "канцлером" #GetTitleTV
+ PRESIDENT_TV:0 "президентом" #GetTitleTV
+ DUKE_TV:0 "герцогом" #GetTitleTV
+ KING_TV:0 "королём" #GetTitleTV
+ EMPEROR_TV:0 "императором" #GetTitleTV
+ GRAND_PENSIONARY_TV:0 "великим пенсионарием" #GetTitleTV
+ STADTHOLDER_TV:0 "статхаудером" #GetTitleTV
+ GREAT_STADTHOLDER_TV:0 "главным статхаудером" #GetTitleTV
+ PRINCE_ELECTOR_TV:0 "князем-курфюрстом" #GetTitleTV
+ KING_ELECTOR_TV:0 "королём-курфюрстом" #GetTitleTV
+ EARL_TV:0 "эрлом" #GetTitleTV
+ HIGH_KING_TV:0 "верховным королём" #GetTitleTV
+ LORD_TV:0 "лордом" #GetTitleTV
+ SHOGUN_TV:0 "сёгуном" #GetTitleTV
+ ATABEG_TV:0 "атабеком" #GetTitleTV
+ FAAMA_TV:0 "фаамом" #GetTitleTV
+ GREAT_MANSA_TV:0 "великим мансой" #GetTitleTV
+ JAM_TV:0 "джамом" #GetTitleTV
+ GRAND_JAM_TV:0 "большим джамом" #GetTitleTV
+ GREAT_JAM_TV:0 "великим джамом" #GetTitleTV
+ GRAND_DUKE_TV:0 "великим князем" #GetTitleTV
+ ARCHDUKE_TV:0 "эрцгерцогом" #GetTitleTV
+ ARCHKING_TV:0 "эрцкоролём" #GetTitleTV
+ PRINCE_TV:0 "князем" #GetTitleTV
+ BAN_TITLE_TV:0 "баном" #GetTitleTV
+ KRALJ_TV:0 "кралём" #GetTitleTV
+ CAR_TV:0 "царём" #GetTitleTV
+ VOJVODA_TV:0 "воеводой" #GetTitleTV
+ DESPOT_TV:0 "деспотом" #GetTitleTV
+ AUTOKRATOR_TV:0 "автократором" #GetTitleTV
+ BASILEUS_TV:0 "базилевсом" #GetTitleTV
+ MBRET_TV:0 "мбретом" #GetTitleTV
+ NOMARCH_TV:0 "номархом" #GetTitleTV
+ PHARAOH_TV:0 "фараоном" #GetTitleTV
+ GREAT_PHARAOH_TV:0 "великим фараоном" #GetTitleTV
+ TYRANT_TV:0 "тираном" #GetTitleTV
+ HEGEMON_TV:0 "гегемоном" #GetTitleTV
+ CHIEF_TV:0 "вождём" #GetTitleTV
+ REX_TV:0 "рексом" #GetTitleTV
+ IMPERATOR_TV:0 "императором" #GetTitleTV
+ VOIVODE_TV:0 "воеводой" #GetTitleTV
+ RAJA_TV:0 "раджой" #GetTitleTV
+ MAHARAJA_TV:0 "махараджой" #GetTitleTV
+ CHHATRAPATI_TV:0 "чхатрапати" #GetTitleTV
+ RANA_TV:0 "раной" #GetTitleTV
+ MAHARANA_TV:0 "махараной" #GetTitleTV
+ PESHWA_TV:0 "пешвой" #GetTitleTV
+ TATKISHO_TV:0 "таткишо" #GetTitleTV
+ TATO_TV:0 "тато" #GetTitleTV
+ ATIO_TV:0 "атио" #GetTitleTV
+ RAS_title_TV:0 "расой" #GetTitleTV
+ NEGUS_TV:0 "негусой" #GetTitleTV
+ NEGUSA_NEGAST_TV:0 "негуса нагастой" #GetTitleTV
+ MUGABE_TV:0 "мугабе" #GetTitleTV
+ GREAT_MUGABE_TV:0 "великим мугабе" #GetTitleTV
+ OMUKAMA_TV:0 "омукаме" #GetTitleTV
+ GREAT_OMUKAMA_TV:0 "великим омукаме" #GetTitleTV
+ BALOPWE_TV:0 "балопве" #GetTitleTV
+ MULOPWE_TV:0 "мулопве" #GetTitleTV
+ GREAT_MULOPWE_TV:0 "великим мулопве" #GetTitleTV
+ MWENEMUTAPA_TV:0 "мвенемутапом" #GetTitleTV
+ GREAT_MWENEMUTAPA_TV:0 "великим мвенемутапом" #GetTitleTV
+ MAMBO_TV:0 "мамбо" #GetTitleTV
+ GRAND_MAMBO_TV:0 "великим мамбо" #GetTitleTV
+ GREAT_MAMBO_TV:0 "верховным мамбо" #GetTitleTV
+ BAKUNGU_TV:0 "бакунгом" #GetTitleTV
+ MWAMI_TV:0 "мвани" #GetTitleTV
+ KABAKA_TV:0 "кабаком" #GetTitleTV
+ GREAT_KABAKA_TV:0 "великим кабаком" #GetTitleTV
+ ANDRIANONI_TV:0 "андрианони" #GetTitleTV
+ GRAND_ANDRIANONI_TV:0 "великим андрианони" #GetTitleTV
+ GREAT_ANDRIANONI_TV:0 "верховным андрианони" #GetTitleTV
+ FILOHANY_TV:0 "филоханом" #GetTitleTV
+ MPANJAKE_BE_TV:0 "мпанджак-бе" #GetTitleTV
+ KURAKA_TV:0 "кураком" #GetTitleTV
+ APU_TV:0 "апу" #GetTitleTV
+ SAPA_INKA_TV:0 "сапа Инкой" #GetTitleTV
+ MARGRAVE_TV:0 "маркграфом" #GetTitleTV
+ VICEROY_TV:0 "вице-королём" #GetTitleTV
+ IMAM_TV:0 "имамом" #GetTitleTV
+ GREAT_IMAM_TV:0 "великим имамом" #GetTitleTV
+ HIGH_IMAM_TV:0 "верховным имамом" #GetTitleTV
+ EMIR_TV:0 "эмиром" #GetTitleTV
+ SULTAN_TV:0 "султаном" #GetTitleTV
+ GREAT_SULTAN_TV:0 "великим султаном" #GetTitleTV
+ DAI_male_TV:0 "даи" #GetTitleTV
+ PADISHAH_TV:0 "падишахом" #GetTitleTV
+ MALIK_TV:0 "маликом" #GetTitleTV
+ SHAH_TV:0 "шахом" #GetTitleTV
+ SHAHANSHAH_TV:0 "шахиншахом" #GetTitleTV
+ SHEIKH_TV:0 "шейхом" #GetTitleTV
+ GERAD_TV:0 "герадом" #GetTitleTV
+ BEY_TV:0 "бейем" #GetTitleTV
+ PRINC_TV:0 "князем" #GetTitleTV
+ NAWAB_TV:0 "навабом" #GetTitleTV
+ NIZAM_TV:0 "низамом" #GetTitleTV
+ KHEDIVE_TV:0 "хедивом" #GetTitleTV
+ SAOPHA_TV:0 "саофом" #GetTitleTV
+ KNIAZ_TV:0 "князем" #GetTitleTV
+ GREAT_KNIAZ_TV:0 "великим князем" #GetTitleTV
+ TLATOANI_TV:0 "тлатоани" #GetTitleTV
+ HUEHUETLATOANI_TV:0 "хуэй тлатоани" #GetTitleTV
+ BISHOP_ELECTOR_TV:0 "епископом-курфюрстом" #GetTitleTV
+ ARCHBISHOP_ELECTOR_TV:0 "архиепископом-курфюрстом" #GetTitleTV
+ PATRIARCH_ELECTOR_TV:0 "патриархом-курфюрстом" #GetTitleTV
+ BISHOP_TV:0 "епископом" #GetTitleTV
+ ARCHBISHOP_TV:0 "архиепископом" #GetTitleTV
+ PATRIARCH_TV:0 "патриархом" #GetTitleTV
+ PROTECTOR_TV:0 "протектором" #GetTitleTV
+ LORD_PROTECTOR_TV:0 "лордом-протектором" #GetTitleTV
+ JINONG_TV:0 "джиноном" #GetTitleTV
+ KHAN_TV:0 "ханом" #GetTitleTV
+ KHAGAN_TV:0 "каганом" #GetTitleTV
+ NUTSAL_TV:0 "нуцалом" #GetTitleTV
+ BEILE_TV:0 "бэиле" #GetTitleTV
+ JUNWANG_TV:0 "цзюньванем" #GetTitleTV
+ HIGH_CHIEF_TV:0 "верховным вождём" #GetTitleTV
+ PARAMOUNT_CHIEF_TV:0 "первым вождём" #GetTitleTV
+ ELDER_TV:0 "старейшиной" #GetTitleTV
+ HIGH_ELDER_TV:0 "главным старейшиной" #GetTitleTV
+ PARAMOUNT_ELDER_TV:0 "верховным старейшиной" #GetTitleTV
+ AYATOLLAH_TV:0 "аятоллой" #GetTitleTV
+ KHOJA_TV:0 "ходжей" #GetTitleTV
+ GREAT_KHOJA_TV:0 "великим ходжей" #GetTitleTV
+ GREAT_EMIR_TV:0 "великим эмиром" #GetTitleTV
+ PASHA_TV:0 "пашой" #GetTitleTV
+ OLDERMAND_TV:0 "альдерманом" #GetTitleTV
+ STORBONDE_TV:0 "стурбондом" #GetTitleTV
+ LANDSBONDE_TV:0 "ландсбондом" #GetTitleTV
+ JATHEDAR_TV:0 "джатедаром" #GetTitleTV
+ MISLDAR_TV:0 "мисальдаром" #GetTitleTV
+ GREAT_MISLDAR_TV:0 "великим мисальдаром" #GetTitleTV
+ RABBI_TV:0 "раввином" #GetTitleTV
+ GRAND_RABBI_TV:0 "высшим раввином" #GetTitleTV
+ KOHEN_GADOL_TV:0 "коэн-гадолем" #GetTitleTV
+ HERBAD_TV:0 "хирбадой" #GetTitleTV
+ MOBED_TV:0 "мобедой" #GetTitleTV
+ MOABADAN_MOABAD_TV:0 "моабадан моабадой" #GetTitleTV
+ PANDIT_TV:0 "пандитом" #GetTitleTV
+ PANDITRAO_TV:0 "пандитрао" #GetTitleTV
+ HIGH_GURU_TV:0 "высшим гуру" #GetTitleTV
+ O_KANNUSHI_TV:0 "о'каннуси" #GetTitleTV
+ LAMA_TV:0 "ламой" #GetTitleTV
+ TULKU_TV:0 "тулку" #GetTitleTV
+ GREAT_TULKU_TV:0 "великим тулку" #GetTitleTV
+ SON_OF_HEAVEN_TV:0 "сыном Неба" #GetTitleTV
+ MICHOQ_TV:0 "мичоком" #GetTitleTV
+ HIGH_PRIEST_TV:0 "верховным жрецом" #GetTitleTV
+ WILLAQ_UMU_TV:0 "вилак уму" #GetTitleTV
+ PRIEST_TV:0 "жрецом" #GetTitleTV
+ PARAMOUNT_PRIEST_TV:0 "первым жрецом" #GetTitleTV
+ TSAR_TV:0 "царём" #GetTitleTV
+ IMAME_TV:0 "имамом" #GetTitleTV
+ HOCHMEISTER_TV:0 "гохмейстером" #GetTitleTV
+ LANDMEISTER_TV:0 "ландмейстером" #GetTitleTV
+ GROSSMEISTER_TV:0 "гроссмейстером" #GetTitleTV
+ GRAND_MASTER_TV:0 "великим магистром" #GetTitleTV
+ DOGE_TV:0 "дожем" #GetTitleTV
+ SERENE_DOGE_TV:0 "светлейшим дожем" #GetTitleTV
+ GREAT_DOGE_TV:0 "великим дожем" #GetTitleTV
+ RECTOR_TV:0 "ректором" #GetTitleTV
+ GRAND_RECTOR_TV:0 "главным ректором" #GetTitleTV
+ GREAT_RECTOR_TV:0 "великим ректором" #GetTitleTV
+ GRAND_KNIAZ_TV:0 "великим князем" #GetTitleTV
+ KEFALIJA_TV:0 "кефалом" #GetTitleTV
+ DUZHD_TV:0 "дужем" #GetTitleTV
+ GONFALONIERE_TV:0 "гонфалоньером" #GetTitleTV
+ CONSUL_TV:0 "консулом" #GetTitleTV
+ GRAND_CONSUL_TV:0 "главным консулом" #GetTitleTV
+ GREAT_CONSUL_TV:0 "великим консулом" #GetTitleTV
+ CAPTAIN_DEFENDER_TV:0 "капитаном-защитником" #GetTitleTV
+ SYNDIC_TV:0 "синдиком" #GetTitleTV
+ GRAND_SYNDIC_TV:0 "великим синдиком" #GetTitleTV
+ SADR_TV:0 "садрой" #GetTitleTV
+ PRATINIDHI_TV:0 "пратинидхи" #GetTitleTV
+ VIZIER_TV:0 "визирем" #GetTitleTV
+ GRANDVIZIER_TV:0 "великим визирем" #GetTitleTV
+ COUNCILOR_TV:0 "советником" #GetTitleTV
+ GRAND_COUNCILOR_TV:0 "великим советником" #GetTitleTV
+ HIGH_COUNCILOR_TV:0 "верховным советником" #GetTitleTV
+ NACOM_TV:0 "накомом" #GetTitleTV
+ HALACH_UINIK_TV:0 "халач-уиником" #GetTitleTV
+ K_UHUL_AJAW_TV:0 "кухуль-ахавом" #GetTitleTV
+ POPE_TV:0 "папой" #GetTitleTV
+ DIRECTOR_TV:0 "директором" #GetTitleTV
+ GOVERNOR_TV:0 "губернатором" #GetTitleTV
+ ATAMAN_TV:0 "атаманом" #GetTitleTV
+ HETMAN_TV:0 "гетманом" #GetTitleTV
+ GREAT_HETMAN_TV:0 "великим гетманом" #GetTitleTV
+ SHARIF_TV:0 "шарифом" #GetTitleTV
+ GRAND_SHARIF_TV:0 "великим шарифом" #GetTitleTV
+ GREAT_SHARIF_TV:0 "верховным шарифом" #GetTitleTV
+ DATU_TV:0 "дату" #GetTitleTV
+ LAKAN_TV:0 "лаканом" #GetTitleTV
+ GREAT_LAKAN_TV:0 "великым лаканом" #GetTitleTV
+ BURGMEISTER_TV:0 "бургомистрем" #GetTitleTV
+ MAYOR_TV:0 "мэром" #GetTitleTV
+ ILKHAN_TV:0 "ильханом" #GetTitleTV
+ SYNTH_RULER_TV:0 "исполнителем" #GetTitleTV
+ ###на вопрос это кто?
+ SPEAKER_IM:0 "спикер" #GetTitleIM
+ CHANCELOR_IM:0 "канцлер" #GetTitleIM
+ PRESIDENT_IM:0 "президент" #GetTitleIM
+ DUKE_IM:0 "герцог" #GetTitleIM
+ KING_IM:0 "король" #GetTitleIM
+ EMPEROR_IM:0 "император" #GetTitleIM
+ GRAND_PENSIONARY_IM:0 "великий пенсионарий" #GetTitleIM
+ STADTHOLDER_IM:0 "статхаудер" #GetTitleIM
+ GREAT_STADTHOLDER_IM:0 "главный статхаудер" #GetTitleIM
+ PRINCE_ELECTOR_IM:0 "князь-курфюрст" #GetTitleIM
+ KING_ELECTOR_IM:0 "король-курфюрст" #GetTitleIM
+ EARL_IM:0 "эрл" #GetTitleIM
+ HIGH_KING_IM:0 "верховный король" #GetTitleIM
+ LORD_IM:0 "лорд" #GetTitleIM
+ SHOGUN_IM:0 "сёгун" #GetTitleIM
+ ATABEG_IM:0 "атабек" #GetTitleIM
+ FAAMA_IM:0 "фаам" #GetTitleIM
+ GREAT_MANSA_IM:0 "великий манса" #GetTitleIM
+ JAM_IM:0 "джам" #GetTitleIM
+ GRAND_JAM_IM:0 "больший джам" #GetTitleIM
+ GREAT_JAM_IM:0 "великий джам" #GetTitleIM
+ GRAND_DUKE_IM:0 "великий князь" #GetTitleIM
+ ARCHDUKE_IM:0 "эрцгерцог" #GetTitleIM
+ ARCHKING_IM:0 "эрцкороль" #GetTitleIM
+ PRINCE_IM:0 "князь" #GetTitleIM
+ BAN_TITLE_IM:0 "бан" #GetTitleIM
+ KRALJ_IM:0 "краль" #GetTitleIM
+ CAR_IM:0 "царь" #GetTitleIM
+ VOJVODA_IM:0 "воевода" #GetTitleIM
+ DESPOT_IM:0 "деспот" #GetTitleIM
+ AUTOKRATOR_IM:0 "автократор" #GetTitleIM
+ BASILEUS_IM:0 "базилевс" #GetTitleIM
+ MBRET_IM:0 "мбрет" #GetTitleIM
+ NOMARCH_IM:0 "номарх" #GetTitleIM
+ PHARAOH_IM:0 "фараон" #GetTitleIM
+ GREAT_PHARAOH_IM:0 "великий фараон" #GetTitleIM
+ TYRANT_IM:0 "тиран" #GetTitleIM
+ HEGEMON_IM:0 "гегемон" #GetTitleIM
+ CHIEF_IM:0 "вождь" #GetTitleIM
+ REX_IM:0 "рекс" #GetTitleIM
+ IMPERATOR_IM:0 "император" #GetTitleIM
+ VOIVODE_IM:0 "воевода" #GetTitleIM
+ RAJA_IM:0 "раджа" #GetTitleIM
+ MAHARAJA_IM:0 "махараджа" #GetTitleIM
+ CHHATRAPATI_IM:0 "чхатрапати" #GetTitleIM
+ RANA_IM:0 "рана" #GetTitleIM
+ MAHARANA_IM:0 "махарана" #GetTitleIM
+ PESHWA_IM:0 "пешва" #GetTitleIM
+ TATKISHO_IM:0 "таткишо" #GetTitleIM
+ TATO_IM:0 "тато" #GetTitleIM
+ ATIO_IM:0 "атио" #GetTitleIM
+ RAS_title_IM:0 "раса" #GetTitleIM
+ NEGUS_IM:0 "негуса" #GetTitleIM
+ NEGUSA_NEGAST_IM:0 "негуса нагаста" #GetTitleIM
+ MUGABE_IM:0 "мугабе" #GetTitleIM
+ GREAT_MUGABE_IM:0 "великий мугабе" #GetTitleIM
+ OMUKAMA_IM:0 "омукаме" #GetTitleIM
+ GREAT_OMUKAMA_IM:0 "великий омукаме" #GetTitleIM
+ BALOPWE_IM:0 "балопве" #GetTitleIM
+ MULOPWE_IM:0 "мулопве" #GetTitleIM
+ GREAT_MULOPWE_IM:0 "великий мулопве" #GetTitleIM
+ MWENEMUTAPA_IM:0 "мвенемутапа" #GetTitleIM
+ GREAT_MWENEMUTAPA_IM:0 "великий мвенемутапа" #GetTitleIM
+ MAMBO_IM:0 "мамбо" #GetTitleIM
+ GRAND_MAMBO_IM:0 "великий мамбо" #GetTitleIM
+ GREAT_MAMBO_IM:0 "верховный мамбо" #GetTitleIM
+ BAKUNGU_IM:0 "бакунгу" #GetTitleIM
+ MWAMI_IM:0 "мвани" #GetTitleIM
+ KABAKA_IM:0 "кабака" #GetTitleIM
+ GREAT_KABAKA_IM:0 "великий кабака" #GetTitleIM
+ ANDRIANONI_IM:0 "андрианони" #GetTitleIM
+ GRAND_ANDRIANONI_IM:0 "великий андрианони" #GetTitleIM
+ GREAT_ANDRIANONI_IM:0 "верховный андрианони" #GetTitleIM
+ FILOHANY_IM:0 "филохан" #GetTitleIM
+ MPANJAKE_BE_IM:0 "мпанджак-бе" #GetTitleIM
+ KURAKA_IM:0 "курака" #GetTitleIM
+ APU_IM:0 "апу" #GetTitleIM
+ SAPA_INKA_IM:0 "сапа Инка" #GetTitleIM
+ MARGRAVE_IM:0 "маркграф" #GetTitleIM
+ VICEROY_IM:0 "вице-король" #GetTitleIM
+ IMAM_IM:0 "имам" #GetTitleIM
+ GREAT_IMAM_IM:0 "великий имам" #GetTitleIM
+ HIGH_IMAM_IM:0 "верховный имам" #GetTitleIM
+ EMIR_IM:0 "эмир" #GetTitleIM
+ SULTAN_IM:0 "султан" #GetTitleIM
+ GREAT_SULTAN_IM:0 "великий султан" #GetTitleIM
+ DAI_male_IM:0 "даи" #GetTitleIM
+ PADISHAH_IM:0 "падишах" #GetTitleIM
+ MALIK_IM:0 "малик" #GetTitleIM
+ SHAH_IM:0 "шах" #GetTitleIM
+ SHAHANSHAH_IM:0 "шахиншах" #GetTitleIM
+ SHEIKH_IM:0 "шейх" #GetTitleIM
+ GERAD_IM:0 "герад" #GetTitleIM
+ BEY_IM:0 "бей" #GetTitleIM
+ PRINC_IM:0 "князь" #GetTitleIM
+ NAWAB_IM:0 "наваб" #GetTitleIM
+ NIZAM_IM:0 "низам" #GetTitleIM
+ KHEDIVE_IM:0 "хедив" #GetTitleIM
+ SAOPHA_IM:0 "саофа" #GetTitleIM
+ KNIAZ_IM:0 "князь" #GetTitleIM
+ GREAT_KNIAZ_IM:0 "великий князь" #GetTitleIM
+ TLATOANI_IM:0 "тлатоани" #GetTitleIM
+ HUEHUETLATOANI_IM:0 "хуэй тлатоани" #GetTitleIM
+ BISHOP_ELECTOR_IM:0 "епископ-курфюрст" #GetTitleIM
+ ARCHBISHOP_ELECTOR_IM:0 "архиепископ-курфюрст" #GetTitleIM
+ PATRIARCH_ELECTOR_IM:0 "патриарх-курфюрст" #GetTitleIM
+ BISHOP_IM:0 "епископ" #GetTitleIM
+ ARCHBISHOP_IM:0 "архиепископ" #GetTitleIM
+ PATRIARCH_IM:0 "патриарх" #GetTitleIM
+ PROTECTOR_IM:0 "протектор" #GetTitleIM
+ LORD_PROTECTOR_IM:0 "лорд-протектор" #GetTitleIM
+ JINONG_IM:0 "джинон" #GetTitleIM
+ KHAN_IM:0 "хан" #GetTitleIM
+ KHAGAN_IM:0 "каган" #GetTitleIM
+ NUTSAL_IM:0 "нуцал" #GetTitleIM
+ BEILE_IM:0 "бэиле" #GetTitleIM
+ JUNWANG_IM:0 "цзюньван" #GetTitleIM
+ HIGH_CHIEF_IM:0 "верховный вождь" #GetTitleIM
+ PARAMOUNT_CHIEF_IM:0 "первый вождь" #GetTitleIM
+ ELDER_IM:0 "старейшина" #GetTitleIM
+ HIGH_ELDER_IM:0 "главный старейшина" #GetTitleIM
+ PARAMOUNT_ELDER_IM:0 "верховный старейшина" #GetTitleIM
+ AYATOLLAH_IM:0 "аятолла" #GetTitleIM
+ KHOJA_IM:0 "ходжа" #GetTitleIM
+ GREAT_KHOJA_IM:0 "великий ходжа" #GetTitleIM
+ GREAT_EMIR_IM:0 "великий эмир" #GetTitleIM
+ PASHA_IM:0 "паша" #GetTitleIM
+ OLDERMAND_IM:0 "альдерман" #GetTitleIM
+ STORBONDE_IM:0 "стурбонд" #GetTitleIM
+ LANDSBONDE_IM:0 "ландсбонд" #GetTitleIM
+ JATHEDAR_IM:0 "джатедар" #GetTitleIM
+ MISLDAR_IM:0 "мисальдар" #GetTitleIM
+ GREAT_MISLDAR_IM:0 "великий мисальдар" #GetTitleIM
+ RABBI_IM:0 "раввин" #GetTitleIM
+ GRAND_RABBI_IM:0 "высший раввин" #GetTitleIM
+ KOHEN_GADOL_IM:0 "коэн-гадоль" #GetTitleIM
+ HERBAD_IM:0 "хирбад" #GetTitleIM
+ MOBED_IM:0 "мобед" #GetTitleIM
+ MOABADAN_MOABAD_IM:0 "моабадан моабад" #GetTitleIM
+ PANDIT_IM:0 "пандит" #GetTitleIM
+ PANDITRAO_IM:0 "пандитрао" #GetTitleIM
+ HIGH_GURU_IM:0 "высший гуру" #GetTitleIM
+ O_KANNUSHI_IM:0 "о'каннуси" #GetTitleIM
+ LAMA_IM:0 "лама" #GetTitleIM
+ TULKU_IM:0 "тулку" #GetTitleIM
+ GREAT_TULKU_IM:0 "великий тулку" #GetTitleIM
+ SON_OF_HEAVEN_IM:0 "сын Неба" #GetTitleIM
+ MICHOQ_IM:0 "мичок" #GetTitleIM
+ HIGH_PRIEST_IM:0 "верховный жрец" #GetTitleIM
+ WILLAQ_UMU_IM:0 "вилак уму" #GetTitleIM
+ PRIEST_IM:0 "жрец" #GetTitleIM
+ PARAMOUNT_PRIEST_IM:0 "первый жрец" #GetTitleIM
+ TSAR_IM:0 "царь" #GetTitleIM
+ IMAME_IM:0 "имам" #GetTitleIM
+ HOCHMEISTER_IM:0 "гохмейстер" #GetTitleIM
+ LANDMEISTER_IM:0 "ландмейстер" #GetTitleIM
+ GROSSMEISTER_IM:0 "гроссмейстер" #GetTitleIM
+ GRAND_MASTER_IM:0 "великий магистр" #GetTitleIM
+ DOGE_IM:0 "дож" #GetTitleIM
+ SERENE_DOGE_IM:0 "светлейший дож" #GetTitleIM
+ GREAT_DOGE_IM:0 "великий дож" #GetTitleIM
+ RECTOR_IM:0 "ректор" #GetTitleIM
+ GRAND_RECTOR_IM:0 "главный ректор" #GetTitleIM
+ GREAT_RECTOR_IM:0 "великий ректор" #GetTitleIM
+ GRAND_KNIAZ_IM:0 "великий князь" #GetTitleIM
+ KEFALIJA_IM:0 "кефал" #GetTitleIM
+ DUZHD_IM:0 "дуж" #GetTitleIM
+ GONFALONIERE_IM:0 "гонфалоньер" #GetTitleIM
+ CONSUL_IM:0 "консул" #GetTitleIM
+ GRAND_CONSUL_IM:0 "главный консул" #GetTitleIM
+ GREAT_CONSUL_IM:0 "великий консул" #GetTitleIM
+ CAPTAIN_DEFENDER_IM:0 "капитан-защитник" #GetTitleIM
+ SYNDIC_IM:0 "синдик" #GetTitleIM
+ GRAND_SYNDIC_IM:0 "великий синдик" #GetTitleIM
+ SADR_IM:0 "садра" #GetTitleIM
+ PRATINIDHI_IM:0 "пратинидхи" #GetTitleIM
+ VIZIER_IM:0 "визирь" #GetTitleIM
+ GRANDVIZIER_IM:0 "великий визирь" #GetTitleIM
+ COUNCILOR_IM:0 "советник" #GetTitleIM
+ GRAND_COUNCILOR_IM:0 "великий советник" #GetTitleIM
+ HIGH_COUNCILOR_IM:0 "верховный советник" #GetTitleIM
+ NACOM_IM:0 "наком" #GetTitleIM
+ HALACH_UINIK_IM:0 "халач-уиник" #GetTitleIM
+ K_UHUL_AJAW_IM:0 "кухуль-ахав" #GetTitleIM
+ POPE_IM:0 "папа" #GetTitleIM
+ DIRECTOR_IM:0 "директор" #GetTitleIM
+ GOVERNOR_IM:0 "губернатор" #GetTitleIM
+ ATAMAN_IM:0 "атаман" #GetTitleIM
+ HETMAN_IM:0 "гетман" #GetTitleIM
+ GREAT_HETMAN_IM:0 "великий гетман" #GetTitleIM
+ SHARIF_IM:0 "шариф" #GetTitleIM
+ GRAND_SHARIF_IM:0 "великий шариф" #GetTitleIM
+ GREAT_SHARIF_IM:0 "верховный шариф" #GetTitleIM
+ DATU_IM:0 "дату" #GetTitleIM
+ LAKAN_IM:0 "лакан" #GetTitleIM
+ GREAT_LAKAN_IM:0 "великий лакан" #GetTitleIM
+ BURGMEISTER_IM:0 "бургомистр" #GetTitleIM
+ MAYOR_IM:0 "мэр" #GetTitleIM
+ ILKHAN_IM:0 "ильхан" #GetTitleIM
+ SYNTH_RULER_IM:0 "исполнитель" #GetTitleIM
+ ###на вопрос о ком?
+ SPEAKER_PR:0 "спикере" #GetTitlePR
+ CHANCELOR_PR:0 "канцлере" #GetTitlePR
+ PRESIDENT_PR:0 "президенте" #GetTitlePR
+ DUKE_PR:0 "герцоге" #GetTitlePR
+ KING_PR:0 "короле" #GetTitlePR
+ EMPEROR_PR:0 "императоре" #GetTitlePR
+ GRAND_PENSIONARY_PR:0 "великом пенсионарие" #GetTitlePR
+ STADTHOLDER_PR:0 "статхаудере" #GetTitlePR
+ GREAT_STADTHOLDER_PR:0 "главном статхаудере" #GetTitlePR
+ PRINCE_ELECTOR_PR:0 "князе-курфюрсте" #GetTitlePR
+ KING_ELECTOR_PR:0 "короле-курфюрсте" #GetTitlePR
+ EARL_PR:0 "эрле" #GetTitlePR
+ HIGH_KING_PR:0 "верховном короле" #GetTitlePR
+ LORD_PR:0 "лорде" #GetTitlePR
+ SHOGUN_PR:0 "сёгуне" #GetTitlePR
+ ATABEG_PR:0 "атабеке" #GetTitlePR
+ FAAMA_PR:0 "фааме" #GetTitlePR
+ GREAT_MANSA_PR:0 "великом мансе" #GetTitlePR
+ JAM_PR:0 "джаме" #GetTitlePR
+ GRAND_JAM_PR:0 "большом джаме" #GetTitlePR
+ GREAT_JAM_PR:0 "великом джаме" #GetTitlePR
+ GRAND_DUKE_PR:0 "великом князе" #GetTitlePR
+ ARCHDUKE_PR:0 "эрцгерцоге" #GetTitlePR
+ ARCHKING_PR:0 "эрцкороле" #GetTitlePR
+ PRINCE_PR:0 "князе" #GetTitlePR
+ BAN_TITLE_PR:0 "бане" #GetTitlePR
+ KRALJ_PR:0 "крале" #GetTitlePR
+ CAR_PR:0 "царе" #GetTitlePR
+ VOJVODA_PR:0 "воеводе" #GetTitlePR
+ DESPOT_PR:0 "деспоте" #GetTitlePR
+ AUTOKRATOR_PR:0 "автократоре" #GetTitlePR
+ BASILEUS_PR:0 "базилевсе" #GetTitlePR
+ MBRET_PR:0 "мбрете" #GetTitlePR
+ NOMARCH_PR:0 "номархе" #GetTitlePR
+ PHARAOH_PR:0 "фараоне" #GetTitlePR
+ GREAT_PHARAOH_PR:0 "великом фараоне" #GetTitlePR
+ TYRANT_PR:0 "тиране" #GetTitlePR
+ HEGEMON_PR:0 "гегемоне" #GetTitlePR
+ CHIEF_PR:0 "вожде" #GetTitlePR
+ REX_PR:0 "рексе" #GetTitlePR
+ IMPERATOR_PR:0 "императоре" #GetTitlePR
+ VOIVODE_PR:0 "воеводе" #GetTitlePR
+ RAJA_PR:0 "радже" #GetTitlePR
+ MAHARAJA_PR:0 "махарадже" #GetTitlePR
+ CHHATRAPATI_PR:0 "чхатрапати" #GetTitlePR
+ RANA_PR:0 "ране" #GetTitlePR
+ MAHARANA_PR:0 "махаране" #GetTitlePR
+ PESHWA_PR:0 "пешве" #GetTitlePR
+ TATKISHO_PR:0 "таткишо" #GetTitlePR
+ TATO_PR:0 "тато" #GetTitlePR
+ ATIO_PR:0 "атио" #GetTitlePR
+ RAS_title_PR:0 "расе" #GetTitlePR
+ NEGUS_PR:0 "негусе" #GetTitlePR
+ NEGUSA_NEGAST_PR:0 "негуса нагасте" #GetTitlePR
+ MUGABE_PR:0 "мугабе" #GetTitlePR
+ GREAT_MUGABE_PR:0 "великом мугабе" #GetTitlePR
+ OMUKAMA_PR:0 "омукаме" #GetTitlePR
+ GREAT_OMUKAMA_PR:0 "великом омукаме" #GetTitlePR
+ BALOPWE_PR:0 "балопве" #GetTitlePR
+ MULOPWE_PR:0 "мулопве" #GetTitlePR
+ GREAT_MULOPWE_PR:0 "великом мулопве" #GetTitlePR
+ MWENEMUTAPA_PR:0 "мвенемутапе" #GetTitlePR
+ GREAT_MWENEMUTAPA_PR:0 "великом мвенемутапе" #GetTitlePR
+ MAMBO_PR:0 "мамбо" #GetTitlePR
+ GRAND_MAMBO_PR:0 "великом мамбо" #GetTitlePR
+ GREAT_MAMBO_PR:0 "верховном мамбо" #GetTitlePR
+ BAKUNGU_PR:0 "бакунге" #GetTitlePR
+ MWAMI_PR:0 "мвани" #GetTitlePR
+ KABAKA_PR:0 "кабаке" #GetTitlePR
+ GREAT_KABAKA_PR:0 "великом кабаке" #GetTitlePR
+ ANDRIANONI_PR:0 "андрианони" #GetTitlePR
+ GRAND_ANDRIANONI_PR:0 "великом андрианони" #GetTitlePR
+ GREAT_ANDRIANONI_PR:0 "верховном андрианони" #GetTitlePR
+ FILOHANY_PR:0 "филохане" #GetTitlePR
+ MPANJAKE_BE_PR:0 "мпанджак-бе" #GetTitlePR
+ KURAKA_PR:0 "кураке" #GetTitlePR
+ APU_PR:0 "апу" #GetTitlePR
+ SAPA_INKA_PR:0 "сапа Инке" #GetTitlePR
+ MARGRAVE_PR:0 "маркграфе" #GetTitlePR
+ VICEROY_PR:0 "вице-короле" #GetTitlePR
+ IMAM_PR:0 "имаме" #GetTitlePR
+ GREAT_IMAM_PR:0 "великом имаме" #GetTitlePR
+ HIGH_IMAM_PR:0 "верховном имаме" #GetTitlePR
+ EMIR_PR:0 "эмире" #GetTitlePR
+ SULTAN_PR:0 "султане" #GetTitlePR
+ GREAT_SULTAN_PR:0 "великом султане" #GetTitlePR
+ DAI_male_PR:0 "даи" #GetTitlePR
+ PADISHAH_PR:0 "падишахе" #GetTitlePR
+ MALIK_PR:0 "малике" #GetTitlePR
+ SHAH_PR:0 "шахе" #GetTitlePR
+ SHAHANSHAH_PR:0 "шахиншахе" #GetTitlePR
+ SHEIKH_PR:0 "шейхе" #GetTitlePR
+ GERAD_PR:0 "гераде" #GetTitlePR
+ BEY_PR:0 "бейе" #GetTitlePR
+ PRINC_PR:0 "князе" #GetTitlePR
+ NAWAB_PR:0 "навабе" #GetTitlePR
+ NIZAM_PR:0 "низаме" #GetTitlePR
+ KHEDIVE_PR:0 "хедиве" #GetTitlePR
+ SAOPHA_PR:0 "саофе" #GetTitlePR
+ KNIAZ_PR:0 "князе" #GetTitlePR
+ GREAT_KNIAZ_PR:0 "великом князе" #GetTitlePR
+ TLATOANI_PR:0 "тлатоани" #GetTitlePR
+ HUEHUETLATOANI_PR:0 "хуэй тлатоани" #GetTitlePR
+ BISHOP_ELECTOR_PR:0 "епископе-курфюрсте" #GetTitlePR
+ ARCHBISHOP_ELECTOR_PR:0 "архиепископе-курфюрсте" #GetTitlePR
+ PATRIARCH_ELECTOR_PR:0 "патриархе-курфюрсте" #GetTitlePR
+ BISHOP_PR:0 "епископе" #GetTitlePR
+ ARCHBISHOP_PR:0 "архиепископе" #GetTitlePR
+ PATRIARCH_PR:0 "патриархе" #GetTitlePR
+ PROTECTOR_PR:0 "протекторе" #GetTitlePR
+ LORD_PROTECTOR_PR:0 "лорде-протекторе" #GetTitlePR
+ JINONG_PR:0 "джиноне" #GetTitlePR
+ KHAN_PR:0 "хане" #GetTitlePR
+ KHAGAN_PR:0 "кагане" #GetTitlePR
+ NUTSAL_PR:0 "нуцале" #GetTitlePR
+ BEILE_PR:0 "бэиле" #GetTitlePR
+ JUNWANG_PR:0 "цзюньване" #GetTitlePR
+ HIGH_CHIEF_PR:0 "верховном вожде" #GetTitlePR
+ PARAMOUNT_CHIEF_PR:0 "первом вожде" #GetTitlePR
+ ELDER_PR:0 "старейшине" #GetTitlePR
+ HIGH_ELDER_PR:0 "главном старейшине" #GetTitlePR
+ PARAMOUNT_ELDER_PR:0 "верховном старейшине" #GetTitlePR
+ AYATOLLAH_PR:0 "аятолле" #GetTitlePR
+ KHOJA_PR:0 "ходже" #GetTitlePR
+ GREAT_KHOJA_PR:0 "великом ходже" #GetTitlePR
+ GREAT_EMIR_PR:0 "великом эмире" #GetTitlePR
+ PASHA_PR:0 "паше" #GetTitlePR
+ OLDERMAND_PR:0 "альдермане" #GetTitlePR
+ STORBONDE_PR:0 "стурбонде" #GetTitlePR
+ LANDSBONDE_PR:0 "ландсбонде" #GetTitlePR
+ JATHEDAR_PR:0 "джатедаре" #GetTitlePR
+ MISLDAR_PR:0 "мисальдаре" #GetTitlePR
+ GREAT_MISLDAR_PR:0 "великом мисальдаре" #GetTitlePR
+ RABBI_PR:0 "раввине" #GetTitlePR
+ GRAND_RABBI_PR:0 "высшем раввине" #GetTitlePR
+ KOHEN_GADOL_PR:0 "коэн-гадоле" #GetTitlePR
+ HERBAD_PR:0 "хирбаде" #GetTitlePR
+ MOBED_PR:0 "мобеде" #GetTitlePR
+ MOABADAN_MOABAD_PR:0 "моабадан моабаде" #GetTitlePR
+ PANDIT_PR:0 "пандите" #GetTitlePR
+ PANDITRAO_PR:0 "пандитрао" #GetTitlePR
+ HIGH_GURU_PR:0 "высшем гуру" #GetTitlePR
+ O_KANNUSHI_PR:0 "о'каннуси" #GetTitlePR
+ LAMA_PR:0 "ламе" #GetTitlePR
+ TULKU_PR:0 "тулку" #GetTitlePR
+ GREAT_TULKU_PR:0 "великом тулку" #GetTitlePR
+ SON_OF_HEAVEN_PR:0 "сыне Неба" #GetTitlePR
+ MICHOQ_PR:0 "мичоке" #GetTitlePR
+ HIGH_PRIEST_PR:0 "верховном жреце" #GetTitlePR
+ WILLAQ_UMU_PR:0 "вилак уму" #GetTitlePR
+ PRIEST_PR:0 "жреце" #GetTitlePR
+ PARAMOUNT_PRIEST_PR:0 "первом жреце" #GetTitlePR
+ TSAR_PR:0 "царе" #GetTitlePR
+ IMAME_PR:0 "имаме" #GetTitlePR
+ HOCHMEISTER_PR:0 "гохмейстере" #GetTitlePR
+ LANDMEISTER_PR:0 "ландмейстере" #GetTitlePR
+ GROSSMEISTER_PR:0 "гроссмейстере" #GetTitlePR
+ GRAND_MASTER_PR:0 "великом магистре" #GetTitlePR
+ DOGE_PR:0 "доже" #GetTitlePR
+ SERENE_DOGE_PR:0 "светлейшем доже" #GetTitlePR
+ GREAT_DOGE_PR:0 "великом доже" #GetTitlePR
+ RECTOR_PR:0 "ректоре" #GetTitlePR
+ GRAND_RECTOR_PR:0 "главном ректоре" #GetTitlePR
+ GREAT_RECTOR_PR:0 "великом ректоре" #GetTitlePR
+ GRAND_KNIAZ_PR:0 "великом князе" #GetTitlePR
+ KEFALIJA_PR:0 "кефале" #GetTitlePR
+ DUZHD_PR:0 "дуже" #GetTitlePR
+ GONFALONIERE_PR:0 "гонфалоньере" #GetTitlePR
+ CONSUL_PR:0 "консуле" #GetTitlePR
+ GRAND_CONSUL_PR:0 "главном консуле" #GetTitlePR
+ GREAT_CONSUL_PR:0 "великом консуле" #GetTitlePR
+ CAPTAIN_DEFENDER_PR:0 "капитане-защитнике" #GetTitlePR
+ SYNDIC_PR:0 "синдике" #GetTitlePR
+ GRAND_SYNDIC_PR:0 "великом синдике" #GetTitlePR
+ SADR_PR:0 "садре" #GetTitlePR
+ PRATINIDHI_PR:0 "пратинидхи" #GetTitlePR
+ VIZIER_PR:0 "визире" #GetTitlePR
+ GRANDVIZIER_PR:0 "великом визире" #GetTitlePR
+ COUNCILOR_PR:0 "советнике" #GetTitlePR
+ GRAND_COUNCILOR_PR:0 "великом советнике" #GetTitlePR
+ HIGH_COUNCILOR_PR:0 "верховном советнике" #GetTitlePR
+ NACOM_PR:0 "накоме" #GetTitlePR
+ HALACH_UINIK_PR:0 "халач-уинике" #GetTitlePR
+ K_UHUL_AJAW_PR:0 "кухуль-ахаве" #GetTitlePR
+ POPE_PR:0 "папе" #GetTitlePR
+ DIRECTOR_PR:0 "директоре" #GetTitlePR
+ GOVERNOR_PR:0 "губернаторе" #GetTitlePR
+ ATAMAN_PR:0 "атамане" #GetTitlePR
+ HETMAN_PR:0 "гетмане" #GetTitlePR
+ GREAT_HETMAN_PR:0 "великом гетмане" #GetTitlePR
+ SHARIF_PR:0 "шарифе" #GetTitlePR
+ GRAND_SHARIF_PR:0 "великом шарифе" #GetTitlePR
+ GREAT_SHARIF_PR:0 "верховном шарифе" #GetTitlePR
+ DATU_PR:0 "дату" #GetTitlePR
+ LAKAN_PR:0 "лакане" #GetTitlePR
+ GREAT_LAKAN_PR:0 "великом лакан" #GetTitlePR
+ BURGMEISTER_PR:0 "бургомистре" #GetTitlePR
+ MAYOR_PR:0 "мэре" #GetTitlePR
+ ILKHAN_PR:0 "ильхане" #GetTitlePR
+ SYNTH_RULER_PR:0 "исполнителе" #GetTitlePR
+ ###на вопрос вижу кого?
+ SPEAKER_VN:0 "спикера" #GetTitleVN
+ CHANCELOR_VN:0 "канцлера" #GetTitleVN
+ PRESIDENT_VN:0 "президента" #GetTitleVN
+ DUKE_VN:0 "герцога" #GetTitleVN
+ KING_VN:0 "короля" #GetTitleVN
+ EMPEROR_VN:0 "императора" #GetTitleVN
+ GRAND_PENSIONARY_VN:0 "великого пенсионария" #GetTitleVN
+ STADTHOLDER_VN:0 "статхаудера" #GetTitleVN
+ GREAT_STADTHOLDER_VN:0 "главного статхаудера" #GetTitleVN
+ PRINCE_ELECTOR_VN:0 "князя-курфюрста" #GetTitleVN
+ KING_ELECTOR_VN:0 "короля-курфюрста" #GetTitleVN
+ EARL_VN:0 "эрла" #GetTitleVN
+ HIGH_KING_VN:0 "верховного короля" #GetTitleVN
+ LORD_VN:0 "лорда" #GetTitleVN
+ SHOGUN_VN:0 "сёгуна" #GetTitleVN
+ ATABEG_VN:0 "атабека" #GetTitleVN
+ FAAMA_VN:0 "фаамы" #GetTitleVN
+ GREAT_MANSA_VN:0 "великого мансу" #GetTitleVN
+ JAM_VN:0 "джаму" #GetTitleVN
+ GRAND_JAM_VN:0 "большого джаму" #GetTitleVN
+ GREAT_JAM_VN:0 "великого джаму" #GetTitleVN
+ GRAND_DUKE_VN:0 "великого князя" #GetTitleVN
+ ARCHDUKE_VN:0 "эрцгерцога" #GetTitleVN
+ ARCHKING_VN:0 "эрцкороля" #GetTitleVN
+ PRINCE_VN:0 "князя" #GetTitleVN
+ BAN_TITLE_VN:0 "бана" #GetTitleVN
+ KRALJ_VN:0 "краля" #GetTitleVN
+ CAR_VN:0 "царя" #GetTitleVN
+ VOJVODA_VN:0 "воеводу" #GetTitleVN
+ DESPOT_VN:0 "деспота" #GetTitleVN
+ AUTOKRATOR_VN:0 "автократора" #GetTitleVN
+ BASILEUS_VN:0 "базилевса" #GetTitleVN
+ MBRET_VN:0 "мбрета" #GetTitleVN
+ NOMARCH_VN:0 "номарха" #GetTitleVN
+ PHARAOH_VN:0 "фараона" #GetTitleVN
+ GREAT_PHARAOH_VN:0 "великого фараона" #GetTitleVN
+ TYRANT_VN:0 "тирана" #GetTitleVN
+ HEGEMON_VN:0 "гегемона" #GetTitleVN
+ CHIEF_VN:0 "вождя" #GetTitleVN
+ REX_VN:0 "рекса" #GetTitleVN
+ IMPERATOR_VN:0 "императора" #GetTitleVN
+ VOIVODE_VN:0 "воеводу" #GetTitleVN
+ RAJA_VN:0 "раджу" #GetTitleVN
+ MAHARAJA_VN:0 "махараджу" #GetTitleVN
+ CHHATRAPATI_VN:0 "чхатрапати" #GetTitleVN
+ RANA_VN:0 "рану" #GetTitleVN
+ MAHARANA_VN:0 "махарану" #GetTitleVN
+ PESHWA_VN:0 "пешву" #GetTitleVN
+ TATKISHO_VN:0 "таткишо" #GetTitleVN
+ TATO_VN:0 "тато" #GetTitleVN
+ ATIO_VN:0 "атио" #GetTitleVN
+ RAS_title_VN:0 "расу" #GetTitleVN
+ NEGUS_VN:0 "негусу" #GetTitleVN
+ NEGUSA_NEGAST_VN:0 "негуса нагасту" #GetTitleVN
+ MUGABE_VN:0 "мугабу" #GetTitleVN
+ GREAT_MUGABE_VN:0 "великого мугабу" #GetTitleVN
+ OMUKAMA_VN:0 "омукаму" #GetTitleVN
+ GREAT_OMUKAMA_VN:0 "великого омукаму" #GetTitleVN
+ BALOPWE_VN:0 "балопву" #GetTitleVN
+ MULOPWE_VN:0 "мулопву" #GetTitleVN
+ GREAT_MULOPWE_VN:0 "великого мулопву" #GetTitleVN
+ MWENEMUTAPA_VN:0 "мвенемутапу" #GetTitleVN
+ GREAT_MWENEMUTAPA_VN:0 "великого мвенемутапу" #GetTitleVN
+ MAMBO_VN:0 "мамбо" #GetTitleVN
+ GRAND_MAMBO_VN:0 "великого мамбо" #GetTitleVN
+ GREAT_MAMBO_VN:0 "верховного мамбо" #GetTitleVN
+ BAKUNGU_VN:0 "бакунгу" #GetTitleVN
+ MWAMI_VN:0 "мвани" #GetTitleVN
+ KABAKA_VN:0 "кабаки" #GetTitleVN
+ GREAT_KABAKA_VN:0 "великого кабаки" #GetTitleVN
+ ANDRIANONI_VN:0 "андрианони" #GetTitleVN
+ GRAND_ANDRIANONI_VN:0 "великого андрианони" #GetTitleVN
+ GREAT_ANDRIANONI_VN:0 "верховного андрианони" #GetTitleVN
+ FILOHANY_VN:0 "филоханы" #GetTitleVN
+ MPANJAKE_BE_VN:0 "мпанджак-бе" #GetTitleVN
+ KURAKA_VN:0 "кураки" #GetTitleVN
+ APU_VN:0 "апу" #GetTitleVN
+ SAPA_INKA_VN:0 "сапа Инку" #GetTitleVN
+ MARGRAVE_VN:0 "маркграфа" #GetTitleVN
+ VICEROY_VN:0 "вице-короля" #GetTitleVN
+ IMAM_VN:0 "имама" #GetTitleVN
+ GREAT_IMAM_VN:0 "великого имама" #GetTitleVN
+ HIGH_IMAM_VN:0 "верховного имама" #GetTitleVN
+ EMIR_VN:0 "эмира" #GetTitleVN
+ SULTAN_VN:0 "султана" #GetTitleVN
+ GREAT_SULTAN_VN:0 "великого султана" #GetTitleVN
+ DAI_male_VN:0 "даи" #GetTitleVN
+ PADISHAH_VN:0 "падишаха" #GetTitleVN
+ MALIK_VN:0 "малика" #GetTitleVN
+ SHAH_VN:0 "шаха" #GetTitleVN
+ SHAHANSHAH_VN:0 "шахиншаха" #GetTitleVN
+ SHEIKH_VN:0 "шейха" #GetTitleVN
+ GERAD_VN:0 "герада" #GetTitleVN
+ BEY_VN:0 "бейя" #GetTitleVN
+ PRINC_VN:0 "князя" #GetTitleVN
+ NAWAB_VN:0 "наваба" #GetTitleVN
+ NIZAM_VN:0 "низама" #GetTitleVN
+ KHEDIVE_VN:0 "хедива" #GetTitleVN
+ SAOPHA_VN:0 "саофу" #GetTitleVN
+ KNIAZ_VN:0 "князя" #GetTitleVN
+ GREAT_KNIAZ_VN:0 "великого князя" #GetTitleVN
+ TLATOANI_VN:0 "тлатоани" #GetTitleVN
+ HUEHUETLATOANI_VN:0 "хуэй тлатоани" #GetTitleVN
+ BISHOP_ELECTOR_VN:0 "епископа-курфюрста" #GetTitleVN
+ ARCHBISHOP_ELECTOR_VN:0 "архиепископа-курфюрста" #GetTitleVN
+ PATRIARCH_ELECTOR_VN:0 "патриарха-курфюрста" #GetTitleVN
+ BISHOP_VN:0 "епископа" #GetTitleVN
+ ARCHBISHOP_VN:0 "архиепископа" #GetTitleVN
+ PATRIARCH_VN:0 "патриарха" #GetTitleVN
+ PROTECTOR_VN:0 "протектора" #GetTitleVN
+ LORD_PROTECTOR_VN:0 "лорда-протектора" #GetTitleVN
+ JINONG_VN:0 "джинона" #GetTitleVN
+ KHAN_VN:0 "хана" #GetTitleVN
+ KHAGAN_VN:0 "кагана" #GetTitleVN
+ NUTSAL_VN:0 "нуцала" #GetTitleVN
+ BEILE_VN:0 "бэиле" #GetTitleVN
+ JUNWANG_VN:0 "цзюньвана" #GetTitleVN
+ HIGH_CHIEF_VN:0 "верховного вождя" #GetTitleVN
+ PARAMOUNT_CHIEF_VN:0 "первого вождя" #GetTitleVN
+ ELDER_VN:0 "старейшину" #GetTitleVN
+ HIGH_ELDER_VN:0 "главного старейшину" #GetTitleVN
+ PARAMOUNT_ELDER_VN:0 "верховного старейшину" #GetTitleVN
+ AYATOLLAH_VN:0 "аятоллу" #GetTitleVN
+ KHOJA_VN:0 "ходжу" #GetTitleVN
+ GREAT_KHOJA_VN:0 "великого ходжу" #GetTitleVN
+ GREAT_EMIR_VN:0 "великого эмира" #GetTitleVN
+ PASHA_VN:0 "пашу" #GetTitleVN
+ OLDERMAND_VN:0 "альдермана" #GetTitleVN
+ STORBONDE_VN:0 "стурбонда" #GetTitleVN
+ LANDSBONDE_VN:0 "ландсбонда" #GetTitleVN
+ JATHEDAR_VN:0 "джатедара" #GetTitleVN
+ MISLDAR_VN:0 "мисальдара" #GetTitleVN
+ GREAT_MISLDAR_VN:0 "великого мисальдара" #GetTitleVN
+ RABBI_VN:0 "раввина" #GetTitleVN
+ GRAND_RABBI_VN:0 "высшего раввина" #GetTitleVN
+ KOHEN_GADOL_VN:0 "коэн-гадоля" #GetTitleVN
+ HERBAD_VN:0 "хирбада" #GetTitleVN
+ MOBED_VN:0 "мобеда" #GetTitleVN
+ MOABADAN_MOABAD_VN:0 "моабадан моабада" #GetTitleVN
+ PANDIT_VN:0 "пандита" #GetTitleVN
+ PANDITRAO_VN:0 "пандитрао" #GetTitleVN
+ HIGH_GURU_VN:0 "высшего гуру" #GetTitleVN
+ O_KANNUSHI_VN:0 "о'каннуси" #GetTitleVN
+ LAMA_VN:0 "ламу" #GetTitleVN
+ TULKU_VN:0 "тулку" #GetTitleVN
+ GREAT_TULKU_VN:0 "великого тулку" #GetTitleVN
+ SON_OF_HEAVEN_VN:0 "сына Неба" #GetTitleVN
+ MICHOQ_VN:0 "мичока" #GetTitleVN
+ HIGH_PRIEST_VN:0 "верховного жреца" #GetTitleVN
+ WILLAQ_UMU_VN:0 "вилак уму" #GetTitleVN
+ PRIEST_VN:0 "жреца" #GetTitleVN
+ PARAMOUNT_PRIEST_VN:0 "первого жреца" #GetTitleVN
+ TSAR_VN:0 "царя" #GetTitleVN
+ IMAME_VN:0 "имама" #GetTitleVN
+ HOCHMEISTER_VN:0 "гохмейстера" #GetTitleVN
+ LANDMEISTER_VN:0 "ландмейстера" #GetTitleVN
+ GROSSMEISTER_VN:0 "гроссмейстера" #GetTitleVN
+ GRAND_MASTER_VN:0 "великого магистра" #GetTitleVN
+ DOGE_VN:0 "дожа" #GetTitleVN
+ SERENE_DOGE_VN:0 "светлейшего дожа" #GetTitleVN
+ GREAT_DOGE_VN:0 "великого дожа" #GetTitleVN
+ RECTOR_VN:0 "ректора" #GetTitleVN
+ GRAND_RECTOR_VN:0 "главного ректора" #GetTitleVN
+ GREAT_RECTOR_VN:0 "великого ректора" #GetTitleVN
+ GRAND_KNIAZ_VN:0 "великого князя" #GetTitleVN
+ KEFALIJA_VN:0 "кефала" #GetTitleVN
+ DUZHD_VN:0 "дужа" #GetTitleVN
+ GONFALONIERE_VN:0 "гонфалоньера" #GetTitleVN
+ CONSUL_VN:0 "консула" #GetTitleVN
+ GRAND_CONSUL_VN:0 "главного консула" #GetTitleVN
+ GREAT_CONSUL_VN:0 "великого консула" #GetTitleVN
+ CAPTAIN_DEFENDER_VN:0 "капитана-защитника" #GetTitleVN
+ SYNDIC_VN:0 "синдика" #GetTitleVN
+ GRAND_SYNDIC_VN:0 "великого синдика" #GetTitleVN
+ SADR_VN:0 "садра" #GetTitleVN
+ PRATINIDHI_VN:0 "пратинидхи" #GetTitleVN
+ VIZIER_VN:0 "визиря" #GetTitleVN
+ GRANDVIZIER_VN:0 "великого визиря" #GetTitleVN
+ COUNCILOR_VN:0 "советника" #GetTitleVN
+ GRAND_COUNCILOR_VN:0 "великого советника" #GetTitleVN
+ HIGH_COUNCILOR_VN:0 "верховного советника" #GetTitleVN
+ NACOM_VN:0 "накома" #GetTitleVN
+ HALACH_UINIK_VN:0 "халач-уиника" #GetTitleVN
+ K_UHUL_AJAW_VN:0 "кухуль-ахаву" #GetTitleVN
+ POPE_VN:0 "папу" #GetTitleVN
+ DIRECTOR_VN:0 "директора" #GetTitleVN
+ GOVERNOR_VN:0 "губернатора" #GetTitleVN
+ ATAMAN_VN:0 "атамана" #GetTitleVN
+ HETMAN_VN:0 "гетмана" #GetTitleVN
+ GREAT_HETMAN_VN:0 "великого гетмана" #GetTitleVN
+ SHARIF_VN:0 "шарифа" #GetTitleVN
+ GRAND_SHARIF_VN:0 "великого шарифа" #GetTitleVN
+ GREAT_SHARIF_VN:0 "верховного шарифа" #GetTitleVN
+ DATU_VN:0 "дату" #GetTitleVN
+ LAKAN_VN:0 "лакана" #GetTitleVN
+ GREAT_LAKAN_VN:0 "великого лакана" #GetTitleVN
+ BURGMEISTER_VN:0 "бургомистра" #GetTitleVN
+ MAYOR_VN:0 "мэра" #GetTitleVN
+ ILKHAN_VN:0 "ильхана" #GetTitleVN
+ SYNTH_RULER_VN:0 "исполнителя" #GetTitleVN
+ ########Женские варианты########
+ ###На вопрос это кто?
+ DUCHESS_IM:0 "герцогиня" #GetTitleIM
+ QUEEN_IM:0 "королева" #GetTitleIM
+ EMPRESS_IM:0 "императрица" #GetTitleIM
+ GRAND_PENSIONARY_fem_IM:0 "великий пенсионарий" #GetTitleIM
+ STADTHOLDERESS_IM:0 "статхаудтресса" #GetTitleIM
+ GREAT_STADTHOLDERESS_IM:0 "главная статхаудтресса" #GetTitleIM
+ PRINCESS_ELECTOR_IM:0 "герцогиня-курфюрст" #GetTitleIM
+ QUEEN_ELECTOR_IM:0 "королева-курфюрст" #GetTitleIM
+ COUNTESS_IM:0 "графиня" #GetTitleIM
+ HIGH_QUEEN_IM:0 "верховная королева" #GetTitleIM
+ SHOGUNESS_IM:0 "сёгун" #GetTitleIM
+ LADY_IM:0 "леди" #GetTitleIM		
+ ATABEG_fem_IM:0 "атабек" #GetTitleIM
+ GREAT_MANSA_fem_IM:0 "великая манса" #GetTitleIM
+ JAM_fem_IM:0 "джам" #GetTitleIM
+ GRAND_JAM_fem_IM:0 "большая джам" #GetTitleIM
+ GREAT_JAM_fem_IM:0 "великая джам" #GetTitleIM
+ GRAND_DUCHESS_IM:0 "великая княгиня" #GetTitleIM
+ ARCHDUCHESS_IM:0 "эрцгерцогиня" #GetTitleIM
+ PRINCESS_IM:0 "княгиня" #GetTitleIM
+ KRALJICA_IM:0 "кральица" #GetTitleIM
+ CARICA_IM:0 "царица" #GetTitleIM
+ VOJVODKINJA_IM:0 "воеводкина" #GetTitleIM
+ DESPOTISSA_IM:0 "деспотисса" #GetTitleIM
+ AUTOKRATEIRA_IM:0 "автократейра" #GetTitleIM
+ BASILISSA_IM:0 "базилисса" #GetTitleIM
+ PHARAOH_fem_IM:0 "фараон" #GetTitleIM
+ GREAT_PHARAOH_fem_IM:0 "великий фараон" #GetTitleIM
+ TYRANT_fem_IM:0 "тиран" #GetTitleIM
+ HEGEMON_fem_IM:0 "гегемон" #GetTitleIM
+ CHIEFTESS_IM:0 "вождь" #GetTitleIM
+ REGINA_IM:0 "регина" #GetTitleIM
+ IMPERATRIX_IM:0 "императрица" #GetTitleIM
+ RANI_IM:0 "рани" #GetTitleIM
+ MAHARANI_IM:0 "махарани" #GetTitleIM
+ TATKISHO_FEM_IM:0 "таткишо" #GetTitleIM
+ TATO_FEM_IM:0 "тато" #GetTitleIM
+ ATIO_FEM_IM:0 "атио" #GetTitleIM
+ LE_ELT_IM:0 "ле'эльт" #GetTitleIM
+ NIGIST_IM:0 "нигист" #GetTitleIM
+ NIGISTE_NIGIST_IM:0 "нигиста нигист" #GetTitleIM
+ MUGO_IM:0 "муго" #GetTitleIM
+ GREAT_MUGO_IM:0 "великий муго" #GetTitleIM
+ BALOPWE_fem_IM:0 "великий муго" #GetTitleIM
+ MULOPWE_fem_IM:0 "мулопве" #GetTitleIM
+ GREAT_MULOPWE_fem_IM:0 "великая мулопве" #GetTitleIM
+ MWENEMUTAPA_fem_IM:0 "мвенемутапа" #GetTitleIM
+ GREAT_MWENEMUTAPA_fem_IM:0 "великая мвенемутапа" #GetTitleIM
+ UMUGABEKAZI_IM:0 "умугабекази" #GetTitleIM
+ NNABAGEREKA_IM:0 "набагерека" #GetTitleIM
+ GREAT_NNABAGEREKA_IM:0 "великий набагерека" #GetTitleIM
+ MARGRAVINE_IM:0 "маркграфиня" #GetTitleIM
+ VICEREINE_IM:0 "вице-королева" #GetTitleIM
+ EMIRA_IM:0 "эмира" #GetTitleIM
+ SULTANA_IM:0 "султана" #GetTitleIM
+ GREAT_SULTANA_IM:0 "великая султана" #GetTitleIM
+ DAI_female_IM:0 "даи" #GetTitleIM
+ MALIKAH_IM:0 "малика" #GetTitleIM
+ SHEIKHA_IM:0 "шейха" #GetTitleIM
+ HATUN_IM:0 "хатун" #GetTitleIM
+ PRINCEZA_IM:0 "княгиня" #GetTitleIM
+ NAWAB_BEGUM_IM:0 "наваб-бегум" #GetTitleIM
+ NIZAM_BEGUM_IM:0 "низам-бегум" #GetTitleIM
+ KNIAGINIA_IM:0 "княгиня" #GetTitleIM
+ GREAT_KNIAGINIA_IM:0 "великая княгиня" #GetTitleIM
+ BISHOP_ELECTOR_fem_IM:0 "епископ-курфюрст" #GetTitleIM
+ ARCHBISHOP_ELECTOR_fem_IM:0 "архиепископ-курфюрст" #GetTitleIM
+ MATRIARCH_ELECTOR_IM:0 "матриарх-курфюрст" #GetTitleIM
+ BISHOP_fem_IM:0 "епископ" #GetTitleIM
+ ARCHBISHOP_fem_IM:0 "архиепископ" #GetTitleIM
+ MATRIARCH_IM:0 "матриарх" #GetTitleIM
+ PROTECTOR_fem_IM:0 "протектор" #GetTitleIM
+ LADY_PROTECTOR_IM:0 "леди-протектор" #GetTitleIM
+ PRESIDENT_fem_IM:0 "президент" #GetTitleIM
+ KHATUN_IM:0 "хатун" #GetTitleIM
+ GREAT_KHATUN_IM:0 "великая хатун" #GetTitleIM
+ NUTSAL_fem_IM:0 "нуцал" #GetTitleIM
+ GEGE_IM:0 "гэгэ" #GetTitleIM
+ HIGH_CHIEFTESS_IM:0 "верховный вождь" #GetTitleIM
+ PARAMOUNT_CHIEFTESS_IM:0 "первый вождь" #GetTitleIM
+ ELDER_fem_IM:0 "старейшина" #GetTitleIM
+ HIGH_ELDER_fem_IM:0 "главная старейшина" #GetTitleIM
+ PARAMOUNT_ELDER_fem_IM:0 "верховная старейшина" #GetTitleIM
+ OLDERMAND_fem_IM:0 "альдерквинде" #GetTitleIM
+ STORBONDE_fem_IM:0 "стурбонда" #GetTitleIM
+ LANDSBONDE_fem_IM:0 "ландсбонда" #GetTitleIM
+ MOBEDYAR_IM:0 "мобедъяр" #GetTitleIM
+ DAUGHTER_OF_HEAVEN_IM:0 "дочь Неба" #GetTitleIM
+ HIGH_PRIESTESS_IM:0 "верховная жрица" #GetTitleIM
+ PARAMOUNT_PRIESTESS_IM:0 "первая жрица" #GetTitleIM
+ PRIESTESS_IM:0 "жрица" #GetTitleIM
+ TSARITSA_IM:0 "царица" #GetTitleIM
+ GREAT_PRINCESS_IM:0 "великая княгиня" #GetTitleIM
+ DOGARESSA_IM:0 "догаресса" #GetTitleIM
+ SERENE_DOGARESSA_IM:0 "светлейшая догаресса" #GetTitleIM
+ GREAT_DOGARESSA_IM:0 "великая догаресса" #GetTitleIM
+ RECTORA_IM:0 "ректор" #GetTitleIM
+ GRAND_RECTORA_IM:0 "главный ректор" #GetTitleIM
+ GREAT_RECTORA_IM:0 "великий ректор" #GetTitleIM
+ GRAND_KNIAGINIA_IM:0 "великая княгиня" #GetTitleIM
+ PRINCEZA_IM:0 "княгиня" #GetTitleIM
+ GONFALONIERE_fem_IM:0 "гонфалоньер" #GetTitleIM
+ GRAND_CONSULESS_IM:0 "главный консул" #GetTitleIM
+ GREAT_CONSULESS_IM:0 "великий консул" #GetTitleIM
+ CAPTAIN_DEFENDER_fem_IM:0 "капитан-защитница" #GetTitleIM
+ SYNDIC_fem_IM:0 "синдик" #GetTitleIM
+ GRAND_SYNDIC_fem_IM:0 "великий синдик" #GetTitleIM
+ COUNCILOR_fem_IM:0 "советник" #GetTitleIM
+ GRAND_COUNCILOR_fem_IM:0 "великий советник" #GetTitleIM
+ HIGH_COUNCILOR_fem_IM:0 "верховный советник" #GetTitleIM
+ CHANCELOR_fem_IM:0 "канцлер" #GetTitleIM
+ POPETTE_IM:0 "папесса" #GetTitleIM
+ GOVERNESS_IM:0 "губернатор" #GetTitleIM
+ DIRECTORESS_IM:0 "директриса" #GetTitleIM
+ ATAMAN_fem_IM:0 "атаман" #GetTitleIM
+ HETMAN_fem_IM:0 "гетман" #GetTitleIM
+ GREAT_HETMAN_fem_IM:0 "великий гетман" #GetTitleIM
+ SHARIFA_IM:0 "шарифа" #GetTitleIM
+ GRAND_SHARIFA_IM:0 "великая шарифа" #GetTitleIM
+ GREAT_SHARIFA_IM:0 "верховная шарифа" #GetTitleIM
+ MAYORESS_IM:0 "мэр" #GetTitleIM
+ ILKHATUN_IM:0 "ильхатун" #GetTitleIM
+ ###На вопрос нет кого?
+ DUCHESS_RD:0 "герцогини" #GetTitleRD
+ QUEEN_RD:0 "королевы" #GetTitleRD
+ EMPRESS_RD:0 "императрицы" #GetTitleRD
+ GRAND_PENSIONARY_fem_RD:0 "великой пенсионарии" #GetTitleRD
+ STADTHOLDERESS_RD:0 "статхаудтрессы" #GetTitleRD
+ GREAT_STADTHOLDERESS_RD:0 "главной статхаудтрессы" #GetTitleRD
+ PRINCESS_ELECTOR_RD:0 "герцогини-курфюрста" #GetTitleRD
+ QUEEN_ELECTOR_RD:0 "королевы-курфюрста" #GetTitleRD
+ COUNTESS_RD:0 "графини" #GetTitleRD
+ HIGH_QUEEN_RD:0 "верховной королевы" #GetTitleRD
+ SHOGUNESS_RD:0 "сёгуна" #GetTitleRD
+ LADY_RD:0 "леди" #GetTitleRD		
+ ATABEG_fem_RD:0 "атабеки" #GetTitleRD
+ GREAT_MANSA_fem_RD:0 "великой мансы" #GetTitleRD
+ JAM_fem_RD:0 "джамы" #GetTitleRD
+ GRAND_JAM_fem_RD:0 "большой джамы" #GetTitleRD
+ GREAT_JAM_fem_RD:0 "великой джамы" #GetTitleRD
+ GRAND_DUCHESS_RD:0 "великой княгини" #GetTitleRD
+ ARCHDUCHESS_RD:0 "эрцгерцогини" #GetTitleRD
+ PRINCESS_RD:0 "княгини" #GetTitleRD
+ KRALJICA_RD:0 "кральицы" #GetTitleRD
+ CARICA_RD:0 "царицы" #GetTitleRD
+ VOJVODKINJA_RD:0 "воеводкины" #GetTitleRD
+ DESPOTISSA_RD:0 "деспотиссы" #GetTitleRD
+ AUTOKRATEIRA_RD:0 "автократейры" #GetTitleRD
+ BASILISSA_RD:0 "базилиссы" #GetTitleRD
+ PHARAOH_fem_RD:0 "фараона" #GetTitleRD
+ GREAT_PHARAOH_fem_RD:0 "великого фараона" #GetTitleRD
+ TYRANT_fem_RD:0 "тирана" #GetTitleRD
+ HEGEMON_fem_RD:0 "гегемона" #GetTitleRD
+ CHIEFTESS_RD:0 "вождя" #GetTitleRD
+ REGINA_RD:0 "регины" #GetTitleRD
+ IMPERATRIX_RD:0 "императрицы" #GetTitleRD
+ RANI_RD:0 "рани" #GetTitleRD
+ MAHARANI_RD:0 "махарани" #GetTitleRD
+ TATKISHO_FEM_RD:0 "таткишо" #GetTitleRD
+ TATO_FEM_RD:0 "тато" #GetTitleRD
+ ATIO_FEM_RD:0 "атио" #GetTitleRD
+ LE_ELT_RD:0 "ле'эльты" #GetTitleRD
+ NIGIST_RD:0 "нигисты" #GetTitleRD
+ NIGISTE_NIGIST_RD:0 "нигиста нигисты" #GetTitleRD
+ MUGO_RD:0 "муго" #GetTitleRD
+ GREAT_MUGO_RD:0 "великой муго" #GetTitleRD
+ BALOPWE_fem_RD:0 "великой муго" #GetTitleRD
+ MULOPWE_fem_RD:0 "мулопве" #GetTitleRD
+ GREAT_MULOPWE_fem_RD:0 "великой мулопве" #GetTitleRD
+ MWENEMUTAPA_fem_RD:0 "мвенемутапы" #GetTitleRD
+ GREAT_MWENEMUTAPA_fem_RD:0 "великой мвенемутапы" #GetTitleRD
+ UMUGABEKAZI_RD:0 "умугабекази" #GetTitleRD
+ NNABAGEREKA_RD:0 "набагереки" #GetTitleRD
+ GREAT_NNABAGEREKA_RD:0 "великой набагереки" #GetTitleRD
+ MARGRAVINE_RD:0 "маркграфини" #GetTitleRD
+ VICEREINE_RD:0 "вице-королевы" #GetTitleRD
+ EMIRA_RD:0 "эмиры" #GetTitleRD
+ SULTANA_RD:0 "султаны" #GetTitleRD
+ GREAT_SULTANA_RD:0 "великой султаны" #GetTitleRD
+ DAI_female_RD:0 "даи" #GetTitleRD
+ MALIKAH_RD:0 "малики" #GetTitleRD
+ SHEIKHA_RD:0 "шейхи" #GetTitleRD
+ HATUN_RD:0 "хатун" #GetTitleRD
+ PRINCEZA_RD:0 "княгини" #GetTitleRD
+ NAWAB_BEGUM_RD:0 "наваб-бегум" #GetTitleRD
+ NIZAM_BEGUM_RD:0 "низам-бегум" #GetTitleRD
+ KNIAGINIA_RD:0 "княгини" #GetTitleRD
+ GREAT_KNIAGINIA_RD:0 "великой княгини" #GetTitleRD
+ BISHOP_ELECTOR_fem_RD:0 "епископа-курфюрста" #GetTitleRD
+ ARCHBISHOP_ELECTOR_fem_RD:0 "архиепископа-курфюрста" #GetTitleRD
+ MATRIARCH_ELECTOR_RD:0 "матриарха-курфюрста" #GetTitleRD
+ BISHOP_fem_RD:0 "епископа" #GetTitleRD
+ ARCHBISHOP_fem_RD:0 "архиепископа" #GetTitleRD
+ MATRIARCH_RD:0 "матриарха" #GetTitleRD
+ PROTECTOR_fem_RD:0 "протектора" #GetTitleRD
+ LADY_PROTECTOR_RD:0 "леди-протектора" #GetTitleRD
+ PRESIDENT_fem_RD:0 "президента" #GetTitleRD
+ KHATUN_RD:0 "хатун" #GetTitleRD
+ GREAT_KHATUN_RD:0 "великой хатун" #GetTitleRD
+ NUTSAL_fem_RD:0 "нуцалы" #GetTitleRD
+ GEGE_RD:0 "гэгэ" #GetTitleRD
+ HIGH_CHIEFTESS_RD:0 "верховного вождя" #GetTitleRD
+ PARAMOUNT_CHIEFTESS_RD:0 "первого вождя" #GetTitleRD
+ ELDER_fem_RD:0 "старейшины" #GetTitleRD
+ HIGH_ELDER_fem_RD:0 "главной старейшины" #GetTitleRD
+ PARAMOUNT_ELDER_fem_RD:0 "верховной старейшины" #GetTitleRD
+ OLDERMAND_fem_RD:0 "альдерквинды" #GetTitleRD
+ STORBONDE_fem_RD:0 "стурбонды" #GetTitleRD
+ LANDSBONDE_fem_RD:0 "ландсбонды" #GetTitleRD
+ MOBEDYAR_RD:0 "мобедъяры" #GetTitleRD
+ DAUGHTER_OF_HEAVEN_RD:0 "дочери Неба" #GetTitleRD
+ HIGH_PRIESTESS_RD:0 "верховной жрицы" #GetTitleRD
+ PARAMOUNT_PRIESTESS_RD:0 "первой жрицы" #GetTitleRD
+ PRIESTESS_RD:0 "жрицы" #GetTitleRD
+ TSARITSA_RD:0 "царицы" #GetTitleRD
+ GREAT_PRINCESS_RD:0 "великой княгини" #GetTitleRD
+ DOGARESSA_RD:0 "догарессы" #GetTitleRD
+ SERENE_DOGARESSA_RD:0 "светлейшей догарессы" #GetTitleRD
+ GREAT_DOGARESSA_RD:0 "великой догарессы" #GetTitleRD
+ RECTORA_RD:0 "ректора" #GetTitleRD
+ GRAND_RECTORA_RD:0 "главного ректора" #GetTitleRD
+ GREAT_RECTORA_RD:0 "великого ректора" #GetTitleRD
+ GRAND_KNIAGINIA_RD:0 "великой княгини" #GetTitleRD
+ PRINCEZA_RD:0 "княгини" #GetTitleRD
+ GONFALONIERE_fem_RD:0 "гонфалоньеры" #GetTitleRD
+ GRAND_CONSULESS_RD:0 "главного консула" #GetTitleRD
+ GREAT_CONSULESS_RD:0 "великого консула" #GetTitleRD
+ CAPTAIN_DEFENDER_fem_RD:0 "капитана-защитницы" #GetTitleRD
+ SYNDIC_fem_RD:0 "синдика" #GetTitleRD
+ GRAND_SYNDIC_fem_RD:0 "великого синдика" #GetTitleRD
+ COUNCILOR_fem_RD:0 "советника" #GetTitleRD
+ GRAND_COUNCILOR_fem_RD:0 "великого советника" #GetTitleRD
+ HIGH_COUNCILOR_fem_RD:0 "верховного советника" #GetTitleRD
+ CHANCELOR_fem_RD:0 "канцлера" #GetTitleRD
+ POPETTE_RD:0 "папессы" #GetTitleRD
+ GOVERNESS_RD:0 "губернатора" #GetTitleRD
+ DIRECTORESS_RD:0 "директрисы" #GetTitleRD
+ ATAMAN_fem_RD:0 "атамана" #GetTitleRD
+ HETMAN_fem_RD:0 "гетмана" #GetTitleRD
+ GREAT_HETMAN_fem_RD:0 "великого гетмана" #GetTitleRD
+ SHARIFA_RD:0 "шарифы" #GetTitleRD
+ GRAND_SHARIFA_RD:0 "великой шарифы" #GetTitleRD
+ GREAT_SHARIFA_RD:0 "верховной шарифы" #GetTitleRD
+ MAYORESS_RD:0 "мэра" #GetTitleRD
+ ILKHATUN_RD:0 "ильхатун" #GetTitleRD
+ ###На вопрос дать кому?
+ DUCHESS_DT:0 "герцогине" #GetTitleDT
+ QUEEN_DT:0 "королеве" #GetTitleDT
+ EMPRESS_DT:0 "императрице" #GetTitleDT
+ GRAND_PENSIONARY_fem_DT:0 "великому пенсионарию" #GetTitleDT
+ STADTHOLDERESS_DT:0 "статхаудтрессе" #GetTitleDT
+ GREAT_STADTHOLDERESS_DT:0 "главной статхаудтрессе" #GetTitleDT
+ PRINCESS_ELECTOR_DT:0 "герцогине-курфюрсту" #GetTitleDT
+ QUEEN_ELECTOR_DT:0 "королеве-курфюрсту" #GetTitleDT
+ COUNTESS_DT:0 "графине" #GetTitleDT
+ HIGH_QUEEN_DT:0 "верховной королеве" #GetTitleDT
+ SHOGUNESS_DT:0 "сёгуну" #GetTitleDT
+ LADY_DT:0 "леди" #GetTitleDT		
+ ATABEG_fem_DT:0 "атабеке" #GetTitleDT
+ GREAT_MANSA_fem_DT:0 "великой мансе" #GetTitleDT
+ JAM_fem_DT:0 "джаме" #GetTitleDT
+ GRAND_JAM_fem_DT:0 "большой джаме" #GetTitleDT
+ GREAT_JAM_fem_DT:0 "великой джаме" #GetTitleDT
+ GRAND_DUCHESS_DT:0 "великой княгине" #GetTitleDT
+ ARCHDUCHESS_DT:0 "эрцгерцогине" #GetTitleDT
+ PRINCESS_DT:0 "княгине" #GetTitleDT
+ KRALJICA_DT:0 "кральице" #GetTitleDT
+ CARICA_DT:0 "царице" #GetTitleDT
+ VOJVODKINJA_DT:0 "воеводкине" #GetTitleDT
+ DESPOTISSA_DT:0 "деспотиссе" #GetTitleDT
+ AUTOKRATEIRA_DT:0 "автократейре" #GetTitleDT
+ BASILISSA_DT:0 "базилиссе" #GetTitleDT
+ PHARAOH_fem_DT:0 "фараону" #GetTitleDT
+ GREAT_PHARAOH_fem_DT:0 "великому фараону" #GetTitleDT
+ TYRANT_fem_DT:0 "тиране" #GetTitleDT
+ HEGEMON_fem_DT:0 "гегемону" #GetTitleDT
+ CHIEFTESS_DT:0 "вождю" #GetTitleDT
+ REGINA_DT:0 "регине" #GetTitleDT
+ IMPERATRIX_DT:0 "императрице" #GetTitleDT
+ RANI_DT:0 "рани" #GetTitleDT
+ MAHARANI_DT:0 "махарани" #GetTitleDT
+ TATKISHO_FEM_DT:0 "таткишо" #GetTitleDT
+ TATO_FEM_DT:0 "тато" #GetTitleDT
+ ATIO_FEM_DT:0 "атио" #GetTitleDT
+ LE_ELT_DT:0 "ле'эльте" #GetTitleDT
+ NIGIST_DT:0 "нигисте" #GetTitleDT
+ NIGISTE_NIGIST_DT:0 "нигиста нигисте" #GetTitleDT
+ MUGO_DT:0 "муго" #GetTitleDT
+ GREAT_MUGO_DT:0 "великой муго" #GetTitleDT
+ BALOPWE_fem_DT:0 "великой муго" #GetTitleDT
+ MULOPWE_fem_DT:0 "мулопве" #GetTitleDT
+ GREAT_MULOPWE_fem_DT:0 "великой мулопве" #GetTitleDT
+ MWENEMUTAPA_fem_DT:0 "мвенемутапе" #GetTitleDT
+ GREAT_MWENEMUTAPA_fem_DT:0 "великой мвенемутапе" #GetTitleDT
+ UMUGABEKAZI_DT:0 "умугабекази" #GetTitleDT
+ NNABAGEREKA_DT:0 "набагереке" #GetTitleDT
+ GREAT_NNABAGEREKA_DT:0 "великой набагереке" #GetTitleDT
+ MARGRAVINE_DT:0 "маркграфине" #GetTitleDT
+ VICEREINE_DT:0 "вице-королеве" #GetTitleDT
+ EMIRA_DT:0 "эмире" #GetTitleDT
+ SULTANA_DT:0 "султану" #GetTitleDT
+ GREAT_SULTANA_DT:0 "великому султану" #GetTitleDT
+ DAI_female_DT:0 "даи" #GetTitleDT
+ MALIKAH_DT:0 "малике" #GetTitleDT
+ SHEIKHA_DT:0 "шейхе" #GetTitleDT
+ HATUN_DT:0 "хатун" #GetTitleDT
+ PRINCEZA_DT:0 "княгине" #GetTitleDT
+ NAWAB_BEGUM_DT:0 "наваб-бегум" #GetTitleDT
+ NIZAM_BEGUM_DT:0 "низам-бегум" #GetTitleDT
+ KNIAGINIA_DT:0 "княгине" #GetTitleDT
+ GREAT_KNIAGINIA_DT:0 "великой княгине" #GetTitleDT
+ BISHOP_ELECTOR_fem_DT:0 "епископу-курфюрсту" #GetTitleDT
+ ARCHBISHOP_ELECTOR_fem_DT:0 "архиепископу-курфюрсту" #GetTitleDT
+ MATRIARCH_ELECTOR_DT:0 "матриарху-курфюрсту" #GetTitleDT
+ BISHOP_fem_DT:0 "епископу" #GetTitleDT
+ ARCHBISHOP_fem_DT:0 "архиепископу" #GetTitleDT
+ MATRIARCH_DT:0 "матриарху" #GetTitleDT
+ PROTECTOR_fem_DT:0 "протектору" #GetTitleDT
+ LADY_PROTECTOR_DT:0 "леди-протектору" #GetTitleDT
+ PRESIDENT_fem_DT:0 "президенту" #GetTitleDT
+ KHATUN_DT:0 "хатун" #GetTitleDT
+ GREAT_KHATUN_DT:0 "великой хатун" #GetTitleDT
+ NUTSAL_fem_DT:0 "нуцалу" #GetTitleDT
+ GEGE_DT:0 "гэгэ" #GetTitleDT
+ HIGH_CHIEFTESS_DT:0 "верховному вождю" #GetTitleDT
+ PARAMOUNT_CHIEFTESS_DT:0 "первому вождю" #GetTitleDT
+ ELDER_fem_DT:0 "старейшине" #GetTitleDT
+ HIGH_ELDER_fem_DT:0 "главной старейшине" #GetTitleDT
+ PARAMOUNT_ELDER_fem_DT:0 "верховной старейшине" #GetTitleDT
+ OLDERMAND_fem_DT:0 "альдерквинде" #GetTitleDT
+ STORBONDE_fem_DT:0 "стурбонде" #GetTitleDT
+ LANDSBONDE_fem_DT:0 "ландсбонде" #GetTitleDT
+ MOBEDYAR_DT:0 "мобедъяре" #GetTitleDT
+ DAUGHTER_OF_HEAVEN_DT:0 "дочери Неба" #GetTitleDT
+ HIGH_PRIESTESS_DT:0 "верховной жрице" #GetTitleDT
+ PARAMOUNT_PRIESTESS_DT:0 "первой жрице" #GetTitleDT
+ PRIESTESS_DT:0 "жрице" #GetTitleDT
+ TSARITSA_DT:0 "царице" #GetTitleDT
+ GREAT_PRINCESS_DT:0 "великой княгине" #GetTitleDT
+ DOGARESSA_DT:0 "догарессе" #GetTitleDT
+ SERENE_DOGARESSA_DT:0 "светлейшей догарессе" #GetTitleDT
+ GREAT_DOGARESSA_DT:0 "великой догарессе" #GetTitleDT
+ RECTORA_DT:0 "ректору" #GetTitleDT
+ GRAND_RECTORA_DT:0 "главному ректору" #GetTitleDT
+ GREAT_RECTORA_DT:0 "великому ректору" #GetTitleDT
+ GRAND_KNIAGINIA_DT:0 "великой княгине" #GetTitleDT
+ PRINCEZA_DT:0 "княгине" #GetTitleDT
+ GONFALONIERE_fem_DT:0 "гонфалоньере" #GetTitleDT
+ GRAND_CONSULESS_DT:0 "главному консулу" #GetTitleDT
+ GREAT_CONSULESS_DT:0 "великому консулу" #GetTitleDT
+ CAPTAIN_DEFENDER_fem_DT:0 "капитану-защитнице" #GetTitleDT
+ SYNDIC_fem_DT:0 "синдику" #GetTitleDT
+ GRAND_SYNDIC_fem_DT:0 "великому синдику" #GetTitleDT
+ COUNCILOR_fem_DT:0 "советнику" #GetTitleDT
+ GRAND_COUNCILOR_fem_DT:0 "великому советнику" #GetTitleDT
+ HIGH_COUNCILOR_fem_DT:0 "верховному советнику" #GetTitleDT
+ CHANCELOR_fem_DT:0 "канцлеру" #GetTitleDT
+ POPETTE_DT:0 "папессе" #GetTitleDT
+ GOVERNESS_DT:0 "губернатору" #GetTitleDT
+ DIRECTORESS_DT:0 "директрисе" #GetTitleDT
+ ATAMAN_fem_DT:0 "атаману" #GetTitleDT
+ HETMAN_fem_DT:0 "гетману" #GetTitleDT
+ GREAT_HETMAN_fem_DT:0 "великому гетману" #GetTitleDT
+ SHARIFA_DT:0 "шарифе" #GetTitleDT
+ GRAND_SHARIFA_DT:0 "великой шарифе" #GetTitleDT
+ GREAT_SHARIFA_DT:0 "верховной шарифе" #GetTitleDT
+ MAYORESS_DT:0 "мэру" #GetTitleDT
+ ILKHATUN_DT:0 "ильхатун" #GetTitleDT
+ ###На вопрос сделано кем?
+ DUCHESS_TV:0 "герцогиней" #GetTitleTV
+ QUEEN_TV:0 "королевой" #GetTitleTV
+ EMPRESS_TV:0 "императрицой" #GetTitleTV
+ GRAND_PENSIONARY_fem_TV:0 "великим пенсионарием" #GetTitleTV
+ STADTHOLDERESS_TV:0 "статхаудтрессой" #GetTitleTV
+ GREAT_STADTHOLDERESS_TV:0 "главной статхаудтрессой" #GetTitleTV
+ PRINCESS_ELECTOR_TV:0 "герцогиней-курфюрстом" #GetTitleTV
+ QUEEN_ELECTOR_TV:0 "королевой-курфюрстом" #GetTitleTV
+ COUNTESS_TV:0 "графиней" #GetTitleTV
+ HIGH_QUEEN_TV:0 "верховной королевой" #GetTitleTV
+ SHOGUNESS_TV:0 "сёгуном" #GetTitleTV
+ LADY_TV:0 "леди" #GetTitleTV		
+ ATABEG_fem_TV:0 "атабекой" #GetTitleTV
+ GREAT_MANSA_fem_TV:0 "великой мансой" #GetTitleTV
+ JAM_fem_TV:0 "джамой" #GetTitleTV
+ GRAND_JAM_fem_TV:0 "большой джамой" #GetTitleTV
+ GREAT_JAM_fem_TV:0 "великой джамой" #GetTitleTV
+ GRAND_DUCHESS_TV:0 "великой княгиней" #GetTitleTV
+ ARCHDUCHESS_TV:0 "эрцгерцогиней" #GetTitleTV
+ PRINCESS_TV:0 "княгиней" #GetTitleTV
+ KRALJICA_TV:0 "кральицей" #GetTitleTV
+ CARICA_TV:0 "царицей" #GetTitleTV
+ VOJVODKINJA_TV:0 "воеводкиной" #GetTitleTV
+ DESPOTISSA_TV:0 "деспотиссой" #GetTitleTV
+ AUTOKRATEIRA_TV:0 "автократейрой" #GetTitleTV
+ BASILISSA_TV:0 "базилиссой" #GetTitleTV
+ PHARAOH_fem_TV:0 "фараоном" #GetTitleTV
+ GREAT_PHARAOH_fem_TV:0 "великим фараоном" #GetTitleTV
+ TYRANT_fem_TV:0 "тираном" #GetTitleTV
+ HEGEMON_fem_TV:0 "гегемоном" #GetTitleTV
+ CHIEFTESS_TV:0 "вождём" #GetTitleTV
+ REGINA_TV:0 "региной" #GetTitleTV
+ IMPERATRIX_TV:0 "императрицой" #GetTitleTV
+ RANI_TV:0 "рани" #GetTitleTV
+ MAHARANI_TV:0 "махарани" #GetTitleTV
+ TATKISHO_FEM_TV:0 "таткишо" #GetTitleTV
+ TATO_FEM_TV:0 "тато" #GetTitleTV
+ ATIO_FEM_TV:0 "атио" #GetTitleTV
+ LE_ELT_TV:0 "ле'эльтой" #GetTitleTV
+ NIGIST_TV:0 "нигистой" #GetTitleTV
+ NIGISTE_NIGIST_TV:0 "нигиста нигистой" #GetTitleTV
+ MUGO_TV:0 "муго" #GetTitleTV
+ GREAT_MUGO_TV:0 "великой муго" #GetTitleTV
+ BALOPWE_fem_TV:0 "великой муго" #GetTitleTV
+ MULOPWE_fem_TV:0 "мулопве" #GetTitleTV
+ GREAT_MULOPWE_fem_TV:0 "великой мулопве" #GetTitleTV
+ MWENEMUTAPA_fem_TV:0 "мвенемутапой" #GetTitleTV
+ GREAT_MWENEMUTAPA_fem_TV:0 "великой мвенемутапой" #GetTitleTV
+ UMUGABEKAZI_TV:0 "умугабекази" #GetTitleTV
+ NNABAGEREKA_TV:0 "набагерекой" #GetTitleTV
+ GREAT_NNABAGEREKA_TV:0 "великой набагерекой" #GetTitleTV
+ MARGRAVINE_TV:0 "маркграфиней" #GetTitleTV
+ VICEREINE_TV:0 "вице-королевой" #GetTitleTV
+ EMIRA_TV:0 "эмирой" #GetTitleTV
+ SULTANA_TV:0 "султаной" #GetTitleTV
+ GREAT_SULTANA_TV:0 "великой султаной" #GetTitleTV
+ DAI_female_TV:0 "даи" #GetTitleTV
+ MALIKAH_TV:0 "маликой" #GetTitleTV
+ SHEIKHA_TV:0 "шейхей" #GetTitleTV
+ HATUN_TV:0 "хатун" #GetTitleTV
+ PRINCEZA_TV:0 "княгиней" #GetTitleTV
+ NAWAB_BEGUM_TV:0 "наваб-бегум" #GetTitleTV
+ NIZAM_BEGUM_TV:0 "низам-бегум" #GetTitleTV
+ KNIAGINIA_TV:0 "княгиней" #GetTitleTV
+ GREAT_KNIAGINIA_TV:0 "великой княгиней" #GetTitleTV
+ BISHOP_ELECTOR_fem_TV:0 "епископом-курфюрстом" #GetTitleTV
+ ARCHBISHOP_ELECTOR_fem_TV:0 "архиепископом-курфюрстом" #GetTitleTV
+ MATRIARCH_ELECTOR_TV:0 "матриархом-курфюрстом" #GetTitleTV
+ BISHOP_fem_TV:0 "епископом" #GetTitleTV
+ ARCHBISHOP_fem_TV:0 "архиепископом" #GetTitleTV
+ MATRIARCH_TV:0 "матриархом" #GetTitleTV
+ PROTECTOR_fem_TV:0 "протектором" #GetTitleTV
+ LADY_PROTECTOR_TV:0 "леди-протектором" #GetTitleTV
+ PRESIDENT_fem_TV:0 "президентом" #GetTitleTV
+ KHATUN_TV:0 "хатун" #GetTitleTV
+ GREAT_KHATUN_TV:0 "великой хатун" #GetTitleTV
+ NUTSAL_fem_TV:0 "нуцалой" #GetTitleTV
+ GEGE_TV:0 "гэгэ" #GetTitleTV
+ HIGH_CHIEFTESS_TV:0 "верховным вождём" #GetTitleTV
+ PARAMOUNT_CHIEFTESS_TV:0 "первым вождём" #GetTitleTV
+ ELDER_fem_TV:0 "старейшиной" #GetTitleTV
+ HIGH_ELDER_fem_TV:0 "главной старейшиной" #GetTitleTV
+ PARAMOUNT_ELDER_fem_TV:0 "верховной старейшиной" #GetTitleTV
+ OLDERMAND_fem_TV:0 "альдерквиндой" #GetTitleTV
+ STORBONDE_fem_TV:0 "стурбондой" #GetTitleTV
+ LANDSBONDE_fem_TV:0 "ландсбондой" #GetTitleTV
+ MOBEDYAR_TV:0 "мобедъярой" #GetTitleTV
+ DAUGHTER_OF_HEAVEN_TV:0 "дочерью Неба" #GetTitleTV
+ HIGH_PRIESTESS_TV:0 "верховной жрицей" #GetTitleTV
+ PARAMOUNT_PRIESTESS_TV:0 "первой жрицей" #GetTitleTV
+ PRIESTESS_TV:0 "жрицей" #GetTitleTV
+ TSARITSA_TV:0 "царицей" #GetTitleTV
+ GREAT_PRINCESS_TV:0 "великой княгиней" #GetTitleTV
+ DOGARESSA_TV:0 "догарессой" #GetTitleTV
+ SERENE_DOGARESSA_TV:0 "светлейшей догарессой" #GetTitleTV
+ GREAT_DOGARESSA_TV:0 "великой догарессой" #GetTitleTV
+ RECTORA_TV:0 "ректором" #GetTitleTV
+ GRAND_RECTORA_TV:0 "главным ректором" #GetTitleTV
+ GREAT_RECTORA_TV:0 "великим ректором" #GetTitleTV
+ GRAND_KNIAGINIA_TV:0 "великой княгиней" #GetTitleTV
+ PRINCEZA_TV:0 "княгиней" #GetTitleTV
+ GONFALONIERE_fem_TV:0 "гонфалоньерой" #GetTitleTV
+ GRAND_CONSULESS_TV:0 "главным консулом" #GetTitleTV
+ GREAT_CONSULESS_TV:0 "великим консулом" #GetTitleTV
+ CAPTAIN_DEFENDER_fem_TV:0 "капитаном-защитницей" #GetTitleTV
+ SYNDIC_fem_TV:0 "синдиком" #GetTitleTV
+ GRAND_SYNDIC_fem_TV:0 "великим синдиком" #GetTitleTV
+ COUNCILOR_fem_TV:0 "советником" #GetTitleTV
+ GRAND_COUNCILOR_fem_TV:0 "великим советником" #GetTitleTV
+ HIGH_COUNCILOR_fem_TV:0 "верховным советником" #GetTitleTV
+ CHANCELOR_fem_TV:0 "канцлером" #GetTitleTV
+ POPETTE_TV:0 "папессой" #GetTitleTV
+ GOVERNESS_TV:0 "губернатором" #GetTitleTV
+ DIRECTORESS_TV:0 "директрисой" #GetTitleTV
+ ATAMAN_fem_TV:0 "атаманом" #GetTitleTV
+ HETMAN_fem_TV:0 "гетманом" #GetTitleTV
+ GREAT_HETMAN_fem_TV:0 "великим гетманом" #GetTitleTV
+ SHARIFA_TV:0 "шарифой" #GetTitleTV
+ GRAND_SHARIFA_TV:0 "великой шарифой" #GetTitleTV
+ GREAT_SHARIFA_TV:0 "верховной шарифой" #GetTitleTV
+ MAYORESS_TV:0 "мэром" #GetTitleTV
+ ILKHATUN_TV:0 "ильхатун" #GetTitleTV
+ ###На вопрос о ком?
+ DUCHESS_PR:0 "герцогине" #GetTitlePR
+ QUEEN_PR:0 "королеве" #GetTitlePR
+ EMPRESS_PR:0 "императрице" #GetTitlePR
+ GRAND_PENSIONARY_fem_PR:0 "великом пенсионарии" #GetTitlePR
+ STADTHOLDERESS_PR:0 "статхаудтрессе" #GetTitlePR
+ GREAT_STADTHOLDERESS_PR:0 "главной статхаудтрессе" #GetTitlePR
+ PRINCESS_ELECTOR_PR:0 "герцогине-курфюрсте" #GetTitlePR
+ QUEEN_ELECTOR_PR:0 "королеве-курфюрсте" #GetTitlePR
+ COUNTESS_PR:0 "графине" #GetTitlePR
+ HIGH_QUEEN_PR:0 "верховной королеве" #GetTitlePR
+ SHOGUNESS_PR:0 "сёгуну" #GetTitlePR
+ LADY_PR:0 "леди" #GetTitlePR		
+ ATABEG_fem_PR:0 "атабеке" #GetTitlePR
+ GREAT_MANSA_fem_PR:0 "великой мансе" #GetTitlePR
+ JAM_fem_PR:0 "джаме" #GetTitlePR
+ GRAND_JAM_fem_PR:0 "большой джаме" #GetTitlePR
+ GREAT_JAM_fem_PR:0 "великой джаме" #GetTitlePR
+ GRAND_DUCHESS_PR:0 "великой княгине" #GetTitlePR
+ ARCHDUCHESS_PR:0 "эрцгерцогине" #GetTitlePR
+ PRINCESS_PR:0 "княгине" #GetTitlePR
+ KRALJICA_PR:0 "кральице" #GetTitlePR
+ CARICA_PR:0 "царице" #GetTitlePR
+ VOJVODKINJA_PR:0 "воеводкине" #GetTitlePR
+ DESPOTISSA_PR:0 "деспотиссе" #GetTitlePR
+ AUTOKRATEIRA_PR:0 "автократейре" #GetTitlePR
+ BASILISSA_PR:0 "базилиссе" #GetTitlePR
+ PHARAOH_fem_PR:0 "фараону" #GetTitlePR
+ GREAT_PHARAOH_fem_PR:0 "великому фараону" #GetTitlePR
+ TYRANT_fem_PR:0 "тирану" #GetTitlePR
+ HEGEMON_fem_PR:0 "гегемону" #GetTitlePR
+ CHIEFTESS_PR:0 "вождю" #GetTitlePR
+ REGINA_PR:0 "регине" #GetTitlePR
+ IMPERATRIX_PR:0 "императрице" #GetTitlePR
+ RANI_PR:0 "рани" #GetTitlePR
+ MAHARANI_PR:0 "махарани" #GetTitlePR
+ TATKISHO_FEM_PR:0 "таткишо" #GetTitlePR
+ TATO_FEM_PR:0 "тато" #GetTitlePR
+ ATIO_FEM_PR:0 "атио" #GetTitlePR
+ LE_ELT_PR:0 "ле'эльте" #GetTitlePR
+ NIGIST_PR:0 "нигисте" #GetTitlePR
+ NIGISTE_NIGIST_PR:0 "нигиста нигисте" #GetTitlePR
+ MUGO_PR:0 "муго" #GetTitlePR
+ GREAT_MUGO_PR:0 "великой муго" #GetTitlePR
+ BALOPWE_fem_PR:0 "великой муго" #GetTitlePR
+ MULOPWE_fem_PR:0 "мулопве" #GetTitlePR
+ GREAT_MULOPWE_fem_PR:0 "великой мулопве" #GetTitlePR
+ MWENEMUTAPA_fem_PR:0 "мвенемутапе" #GetTitlePR
+ GREAT_MWENEMUTAPA_fem_PR:0 "великой мвенемутапе" #GetTitlePR
+ UMUGABEKAZI_PR:0 "умугабекази" #GetTitlePR
+ NNABAGEREKA_PR:0 "набагереке" #GetTitlePR
+ GREAT_NNABAGEREKA_PR:0 "великой набагереке" #GetTitlePR
+ MARGRAVINE_PR:0 "маркграфине" #GetTitlePR
+ VICEREINE_PR:0 "вице-королеве" #GetTitlePR
+ EMIRA_PR:0 "эмире" #GetTitlePR
+ SULTANA_PR:0 "султане" #GetTitlePR
+ GREAT_SULTANA_PR:0 "великой султане" #GetTitlePR
+ DAI_female_PR:0 "даи" #GetTitlePR
+ MALIKAH_PR:0 "малике" #GetTitlePR
+ SHEIKHA_PR:0 "шейхе" #GetTitlePR
+ HATUN_PR:0 "хатун" #GetTitlePR
+ PRINCEZA_PR:0 "княгине" #GetTitlePR
+ NAWAB_BEGUM_PR:0 "наваб-бегум" #GetTitlePR
+ NIZAM_BEGUM_PR:0 "низам-бегум" #GetTitlePR
+ KNIAGINIA_PR:0 "княгине" #GetTitlePR
+ GREAT_KNIAGINIA_PR:0 "великой княгине" #GetTitlePR
+ BISHOP_ELECTOR_fem_PR:0 "епископе-курфюрсте" #GetTitlePR
+ ARCHBISHOP_ELECTOR_fem_PR:0 "архиепископе-курфюрсте" #GetTitlePR
+ MATRIARCH_ELECTOR_PR:0 "матриархе-курфюрсте" #GetTitlePR
+ BISHOP_fem_PR:0 "епископе" #GetTitlePR
+ ARCHBISHOP_fem_PR:0 "архиепископе" #GetTitlePR
+ MATRIARCH_PR:0 "матриархе" #GetTitlePR
+ PROTECTOR_fem_PR:0 "протекторе" #GetTitlePR
+ LADY_PROTECTOR_PR:0 "леди-протекторе" #GetTitlePR
+ PRESIDENT_fem_PR:0 "президенте" #GetTitlePR
+ KHATUN_PR:0 "хатун" #GetTitlePR
+ GREAT_KHATUN_PR:0 "великой хатун" #GetTitlePR
+ NUTSAL_fem_PR:0 "нуцале" #GetTitlePR
+ GEGE_PR:0 "гэгэ" #GetTitlePR
+ HIGH_CHIEFTESS_PR:0 "верховном вожде" #GetTitlePR
+ PARAMOUNT_CHIEFTESS_PR:0 "первом вожде" #GetTitlePR
+ ELDER_fem_PR:0 "старейшине" #GetTitlePR
+ HIGH_ELDER_fem_PR:0 "главной старейшине" #GetTitlePR
+ PARAMOUNT_ELDER_fem_PR:0 "верховной старейшине" #GetTitlePR
+ OLDERMAND_fem_PR:0 "альдерквинде" #GetTitlePR
+ STORBONDE_fem_PR:0 "стурбонде" #GetTitlePR
+ LANDSBONDE_fem_PR:0 "ландсбонде" #GetTitlePR
+ MOBEDYAR_PR:0 "мобедъяре" #GetTitlePR
+ DAUGHTER_OF_HEAVEN_PR:0 "дочери Неба" #GetTitlePR
+ HIGH_PRIESTESS_PR:0 "верховной жрице" #GetTitlePR
+ PARAMOUNT_PRIESTESS_PR:0 "первой жрице" #GetTitlePR
+ PRIESTESS_PR:0 "жрице" #GetTitlePR
+ TSARITSA_PR:0 "царице" #GetTitlePR
+ GREAT_PRINCESS_PR:0 "великой княгине" #GetTitlePR
+ DOGARESSA_PR:0 "догарессе" #GetTitlePR
+ SERENE_DOGARESSA_PR:0 "светлейшей догарессе" #GetTitlePR
+ GREAT_DOGARESSA_PR:0 "великой догарессе" #GetTitlePR
+ RECTORA_PR:0 "ректоре" #GetTitlePR
+ GRAND_RECTORA_PR:0 "главном ректоре" #GetTitlePR
+ GREAT_RECTORA_PR:0 "великом ректоре" #GetTitlePR
+ GRAND_KNIAGINIA_PR:0 "великой княгине" #GetTitlePR
+ PRINCEZA_PR:0 "княгине" #GetTitlePR
+ GONFALONIERE_fem_PR:0 "гонфалоньере" #GetTitlePR
+ GRAND_CONSULESS_PR:0 "главном консуле" #GetTitlePR
+ GREAT_CONSULESS_PR:0 "великом консуле" #GetTitlePR
+ CAPTAIN_DEFENDER_fem_PR:0 "капитане-защитнице" #GetTitlePR
+ SYNDIC_fem_PR:0 "синдике" #GetTitlePR
+ GRAND_SYNDIC_fem_PR:0 "великом синдике" #GetTitlePR
+ COUNCILOR_fem_PR:0 "советнике" #GetTitlePR
+ GRAND_COUNCILOR_fem_PR:0 "великом советнике" #GetTitlePR
+ HIGH_COUNCILOR_fem_PR:0 "верховном советнике" #GetTitlePR
+ CHANCELOR_fem_PR:0 "канцлере" #GetTitlePR
+ POPETTE_PR:0 "папессе" #GetTitlePR
+ GOVERNESS_PR:0 "губернаторе" #GetTitlePR
+ DIRECTORESS_PR:0 "директрисе" #GetTitlePR
+ ATAMAN_fem_PR:0 "атамане" #GetTitlePR
+ HETMAN_fem_PR:0 "гетмане" #GetTitlePR
+ GREAT_HETMAN_fem_PR:0 "великом гетманоме" #GetTitlePR
+ SHARIFA_PR:0 "шарифое" #GetTitlePR
+ GRAND_SHARIFA_PR:0 "великой шарифе" #GetTitlePR
+ GREAT_SHARIFA_PR:0 "верховной шарифе" #GetTitlePR
+ MAYORESS_PR:0 "мэре" #GetTitlePR
+ ILKHATUN_PR:0 "ильхатун" #GetTitlePR
+ ###На вопрос вижу кого?
+ DUCHESS_VN:0 "герцогиню" #GetTitleVN
+ QUEEN_VN:0 "королеву" #GetTitleVN
+ EMPRESS_VN:0 "императрицу" #GetTitleVN
+ GRAND_PENSIONARY_fem_VN:0 "великую пенсионарию" #GetTitleVN
+ STADTHOLDERESS_VN:0 "статхаудтрессу" #GetTitleVN
+ GREAT_STADTHOLDERESS_VN:0 "главную статхаудтрессу" #GetTitleVN
+ PRINCESS_ELECTOR_VN:0 "герцогиню-курфюрста" #GetTitleVN
+ QUEEN_ELECTOR_VN:0 "королеву-курфюрста" #GetTitleVN
+ COUNTESS_VN:0 "графиню" #GetTitleVN
+ HIGH_QUEEN_VN:0 "верховную королеву" #GetTitleVN
+ SHOGUNESS_VN:0 "сёгуна" #GetTitleVN
+ LADY_VN:0 "леди" #GetTitleVN		
+ ATABEG_fem_VN:0 "атабеку" #GetTitleVN
+ GREAT_MANSA_fem_VN:0 "великую мансу" #GetTitleVN
+ JAM_fem_VN:0 "джам" #GetTitleVN
+ GRAND_JAM_fem_VN:0 "большую джам" #GetTitleVN
+ GREAT_JAM_fem_VN:0 "великую джам" #GetTitleVN
+ GRAND_DUCHESS_VN:0 "великую княгиню" #GetTitleVN
+ ARCHDUCHESS_VN:0 "эрцгерцогиню" #GetTitleVN
+ PRINCESS_VN:0 "княгиню" #GetTitleVN
+ KRALJICA_VN:0 "кральицу" #GetTitleVN
+ CARICA_VN:0 "царицу" #GetTitleVN
+ VOJVODKINJA_VN:0 "воеводкину" #GetTitleVN
+ DESPOTISSA_VN:0 "деспотиссу" #GetTitleVN
+ AUTOKRATEIRA_VN:0 "автократейру" #GetTitleVN
+ BASILISSA_VN:0 "базилиссу" #GetTitleVN
+ PHARAOH_fem_VN:0 "фараона" #GetTitleVN
+ GREAT_PHARAOH_fem_VN:0 "великого фараона" #GetTitleVN
+ TYRANT_fem_VN:0 "тирана" #GetTitleVN
+ HEGEMON_fem_VN:0 "гегемона" #GetTitleVN
+ CHIEFTESS_VN:0 "вождя" #GetTitleVN
+ REGINA_VN:0 "регину" #GetTitleVN
+ IMPERATRIX_VN:0 "императрицу" #GetTitleVN
+ RANI_VN:0 "рани" #GetTitleVN
+ MAHARANI_VN:0 "махарани" #GetTitleVN
+ TATKISHO_FEM_VN:0 "таткишо" #GetTitleVN
+ TATO_FEM_VN:0 "тато" #GetTitleVN
+ ATIO_FEM_VN:0 "атио" #GetTitleVN
+ LE_ELT_VN:0 "ле'эльт" #GetTitleVN
+ NIGIST_VN:0 "нигист" #GetTitleVN
+ NIGISTE_NIGIST_VN:0 "нигиста нигист" #GetTitleVN
+ MUGO_VN:0 "муго" #GetTitleVN
+ GREAT_MUGO_VN:0 "великую муго" #GetTitleVN
+ BALOPWE_fem_VN:0 "великую муго" #GetTitleVN
+ MULOPWE_fem_VN:0 "мулопве" #GetTitleVN
+ GREAT_MULOPWE_fem_VN:0 "великую мулопве" #GetTitleVN
+ MWENEMUTAPA_fem_VN:0 "мвенемутапу" #GetTitleVN
+ GREAT_MWENEMUTAPA_fem_VN:0 "великую мвенемутапу" #GetTitleVN
+ UMUGABEKAZI_VN:0 "умугабекази" #GetTitleVN
+ NNABAGEREKA_VN:0 "набагереку" #GetTitleVN
+ GREAT_NNABAGEREKA_VN:0 "великую набагереку" #GetTitleVN
+ MARGRAVINE_VN:0 "маркграфиню" #GetTitleVN
+ VICEREINE_VN:0 "вице-королеву" #GetTitleVN
+ EMIRA_VN:0 "эмиру" #GetTitleVN
+ SULTANA_VN:0 "султану" #GetTitleVN
+ GREAT_SULTANA_VN:0 "великую султану" #GetTitleVN
+ DAI_female_VN:0 "даи" #GetTitleVN
+ MALIKAH_VN:0 "малику" #GetTitleVN
+ SHEIKHA_VN:0 "шейху" #GetTitleVN
+ HATUN_VN:0 "хатун" #GetTitleVN
+ PRINCEZA_VN:0 "княгиню" #GetTitleVN
+ NAWAB_BEGUM_VN:0 "наваб-бегум" #GetTitleVN
+ NIZAM_BEGUM_VN:0 "низам-бегум" #GetTitleVN
+ KNIAGINIA_VN:0 "княгиню" #GetTitleVN
+ GREAT_KNIAGINIA_VN:0 "великую княгиню" #GetTitleVN
+ BISHOP_ELECTOR_fem_VN:0 "епископа-курфюрста" #GetTitleVN
+ ARCHBISHOP_ELECTOR_fem_VN:0 "архиепископа-курфюрста" #GetTitleVN
+ MATRIARCH_ELECTOR_VN:0 "матриарха-курфюрста" #GetTitleVN
+ BISHOP_fem_VN:0 "епископа" #GetTitleVN
+ ARCHBISHOP_fem_VN:0 "архиепископа" #GetTitleVN
+ MATRIARCH_VN:0 "матриарха" #GetTitleVN
+ PROTECTOR_fem_VN:0 "протектора" #GetTitleVN
+ LADY_PROTECTOR_VN:0 "леди-протектора" #GetTitleVN
+ PRESIDENT_fem_VN:0 "президента" #GetTitleVN
+ KHATUN_VN:0 "хатун" #GetTitleVN
+ GREAT_KHATUN_VN:0 "великую хатун" #GetTitleVN
+ NUTSAL_fem_VN:0 "нуцалу" #GetTitleVN
+ GEGE_VN:0 "гэгэ" #GetTitleVN
+ HIGH_CHIEFTESS_VN:0 "верховного вождя" #GetTitleVN
+ PARAMOUNT_CHIEFTESS_VN:0 "первого вождя" #GetTitleVN
+ ELDER_fem_VN:0 "старейшину" #GetTitleVN
+ HIGH_ELDER_fem_VN:0 "главную старейшину" #GetTitleVN
+ PARAMOUNT_ELDER_fem_VN:0 "верховную старейшину" #GetTitleVN
+ OLDERMAND_fem_VN:0 "альдерквинду" #GetTitleVN
+ STORBONDE_fem_VN:0 "стурбонду" #GetTitleVN
+ LANDSBONDE_fem_VN:0 "ландсбонду" #GetTitleVN
+ MOBEDYAR_VN:0 "мобедъяру" #GetTitleVN
+ DAUGHTER_OF_HEAVEN_VN:0 "дочь Неба" #GetTitleVN
+ HIGH_PRIESTESS_VN:0 "верховную жрицу" #GetTitleVN
+ PARAMOUNT_PRIESTESS_VN:0 "первую жрицу" #GetTitleVN
+ PRIESTESS_VN:0 "жрицу" #GetTitleVN
+ TSARITSA_VN:0 "царицу" #GetTitleVN
+ GREAT_PRINCESS_VN:0 "великую княгиню" #GetTitleVN
+ DOGARESSA_VN:0 "догарессу" #GetTitleVN
+ SERENE_DOGARESSA_VN:0 "светлейшую догарессу" #GetTitleVN
+ GREAT_DOGARESSA_VN:0 "великую догарессу" #GetTitleVN
+ RECTORA_VN:0 "ректора" #GetTitleVN
+ GRAND_RECTORA_VN:0 "главного ректора" #GetTitleVN
+ GREAT_RECTORA_VN:0 "великого ректора" #GetTitleVN
+ GRAND_KNIAGINIA_VN:0 "великую княгиню" #GetTitleVN
+ PRINCEZA_VN:0 "княгиню" #GetTitleVN
+ GONFALONIERE_fem_VN:0 "гонфалоньера" #GetTitleVN
+ GRAND_CONSULESS_VN:0 "главного консула" #GetTitleVN
+ GREAT_CONSULESS_VN:0 "великого консула" #GetTitleVN
+ CAPTAIN_DEFENDER_fem_VN:0 "капитана-защитницу" #GetTitleVN
+ SYNDIC_fem_VN:0 "синдика" #GetTitleVN
+ GRAND_SYNDIC_fem_VN:0 "великого синдика" #GetTitleVN
+ COUNCILOR_fem_VN:0 "советника" #GetTitleVN
+ GRAND_COUNCILOR_fem_VN:0 "великого советника" #GetTitleVN
+ HIGH_COUNCILOR_fem_VN:0 "верховного советника" #GetTitleVN
+ CHANCELOR_fem_VN:0 "канцлера" #GetTitleVN
+ POPETTE_VN:0 "папессу" #GetTitleVN
+ GOVERNESS_VN:0 "губернатора" #GetTitleVN
+ DIRECTORESS_VN:0 "директрису" #GetTitleVN
+ ATAMAN_fem_VN:0 "атамана" #GetTitleVN
+ HETMAN_fem_VN:0 "гетмана" #GetTitleVN
+ GREAT_HETMAN_fem_VN:0 "великого гетмана" #GetTitleVN
+ SHARIFA_VN:0 "шарифы" #GetTitleVN
+ GRAND_SHARIFA_VN:0 "великую шарифу" #GetTitleVN
+ GREAT_SHARIFA_VN:0 "верховную шарифу" #GetTitleVN
+ MAYORESS_VN:0 "мэра" #GetTitleVN
+ ILKHATUN_VN:0 "ильхатун" #GetTitleVN
+ ########Варианты наследника########
+ ###На вопрос это кто?
+ HEIR_IM:0 "наследник" #GetTitleHeirIM
+ KHANZADEH_IM:0 "ханзаде" #GetTitleHeirIM
+ KHANUM_IM:0 "ханум" #GetTitleHeirIM
+ PASHAZADE_IM:0 "пашазаде" #GetTitleHeirIM
+ BEYSADE_IM:0 "бейзаде" #GetTitleHeirIM
+ BEYSADI_IM:0 "бейсади" #GetTitleHeirIM
+ DAUPHIN_IM:0 "дофин" #GetTitleHeirIM
+ DAUPHINE_IM:0 "дофинесса" #GetTitleHeirIM
+ AMIRZADE_IM:0 "амирзаде" #GetTitleHeirIM
+ SHAHZADE_IM:0 "шахзаде" #GetTitleHeirIM
+ MIRZA_IM:0 "мурза" #GetTitleHeirIM
+ SHAHDOKHT_IM:0 "шахдохт" #GetTitleHeirIM
+ AMIR_IM:0 "амир" #GetTitleHeirIM
+ AMIRAD_IM:0 "амирад" #GetTitleHeirIM
+ VALI_AHAD_IM:0 "вали-ахад" #GetTitleHeirIM
+ NAWABZADA_IM:0 "набобзада" #GetTitleHeirIM
+ NIZAMZADA_IM:0 "низамзада" #GetTitleHeirIM
+ RAJKUMAR_IM:0 "раджкумар" #GetTitleHeirIM
+ RAJKUMARI_IM:0 "раджкумари" #GetTitleHeirIM
+ ABETO_IM:0 "абето" #GetTitleHeirIM
+ ###На вопрос нет кого?
+ HEIR_RD:0 "наследника" #GetTitleHeirRD
+ KHANZADEH_RD:0 "ханзаде" #GetTitleHeirRD
+ KHANUM_RD:0 "ханум" #GetTitleHeirRD
+ PASHAZADE_RD:0 "пашазаде" #GetTitleHeirRD
+ BEYSADE_RD:0 "бейзаде" #GetTitleHeirRD
+ BEYSADI_RD:0 "бейсади" #GetTitleHeirRD
+ DAUPHIN_RD:0 "дофина" #GetTitleHeirRD
+ DAUPHINE_RD:0 "дофинессы" #GetTitleHeirRD
+ AMIRZADE_RD:0 "амирзаде" #GetTitleHeirRD
+ SHAHZADE_RD:0 "шахзаде" #GetTitleHeirRD
+ MIRZA_RD:0 "мурзы" #GetTitleHeirRD
+ SHAHDOKHT_RD:0 "шахдохт" #GetTitleHeirRD
+ AMIR_RD:0 "амира" #GetTitleHeirRD
+ AMIRAD_RD:0 "амирады" #GetTitleHeirRD
+ VALI_AHAD_RD:0 "вали-ахада" #GetTitleHeirRD
+ NAWABZADA_RD:0 "набобзады" #GetTitleHeirRD
+ NIZAMZADA_RD:0 "низамзады" #GetTitleHeirRD
+ RAJKUMAR_RD:0 "раджкумара" #GetTitleHeirRD
+ RAJKUMARI_RD:0 "раджкумари" #GetTitleHeirRD
+ ABETO_RD:0 "абето" #GetTitleHeirRD
+ ###На вопрос дать кому?
+ HEIR_DT:0 "наследнику" #GetTitleHeirDT
+ KHANZADEH_DT:0 "ханзаде" #GetTitleHeirDT
+ KHANUM_DT:0 "ханум" #GetTitleHeirDT
+ PASHAZADE_DT:0 "пашазаде" #GetTitleHeirDT
+ BEYSADE_DT:0 "бейзаде" #GetTitleHeirDT
+ BEYSADI_DT:0 "бейсади" #GetTitleHeirDT
+ DAUPHIN_DT:0 "дофину" #GetTitleHeirDT
+ DAUPHINE_DT:0 "дофинессе" #GetTitleHeirDT
+ AMIRZADE_DT:0 "амирзаде" #GetTitleHeirDT
+ SHAHZADE_DT:0 "шахзаде" #GetTitleHeirDT
+ MIRZA_DT:0 "мурзе" #GetTitleHeirDT
+ SHAHDOKHT_DT:0 "шахдохт" #GetTitleHeirDT
+ AMIR_DT:0 "амиру" #GetTitleHeirDT
+ AMIRAD_DT:0 "амираде" #GetTitleHeirDT
+ VALI_AHAD_DT:0 "вали-ахаду" #GetTitleHeirDT
+ NAWABZADA_DT:0 "набобзаду" #GetTitleHeirDT
+ NIZAMZADA_DT:0 "низамзаду" #GetTitleHeirDT
+ RAJKUMAR_DT:0 "раджкумару" #GetTitleHeirDT
+ RAJKUMARI_DT:0 "раджкумари" #GetTitleHeirDT
+ ABETO_DT:0 "абето" #GetTitleHeirDT
+ ###На вопрос сделано кем?
+ HEIR_TV:0 "наследником" #GetTitleHeirTV
+ KHANZADEH_TV:0 "ханзаде" #GetTitleHeirTV
+ KHANUM_TV:0 "ханум" #GetTitleHeirTV
+ PASHAZADE_TV:0 "пашазаде" #GetTitleHeirTV
+ BEYSADE_TV:0 "бейзаде" #GetTitleHeirTV
+ BEYSADI_TV:0 "бейсади" #GetTitleHeirTV
+ DAUPHIN_TV:0 "дофином" #GetTitleHeirTV
+ DAUPHINE_TV:0 "дофинессой" #GetTitleHeirTV
+ AMIRZADE_TV:0 "амирзаде" #GetTitleHeirTV
+ SHAHZADE_TV:0 "шахзаде" #GetTitleHeirTV
+ MIRZA_TV:0 "мурзой" #GetTitleHeirTV
+ SHAHDOKHT_TV:0 "шахдохт" #GetTitleHeirTV
+ AMIR_TV:0 "амиром" #GetTitleHeirTV
+ AMIRAD_TV:0 "амираде" #GetTitleHeirTV
+ VALI_AHAD_TV:0 "вали-ахадом" #GetTitleHeirTV
+ NAWABZADA_TV:0 "набобзадом" #GetTitleHeirTV
+ NIZAMZADA_TV:0 "низамзадом" #GetTitleHeirTV
+ RAJKUMAR_TV:0 "раджкумаром" #GetTitleHeirTV
+ RAJKUMARI_TV:0 "раджкумари" #GetTitleHeirTV
+ ABETO_TV:0 "абето" #GetTitleHeirTV
+ ###На вопрос о ком?
+ HEIR_PR:0 "наследнике" #GetTitleHeirPR
+ KHANZADEH_PR:0 "ханзаде" #GetTitleHeirPR
+ KHANUM_PR:0 "ханум" #GetTitleHeirPR
+ PASHAZADE_PR:0 "пашазаде" #GetTitleHeirPR
+ BEYSADE_PR:0 "бейзаде" #GetTitleHeirPR
+ BEYSADI_PR:0 "бейсади" #GetTitleHeirPR
+ DAUPHIN_PR:0 "дофине" #GetTitleHeirPR
+ DAUPHINE_PR:0 "дофинессе" #GetTitleHeirPR
+ AMIRZADE_PR:0 "амирзаде" #GetTitleHeirPR
+ SHAHZADE_PR:0 "шахзаде" #GetTitleHeirPR
+ MIRZA_PR:0 "мурзе" #GetTitleHeirPR
+ SHAHDOKHT_PR:0 "шахдохт" #GetTitleHeirPR
+ AMIR_PR:0 "амире" #GetTitleHeirPR
+ AMIRAD_PR:0 "амираде" #GetTitleHeirPR
+ VALI_AHAD_PR:0 "вали-ахаде" #GetTitleHeirPR
+ NAWABZADA_PR:0 "набобзаде" #GetTitleHeirPR
+ NIZAMZADA_PR:0 "низамзаде" #GetTitleHeirPR
+ RAJKUMAR_PR:0 "раджкумаре" #GetTitleHeirPR
+ RAJKUMARI_PR:0 "раджкумари" #GetTitleHeirPR
+ ABETO_PR:0 "абето" #GetTitleHeirPR
+ ###На вопрос вижу кого?
+ HEIR_VN:0 "наследника" #GetTitleHeirVN
+ KHANZADEH_VN:0 "ханзаде" #GetTitleHeirVN
+ KHANUM_VN:0 "ханум" #GetTitleHeirVN
+ PASHAZADE_VN:0 "пашазаде" #GetTitleHeirVN
+ BEYSADE_VN:0 "бейзаде" #GetTitleHeirVN
+ BEYSADI_VN:0 "бейсади" #GetTitleHeirVN
+ DAUPHIN_VN:0 "дофина" #GetTitleHeirVN
+ DAUPHINE_VN:0 "дофинессу" #GetTitleHeirVN
+ AMIRZADE_VN:0 "амирзаде" #GetTitleHeirVN
+ SHAHZADE_VN:0 "шахзаде" #GetTitleHeirVN
+ MIRZA_VN:0 "мурзу" #GetTitleHeirVN
+ SHAHDOKHT_VN:0 "шахдохт" #GetTitleHeirVN
+ AMIR_VN:0 "амира" #GetTitleHeirVN
+ AMIRAD_VN:0 "амираде" #GetTitleHeirVN
+ VALI_AHAD_VN:0 "вали-ахаде" #GetTitleHeirVN
+ NAWABZADA_VN:0 "набобзаде" #GetTitleHeirVN
+ NIZAMZADA_VN:0 "низамзаде" #GetTitleHeirVN
+ RAJKUMAR_VN:0 "раджкумара" #GetTitleHeirVN
+ RAJKUMARI_VN:0 "раджкумари" #GetTitleHeirVN
+ ABETO_VN:0 "абето" #GetTitleHeirVN
+ ########Варианты консортов########
+ ###На вопрос это кто?
+ YEKHE_KHAGAN_IM:0 "их хаан" #GetTitleConsortIM
+ YEKHE_KHANUM_IM:0 "их хаанум" #GetTitleConsortIM
+ PRINCE_CONSORT_IM:0 "принц-консорт" #GetTitleConsortIM
+ QUEEN_CONSORT_IM:0 "королева-консорт" #GetTitleConsortIM
+ EMPRESS_CONSORT_IM:0 "императрица-консорт" #GetTitleConsortIM
+ MARGRAVE_CONSORT_IM:0 "маркграф-консорт" #GetTitleConsortIM
+ VICEROY_CONSORT_IM:0 "вице-король-консорт" #GetTitleConsortIM
+ EMPEROR_CONSORT_IM:0 "император-консорт" #GetTitleConsortIM
+ ELECTOR_IM:0 "курфюрст" #GetTitleConsortIM
+ ELECTRESS_IM:0 "курфюрстина" #GetTitleConsortIM
+ SHAH_CONSORT_IM:0 "шах-консорт" #GetTitleConsortIM
+ BOQOR_IM:0 "бокор" #GetTitleConsortIM
+ BOQORAD_IM:0 "бокорат" #GetTitleConsortIM
+ ARCHDUKE_CONSORT_IM:0 "эрцгерцог-консорт" #GetTitleConsortIM
+ KING_CONSORT_IM:0 "король-консорт" #GetTitleConsortIM
+ HASEKI_SULTAN_IM:0 "хасеки-султан" #GetTitleConsortIM
+ GRAND_DUKE_CONSORT_IM:0 "великий князь-консорт" #GetTitleConsortIM
+ PADISHAH_BEGUM_IM:0 "падишах-бегум" #GetTitleConsortIM
+ SULTANA_BEGUM_IM:0 "султана-бегум" #GetTitleConsortIM
+ PESHWIN_IM:0 "пешвин" #GetTitleConsortIM
+ JANHOY_IM:0 "джахой" #GetTitleConsortIM
+ ITEGE_IM:0 "итеге" #GetTitleConsortIM
+ CONSORT_IM:0 "консорт" #GetTitleConsortIM
+ EMIR_CONSORT_IM:0 "эмир-консорт" #GetTitleConsortIM
+ SULTAN_CONSORT_IM:0 "султан-консорт" #GetTitleConsortIM
+ PADISHAH_CONSORT_IM:0 "падишах-консорт" #GetTitleConsortIM
+ ###На вопрос нет кого?
+ YEKHE_KHAGAN_RD:0 "их хаана" #GetTitleConsortRD
+ YEKHE_KHANUM_RD:0 "их хаанум" #GetTitleConsortRD
+ PRINCE_CONSORT_RD:0 "принца-консорта" #GetTitleConsortRD
+ QUEEN_CONSORT_RD:0 "королевы-консорта" #GetTitleConsortRD
+ EMPRESS_CONSORT_RD:0 "императрицы-консорта" #GetTitleConsortRD
+ MARGRAVE_CONSORT_RD:0 "маркграфа-консорта" #GetTitleConsortRD
+ VICEROY_CONSORT_RD:0 "вице-короля-консорта" #GetTitleConsortRD
+ EMPEROR_CONSORT_RD:0 "императора-консорта" #GetTitleConsortRD
+ ELECTOR_RD:0 "курфюрста" #GetTitleConsortRD
+ ELECTRESS_RD:0 "курфюрстины" #GetTitleConsortRD
+ SHAH_CONSORT_RD:0 "шаха-консорта" #GetTitleConsortRD
+ BOQOR_RD:0 "бокора" #GetTitleConsortRD
+ BOQORAD_RD:0 "бокораты" #GetTitleConsortRD
+ ARCHDUKE_CONSORT_RD:0 "эрцгерцога-консорта" #GetTitleConsortRD
+ KING_CONSORT_RD:0 "короля-консорта" #GetTitleConsortRD
+ HASEKI_SULTAN_RD:0 "хасеки-султан" #GetTitleConsortRD
+ GRAND_DUKE_CONSORT_RD:0 "великого князя-консорта" #GetTitleConsortRD
+ PADISHAH_BEGUM_RD:0 "падишах-бегум" #GetTitleConsortRD
+ SULTANA_BEGUM_RD:0 "султаны-бегум" #GetTitleConsortRD
+ PESHWIN_RD:0 "пешвин" #GetTitleConsortRD
+ JANHOY_RD:0 "джахоя" #GetTitleConsortRD
+ ITEGE_RD:0 "итеге" #GetTitleConsortRD
+ CONSORT_RD:0 "консорта" #GetTitleConsortRD
+ EMIR_CONSORT_RD:0 "эмира-консорта" #GetTitleConsortRD
+ SULTAN_CONSORT_RD:0 "султана-консорта" #GetTitleConsortRD
+ PADISHAH_CONSORT_RD:0 "падишаха-консорта" #GetTitleConsortRD
+ ###На вопрос дать кому?
+ YEKHE_KHAGAN_DT:0 "их хаану" #GetTitleConsortDT
+ YEKHE_KHANUM_DT:0 "их хаанум" #GetTitleConsortDT
+ PRINCE_CONSORT_DT:0 "принцу-консорту" #GetTitleConsortDT
+ QUEEN_CONSORT_DT:0 "королеве-консорту" #GetTitleConsortDT
+ EMPRESS_CONSORT_DT:0 "императрице-консорту" #GetTitleConsortDT
+ MARGRAVE_CONSORT_DT:0 "маркграфу-консорту" #GetTitleConsortDT
+ VICEROY_CONSORT_DT:0 "вице-королю-консорту" #GetTitleConsortDT
+ EMPEROR_CONSORT_DT:0 "императору-консорту" #GetTitleConsortDT
+ ELECTOR_DT:0 "курфюрсту" #GetTitleConsortDT
+ ELECTRESS_DT:0 "курфюрстине" #GetTitleConsortDT
+ SHAH_CONSORT_DT:0 "шаху-консорту" #GetTitleConsortDT
+ BOQOR_DT:0 "бокору" #GetTitleConsortDT
+ BOQORAD_DT:0 "бокорате" #GetTitleConsortDT
+ ARCHDUKE_CONSORT_DT:0 "эрцгерцогу-консорту" #GetTitleConsortDT
+ KING_CONSORT_DT:0 "королю-консорту" #GetTitleConsortDT
+ HASEKI_SULTAN_DT:0 "хасеки-султане" #GetTitleConsortDT
+ GRAND_DUKE_CONSORT_DT:0 "великому князю-консорту" #GetTitleConsortDT
+ PADISHAH_BEGUM_DT:0 "падишах-бегум" #GetTitleConsortDT
+ SULTANA_BEGUM_DT:0 "султане-бегум" #GetTitleConsortDT
+ PESHWIN_DT:0 "пешвин" #GetTitleConsortDT
+ JANHOY_DT:0 "джахою" #GetTitleConsortDT
+ ITEGE_DT:0 "итеге" #GetTitleConsortDT
+ CONSORT_DT:0 "консорту" #GetTitleConsortDT
+ EMIR_CONSORT_DT:0 "эмиру-консорту" #GetTitleConsortDT
+ SULTAN_CONSORT_DT:0 "султану-консорту" #GetTitleConsortDT
+ PADISHAH_CONSORT_DT:0 "падишаху-консорту" #GetTitleConsortDT
+ ###На вопрос приказано кем?
+ YEKHE_KHAGAN_TV:0 "их хааном" #GetTitleConsortTV
+ YEKHE_KHANUM_TV:0 "их хаанум" #GetTitleConsortTV
+ PRINCE_CONSORT_TV:0 "принцем-консортом" #GetTitleConsortTV
+ QUEEN_CONSORT_TV:0 "королевой-консортом" #GetTitleConsortTV
+ EMPRESS_CONSORT_TV:0 "императрицей-консортом" #GetTitleConsortTV
+ MARGRAVE_CONSORT_TV:0 "маркграфом-консортом" #GetTitleConsortTV
+ VICEROY_CONSORT_TV:0 "вице-королём-консортом" #GetTitleConsortTV
+ EMPEROR_CONSORT_TV:0 "императором-консортом" #GetTitleConsortTV
+ ELECTOR_TV:0 "курфюрстом" #GetTitleConsortTV
+ ELECTRESS_TV:0 "курфюрстиной" #GetTitleConsortTV
+ SHAH_CONSORT_TV:0 "шахом-консортом" #GetTitleConsortTV
+ BOQOR_TV:0 "бокором" #GetTitleConsortTV
+ BOQORAD_TV:0 "бокоратой" #GetTitleConsortTV
+ ARCHDUKE_CONSORT_TV:0 "эрцгерцогом-консортом" #GetTitleConsortTV
+ KING_CONSORT_TV:0 "королём-консортом" #GetTitleConsortTV
+ HASEKI_SULTAN_TV:0 "хасеки-султаной" #GetTitleConsortTV
+ GRAND_DUKE_CONSORT_TV:0 "великим князем-консортом" #GetTitleConsortTV
+ PADISHAH_BEGUM_TV:0 "падишах-бегум" #GetTitleConsortTV
+ SULTANA_BEGUM_TV:0 "султаной-бегум" #GetTitleConsortTV
+ PESHWIN_TV:0 "пешвин" #GetTitleConsortTV
+ JANHOY_TV:0 "джахоем" #GetTitleConsortTV
+ ITEGE_TV:0 "итеге" #GetTitleConsortTV
+ CONSORT_TV:0 "консортом" #GetTitleConsortTV
+ EMIR_CONSORT_TV:0 "эмиром-консортом" #GetTitleConsortTV
+ SULTAN_CONSORT_TV:0 "султаном-консортом" #GetTitleConsortTV
+ PADISHAH_CONSORT_TV:0 "падишахом-консортом" #GetTitleConsortTV
+ ###На вопрос о ком?
+ YEKHE_KHAGAN_PR:0 "их хаане" #GetTitleConsortPR
+ YEKHE_KHANUM_PR:0 "их хаанум" #GetTitleConsortPR
+ PRINCE_CONSORT_PR:0 "принце-консорте" #GetTitleConsortPR
+ QUEEN_CONSORT_PR:0 "королеве-консорте" #GetTitleConsortPR
+ EMPRESS_CONSORT_PR:0 "императрице-консорте" #GetTitleConsortPR
+ MARGRAVE_CONSORT_PR:0 "маркграфе-консорте" #GetTitleConsortPR
+ VICEROY_CONSORT_PR:0 "вице-короле-консорте" #GetTitleConsortPR
+ EMPEROR_CONSORT_PR:0 "императоре-консорте" #GetTitleConsortPR
+ ELECTOR_PR:0 "курфюрсте" #GetTitleConsortPR
+ ELECTRESS_PR:0 "курфюрстине" #GetTitleConsortPR
+ SHAH_CONSORT_PR:0 "шахе-консорте" #GetTitleConsortPR
+ BOQOR_PR:0 "бокоре" #GetTitleConsortPR
+ BOQORAD_PR:0 "бокорате" #GetTitleConsortPR
+ ARCHDUKE_CONSORT_PR:0 "эрцгерцоге-консорте" #GetTitleConsortPR
+ KING_CONSORT_PR:0 "короле-консорте" #GetTitleConsortPR
+ HASEKI_SULTAN_PR:0 "хасеки-султан" #GetTitleConsortPR
+ GRAND_DUKE_CONSORT_PR:0 "великом князе-консорте" #GetTitleConsortPR
+ PADISHAH_BEGUM_PR:0 "падишах-бегум" #GetTitleConsortPR
+ SULTANA_BEGUM_PR:0 "султан-бегум" #GetTitleConsortPR
+ PESHWIN_PR:0 "пешвин" #GetTitleConsortPR
+ JANHOY_PR:0 "джахое" #GetTitleConsortPR
+ ITEGE_PR:0 "итеге" #GetTitleConsortPR
+ CONSORT_PR:0 "консорте" #GetTitleConsortPR
+ EMIR_CONSORT_PR:0 "эмире-консорте" #GetTitleConsortPR
+ SULTAN_CONSORT_PR:0 "султане-консорте" #GetTitleConsortPR
+ PADISHAH_CONSORT_PR:0 "падишахе-консорте" #GetTitleConsortPR
+ ###На вопрос вижу кого?
+ YEKHE_KHAGAN_VN:0 "их хаана" #GetTitleConsortVN
+ YEKHE_KHANUM_VN:0 "их хаанум" #GetTitleConsortVN
+ PRINCE_CONSORT_VN:0 "принца-консорта" #GetTitleConsortVN
+ QUEEN_CONSORT_VN:0 "королеву-консорта" #GetTitleConsortVN
+ EMPRESS_CONSORT_VN:0 "императрицу-консорта" #GetTitleConsortVN
+ MARGRAVE_CONSORT_VN:0 "маркграфа-консорта" #GetTitleConsortVN
+ VICEROY_CONSORT_VN:0 "вице-короля-консорта" #GetTitleConsortVN
+ EMPEROR_CONSORT_VN:0 "императора-консорта" #GetTitleConsortVN
+ ELECTOR_VN:0 "курфюрста" #GetTitleConsortVN
+ ELECTRESS_VN:0 "курфюрстину" #GetTitleConsortVN
+ SHAH_CONSORT_VN:0 "шаха-консорта" #GetTitleConsortVN
+ BOQOR_VN:0 "бокора" #GetTitleConsortVN
+ BOQORAD_VN:0 "бокорату" #GetTitleConsortVN
+ ARCHDUKE_CONSORT_VN:0 "эрцгерцога-консорта" #GetTitleConsortVN
+ KING_CONSORT_VN:0 "короля-консорта" #GetTitleConsortVN
+ HASEKI_SULTAN_VN:0 "хасеки-султан" #GetTitleConsortVN
+ GRAND_DUKE_CONSORT_VN:0 "великого князя-консорта" #GetTitleConsortVN
+ PADISHAH_BEGUM_VN:0 "падишах-бегум" #GetTitleConsortVN
+ SULTANA_BEGUM_VN:0 "султану-бегум" #GetTitleConsortVN
+ PESHWIN_VN:0 "пешвину" #GetTitleConsortVN
+ JANHOY_VN:0 "джахой" #GetTitleConsortVN
+ ITEGE_VN:0 "итеге" #GetTitleConsortVN
+ CONSORT_VN:0 "консорта" #GetTitleConsortVN
+ EMIR_CONSORT_VN:0 "эмира-консорта" #GetTitleConsortVN
+ SULTAN_CONSORT_VN:0 "султана-консорта" #GetTitleConsortVN
+ PADISHAH_CONSORT_VN:0 "падишаха-консорта" #GetTitleConsortVN
+ ###Версия 1.28
+ CAPTAIN_RD:0 "капитана" #GetTitleRD
+ GRAND_CAPTAIN_RD:0 "гранд-капитана" #GetTitleRD
+ GRAND_ADMIRAL_RD:0 "гранд-адмирала" #GetTitleRD
+ CAPTAIN_DT:0 "капитану" #GetTitleDT
+ GRAND_CAPTAIN_DT:0 "гранд-капитану" #GetTitleDT
+ GRAND_ADMIRAL_DT:0 "гранд-адмиралу" #GetTitleDT
+ CAPTAIN_TV:0 "капитаном" #GetTitleTV
+ GRAND_CAPTAIN_TV:0 "гранд-капитаном" #GetTitleTV
+ GRAND_ADMIRAL_TV:0 "гранд-адмиралом" #GetTitleTV
+ CAPTAIN_IM:0 "капитан" #GetTitleIM
+ GRAND_CAPTAIN_IM:0 "гранд-капитан" #GetTitleIM
+ GRAND_ADMIRAL_IM:0 "гранд-адмирал" #GetTitleIM
+ CAPTAIN_PR:0 "капитане" #GetTitlePR
+ GRAND_CAPTAIN_PR:0 "гранд-капитане" #GetTitlePR
+ GRAND_ADMIRAL_PR:0 "гранд-адмирале" #GetTitlePR
+ CAPTAIN_VN:0 "капитана" #GetTitleVN
+ GRAND_CAPTAIN_VN:0 "гранд-капитана" #GetTitleVN
+ GRAND_ADMIRAL_VN:0 "гранд-адмирала" #GetTitleVN
+ PIRATE_PRINCE_RD:0 "принца пиратов" #GetTitleRD
+ PIRATE_KING_RD:0 "короля пиратов" #GetTitleRD
+ PIRATE_EMPEROR_RD:0 "императора пиратов" #GetTitleRD
+ PIRATE_PRINCESS_RD:0 "принцессы пиратов" #GetTitleRD
+ PIRATE_QUEEN_RD:0 "королевы пиратов" #GetTitleRD
+ PIRATE_EMPRESS_RD:0 "императрицы пиратов" #GetTitleRD
+ PIRATE_PRINCE_DT:0 "принцу пиратов" #GetTitleDT
+ PIRATE_KING_DT:0 "королю пиратов" #GetTitleDT
+ PIRATE_EMPEROR_DT:0 "императору пиратов" #GetTitleDT
+ PIRATE_PRINCESS_DT:0 "принцессе пиратов" #GetTitleDT
+ PIRATE_QUEEN_DT:0 "королеве пиратов" #GetTitleDT
+ PIRATE_EMPRESS_DT:0 "императрице пиратов" #GetTitleDT
+ PIRATE_PRINCE_TV:0 "принцем пиратов" #GetTitleTV
+ PIRATE_KING_TV:0 "королём пиратов" #GetTitleTV
+ PIRATE_EMPEROR_TV:0 "императором пиратов" #GetTitleTV
+ PIRATE_PRINCESS_TV:0 "принцессой пиратов" #GetTitleTV
+ PIRATE_QUEEN_TV:0 "королевой пиратов" #GetTitleTV
+ PIRATE_EMPRESS_TV:0 "императрицей пиратов" #GetTitleTV
+ PIRATE_PRINCE_IM:0 "принц пиратов" #GetTitleIM
+ PIRATE_KING_IM:0 "король пиратов" #GetTitleIM
+ PIRATE_EMPEROR_IM:0 "император пиратов" #GetTitleIM
+ PIRATE_PRINCESS_IM:0 "принцесса пиратов" #GetTitleIM
+ PIRATE_QUEEN_IM:0 "королева пиратов" #GetTitleIM
+ PIRATE_EMPRESS_IM:0 "императрица пиратов" #GetTitleIM
+ PIRATE_PRINCE_PR:0 "принце пиратов" #GetTitlePR
+ PIRATE_KING_PR:0 "короле пиратов" #GetTitlePR
+ PIRATE_EMPEROR_PR:0 "императоре пиратов" #GetTitlePR
+ PIRATE_PRINCESS_PR:0 "принцессе пиратов" #GetTitlePR
+ PIRATE_QUEEN_PR:0 "королеве пиратов" #GetTitlePR
+ PIRATE_EMPRESS_PR:0 "императрице пиратов" #GetTitlePR
+ PIRATE_PRINCE_VN:0 "принца пиратов" #GetTitleVN
+ PIRATE_KING_VN:0 "короля пиратов" #GetTitleVN
+ PIRATE_EMPEROR_VN:0 "императора пиратов" #GetTitleVN
+ PIRATE_PRINCESS_VN:0 "принцессу пиратов" #GetTitleVN
+ PIRATE_QUEEN_VN:0 "королеву пиратов" #GetTitleVN
+ PIRATE_EMPRESS_VN:0 "императрицу пиратов" #GetTitleVN
+ ###Версия 1.29-1.30
+ BROTHER_RD:0 "брата" #GetTitleRD
+ BROTHER_IM:0 "брат" #GetTitleIM
+ BROTHER_DT:0 "брату" #GetTitleDT
+ BROTHER_TV:0 "братом" #GetTitleTV
+ BROTHER_PR:0 "брате" #GetTitlePR
+ BROTHER_VN:0 "брата" #GetTitleVN
+ 
+ MARSHAL_RD:0 "маршала" #GetTitleRD
+ MARSHAL_IM:0 "маршал" #GetTitleIM
+ MARSHAL_DT:0 "маршалу" #GetTitleDT
+ MARSHAL_TV:0 "маршалом" #GetTitleTV
+ MARSHAL_PR:0 "маршале" #GetTitlePR
+ MARSHAL_VN:0 "маршала" #GetTitleVN
+ 
+ SERENE_MARSHAL_RD:0 "светлейшего маршала" #GetTitleRD
+ SERENE_MARSHAL_IM:0 "светлейший маршал" #GetTitleIM
+ SERENE_MARSHAL_DT:0 "светлейшему маршалу" #GetTitleDT
+ SERENE_MARSHAL_TV:0 "светлейшим маршалом" #GetTitleTV
+ SERENE_MARSHAL_PR:0 "светлейшем маршале" #GetTitlePR
+ SERENE_MARSHAL_VN:0 "светлейшего маршала" #GetTitleVN
+ 
+ MOST_SERENE_MARSHAL_RD:0 "светлейшего маршала" #GetTitleRD
+ MOST_SERENE_MARSHAL_IM:0 "светлейший маршал" #GetTitleIM
+ MOST_SERENE_MARSHAL_DT:0 "светлейшему маршалу" #GetTitleDT
+ MOST_SERENE_MARSHAL_TV:0 "светлейшим маршалом" #GetTitleTV
+ MOST_SERENE_MARSHAL_PR:0 "светлейшем маршале" #GetTitlePR
+ MOST_SERENE_MARSHAL_VN:0 "светлейшего маршала" #GetTitleVN
+ 
+ TRIBAL_LEADER_IM:0 "племенной лидер" #GetTitleIM
+ TRIBAL_LEADER_RD:0 "племенного лидера" #GetTitleRD
+ TRIBAL_LEADER_DT:0 "племенному лидеру" #GetTitleDT
+ TRIBAL_LEADER_VN:0 "племенного лидера" #GetTitleVN
+ TRIBAL_LEADER_TV:0 "племенным лидером" #GetTitleTV
+ TRIBAL_LEADER_PR:0 "племенном лидере" #GetTitlePR
+ 
+ CALIPH_IM:0 "халиф" #GetTitleIM
+ CALIPH_RD:0 "халифа" #GetTitleRD
+ CALIPH_DT:0 "халифу" #GetTitleDT
+ CALIPH_VN:0 "халифа" #GetTitleVN
+ CALIPH_TV:0 "халифом" #GetTitleTV
+ CALIPH_PR:0 "халифе" #GetTitlePR
+ 
+ CALIPHA_IM:0 "халиф" #GetTitleIM
+ CALIPHA_RD:0 "халифа" #GetTitleRD
+ CALIPHA_DT:0 "халифу" #GetTitleDT
+ CALIPHA_VN:0 "халифа" #GetTitleVN
+ CALIPHA_TV:0 "халифом" #GetTitleTV
+ CALIPHA_PR:0 "халифе" #GetTitlePR
+ 
+ FIRST_LAWSPEAKER_IM:0 "высший законоговоритель" #GetTitleIM
+ FIRST_LAWSPEAKER_RD:0 "высшего законоговорителя" #GetTitleRD
+ FIRST_LAWSPEAKER_DT:0 "высшему законоговорителю" #GetTitleDT
+ FIRST_LAWSPEAKER_VN:0 "высшего законоговорителя" #GetTitleVN
+ FIRST_LAWSPEAKER_TV:0 "высшим законоговорителем" #GetTitleTV
+ FIRST_LAWSPEAKER_PR:0 "высшем законоговорителе" #GetTitlePR
+ 
+ FIRST_LAWSPEAKER_fem_IM:0 "высший законоговоритель" #GetTitleIM
+ FIRST_LAWSPEAKER_fem_RD:0 "высшего законоговорителя" #GetTitleRD
+ FIRST_LAWSPEAKER_fem_DT:0 "высшему законоговорителю" #GetTitleDT
+ FIRST_LAWSPEAKER_fem_VN:0 "высшего законоговорителя" #GetTitleVN
+ FIRST_LAWSPEAKER_fem_TV:0 "высшим законоговорителем" #GetTitleTV
+ FIRST_LAWSPEAKER_fem_PR:0 "высшем законоговорителе" #GetTitlePR
+ 
+ SUPREME_VIZIER_IM:0 "верховный визирь" #GetTitleIM
+ SUPREME_VIZIER_RD:0 "верховного визиря" #GetTitleRD
+ SUPREME_VIZIER_DT:0 "верховному визирю" #GetTitleDT
+ SUPREME_VIZIER_VN:0 "верховного визиря" #GetTitleVN
+ SUPREME_VIZIER_TV:0 "верховным визирем" #GetTitleTV
+ SUPREME_VIZIER_PR:0 "верховном визире" #GetTitlePR
+ 
+ SUPREME_VIZIER_fem_IM:0 "верховный визирь" #GetTitleIM
+ SUPREME_VIZIER_fem_RD:0 "верховного визиря" #GetTitleRD
+ SUPREME_VIZIER_fem_DT:0 "верховному визирю" #GetTitleDT
+ SUPREME_VIZIER_fem_VN:0 "верховного визиря" #GetTitleVN
+ SUPREME_VIZIER_fem_TV:0 "верховным визирем" #GetTitleTV
+ SUPREME_VIZIER_fem_PR:0 "верховном визире" #GetTitlePR
+ 
+ CHAIRMAN_IM:0 "председатель" #GetTitleIM
+ CHAIRMAN_RD:0 "председателя" #GetTitleRD
+ CHAIRMAN_DT:0 "председателю" #GetTitleDT
+ CHAIRMAN_VN:0 "председателя" #GetTitleVN
+ CHAIRMAN_TV:0 "председателем" #GetTitleTV
+ CHAIRMAN_PR:0 "председателе" #GetTitlePR
+ 
+ CHAIRMAN_fem_IM:0 "председатель" #GetTitleIM
+ CHAIRMAN_fem_RD:0 "председателя" #GetTitleRD
+ CHAIRMAN_fem_DT:0 "председатель" #GetTitleDT
+ CHAIRMAN_fem_VN:0 "председатель" #GetTitleVN
+ CHAIRMAN_fem_TV:0 "председатель" #GetTitleTV
+ CHAIRMAN_fem_PR:0 "председатель" #GetTitlePR
+ 
+ CONSULESS_IM:0 "консул" #GetTitleIM
+ CONSULESS_RD:0 "консула" #GetTitleRD
+ CONSULESS_DT:0 "консулу" #GetTitleDT
+ CONSULESS_VN:0 "консула" #GetTitleVN
+ CONSULESS_TV:0 "консулом" #GetTitleTV
+ CONSULESS_PR:0 "консуле" #GetTitlePR
+ 
+ KAISER_IM:0 "кайзер" #GetTitleIM
+ KAISER_RD:0 "кайзера" #GetTitleRD
+ KAISER_DT:0 "кайзеру" #GetTitleDT
+ KAISER_VN:0 "кайзера" #GetTitleVN
+ KAISER_TV:0 "кайзером" #GetTitleTV
+ KAISER_PR:0 "кайзере" #GetTitlePR
+ 
+ KAISERIN_IM:0 "кайзерин" #GetTitleIM
+ KAISERIN_RD:0 "кайзерины" #GetTitleRD
+ KAISERIN_DT:0 "кайзерине" #GetTitleDT
+ KAISERIN_VN:0 "кайзерину" #GetTitleVN
+ KAISERIN_TV:0 "кайзериной" #GetTitleTV
+ KAISERIN_PR:0 "кайзерине" #GetTitlePR
+ 
+ FIELD_MARSHAL_IM:0 "фельдмаршал" #GetTitleIM
+ FIELD_MARSHAL_RD:0 "фельдмаршала" #GetTitleRD
+ FIELD_MARSHAL_DT:0 "фельдмаршалу" #GetTitleDT
+ FIELD_MARSHAL_VN:0 "фельдмаршала" #GetTitleVN
+ FIELD_MARSHAL_TV:0 "фельдмаршалом" #GetTitleTV
+ FIELD_MARSHAL_PR:0 "фельдмаршале" #GetTitlePR
+ 
+ LORD_HIGH_ADMIRAL_IM:0 "лорд высший адмирал" #GetTitleIM
+ LORD_HIGH_ADMIRAL_RD:0 "лорда высшего адмирала" #GetTitleRD
+ LORD_HIGH_ADMIRAL_DT:0 "лорду высшему адмиралу" #GetTitleDT
+ LORD_HIGH_ADMIRAL_VN:0 "лорда высшего адмирала" #GetTitleVN
+ LORD_HIGH_ADMIRAL_TV:0 "лордом высшим адмиралом" #GetTitleTV
+ LORD_HIGH_ADMIRAL_PR:0 "лорде высшем адмирале" #GetTitlePR
+ 
+ SUPREME_ADMIRAL_IM:0 "верховный адмирал" #GetTitleIM
+ SUPREME_ADMIRAL_RD:0 "верховного адмирала" #GetTitleRD
+ SUPREME_ADMIRAL_DT:0 "верховному адмиралу" #GetTitleDT
+ SUPREME_ADMIRAL_VN:0 "верховного адмирала" #GetTitleVN
+ SUPREME_ADMIRAL_TV:0 "верховным адмиралом" #GetTitleTV
+ SUPREME_ADMIRAL_PR:0 "верховном адмирале" #GetTitlePR
+ 
+ CAPTAIN_GENERAL_IM:0 "генерал-капитан" #GetTitleIM
+ CAPTAIN_GENERAL_RD:0 "генерал-капитана" #GetTitleRD
+ CAPTAIN_GENERAL_DT:0 "генерал-капитану" #GetTitleDT
+ CAPTAIN_GENERAL_VN:0 "генерал-капитана" #GetTitleVN
+ CAPTAIN_GENERAL_TV:0 "генерал-капитаном" #GetTitleTV
+ CAPTAIN_GENERAL_PR:0 "генерал-капитане" #GetTitlePR
+ 
+ ARCHPIRATE_IM:0 "архипират" #GetTitleIM
+ ARCHPIRATE_RD:0 "архипирата" #GetTitleRD
+ ARCHPIRATE_DT:0 "архипирату" #GetTitleDT
+ ARCHPIRATE_VN:0 "архипирата" #GetTitleVN
+ ARCHPIRATE_TV:0 "архипиратом" #GetTitleTV
+ ARCHPIRATE_PR:0 "архипирате" #GetTitlePR
+ 
+ PIRATE_DAIMYO_IM:0 "даймё-пират" #GetTitleIM
+ PIRATE_DAIMYO_RD:0 "даймё-пирата" #GetTitleRD
+ PIRATE_DAIMYO_DT:0 "даймё-пирату" #GetTitleDT
+ PIRATE_DAIMYO_VN:0 "даймё-пирата" #GetTitleVN
+ PIRATE_DAIMYO_TV:0 "даймё-пиратом" #GetTitleTV
+ PIRATE_DAIMYO_PR:0 "даймё-пирате" #GetTitlePR
+ 
+ CAPTAIN_fem_IM:0 "капитан" #GetTitleIM
+ CAPTAIN_fem_RD:0 "капитана" #GetTitleRD
+ CAPTAIN_fem_DT:0 "капитану" #GetTitleDT
+ CAPTAIN_fem_VN:0 "капитана" #GetTitleVN
+ CAPTAIN_fem_TV:0 "капитаном" #GetTitleTV
+ CAPTAIN_fem_PR:0 "капитане" #GetTitlePR
+ 
+ GRAND_CAPTAIN_fem_IM:0 "гранд-капитан" #GetTitleIM
+ GRAND_CAPTAIN_fem_RD:0 "гранд-капитана" #GetTitleRD
+ GRAND_CAPTAIN_fem_DT:0 "гранд-капитану" #GetTitleDT
+ GRAND_CAPTAIN_fem_VN:0 "гранд-капитана" #GetTitleVN
+ GRAND_CAPTAIN_fem_TV:0 "гранд-капитаном" #GetTitleTV
+ GRAND_CAPTAIN_fem_PR:0 "гранд-капитане" #GetTitlePR
+ 
+ ADMIRAL_fem_IM:0 "гранд-адмирал" #GetTitleIM
+ ADMIRAL_fem_RD:0 "гранд-адмирала" #GetTitleRD
+ ADMIRAL_fem_DT:0 "гранд-адмиралу" #GetTitleDT
+ ADMIRAL_fem_VN:0 "гранд-адмирала" #GetTitleVN
+ ADMIRAL_fem_TV:0 "гранд-адмиралом" #GetTitleTV
+ ADMIRAL_fem_PR:0 "гранд-адмирале" #GetTitlePR
+ 
+ POPE_ELECTOR_IM:0 "папа-курфюрст" #GetTitleIM
+ POPE_ELECTOR_RD:0 "папы-курфюрста" #GetTitleRD
+ POPE_ELECTOR_DT:0 "папе-курфюрсту" #GetTitleDT
+ POPE_ELECTOR_VN:0 "папу-курфюрста" #GetTitleVN
+ POPE_ELECTOR_TV:0 "папой-курфюрстом" #GetTitleTV
+ POPE_ELECTOR_PR:0 "папе-курфюрсте" #GetTitlePR
+ 
+ POPETTE_ELECTOR_IM:0 "папесса-курфюрст" #GetTitleIM
+ POPETTE_ELECTOR_RD:0 "папессы-курфюрста" #GetTitleRD
+ POPETTE_ELECTOR_DT:0 "папессе-курфюрсту" #GetTitleDT
+ POPETTE_ELECTOR_VN:0 "папессу-курфюрста" #GetTitleVN
+ POPETTE_ELECTOR_TV:0 "папессой-курфюрстом" #GetTitleTV
+ POPETTE_ELECTOR_PR:0 "папессе-курфюрсте" #GetTitlePR
+ 
+ ELECTOR_PALATINE_IM:0 "выборный пфальцграф" #GetTitleIM
+ ELECTOR_PALATINE_RD:0 "выборного пфальцграфа" #GetTitleRD
+ ELECTOR_PALATINE_DT:0 "выборному пфальцграфу" #GetTitleDT
+ ELECTOR_PALATINE_VN:0 "выборного пфальцграфа" #GetTitleVN
+ ELECTOR_PALATINE_TV:0 "выборным пфальцграфом" #GetTitleTV
+ ELECTOR_PALATINE_PR:0 "выборном пфальцграфе" #GetTitlePR
+ 
+ ELECTRESS_PALATINE_IM:0 "выборная пфальцграфиня" #GetTitleIM
+ ELECTRESS_PALATINE_RD:0 "выборной пфальцграфини" #GetTitleRD
+ ELECTRESS_PALATINE_DT:0 "выборной пфальцграфине" #GetTitleDT
+ ELECTRESS_PALATINE_VN:0 "выборную пфальцграфиню" #GetTitleVN
+ ELECTRESS_PALATINE_TV:0 "выборной пфальцграфиней" #GetTitleTV
+ ELECTRESS_PALATINE_PR:0 "выборной пфальцграфине" #GetTitlePR
+ 
+ COUNT_PALATINE_IM:0 "пфальцграф" #GetTitleIM
+ COUNT_PALATINE_RD:0 "пфальцграфа" #GetTitleRD
+ COUNT_PALATINE_DT:0 "пфальцграфу" #GetTitleDT
+ COUNT_PALATINE_VN:0 "пфальцграфа" #GetTitleVN
+ COUNT_PALATINE_TV:0 "пфальцграфом" #GetTitleTV
+ COUNT_PALATINE_PR:0 "пфальцграфе" #GetTitlePR
+ 
+ KING_PALATINE_IM:0 "пфальцкайзер" #GetTitleIM
+ KING_PALATINE_RD:0 "пфальцкайзера" #GetTitleRD
+ KING_PALATINE_DT:0 "пфальцкайзеру" #GetTitleDT
+ KING_PALATINE_VN:0 "пфальцкайзера" #GetTitleVN
+ KING_PALATINE_TV:0 "пфальцкайзером" #GetTitleTV
+ KING_PALATINE_PR:0 "пфальцкайзере" #GetTitlePR
+ 
+ COUNTESS_PALATINE_IM:0 "пфальцграфиня" #GetTitleIM
+ COUNTESS_PALATINE_RD:0 "пфальцграфини" #GetTitleRD
+ COUNTESS_PALATINE_DT:0 "пфальцграфине" #GetTitleDT
+ COUNTESS_PALATINE_VN:0 "пфальцграфиню" #GetTitleVN
+ COUNTESS_PALATINE_TV:0 "пфальцграфиней" #GetTitleTV
+ COUNTESS_PALATINE_PR:0 "пфальцграфине" #GetTitlePR
+ 
+ QUEEN_PALATINE_IM:0 "пфальцкёнигин" #GetTitleIM
+ QUEEN_PALATINE_RD:0 "пфальцкёнигини" #GetTitleRD
+ QUEEN_PALATINE_DT:0 "пфальцкёнигине" #GetTitleDT
+ QUEEN_PALATINE_VN:0 "пфальцкёнигиню" #GetTitleVN
+ QUEEN_PALATINE_TV:0 "пфальцкёнигиней" #GetTitleTV
+ QUEEN_PALATINE_PR:0 "пфальцкёнигине" #GetTitlePR
+ 
+ HERCEG_IM:0 "князь" #GetTitleIM
+ HERCEG_RD:0 "князя" #GetTitleRD
+ HERCEG_DT:0 "князю" #GetTitleDT
+ HERCEG_VN:0 "князя" #GetTitleVN
+ HERCEG_TV:0 "князем" #GetTitleTV
+ HERCEG_PR:0 "князе" #GetTitlePR
+ 
+ PRINCE_HERCEG_IM:0 "великий князь" #GetTitleIM
+ PRINCE_HERCEG_RD:0 "великого князя" #GetTitleRD
+ PRINCE_HERCEG_DT:0 "великому князю" #GetTitleDT
+ PRINCE_HERCEG_VN:0 "великого князя" #GetTitleVN
+ PRINCE_HERCEG_TV:0 "великим князем" #GetTitleTV
+ PRINCE_HERCEG_PR:0 "великом князе" #GetTitlePR
+ 
+ HERCEGI_IM:0 "княгиня" #GetTitleIM
+ HERCEGI_RD:0 "княгини" #GetTitleRD
+ HERCEGI_DT:0 "княгине" #GetTitleDT
+ HERCEGI_VN:0 "княгиню" #GetTitleVN
+ HERCEGI_TV:0 "княгиней" #GetTitleTV
+ HERCEGI_PR:0 "княгине" #GetTitlePR
+ 
+ PRINCESS_HERCEGI_IM:0 "великая княгиня" #GetTitleIM
+ PRINCESS_HERCEGI_RD:0 "великой княгини" #GetTitleRD
+ PRINCESS_HERCEGI_DT:0 "великой княгине" #GetTitleDT
+ PRINCESS_HERCEGI_VN:0 "великую княгиню" #GetTitleVN
+ PRINCESS_HERCEGI_TV:0 "великой княгиней" #GetTitleTV
+ PRINCESS_HERCEGI_PR:0 "великой княгине" #GetTitlePR
+ 
+ CONSUL_ELECTOR_IM:0 "консул-курфюрст" #GetTitleIM
+ CONSUL_ELECTOR_RD:0 "консула-курфюрста" #GetTitleRD
+ CONSUL_ELECTOR_DT:0 "консулу-курфюрсту" #GetTitleDT
+ CONSUL_ELECTOR_VN:0 "консула-курфюрста" #GetTitleVN
+ CONSUL_ELECTOR_TV:0 "консулом-курфюрстом" #GetTitleTV
+ CONSUL_ELECTOR_PR:0 "консуле-курфюрсте" #GetTitlePR
+ 
+ GRAND_CONSUL_ELECTOR_IM:0 "великий консул-курфюрст" #GetTitleIM
+ GRAND_CONSUL_ELECTOR_RD:0 "великого консула-курфюрста" #GetTitleRD
+ GRAND_CONSUL_ELECTOR_DT:0 "великому консулу-курфюрсту" #GetTitleDT
+ GRAND_CONSUL_ELECTOR_VN:0 "великого консула-курфюрста" #GetTitleVN
+ GRAND_CONSUL_ELECTOR_TV:0 "великим консулом-курфюрстом" #GetTitleTV
+ GRAND_CONSUL_ELECTOR_PR:0 "великом консуле-курфюрсте" #GetTitlePR
+ 
+ GREAT_CONSUL_ELECTOR_IM:0 "величайший консул-курфюрст" #GetTitleIM
+ GREAT_CONSUL_ELECTOR_RD:0 "величайшего консула-курфюрста" #GetTitleRD
+ GREAT_CONSUL_ELECTOR_DT:0 "величайшему консулу-курфюрсту" #GetTitleDT
+ GREAT_CONSUL_ELECTOR_VN:0 "величайшего консула-курфюрста" #GetTitleVN
+ GREAT_CONSUL_ELECTOR_TV:0 "величайшим консулом-курфюрстом" #GetTitleTV
+ GREAT_CONSUL_ELECTOR_PR:0 "величайшем консуле-курфюрсте" #GetTitlePR
+ 
+ CONSULESS_ELECTOR_IM:0 "консул-курфюрстина" #GetTitleIM
+ CONSULESS_ELECTOR_RD:0 "консула-курфюрстины" #GetTitleRD
+ CONSULESS_ELECTOR_DT:0 "консулу-курфюрстине" #GetTitleDT
+ CONSULESS_ELECTOR_VN:0 "консула-курфюрстину" #GetTitleVN
+ CONSULESS_ELECTOR_TV:0 "консулом-курфюрстиной" #GetTitleTV
+ CONSULESS_ELECTOR_PR:0 "консуле-курфюрстине" #GetTitlePR
+ 
+ GRAND_CONSULESS_ELECTOR_IM:0 "великая консул-курфюрстина" #GetTitleIM
+ GRAND_CONSULESS_ELECTOR_RD:0 "великой консул-курфюрстины" #GetTitleRD
+ GRAND_CONSULESS_ELECTOR_DT:0 "великой консул-курфюрстине" #GetTitleDT
+ GRAND_CONSULESS_ELECTOR_VN:0 "великую консул-курфюрстину" #GetTitleVN
+ GRAND_CONSULESS_ELECTOR_TV:0 "великой консул-курфюрстиной" #GetTitleTV
+ GRAND_CONSULESS_ELECTOR_PR:0 "великой консул-курфюрстине" #GetTitlePR
+ 
+ GREAT_CONSULESS_ELECTOR_IM:0 "величайшая консул-курфюрстина" #GetTitleIM
+ GREAT_CONSULESS_ELECTOR_RD:0 "величайшей консул-курфюрстины" #GetTitleRD
+ GREAT_CONSULESS_ELECTOR_DT:0 "величайшей консул-курфюрстине" #GetTitleDT
+ GREAT_CONSULESS_ELECTOR_VN:0 "величайшую консул-курфюрстину" #GetTitleVN
+ GREAT_CONSULESS_ELECTOR_TV:0 "величайшей консул-курфюрстиной" #GetTitleTV
+ GREAT_CONSULESS_ELECTOR_PR:0 "величайшей консул-курфюрстине" #GetTitlePR
+ 
+ regent_IM:0 "регент" #GetTitleIM
+ regent_RD:0 "регента" #GetTitleRD
+ regent_DT:0 "регенту" #GetTitleDT
+ regent_VN:0 "регента" #GetTitleVN
+ regent_TV:0 "регентом" #GetTitleTV
+ regent_PR:0 "регенте" #GetTitlePR
+ 
+ COUNT_IM:0 "граф" #GetTitleIM
+ COUNT_RD:0 "графа" #GetTitleRD
+ COUNT_DT:0 "графу" #GetTitleDT
+ COUNT_VN:0 "графа" #GetTitleVN
+ COUNT_TV:0 "графом" #GetTitleTV
+ COUNT_PR:0 "графе" #GetTitlePR
+ 
+ COUNT_PALATINE_IM:0 "пфальцграф" #GetTitleIM
+ COUNT_PALATINE_RD:0 "пфальцграфа" #GetTitleRD
+ COUNT_PALATINE_DT:0 "пфальцграфу" #GetTitleDT
+ COUNT_PALATINE_VN:0 "пфальцграфа" #GetTitleVN
+ COUNT_PALATINE_TV:0 "пфальцграфом" #GetTitleTV
+ COUNT_PALATINE_PR:0 "пфальцграфе" #GetTitlePR
+ 
+ KING_PALATINE_IM:0 "пфальцкайзер" #GetTitleIM
+ KING_PALATINE_RD:0 "пфальцкайзера" #GetTitleRD
+ KING_PALATINE_DT:0 "пфальцкайзеру" #GetTitleDT
+ KING_PALATINE_VN:0 "пфальцкайзера" #GetTitleVN
+ KING_PALATINE_TV:0 "пфальцкайзером" #GetTitleTV
+ KING_PALATINE_PR:0 "пфальцкайзере" #GetTitlePR
+ 
+ COUNTESS_PALATINE_IM:0 "пфальцграфиня" #GetTitleIM
+ COUNTESS_PALATINE_RD:0 "пфальцграфини" #GetTitleRD
+ COUNTESS_PALATINE_DT:0 "пфальцграфине" #GetTitleDT
+ COUNTESS_PALATINE_VN:0 "пфальцграфиню" #GetTitleVN
+ COUNTESS_PALATINE_TV:0 "пфальцграфиней" #GetTitleTV
+ COUNTESS_PALATINE_PR:0 "пфальцграфине" #GetTitlePR
+ 
+ QUEEN_PALATINE_IM:0 "пфальцкёнигин" #GetTitleIM
+ QUEEN_PALATINE_RD:0 "пфальцкёнигини" #GetTitleRD
+ QUEEN_PALATINE_DT:0 "пфальцкёнигине" #GetTitleDT
+ QUEEN_PALATINE_VN:0 "пфальцкёнигиню" #GetTitleVN
+ QUEEN_PALATINE_TV:0 "пфальцкёнигиней" #GetTitleTV
+ QUEEN_PALATINE_PR:0 "пфальцкёнигине" #GetTitlePR
+ 
+ MONSHU_IM:0 "моншу" #GetTitleIM
+ MONSHU_RD:0 "моншу" #GetTitleRD
+ MONSHU_DT:0 "моншу" #GetTitleDT
+ MONSHU_VN:0 "моншу" #GetTitleVN
+ MONSHU_TV:0 "моншу" #GetTitleTV
+ MONSHU_PR:0 "моншу" #GetTitlePR
+ 
+ HIGH_MONSHU_IM:0 "моншу-сёгун" #GetTitleIM
+ HIGH_MONSHU_RD:0 "моншу-сёгуна" #GetTitleRD
+ HIGH_MONSHU_DT:0 "моншу-сёгуну" #GetTitleDT
+ HIGH_MONSHU_VN:0 "моншу-сёгуна" #GetTitleVN
+ HIGH_MONSHU_TV:0 "моншу-сёгуном" #GetTitleTV
+ HIGH_MONSHU_PR:0 "моншу-сёгуне" #GetTitlePR
+ 
+ HIGH_MONSHUESS_IM:0 "моншу-сёгунесса" #GetTitleIM
+ HIGH_MONSHUESS_RD:0 "моншу-сёгунессы" #GetTitleRD
+ HIGH_MONSHUESS_DT:0 "моншу-сёгунессе" #GetTitleDT
+ HIGH_MONSHUESS_VN:0 "моншу-сёгунессу" #GetTitleVN
+ HIGH_MONSHUESS_TV:0 "моншу-сёгунессой" #GetTitleTV
+ HIGH_MONSHUESS_PR:0 "моншу-сёгунессе" #GetTitlePR
+ 
+ SHINRAN_IM:0 "синран" #GetTitleIM
+ SHINRAN_RD:0 "синрана" #GetTitleRD
+ SHINRAN_DT:0 "синрану" #GetTitleDT
+ SHINRAN_VN:0 "синрана" #GetTitleVN
+ SHINRAN_TV:0 "синраном" #GetTitleTV
+ SHINRAN_PR:0 "синране" #GetTitlePR
+ 
+ FIRST_RANGER_IM:0 "лорд-рейнджер" #GetTitleIM
+ FIRST_RANGER_RD:0 "лорда-рейнджера" #GetTitleRD
+ FIRST_RANGER_DT:0 "лорду-рейнджеру" #GetTitleDT
+ FIRST_RANGER_VN:0 "лорда-рейнджера" #GetTitleVN
+ FIRST_RANGER_TV:0 "лордом-рейнджером" #GetTitleTV
+ FIRST_RANGER_PR:0 "лорде-рейнджере" #GetTitlePR
+ 
+ KNIGHT_KING_IM:0 "рыцарский король" #GetTitleIM
+ KNIGHT_KING_RD:0 "рыцарского короля" #GetTitleRD
+ KNIGHT_KING_DT:0 "рыцарскому королю" #GetTitleDT
+ KNIGHT_KING_VN:0 "рыцарского короля" #GetTitleVN
+ KNIGHT_KING_TV:0 "рыцарским королём" #GetTitleTV
+ KNIGHT_KING_PR:0 "рыцарском короле" #GetTitlePR
+ 
+ KNIGHT_QUEEN_IM:0 "рыцарская королева" #GetTitleIM
+ KNIGHT_QUEEN_RD:0 "рыцарской королевы" #GetTitleRD
+ KNIGHT_QUEEN_DT:0 "рыцарской королеве" #GetTitleDT
+ KNIGHT_QUEEN_VN:0 "рыцарскую королеву" #GetTitleVN
+ KNIGHT_QUEEN_TV:0 "рыцарской королевой" #GetTitleTV
+ KNIGHT_QUEEN_PR:0 "рыцарской королеве" #GetTitlePR
+ 
+ LORD_COMMANDER_IM:0 "лорд-командующий" #GetTitleIM
+ LORD_COMMANDER_RD:0 "лорда-командующего" #GetTitleRD
+ LORD_COMMANDER_DT:0 "лорду-командующему" #GetTitleDT
+ LORD_COMMANDER_VN:0 "лорда-командующего" #GetTitleVN
+ LORD_COMMANDER_TV:0 "лордом-командующим" #GetTitleTV
+ LORD_COMMANDER_PR:0 "лорде-командующем" #GetTitlePR
+ 
+ LADY_COMMANDER_IM:0 "леди-командующая" #GetTitleIM
+ LADY_COMMANDER_RD:0 "леди-командующей" #GetTitleRD
+ LADY_COMMANDER_DT:0 "леди-командующей" #GetTitleDT
+ LADY_COMMANDER_VN:0 "леди-командующую" #GetTitleVN
+ LADY_COMMANDER_TV:0 "леди-командующей" #GetTitleTV
+ LADY_COMMANDER_PR:0 "леди-командующей" #GetTitlePR
+ 
+ MAGISTER_HOCHMEISTER_IM:0 "великий магистр" #GetTitleIM
+ MAGISTER_HOCHMEISTER_RD:0 "великого магистра" #GetTitleRD
+ MAGISTER_HOCHMEISTER_DT:0 "великому магистру" #GetTitleDT
+ MAGISTER_HOCHMEISTER_VN:0 "великого магистра" #GetTitleVN
+ MAGISTER_HOCHMEISTER_TV:0 "великим магистром" #GetTitleTV
+ MAGISTER_HOCHMEISTER_PR:0 "великом магистре" #GetTitlePR
+ 
+ DEUTSCHMEISTER_IM:0 "германский магистр" #GetTitleIM
+ DEUTSCHMEISTER_RD:0 "германского магистра" #GetTitleRD
+ DEUTSCHMEISTER_DT:0 "германскому магистру" #GetTitleDT
+ DEUTSCHMEISTER_VN:0 "германского магистра" #GetTitleVN
+ DEUTSCHMEISTER_TV:0 "германским магистром" #GetTitleTV
+ DEUTSCHMEISTER_PR:0 "германском магистре" #GetTitlePR
+ 
+ TRAPPIST_IM:0 "траппист" #GetTitleIM
+ TRAPPIST_RD:0 "трапписта" #GetTitleRD
+ TRAPPIST_DT:0 "трапписту" #GetTitleDT
+ TRAPPIST_VN:0 "трапписта" #GetTitleVN
+ TRAPPIST_TV:0 "траппистом" #GetTitleTV
+ TRAPPIST_PR:0 "трапписте" #GetTitlePR
+ 
+ TRAPPISTINE_IM:0 "траппистина" #GetTitleIM
+ TRAPPISTINE_RD:0 "траппистины" #GetTitleRD
+ TRAPPISTINE_DT:0 "траппистине" #GetTitleDT
+ TRAPPISTINE_VN:0 "траппистину" #GetTitleVN
+ TRAPPISTINE_TV:0 "траппистиной" #GetTitleTV
+ TRAPPISTINE_PR:0 "траппистине" #GetTitlePR
+ 
+ ARCH_TRAPPIST_IM:0 "архитраппист" #GetTitleIM
+ ARCH_TRAPPIST_RD:0 "архитрапписта" #GetTitleRD
+ ARCH_TRAPPIST_DT:0 "архитрапписту" #GetTitleDT
+ ARCH_TRAPPIST_VN:0 "архитрапписта" #GetTitleVN
+ ARCH_TRAPPIST_TV:0 "архитраппистом" #GetTitleTV
+ ARCH_TRAPPIST_PR:0 "архитрапписте" #GetTitlePR
+ 
+ ARCH_TRAPPISTINE_IM:0 "архитраппистина" #GetTitleIM
+ ARCH_TRAPPISTINE_RD:0 "архитраппистины" #GetTitleRD
+ ARCH_TRAPPISTINE_DT:0 "архитраппистине" #GetTitleDT
+ ARCH_TRAPPISTINE_VN:0 "архитраппистину" #GetTitleVN
+ ARCH_TRAPPISTINE_TV:0 "архитраппистиной" #GetTitleTV
+ ARCH_TRAPPISTINE_PR:0 "архитраппистине" #GetTitlePR
+ 
+ BREWMASTER_IM:0 "верховный пивовар" #GetTitleIM
+ BREWMASTER_RD:0 "верховного пивовара" #GetTitleRD
+ BREWMASTER_DT:0 "верховному пивовару" #GetTitleDT
+ BREWMASTER_VN:0 "верховного пивовара" #GetTitleVN
+ BREWMASTER_TV:0 "верховным пивоваром" #GetTitleTV
+ BREWMASTER_PR:0 "верховном пивоваре" #GetTitlePR
+ 
+ BREWMISTRESS_IM:0 "верховная пивоварка" #GetTitleIM
+ BREWMISTRESS_RD:0 "верховной пивоварки" #GetTitleRD
+ BREWMISTRESS_DT:0 "верховной пивоварке" #GetTitleDT
+ BREWMISTRESS_VN:0 "верховную пивоварку" #GetTitleVN
+ BREWMISTRESS_TV:0 "верховной пивоваркой" #GetTitleTV
+ BREWMISTRESS_PR:0 "верховной пивоварке" #GetTitlePR
+ 
+ COMMANDER_EMPEROR_IM:0 "имперский командующий" #GetTitleIM
+ COMMANDER_EMPEROR_RD:0 "имперского командующего" #GetTitleRD
+ COMMANDER_EMPEROR_DT:0 "имперскому командующему" #GetTitleDT
+ COMMANDER_EMPEROR_VN:0 "имперского командующего" #GetTitleVN
+ COMMANDER_EMPEROR_TV:0 "имперским командующим" #GetTitleTV
+ COMMANDER_EMPEROR_PR:0 "имперском командующем" #GetTitlePR
+ 
+ GRAND_MISTRESS_IM:0 "великий магистр" #GetTitleIM
+ GRAND_MISTRESS_RD:0 "великого магистра" #GetTitleRD
+ GRAND_MISTRESS_DT:0 "великому магистру" #GetTitleDT
+ GRAND_MISTRESS_VN:0 "великого магистра" #GetTitleVN
+ GRAND_MISTRESS_TV:0 "великим магистром" #GetTitleTV
+ GRAND_MISTRESS_PR:0 "великом магистре" #GetTitlePR
+ 
+ ABBESS_IM:0 "игуменья" #GetTitleIM
+ ABBESS_RD:0 "игуменьи" #GetTitleRD
+ ABBESS_DT:0 "игуменьи" #GetTitleDT
+ ABBESS_VN:0 "игуменью" #GetTitleVN
+ ABBESS_TV:0 "игуменьей" #GetTitleTV
+ ABBESS_PR:0 "игуменье" #GetTitlePR
+ 
+ MOTHER_SUPERIOR_IM:0 "настоятельница" #GetTitleIM
+ MOTHER_SUPERIOR_RD:0 "настоятельницы" #GetTitleRD
+ MOTHER_SUPERIOR_DT:0 "настоятельнице" #GetTitleDT
+ MOTHER_SUPERIOR_VN:0 "настоятельницу" #GetTitleVN
+ MOTHER_SUPERIOR_TV:0 "настоятельницей" #GetTitleTV
+ MOTHER_SUPERIOR_PR:0 "настоятельнице" #GetTitlePR
+ 
+ HEIR_fem_IM:0 "наследница" #GetTitleIM
+ HEIR_fem_RD:0 "наследницы" #GetTitleRD
+ HEIR_fem_DT:0 "наследнице" #GetTitleDT
+ HEIR_fem_VN:0 "наследницу" #GetTitleVN
+ HEIR_fem_TV:0 "наследницей" #GetTitleTV
+ HEIR_fem_PR:0 "наследнице" #GetTitlePR
+ 

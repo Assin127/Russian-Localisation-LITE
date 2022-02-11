@@ -1,0 +1,203 @@
+Преобразователь названий правительства из government_names в government_localisation, title_monarch, title_consort и title_heir
+Производится в несколько этапов, т.к. есть ограничения по регулярным выражениям (либо я сделал кое-что криво)
+Made by Assin
+
+################################################################################################
+Для преобразования формы правления (ranks -> GetGovernment)
+
+	1) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{3}localisation_key = $8_IM\n	trigger = {\n		government_rank = $4 (?{5}\n			NOT = { government_rank = 2 })(?{6}\n		NOT = { government_rank = 3 })(?{7})\n$37	}\n})(?{9}localisation_key = $14_IM\n	trigger = {\n		government_rank = $10 (?{11}\n		NOT = { government_rank = 2 })(?{12}\n		NOT = { government_rank = 3 })(?{13})\n$37	}\n}\ntext = {\n	localisation_key = $19_IM\n	trigger = {\n		government_rank = $15 (?{16}\n		NOT = { government_rank = 2 })(?{17}\n		NOT = { government_rank = 3 })(?{18})\n$37	}\n})(?{20}localisation_key = $25_IM\n	trigger = {\n		government_rank = $21 (?{22}\n		NOT = { government_rank = 2 })(?{23}\n		NOT = { government_rank = 3 })(?{24})\n$37	}\n}\ntext = {\n	localisation_key = $30_IM\n	trigger = {\n		government_rank = $26 (?{27}\n		NOT = { government_rank = 2 })(?{28}\n		NOT = { government_rank = 3 })(?{29})\n$37	}\n}\ntext = {\n	localisation_key = $35_IM\n	trigger = {\n		government_rank = $31 (?{32}\n		NOT = { government_rank = 2 })(?{33}\n		NOT = { government_rank = 3 })(?{34})\n$37	}\n})
+
+	2) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{3}localisation_key = $8_IM\n	trigger = {\n		government_rank = $4 (?{5}\n			NOT = { government_rank = 2 })(?{6}\n		NOT = { government_rank = 3 })(?{7})\n$37	}\n})(?{9}localisation_key = $14_IM\n	trigger = {\n		government_rank = $10 (?{11}\n		NOT = { government_rank = 2 })(?{12}\n		NOT = { government_rank = 3 })(?{13})\n$37	}\n}\ntext = {\n	localisation_key = $19_IM\n	trigger = {\n		government_rank = $15 (?{16}\n		NOT = { government_rank = 2 })(?{17}\n		NOT = { government_rank = 3 })(?{18})\n$37	}\n})(?{20}localisation_key = $25_IM\n	trigger = {\n		government_rank = $21 (?{22}\n		NOT = { government_rank = 2 })(?{23}\n		NOT = { government_rank = 3 })(?{24})\n$37	}\n}\ntext = {\n	localisation_key = $30_IM\n	trigger = {\n		government_rank = $26 (?{27}\n		NOT = { government_rank = 2 })(?{28}\n		NOT = { government_rank = 3 })(?{29})\n$37	}\n}\ntext = {\n	localisation_key = $35_IM\n	trigger = {\n		government_rank = $31 (?{32}\n		NOT = { government_rank = 2 })(?{33}\n		NOT = { government_rank = 3 })(?{34})\n$37	}\n})
+
+	3) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{3}localisation_key = $8_IM\n	trigger = {\n		government_rank = $4 (?{5}\n			NOT = { government_rank = 2 })(?{6}\n		NOT = { government_rank = 3 })(?{7})\n$37	}\n})(?{9}localisation_key = $14_IM\n	trigger = {\n		government_rank = $10 (?{11}\n		NOT = { government_rank = 2 })(?{12}\n		NOT = { government_rank = 3 })(?{13})\n$37	}\n}\ntext = {\n	localisation_key = $19_IM\n	trigger = {\n		government_rank = $15 (?{16}\n		NOT = { government_rank = 2 })(?{17}\n		NOT = { government_rank = 3 })(?{18})\n$37	}\n})(?{20}localisation_key = $25_IM\n	trigger = {\n		government_rank = $21 (?{22}\n		NOT = { government_rank = 2 })(?{23}\n		NOT = { government_rank = 3 })(?{24})\n$37	}\n}\ntext = {\n	localisation_key = $30_IM\n	trigger = {\n		government_rank = $26 (?{27}\n		NOT = { government_rank = 2 })(?{28}\n		NOT = { government_rank = 3 })(?{29})\n$37	}\n}\ntext = {\n	localisation_key = $35_IM\n	trigger = {\n		government_rank = $31 (?{32}\n		NOT = { government_rank = 2 })(?{33}\n		NOT = { government_rank = 3 })(?{34})\n$37	}\n})
+
+	4) Проверить документ на наличие "rank = {", если таковы имеются, то исправить синтаксис (даже табуляция в лишних местах прерывает процесс) и пройтись заново по пунктам 1-3.
+
+################################################################################################
+Для преобразования титулов правителей (ruler_male -> GetTitle)
+
+	1) Найти:
+^([A-z].*) = {.*(\r\n.*){1,15}\r\n	ruler_male = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		is_female = no\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		is_female = no\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		is_female = no\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		is_female = no\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		is_female = no\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		is_female = no\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	2) Найти:
+^([A-z].*) = {.*(\r\n.*){1,15}\r\n	ruler_male = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		is_female = no\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		is_female = no\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		is_female = no\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		is_female = no\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		is_female = no\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		is_female = no\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	3) Найти:
+^([A-z].*) = {.*(\r\n.*){1,15}\r\n	ruler_male = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		is_female = no\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		is_female = no\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		is_female = no\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		is_female = no\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		is_female = no\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		is_female = no\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	4) Проверить документ на наличие "ruler_male", если таковы имеются, то исправить синтаксис (даже табуляция в лишних местах прерывает процесс) и пройтись заново по пунктам 1-3.
+
+################################################################################################
+Для преобразования титулов правителей (ruler_female -> GetTitle)
+
+	1) Найти:
+^([A-z].*) = {.*(\r\n.*){1,15}\r\n	ruler_female = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		is_female = yes\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		is_female = yes\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		is_female = yes\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		is_female = yes\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		is_female = yes\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		is_female = yes\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	2) Найти:
+^([A-z].*) = {.*(\r\n.*){1,15}\r\n	ruler_female = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		is_female = yes\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		is_female = yes\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		is_female = yes\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		is_female = yes\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		is_female = yes\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		is_female = yes\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	3) Найти:
+^([A-z].*) = {.*(\r\n.*){1,15}\r\n	ruler_female = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		is_female = yes\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		is_female = yes\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		is_female = yes\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		is_female = yes\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		is_female = yes\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		is_female = yes\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	4) Проверить документ на наличие "ruler_female", если таковы имеются, то исправить синтаксис (даже табуляция в лишних местах прерывает процесс) и пройтись заново по пунктам 1-3.
+
+################################################################################################
+Для преобразования титулов консортов (consort_male -> GetTitleConsort)
+
+	1) Найти:
+^([A-z].*) = {.*(\r\n.*){1,30}\r\n	consort_male = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	2) Найти:
+^([A-z].*) = {.*(\r\n.*){1,30}\r\n	consort_male = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	3) Найти:
+^([A-z].*) = {.*(\r\n.*){1,30}\r\n	consort_male = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_consort = no\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	4) Проверить документ на наличие "consort_male", если таковы имеются, то исправить синтаксис (даже табуляция в лишних местах прерывает процесс) и пройтись заново по пунктам 1-3.
+
+	5) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	6) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	7) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	8) Проверить документ на наличие "rank = {", если таковы имеются, то удалить строки.
+	9) Правка -> Операции со строками -> удалить пустые строки (содер. символы Пробела)
+	
+################################################################################################
+Для преобразования титулов консортов (consort_female -> GetTitleConsort)
+
+	1) Найти:
+^([A-z].*) = {.*(\r\n.*){1,30}\r\n	consort_female = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	2) Найти:
+^([A-z].*) = {.*(\r\n.*){1,30}\r\n	consort_female = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	3) Найти:
+^([A-z].*) = {.*(\r\n.*){1,30}\r\n	consort_female = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_consort = yes\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	4) Проверить документ на наличие "consort_female", если таковы имеются, то исправить синтаксис (даже табуляция в лишних местах прерывает процесс) и пройтись заново по пунктам 1-3.
+
+	5) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	6) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	7) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	8) Проверить документ на наличие "rank = {", если таковы имеются, то удалить строки.
+	9) Правка -> Операции со строками -> удалить пустые строки (содер. символы Пробела)
+
+################################################################################################
+Для преобразования титулов наследников (heir_male -> GetTitleConsort)
+
+	1) Найти:
+^([A-z].*) = {.*(\r\n.*){1,30}\r\n	heir_male = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	2) Найти:
+^([A-z].*) = {.*(\r\n.*){1,30}\r\n	heir_male = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	3) Найти:
+^([A-z].*) = {.*(\r\n.*){1,30}\r\n	heir_male = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_heir = no\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	4) Проверить документ на наличие "heir_male", если таковы имеются, то исправить синтаксис (даже табуляция в лишних местах прерывает процесс) и пройтись заново по пунктам 1-3.
+
+	5) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	6) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	7) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	8) Проверить документ на наличие "rank = {", если таковы имеются, то удалить строки.
+	9) Правка -> Операции со строками -> удалить пустые строки (содер. символы Пробела)
+	
+################################################################################################
+Для преобразования титулов наследников (heir_female -> GetTitleConsort)
+
+	1) Найти:
+^([A-z].*) = {.*(\r\n.*){1,50}\r\n	heir_female = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	2) Найти:
+^([A-z].*) = {.*(\r\n.*){1,50}\r\n	heir_female = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	3) Найти:
+^([A-z].*) = {.*(\r\n.*){1,50}\r\n	heir_female = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на:
+#\1\ntext = {\n	(?{4}localisation_key = $9_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $5 (?{6}\n			NOT = { government_rank = 2 })(?{7}\n		NOT = { government_rank = 3 })(?{8})\n$38	}\n})(?{10}localisation_key = $15_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $11 (?{12}\n		NOT = { government_rank = 2 })(?{13}\n		NOT = { government_rank = 3 })(?{14})\n$38	}\n}\ntext = {\n	localisation_key = $20_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $16 (?{17}\n		NOT = { government_rank = 2 })(?{18}\n		NOT = { government_rank = 3 })(?{19})\n$38	}\n})(?{21}localisation_key = $26_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $22 (?{23}\n		NOT = { government_rank = 2 })(?{24}\n		NOT = { government_rank = 3 })(?{25})\n$38	}\n}\ntext = {\n	localisation_key = $31_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $27 (?{28}\n		NOT = { government_rank = 2 })(?{29}\n		NOT = { government_rank = 3 })(?{30})\n$38	}\n}\ntext = {\n	localisation_key = $36_IM\n	trigger = {\n		has_female_heir = yes\n		government_rank = $32 (?{33}\n		NOT = { government_rank = 2 })(?{34}\n		NOT = { government_rank = 3 })(?{35})\n$38	}\n})
+
+	4) Проверить документ на наличие "heir_female", если таковы имеются, то исправить синтаксис (даже табуляция в лишних местах прерывает процесс) и пройтись заново по пунктам 1-3.
+
+	5) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){0,15}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	6) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){15,30}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	7) Найти:
+^([A-z].*) = {.*\r\n	rank = {((\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	})|(\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n		((1)|(2)|(3)) = (.*)\r\n	}))(\r\n.*){30,60}\r\n	trigger = \{\r\n((.*\r\n){1,15})	}\r\n}
+	Заменить на: [Пустую строку]
+
+	8) Проверить документ на наличие "rank = {", если таковы имеются, то удалить строки.
+	9) Правка -> Операции со строками -> удалить пустые строки (содер. символы Пробела)

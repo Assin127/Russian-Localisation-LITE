@@ -1,0 +1,1096 @@
+﻿l_russian:
+ ###Склонение названий государств
+ #Государства, отвечающие на вопрос "Кого?"
+ TAG_RD_JOM:0 "Йомсвикингов" #GetTagRD
+ TAG_RD_HAH:0 "Ассасинов" #GetTagRD
+ TAG_RD_ISR:0 "Израиля" #GetTagRD
+ TAG_RD_TEM:0 "Тамплиеров" #GetTagRD
+ TAG_RD_TRL:0 "Трапаландии" #GetTagRD
+ TAG_RD_CONVCK2:0 "державы [Root.GetName]" #GetTagRD
+ #Государства, отвечающие на вопрос "Куда?"
+ TAG_VN_JOM:0 "державу Йомсвикингов" #GetTagVN
+ TAG_VN_HAH:0 "державу Ассасинов" #GetTagVN
+ TAG_VN_ISR:0 "Израиль" #GetTagVN
+ TAG_VN_TEM:0 "державу Тамплиеров" #GetTagVN
+ TAG_VN_TRL:0 "Трапаландию" #GetTagVN
+ TAG_VN_CONVCK2:0 "державу [Root.GetName]" #GetTagVN
+ #Государства, отвечающие на вопрос "Сделано чем?"
+ TAG_TV_JOM:0 "Йомсвикингами" #GetTagTV
+ TAG_TV_HAH:0 "Ассасинами" #GetTagTV
+ TAG_TV_ISR:0 "Израилем" #GetTagTV
+ TAG_TV_TEM:0 "Тамплиерами" #GetTagTV
+ TAG_TV_TRL:0 "Трапаландией" #GetTagTV
+ TAG_TV_CONVCK2:0 "державой [Root.GetName]" #GetTagTV
+ #Государства, отвечающие на вопрос "Где?"
+ TAG_PR_JOM:0 "державе Йомсвикингов" #GetTagPR
+ TAG_PR_HAH:0 "державе Ассасинов" #GetTagPR
+ TAG_PR_ISR:0 "Израиле" #GetTagPR
+ TAG_PR_TEM:0 "державе Тамплиеров" #GetTagPR
+ TAG_PR_TRL:0 "Трапаландии" #GetTagPR
+ TAG_PR_CONVCK2:0 "державе [Root.GetName]" #GetTagPR
+ #Государства, отвечающие на вопрос "Кому?"
+ TAG_DT_JOM:0 "Йомсвикингам" #GetTagDT
+ TAG_DT_HAH:0 "Ассасинам" #GetTagDT
+ TAG_DT_ISR:0 "Израилю" #GetTagDT
+ TAG_DT_TEM:0 "Тамплиерам" #GetTagDT
+ TAG_DT_TRL:0 "Трапаландии" #GetTagDT
+ TAG_DT_CONVCK2:0 "державе [Root.GetName]" #GetTagDT
+ ###Прилагательные государств строчными буквами
+ ADJ_JOM:0 "йомсвикингск" #GetAdjectiveSmall
+ ADJ_HAH:0 "ассасинск" #GetAdjectiveSmall
+ ADJ_ISR:0 "израильск" #GetAdjectiveSmall
+ ADJ_TEM:0 "тамплиерск" #GetAdjectiveSmall
+ ADJ_TRL:0 "трапаландск" #GetAdjectiveSmall
+ ADJ_CONVCK2:0 "[Root.GetAdjective]" #GetAdjectiveSmall
+ ###Культуры
+ norse_small:0 "скандинавск"
+ german_small:0 "германск"
+ old_lombard_small:0 "ломбардск"
+ frankish_small:0 "франкск"
+ suebi_small:0 "свевск"
+ anglo_saxon_small:0 "англосаксонск"
+ frisian_small:0 "фризск"
+ italian_small:0 "итальянск"
+ dalmatian_small:0 "далматск"
+ outremer_small:0 "утремерск"
+ visigothic_small:0 "визиготск"
+ alan_small:0 "аланск"
+ assyrian_small:0 "ассирийск"
+ coptic_cul_small:0 "коптск"
+ pictish_small:0 "пиктск"
+ komi_small:0 "коми-зырянск"
+ khanty_small:0 "хантыйск"
+ mordvin_small:0 "мордовск"
+ meshchera_small:0 "мещерск"
+ old_prussian_small:0 "прусск"
+ pecheneg_small:0 "печенежск"
+ cuman_small:0 "половецк"
+ khazar_small:0 "хазарск"
+ bolghar_small:0 "булгарск"
+ avar_small:0 "аварск"
+ karluk_small:0 "карлукск"
+ khitan_small:0 "киданьск"
+ russian_culture_small:0 "русск"
+ ilmenian_small:0 "ильменьск"
+ severian_small:0 "северск"
+ volhynian_small:0 "волынск"
+ carantanian_small:0 "хорутанск"
+ sogdian_small:0 "согдийск"
+ tocharian_small:0 "тохарск"
+ saka_small:0 "сакск"
+ daju_small:0 "дагусск"
+ zaghawa_small:0 "загавск"
+ ashkenazi_small:0 "ашкеназск"
+ sephardi_small:0 "сефардск"
+ tangut_small:0 "тангутск"
+ zhangzhung_small:0 "шангшунгск"
+ sumpa_small:0 "сумпанск"
+ equine_small:0 "лошадинск"
+ cat_small:0 "кошкинск"
+ bear_small:0 "ошкуйск"
+ hedgehog_culture_small:0 "дикобразск"
+ duck_culture_small:0 "селезеньск"
+ dog_culture_small:0 "собачинск"
+ elephant_culture_small:0 "элефантск"
+ dragon_culture_small:0 "драконовск"
+ red_panda_small:0 "пандаренск"
+ ###Религии
+ #Религия в именительном падеже
+ cathar_small:0 "катаризм" #ReligionIM
+ fraticelli_small:0 "фратичелли" #ReligionIM
+ waldensian_small:0 "вальденсизм" #ReligionIM
+ lollard_small:0 "лоллардизм" #ReligionIM
+ monophysite_small:0 "монофизитство" #ReligionIM
+ bogomilist_small:0 "богомильство" #ReligionIM
+ monothelite_small:0 "монофелитство" #ReligionIM
+ iconoclast_small:0 "иконоборчество" #ReligionIM
+ paulician_small:0 "павликианство" #ReligionIM
+ nestorian_small:0 "несторианство" #ReligionIM
+ messalian_small:0 "мессалианство" #ReligionIM
+ zikri_small:0 "зикризм" #ReligionIM
+ yazidi_small:0 "езидизм" #ReligionIM
+ kharijite_small:0 "хариджизм" #ReligionIM
+ druze_small:0 "друзизм" #ReligionIM
+ hurufi_small:0 "хуруфизм" #ReligionIM
+ baltic_pagan_reformed_small:0 "балтийское язычество" #ReligionIM
+ finnish_pagan_reformed_small:0 "финское язычество" #ReligionIM
+ slavic_pagan_reformed_small:0 "славянское язычество" #ReligionIM
+ zun_pagan_reformed_small:0 "зунское язычество" #ReligionIM
+ hellenic_pagan_reformed_small:0 "эллинизм" #ReligionIM
+ hellenic_pagan_small:0 "эллинское язычество" #ReligionIM
+ bon_reformed_small:0 "бон" #ReligionIM
+ bon_small:0 "бонское язычество" #ReligionIM
+ mazdaki_small:0 "маздкизм" #ReligionIM
+ manichean_small:0 "манихейство" #ReligionIM
+ khurmazta_small:0 "согдомаздеизм" #ReligionIM
+ samaritan_faith_small:0 "самаританизм" #ReligionIM
+ karaite_faith_small:0 "караизм" #ReligionIM
+ jain_small:0 "джайнизм" #ReligionIM
+ #Религия в родительном падеже
+ cathar_name_RD:0 "катаризма" #ReligionRD
+ fraticelli_name_RD:0 "фратичелли" #ReligionRD
+ waldensian_name_RD:0 "вальденсизма" #ReligionRD
+ lollard_name_RD:0 "лоллардизма" #ReligionRD
+ monophysite_name_RD:0 "монофизитства" #ReligionRD
+ bogomilist_name_RD:0 "богомильства" #ReligionRD
+ monothelite_name_RD:0 "монофелитства" #ReligionRD
+ iconoclast_name_RD:0 "иконоборчества" #ReligionRD
+ paulician_name_RD:0 "павликианства" #ReligionRD
+ nestorian_name_RD:0 "несторианства" #ReligionRD
+ messalian_name_RD:0 "мессалианства" #ReligionRD
+ zikri_name_RD:0 "зикризма" #ReligionRD
+ yazidi_name_RD:0 "езидизма" #ReligionRD
+ kharijite_name_RD:0 "хариджизма" #ReligionRD
+ druze_name_RD:0 "друзизма" #ReligionRD
+ hurufi_name_RD:0 "хуруфизма" #ReligionRD
+ baltic_pagan_reformed_name_RD:0 "балтийского язычества" #ReligionRD
+ finnish_pagan_reformed_name_RD:0 "финского язычества" #ReligionRD
+ slavic_pagan_reformed_name_RD:0 "славянского язычества" #ReligionRD
+ zun_pagan_reformed_name_RD:0 "зунского язычества" #ReligionRD
+ hellenic_pagan_reformed_name_RD:0 "эллинизма" #ReligionRD
+ hellenic_pagan_name_RD:0 "эллинского язычества" #ReligionRD
+ bon_reformed_name_RD:0 "бона" #ReligionRD
+ bon_name_RD:0 "бонского язычества" #ReligionRD
+ mazdaki_name_RD:0 "маздкизма" #ReligionRD
+ manichean_name_RD:0 "манихейства" #ReligionRD
+ khurmazta_name_RD:0 "согдомаздеизма" #ReligionRD
+ samaritan_faith_name_RD:0 "самаританизма" #ReligionRD
+ karaite_faith_name_RD:0 "караизма" #ReligionRD
+ jain_name_RD:0 "джайнизма" #ReligionRD
+ #Религия в дательном падеже
+ cathar_name_DT:0 "катаризму" #ReligionDT
+ fraticelli_name_DT:0 "фратичелли" #ReligionDT
+ waldensian_name_DT:0 "вальденсизму" #ReligionDT
+ lollard_name_DT:0 "лоллардизму" #ReligionDT
+ monophysite_name_DT:0 "монофизитству" #ReligionDT
+ bogomilist_name_DT:0 "богомильству" #ReligionDT
+ monothelite_name_DT:0 "монофелитству" #ReligionDT
+ iconoclast_name_DT:0 "иконоборчеству" #ReligionDT
+ paulician_name_DT:0 "павликианству" #ReligionDT
+ nestorian_name_DT:0 "несторианству" #ReligionDT
+ messalian_name_DT:0 "мессалианству" #ReligionDT
+ zikri_name_DT:0 "зикризму" #ReligionDT
+ yazidi_name_DT:0 "езидизму" #ReligionDT
+ kharijite_name_DT:0 "хариджизму" #ReligionDT
+ druze_name_DT:0 "друзизму" #ReligionDT
+ hurufi_name_DT:0 "хуруфизму" #ReligionDT
+ baltic_pagan_reformed_name_DT:0 "балтийскому язычеству" #ReligionDT
+ finnish_pagan_reformed_name_DT:0 "финскому язычеству" #ReligionDT
+ slavic_pagan_reformed_name_DT:0 "славянскому язычеству" #ReligionDT
+ zun_pagan_reformed_name_DT:0 "зунскому язычеству" #ReligionDT
+ hellenic_pagan_reformed_name_DT:0 "эллинизму" #ReligionDT
+ hellenic_pagan_name_DT:0 "эллинскому язычеству" #ReligionDT
+ bon_reformed_name_DT:0 "бону" #ReligionDT
+ bon_name_DT:0 "бонскому язычеству" #ReligionDT
+ mazdaki_name_DT:0 "маздкизму" #ReligionDT
+ manichean_name_DT:0 "манихейству" #ReligionDT
+ khurmazta_name_DT:0 "согдомаздеизму" #ReligionDT
+ samaritan_faith_name_DT:0 "самаританизму" #ReligionDT
+ karaite_faith_name_DT:0 "караизму" #ReligionDT
+ jain_name_DT:0 "джайнизму" #ReligionDT
+ #Религия в творительном падеже
+ cathar_name_TV:0 "катаризмом" #ReligionTV
+ fraticelli_name_TV:0 "фратичелли" #ReligionTV
+ waldensian_name_TV:0 "вальденсизмом" #ReligionTV
+ lollard_name_TV:0 "лоллардизмом" #ReligionTV
+ monophysite_name_TV:0 "монофизитством" #ReligionTV
+ bogomilist_name_TV:0 "богомильством" #ReligionTV
+ monothelite_name_TV:0 "монофелитством" #ReligionTV
+ iconoclast_name_TV:0 "иконоборчеством" #ReligionTV
+ paulician_name_TV:0 "павликианством" #ReligionTV
+ nestorian_name_TV:0 "несторианством" #ReligionTV
+ messalian_name_TV:0 "мессалианством" #ReligionTV
+ zikri_name_TV:0 "зикризмом" #ReligionTV
+ yazidi_name_TV:0 "езидизмом" #ReligionTV
+ kharijite_name_TV:0 "хариджизмом" #ReligionTV
+ druze_name_TV:0 "друзизмом" #ReligionTV
+ hurufi_name_TV:0 "хуруфизмом" #ReligionTV
+ baltic_pagan_reformed_name_TV:0 "балтийским язычеством" #ReligionTV
+ finnish_pagan_reformed_name_TV:0 "финским язычеством" #ReligionTV
+ slavic_pagan_reformed_name_TV:0 "славянским язычеством" #ReligionTV
+ zun_pagan_reformed_name_TV:0 "зунским язычеством" #ReligionTV
+ hellenic_pagan_reformed_name_TV:0 "эллинизмом" #ReligionTV
+ hellenic_pagan_name_TV:0 "эллинским язычеством" #ReligionTV
+ bon_reformed_name_TV:0 "боном" #ReligionTV
+ bon_name_TV:0 "бонским язычеством" #ReligionTV
+ mazdaki_name_TV:0 "маздкизмом" #ReligionTV
+ manichean_name_TV:0 "манихейством" #ReligionTV
+ khurmazta_name_TV:0 "согдомаздеизмом" #ReligionTV
+ samaritan_faith_name_TV:0 "самаританизмом" #ReligionTV
+ karaite_faith_name_TV:0 "караизмом" #ReligionTV
+ jain_name_TV:0 "джайнизмом" #ReligionTV
+ #Религия в предложном падеже
+ cathar_name_PR:0 "катаризме" #ReligionPR
+ fraticelli_name_PR:0 "фратичелли" #ReligionPR
+ waldensian_name_PR:0 "вальденсизме" #ReligionPR
+ lollard_name_PR:0 "лоллардизме" #ReligionPR
+ monophysite_name_PR:0 "монофизитстве" #ReligionPR
+ bogomilist_name_PR:0 "богомильстве" #ReligionPR
+ monothelite_name_PR:0 "монофелитстве" #ReligionPR
+ iconoclast_name_PR:0 "иконоборчестве" #ReligionPR
+ paulician_name_PR:0 "павликианстве" #ReligionPR
+ nestorian_name_PR:0 "несторианстве" #ReligionPR
+ messalian_name_PR:0 "мессалианстве" #ReligionPR
+ zikri_name_PR:0 "зикризме" #ReligionPR
+ yazidi_name_PR:0 "езидизме" #ReligionPR
+ kharijite_name_PR:0 "хариджизме" #ReligionPR
+ druze_name_PR:0 "друзизме" #ReligionPR
+ hurufi_name_PR:0 "хуруфизме" #ReligionPR
+ baltic_pagan_reformed_name_PR:0 "балтийском язычестве" #ReligionPR
+ finnish_pagan_reformed_name_PR:0 "финском язычестве" #ReligionPR
+ slavic_pagan_reformed_name_PR:0 "славянском язычестве" #ReligionPR
+ zun_pagan_reformed_name_PR:0 "зунском язычестве" #ReligionPR
+ hellenic_pagan_reformed_name_PR:0 "эллинизме" #ReligionPR
+ hellenic_pagan_name_PR:0 "эллинском язычестве" #ReligionPR
+ bon_reformed_name_PR:0 "боне" #ReligionPR
+ bon_name_PR:0 "бонском язычестве" #ReligionPR
+ mazdaki_name_PR:0 "маздкизме" #ReligionPR
+ manichean_name_PR:0 "манихействе" #ReligionPR
+ khurmazta_name_PR:0 "согдомаздеизме" #ReligionPR
+ samaritan_faith_name_PR:0 "самаританизме" #ReligionPR
+ karaite_faith_name_PR:0 "караизме" #ReligionPR
+ jain_name_PR:0 "джайнизме" #ReligionPR
+ 
+ #Религия верующего в именительном падеже
+ cathar_IM:0 "катарик" #BelieversIM
+ fraticelli_IM:0 "фратичелли" #BelieversIM
+ waldensian_IM:0 "вальденс" #BelieversIM
+ lollard_IM:0 "лоллард" #BelieversIM
+ monophysite_IM:0 "монофизит" #BelieversIM
+ bogomilist_IM:0 "богомил" #BelieversIM
+ monothelite_IM:0 "монофелит" #BelieversIM
+ iconoclast_IM:0 "иконоборец" #BelieversIM
+ paulician_IM:0 "павликианец" #BelieversIM
+ nestorian_IM:0 "несторианин" #BelieversIM
+ messalian_IM:0 "мессалианин" #BelieversIM
+ zikri_IM:0 "зикрит" #BelieversIM
+ yazidi_IM:0 "езид" #BelieversIM
+ kharijite_IM:0 "хариджит" #BelieversIM
+ druze_IM:0 "друзид" #BelieversIM
+ hurufi_IM:0 "хуруфит" #BelieversIM
+ baltic_pagan_reformed_IM:0 "балтийец" #BelieversIM
+ finnish_pagan_reformed_IM:0 "финн" #BelieversIM
+ slavic_pagan_reformed_IM:0 "славянин" #BelieversIM
+ zun_pagan_reformed_IM:0 "зунбил" #BelieversIM
+ hellenic_pagan_reformed_IM:0 "эллин" #BelieversIM
+ hellenic_pagan_IM:0 "эллин" #BelieversIM
+ bon_reformed_IM:0 "бон" #BelieversIM
+ bon_IM:0 "бон" #BelieversIM
+ mazdaki_IM:0 "маздкийец" #BelieversIM
+ manichean_IM:0 "манихейец" #BelieversIM
+ khurmazta_IM:0 "согдомаздеит" #BelieversIM
+ samaritan_faith_IM:0 "самаританит" #BelieversIM
+ karaite_faith_IM:0 "караит" #BelieversIM
+ jain_IM:0 "джайн" #BelieversIM
+ #Религия верующего в родительном падеже
+ cathar_RD:0 "катарика" #BelieversRD
+ fraticelli_RD:0 "фратичелли" #BelieversRD
+ waldensian_RD:0 "вальденса" #BelieversRD
+ lollard_RD:0 "лолларда" #BelieversRD
+ monophysite_RD:0 "монофизита" #BelieversRD
+ bogomilist_RD:0 "богомила" #BelieversRD
+ monothelite_RD:0 "монофелита" #BelieversRD
+ iconoclast_RD:0 "иконобореца" #BelieversRD
+ paulician_RD:0 "павликианца" #BelieversRD
+ nestorian_RD:0 "несторианина" #BelieversRD
+ messalian_RD:0 "мессалианина" #BelieversRD
+ zikri_RD:0 "зикрита" #BelieversRD
+ yazidi_RD:0 "езида" #BelieversRD
+ kharijite_RD:0 "хариджита" #BelieversRD
+ druze_RD:0 "друзида" #BelieversRD
+ hurufi_RD:0 "хуруфита" #BelieversRD
+ baltic_pagan_reformed_RD:0 "балтийца" #BelieversRD
+ finnish_pagan_reformed_RD:0 "финна" #BelieversRD
+ slavic_pagan_reformed_RD:0 "славянина" #BelieversRD
+ zun_pagan_reformed_RD:0 "зунбила" #BelieversRD
+ hellenic_pagan_reformed_RD:0 "эллина" #BelieversRD
+ hellenic_pagan_RD:0 "эллина" #BelieversRD
+ bon_reformed_RD:0 "бона" #BelieversRD
+ bon_RD:0 "бона" #BelieversRD
+ mazdaki_RD:0 "маздкийеца" #BelieversRD
+ manichean_RD:0 "манихейеца" #BelieversRD
+ khurmazta_RD:0 "согдомаздеита" #BelieversRD
+ samaritan_faith_RD:0 "самаританита" #BelieversRD
+ karaite_faith_RD:0 "караита" #BelieversRD
+ jain_RD:0 "джайна" #BelieversRD
+ #Религия верующего в дательном падеже
+ cathar_DT:0 "катарику" #BelieversDT
+ fraticelli_DT:0 "фратичелли" #BelieversDT
+ waldensian_DT:0 "вальденсу" #BelieversDT
+ lollard_DT:0 "лолларду" #BelieversDT
+ monophysite_DT:0 "монофизиту" #BelieversDT
+ bogomilist_DT:0 "богомилу" #BelieversDT
+ monothelite_DT:0 "монофелиту" #BelieversDT
+ iconoclast_DT:0 "иконоборецу" #BelieversDT
+ paulician_DT:0 "павликианцу" #BelieversDT
+ nestorian_DT:0 "несторианину" #BelieversDT
+ messalian_DT:0 "мессалианину" #BelieversDT
+ zikri_DT:0 "зикриту" #BelieversDT
+ yazidi_DT:0 "езиду" #BelieversDT
+ kharijite_DT:0 "хариджиту" #BelieversDT
+ druze_DT:0 "друзиду" #BelieversDT
+ hurufi_DT:0 "хуруфиту" #BelieversDT
+ baltic_pagan_reformed_DT:0 "балтийцу" #BelieversDT
+ finnish_pagan_reformed_DT:0 "финну" #BelieversDT
+ slavic_pagan_reformed_DT:0 "славянину" #BelieversDT
+ zun_pagan_reformed_DT:0 "зунбилу" #BelieversDT
+ hellenic_pagan_reformed_DT:0 "эллину" #BelieversDT
+ hellenic_pagan_DT:0 "эллину" #BelieversDT
+ bon_reformed_DT:0 "бону" #BelieversDT
+ bon_DT:0 "бону" #BelieversDT
+ mazdaki_DT:0 "маздкийцу" #BelieversDT
+ manichean_DT:0 "манихейцу" #BelieversDT
+ khurmazta_DT:0 "согдомаздеиту" #BelieversDT
+ samaritan_faith_DT:0 "самаританиту" #BelieversDT
+ karaite_faith_DT:0 "караиту" #BelieversDT
+ jain_DT:0 "джайну" #BelieversDT
+ #Религия верующего в творительном падеже
+ cathar_TV:0 "катариком" #BelieversTV
+ fraticelli_TV:0 "фратичелли" #BelieversTV
+ waldensian_TV:0 "вальденсом" #BelieversTV
+ lollard_TV:0 "лоллардом" #BelieversTV
+ monophysite_TV:0 "монофизитом" #BelieversTV
+ bogomilist_TV:0 "богомилом" #BelieversTV
+ monothelite_TV:0 "монофелитом" #BelieversTV
+ iconoclast_TV:0 "иконоборцем" #BelieversTV
+ paulician_TV:0 "павликианцем" #BelieversTV
+ nestorian_TV:0 "несторианином" #BelieversTV
+ messalian_TV:0 "мессалианином" #BelieversTV
+ zikri_TV:0 "зикритом" #BelieversTV
+ yazidi_TV:0 "езидом" #BelieversTV
+ kharijite_TV:0 "хариджитом" #BelieversTV
+ druze_TV:0 "друзидом" #BelieversTV
+ hurufi_TV:0 "хуруфитом" #BelieversTV
+ baltic_pagan_reformed_TV:0 "балтийцем" #BelieversTV
+ finnish_pagan_reformed_TV:0 "финном" #BelieversTV
+ slavic_pagan_reformed_TV:0 "славянином" #BelieversTV
+ zun_pagan_reformed_TV:0 "зунбилом" #BelieversTV
+ hellenic_pagan_reformed_TV:0 "эллином" #BelieversTV
+ hellenic_pagan_TV:0 "эллином" #BelieversTV
+ bon_reformed_TV:0 "боном" #BelieversTV
+ bon_TV:0 "боном" #BelieversTV
+ mazdaki_TV:0 "маздкийцем" #BelieversTV
+ manichean_TV:0 "манихейцем" #BelieversTV
+ khurmazta_TV:0 "согдомаздеитом" #BelieversTV
+ samaritan_faith_TV:0 "самаританитом" #BelieversTV
+ karaite_faith_TV:0 "караитом" #BelieversTV
+ jain_TV:0 "джайном" #BelieversTV
+ #Религия верующего в предложном падеже
+ cathar_PR:0 "катарике" #BelieversPR
+ fraticelli_PR:0 "фратичелли" #BelieversPR
+ waldensian_PR:0 "вальденсе" #BelieversPR
+ lollard_PR:0 "лолларде" #BelieversPR
+ monophysite_PR:0 "монофизите" #BelieversPR
+ bogomilist_PR:0 "богомиле" #BelieversPR
+ monothelite_PR:0 "монофелите" #BelieversPR
+ iconoclast_PR:0 "иконоборце" #BelieversPR
+ paulician_PR:0 "павликианце" #BelieversPR
+ nestorian_PR:0 "несторианине" #BelieversPR
+ messalian_PR:0 "мессалианине" #BelieversPR
+ zikri_PR:0 "зикрите" #BelieversPR
+ yazidi_PR:0 "езиде" #BelieversPR
+ kharijite_PR:0 "хариджите" #BelieversPR
+ druze_PR:0 "друзиде" #BelieversPR
+ hurufi_PR:0 "хуруфите" #BelieversPR
+ baltic_pagan_reformed_PR:0 "балтийце" #BelieversPR
+ finnish_pagan_reformed_PR:0 "финне" #BelieversPR
+ slavic_pagan_reformed_PR:0 "славянине" #BelieversPR
+ zun_pagan_reformed_PR:0 "зунбиле" #BelieversPR
+ hellenic_pagan_reformed_PR:0 "эллине" #BelieversPR
+ hellenic_pagan_PR:0 "эллине" #BelieversPR
+ bon_reformed_PR:0 "боне" #BelieversPR
+ bon_PR:0 "боне" #BelieversPR
+ mazdaki_PR:0 "маздкийце" #BelieversPR
+ manichean_PR:0 "манихейце" #BelieversPR
+ khurmazta_PR:0 "согдомаздеите" #BelieversPR
+ samaritan_faith_PR:0 "самаританите" #BelieversPR
+ karaite_faith_PR:0 "караите" #BelieversPR
+ jain_PR:0 "джайне" #BelieversPR
+ 
+ #Религия верующих в именительном падеже
+ cathar_plural_IM:0 "катарики" #BelieversPluralIM
+ fraticelli_plural_IM:0 "фратичелли" #BelieversPluralIM
+ waldensian_plural_IM:0 "вальденсы" #BelieversPluralIM
+ lollard_plural_IM:0 "лолларды" #BelieversPluralIM
+ monophysite_plural_IM:0 "монофизиты" #BelieversPluralIM
+ bogomilist_plural_IM:0 "богомилы" #BelieversPluralIM
+ monothelite_plural_IM:0 "монофелиты" #BelieversPluralIM
+ iconoclast_plural_IM:0 "иконоборцы" #BelieversPluralIM
+ paulician_plural_IM:0 "павликианцы" #BelieversPluralIM
+ nestorian_plural_IM:0 "несториане" #BelieversPluralIM
+ messalian_plural_IM:0 "мессалиане" #BelieversPluralIM
+ zikri_plural_IM:0 "зикриты" #BelieversPluralIM
+ yazidi_plural_IM:0 "езиды" #BelieversPluralIM
+ kharijite_plural_IM:0 "хариджиты" #BelieversPluralIM
+ druze_plural_IM:0 "друзиды" #BelieversPluralIM
+ hurufi_plural_IM:0 "хуруфиты" #BelieversPluralIM
+ baltic_pagan_reformed_plural_IM:0 "балтийцы" #BelieversPluralIM
+ finnish_pagan_reformed_plural_IM:0 "финны" #BelieversPluralIM
+ slavic_pagan_reformed_plural_IM:0 "славяне" #BelieversPluralIM
+ zun_pagan_reformed_plural_IM:0 "зунбилы" #BelieversPluralIM
+ hellenic_pagan_reformed_plural_IM:0 "эллины" #BelieversPluralIM
+ hellenic_pagan_plural_IM:0 "эллины" #BelieversPluralIM
+ bon_reformed_plural_IM:0 "боны" #BelieversPluralIM
+ bon_plural_IM:0 "боны" #BelieversPluralIM
+ mazdaki_plural_IM:0 "маздкийцы" #BelieversPluralIM
+ manichean_plural_IM:0 "манихейцы" #BelieversPluralIM
+ khurmazta_plural_IM:0 "согдомаздеиты" #BelieversPluralIM
+ samaritan_faith_plural_IM:0 "самаританиты" #BelieversPluralIM
+ karaite_faith_plural_IM:0 "караиты" #BelieversPluralIM
+ jain_plural_IM:0 "джайны" #BelieversPluralIM
+ #Религия верующих в родительном падеже
+ cathar_plural_RD:0 "катариков" #BelieversPluralRD
+ fraticelli_plural_RD:0 "фратичелли" #BelieversPluralRD
+ waldensian_plural_RD:0 "вальденсийцев" #BelieversPluralRD
+ lollard_plural_RD:0 "лоллардов" #BelieversPluralRD
+ monophysite_plural_RD:0 "монофизитов" #BelieversPluralRD
+ bogomilist_plural_RD:0 "богомилов" #BelieversPluralRD
+ monothelite_plural_RD:0 "монофелитов" #BelieversPluralRD
+ iconoclast_plural_RD:0 "иконоборцев" #BelieversPluralRD
+ paulician_plural_RD:0 "павликианцев" #BelieversPluralRD
+ nestorian_plural_RD:0 "несториан" #BelieversPluralRD
+ messalian_plural_RD:0 "мессалиан" #BelieversPluralRD
+ zikri_plural_RD:0 "зикритов" #BelieversPluralRD
+ yazidi_plural_RD:0 "езидов" #BelieversPluralRD
+ kharijite_plural_RD:0 "хариджитов" #BelieversPluralRD
+ druze_plural_RD:0 "друзидов" #BelieversPluralRD
+ hurufi_plural_RD:0 "хуруфитов" #BelieversPluralRD
+ baltic_pagan_reformed_plural_RD:0 "балтийцев" #BelieversPluralRD
+ finnish_pagan_reformed_plural_RD:0 "финнов" #BelieversPluralRD
+ slavic_pagan_reformed_plural_RD:0 "славян" #BelieversPluralRD
+ zun_pagan_reformed_plural_RD:0 "зунбилов" #BelieversPluralRD
+ hellenic_pagan_reformed_plural_RD:0 "эллинов" #BelieversPluralRD
+ hellenic_pagan_plural_RD:0 "эллинов" #BelieversPluralRD
+ bon_reformed_plural_RD:0 "бонов" #BelieversPluralRD
+ bon_plural_RD:0 "бонов" #BelieversPluralRD
+ mazdaki_plural_RD:0 "маздкийцев" #BelieversPluralRD
+ manichean_plural_RD:0 "манихейцев" #BelieversPluralRD
+ khurmazta_plural_RD:0 "согдомаздеитов" #BelieversPluralRD
+ samaritan_faith_plural_RD:0 "самаритян" #BelieversPluralRD
+ karaite_faith_plural_RD:0 "караитов" #BelieversPluralRD
+ jain_plural_RD:0 "джайн" #BelieversPluralRD
+ #Религия верующих в дательном падеже
+ cathar_plural_DT:0 "катарикам" #BelieversPluralDT
+ fraticelli_plural_DT:0 "фратичелли" #BelieversPluralDT
+ waldensian_plural_DT:0 "вальденсам" #BelieversPluralDT
+ lollard_plural_DT:0 "лоллардам" #BelieversPluralDT
+ monophysite_plural_DT:0 "монофизитам" #BelieversPluralDT
+ bogomilist_plural_DT:0 "богомилам" #BelieversPluralDT
+ monothelite_plural_DT:0 "монофелитам" #BelieversPluralDT
+ iconoclast_plural_DT:0 "иконоборцам" #BelieversPluralDT
+ paulician_plural_DT:0 "павликанам" #BelieversPluralDT
+ nestorian_plural_DT:0 "несторианам" #BelieversPluralDT
+ messalian_plural_DT:0 "мессалианам" #BelieversPluralDT
+ zikri_plural_DT:0 "зикритам" #BelieversPluralDT
+ yazidi_plural_DT:0 "езидам" #BelieversPluralDT
+ kharijite_plural_DT:0 "хариджитам" #BelieversPluralDT
+ druze_plural_DT:0 "друзидам" #BelieversPluralDT
+ hurufi_plural_DT:0 "хуруфитам" #BelieversPluralDT
+ baltic_pagan_reformed_plural_DT:0 "балтийцам" #BelieversPluralDT
+ finnish_pagan_reformed_plural_DT:0 "финнам" #BelieversPluralDT
+ slavic_pagan_reformed_plural_DT:0 "славянам" #BelieversPluralDT
+ zun_pagan_reformed_plural_DT:0 "зунбилам" #BelieversPluralDT
+ hellenic_pagan_reformed_plural_DT:0 "эллинам" #BelieversPluralDT
+ hellenic_pagan_plural_DT:0 "эллинам" #BelieversPluralDT
+ bon_reformed_plural_DT:0 "бонам" #BelieversPluralDT
+ bon_plural_DT:0 "бонам" #BelieversPluralDT
+ mazdaki_plural_DT:0 "маздкийцам" #BelieversPluralDT
+ manichean_plural_DT:0 "манихейцам" #BelieversPluralDT
+ khurmazta_plural_DT:0 "согдомаздеитам" #BelieversPluralDT
+ samaritan_faith_plural_DT:0 "самаританитам" #BelieversPluralDT
+ karaite_faith_plural_DT:0 "караитам" #BelieversPluralDT
+ jain_plural_DT:0 "джайнам" #BelieversPluralDT
+ #Религия верующих в творительном падеже
+ cathar_plural_TV:0 "катариками" #BelieversPluralTV
+ fraticelli_plural_TV:0 "фратичелли" #BelieversPluralTV
+ waldensian_plural_TV:0 "вальденсами" #BelieversPluralTV
+ lollard_plural_TV:0 "лоллардами" #BelieversPluralTV
+ monophysite_plural_TV:0 "монофизитами" #BelieversPluralTV
+ bogomilist_plural_TV:0 "богомилами" #BelieversPluralTV
+ monothelite_plural_TV:0 "монофелитами" #BelieversPluralTV
+ iconoclast_plural_TV:0 "иконоборцами" #BelieversPluralTV
+ paulician_plural_TV:0 "павликианцами" #BelieversPluralTV
+ nestorian_plural_TV:0 "несторианами" #BelieversPluralTV
+ messalian_plural_TV:0 "мессалианами" #BelieversPluralTV
+ zikri_plural_TV:0 "зикритами" #BelieversPluralTV
+ yazidi_plural_TV:0 "езидами" #BelieversPluralTV
+ kharijite_plural_TV:0 "хариджитами" #BelieversPluralTV
+ druze_plural_TV:0 "друзидами" #BelieversPluralTV
+ hurufi_plural_TV:0 "хуруфитами" #BelieversPluralTV
+ baltic_pagan_reformed_plural_TV:0 "балтийцами" #BelieversPluralTV
+ finnish_pagan_reformed_plural_TV:0 "финнами" #BelieversPluralTV
+ slavic_pagan_reformed_plural_TV:0 "славянами" #BelieversPluralTV
+ zun_pagan_reformed_plural_TV:0 "зунбилами" #BelieversPluralTV
+ hellenic_pagan_reformed_plural_TV:0 "эллинами" #BelieversPluralTV
+ hellenic_pagan_plural_TV:0 "эллинами" #BelieversPluralTV
+ bon_reformed_plural_TV:0 "бонами" #BelieversPluralTV
+ bon_plural_TV:0 "бонами" #BelieversPluralTV
+ mazdaki_plural_TV:0 "маздкийцами" #BelieversPluralTV
+ manichean_plural_TV:0 "манихейцами" #BelieversPluralTV
+ khurmazta_plural_TV:0 "согдомаздеитами" #BelieversPluralTV
+ samaritan_faith_plural_TV:0 "самаританитами" #BelieversPluralTV
+ karaite_faith_plural_TV:0 "караитами" #BelieversPluralTV
+ jain_plural_TV:0 "джайнами" #BelieversPluralTV
+ #Религия верующих в предложном падеже
+ cathar_plural_PR:0 "катариках" #BelieversPluralPR
+ fraticelli_plural_PR:0 "фратичелли" #BelieversPluralPR
+ waldensian_plural_PR:0 "вальденсах" #BelieversPluralPR
+ lollard_plural_PR:0 "лоллардах" #BelieversPluralPR
+ monophysite_plural_PR:0 "монофизитах" #BelieversPluralPR
+ bogomilist_plural_PR:0 "богомилах" #BelieversPluralPR
+ monothelite_plural_PR:0 "монофелитах" #BelieversPluralPR
+ iconoclast_plural_PR:0 "иконоборцах" #BelieversPluralPR
+ paulician_plural_PR:0 "павликианцах" #BelieversPluralPR
+ nestorian_plural_PR:0 "несторианах" #BelieversPluralPR
+ messalian_plural_PR:0 "мессалианах" #BelieversPluralPR
+ zikri_plural_PR:0 "зикритах" #BelieversPluralPR
+ yazidi_plural_PR:0 "езидах" #BelieversPluralPR
+ kharijite_plural_PR:0 "хариджитах" #BelieversPluralPR
+ druze_plural_PR:0 "друзидах" #BelieversPluralPR
+ hurufi_plural_PR:0 "хуруфитах" #BelieversPluralPR
+ baltic_pagan_reformed_plural_PR:0 "балтийцах" #BelieversPluralPR
+ finnish_pagan_reformed_plural_PR:0 "финнах" #BelieversPluralPR
+ slavic_pagan_reformed_plural_PR:0 "славянах" #BelieversPluralPR
+ zun_pagan_reformed_plural_PR:0 "зунбилах" #BelieversPluralPR
+ hellenic_pagan_reformed_plural_PR:0 "эллинах" #BelieversPluralPR
+ hellenic_pagan_plural_PR:0 "эллинах" #BelieversPluralPR
+ bon_reformed_plural_PR:0 "бонах" #BelieversPluralPR
+ bon_plural_PR:0 "бонах" #BelieversPluralPR
+ mazdaki_plural_PR:0 "маздкийцах" #BelieversPluralPR
+ manichean_plural_PR:0 "манихейцах" #BelieversPluralPR
+ khurmazta_plural_PR:0 "согдомаздеитах" #BelieversPluralPR
+ samaritan_faith_plural_PR:0 "самаританитах" #BelieversPluralPR
+ karaite_faith_plural_PR:0 "караитах" #BelieversPluralPR
+ jain_plural_PR:0 "джайнах" #BelieversPluralPR
+ 
+ #Религия в именительном падеже с прописной буквы
+ cathar_name_IM_CAP:0 "Катаризм" #ReligionIM_CAP
+ fraticelli_name_IM_CAP:0 "Фратичелли" #ReligionIM_CAP
+ waldensian_name_IM_CAP:0 "Вальденсизм" #ReligionIM_CAP
+ lollard_name_IM_CAP:0 "Лоллардизм" #ReligionIM_CAP
+ monophysite_name_IM_CAP:0 "Монофизитство" #ReligionIM_CAP
+ bogomilist_name_IM_CAP:0 "Богомильство" #ReligionIM_CAP
+ monothelite_name_IM_CAP:0 "Монофелитство" #ReligionIM_CAP
+ iconoclast_name_IM_CAP:0 "Иконоборчество" #ReligionIM_CAP
+ paulician_name_IM_CAP:0 "Павликианство" #ReligionIM_CAP
+ nestorian_name_IM_CAP:0 "Несторианство" #ReligionIM_CAP
+ messalian_name_IM_CAP:0 "Мессалианство" #ReligionIM_CAP
+ zikri_name_IM_CAP:0 "Зикризм" #ReligionIM_CAP
+ yazidi_name_IM_CAP:0 "Езидизм" #ReligionIM_CAP
+ kharijite_name_IM_CAP:0 "Хариджизм" #ReligionIM_CAP
+ druze_name_IM_CAP:0 "Друзизм" #ReligionIM_CAP
+ hurufi_name_IM_CAP:0 "Хуруфизм" #ReligionIM_CAP
+ baltic_pagan_reformed_name_IM_CAP:0 "Балтийское язычество" #ReligionIM_CAP
+ finnish_pagan_reformed_name_IM_CAP:0 "Финское язычество" #ReligionIM_CAP
+ slavic_pagan_reformed_name_IM_CAP:0 "Славянское язычество" #ReligionIM_CAP
+ zun_pagan_reformed_name_IM_CAP:0 "Зунское язычество" #ReligionIM_CAP
+ hellenic_pagan_reformed_name_IM_CAP:0 "Эллинизм" #ReligionIM_CAP
+ hellenic_pagan_name_IM_CAP:0 "Эллинское язычество" #ReligionIM_CAP
+ bon_reformed_name_IM_CAP:0 "Бон" #ReligionIM_CAP
+ bon_name_IM_CAP:0 "Бонское язычество" #ReligionIM_CAP
+ mazdaki_name_IM_CAP:0 "Маздкизм" #ReligionIM_CAP
+ manichean_name_IM_CAP:0 "Манихейство" #ReligionIM_CAP
+ khurmazta_name_IM_CAP:0 "Согдомаздеизм" #ReligionIM_CAP
+ samaritan_faith_name_IM_CAP:0 "Самаританизм" #ReligionIM_CAP
+ karaite_faith_name_IM_CAP:0 "Караизм" #ReligionIM_CAP
+ jain_name_IM_CAP:0 "Джайнизм" #ReligionIM_CAP
+ #Религия в родительном падеже с прописной буквы
+ cathar_name_RD_CAP:0 "Катаризма" #ReligionRD_CAP
+ fraticelli_name_RD_CAP:0 "Фратичелли" #ReligionRD_CAP
+ waldensian_name_RD_CAP:0 "Вальденсизма" #ReligionRD_CAP
+ lollard_name_RD_CAP:0 "Лоллардизма" #ReligionRD_CAP
+ monophysite_name_RD_CAP:0 "Монофизитства" #ReligionRD_CAP
+ bogomilist_name_RD_CAP:0 "Богомильства" #ReligionRD_CAP
+ monothelite_name_RD_CAP:0 "Монофелитства" #ReligionRD_CAP
+ iconoclast_name_RD_CAP:0 "Иконоборчества" #ReligionRD_CAP
+ paulician_name_RD_CAP:0 "Павликианства" #ReligionRD_CAP
+ nestorian_name_RD_CAP:0 "Несторианства" #ReligionRD_CAP
+ messalian_name_RD_CAP:0 "Мессалианства" #ReligionRD_CAP
+ zikri_name_RD_CAP:0 "Зикризма" #ReligionRD_CAP
+ yazidi_name_RD_CAP:0 "Езидизма" #ReligionRD_CAP
+ kharijite_name_RD_CAP:0 "Хариджизма" #ReligionRD_CAP
+ druze_name_RD_CAP:0 "Друзизма" #ReligionRD_CAP
+ hurufi_name_RD_CAP:0 "Хуруфизма" #ReligionRD_CAP
+ baltic_pagan_reformed_name_RD_CAP:0 "Балтийского язычества" #ReligionRD_CAP
+ finnish_pagan_reformed_name_RD_CAP:0 "Финского язычества" #ReligionRD_CAP
+ slavic_pagan_reformed_name_RD_CAP:0 "Славянского язычества" #ReligionRD_CAP
+ zun_pagan_reformed_name_RD_CAP:0 "Зунского язычества" #ReligionRD_CAP
+ hellenic_pagan_reformed_name_RD_CAP:0 "Эллинизма" #ReligionRD_CAP
+ hellenic_pagan_name_RD_CAP:0 "Эллинского язычества" #ReligionRD_CAP
+ bon_reformed_name_RD_CAP:0 "Бона" #ReligionRD_CAP
+ bon_name_RD_CAP:0 "Бонского язычества" #ReligionRD_CAP
+ mazdaki_name_RD_CAP:0 "Маздкизма" #ReligionRD_CAP
+ manichean_name_RD_CAP:0 "Манихейства" #ReligionRD_CAP
+ khurmazta_name_RD_CAP:0 "Согдомаздеизма" #ReligionRD_CAP
+ samaritan_faith_name_RD_CAP:0 "Самаританизма" #ReligionRD_CAP
+ karaite_faith_name_RD_CAP:0 "Караизма" #ReligionRD_CAP
+ jain_name_RD_CAP:0 "Джайнизма" #ReligionRD_CAP
+ #Религия в дательном падеже с прописной буквы
+ cathar_name_DT_CAP:0 "Катаризму" #ReligionDT_CAP
+ fraticelli_name_DT_CAP:0 "Фратичелли" #ReligionDT_CAP
+ waldensian_name_DT_CAP:0 "Вальденсизму" #ReligionDT_CAP
+ lollard_name_DT_CAP:0 "Лоллардизму" #ReligionDT_CAP
+ monophysite_name_DT_CAP:0 "Монофизитству" #ReligionDT_CAP
+ bogomilist_name_DT_CAP:0 "Богомильству" #ReligionDT_CAP
+ monothelite_name_DT_CAP:0 "Монофелитству" #ReligionDT_CAP
+ iconoclast_name_DT_CAP:0 "Иконоборчеству" #ReligionDT_CAP
+ paulician_name_DT_CAP:0 "Павликианству" #ReligionDT_CAP
+ nestorian_name_DT_CAP:0 "Несторианству" #ReligionDT_CAP
+ messalian_name_DT_CAP:0 "Мессалианству" #ReligionDT_CAP
+ zikri_name_DT_CAP:0 "Зикризму" #ReligionDT_CAP
+ yazidi_name_DT_CAP:0 "Езидизму" #ReligionDT_CAP
+ kharijite_name_DT_CAP:0 "Хариджизму" #ReligionDT_CAP
+ druze_name_DT_CAP:0 "Друзизму" #ReligionDT_CAP
+ hurufi_name_DT_CAP:0 "Хуруфизму" #ReligionDT_CAP
+ baltic_pagan_reformed_name_DT_CAP:0 "Балтийскому язычеству" #ReligionDT_CAP
+ finnish_pagan_reformed_name_DT_CAP:0 "Финскому язычеству" #ReligionDT_CAP
+ slavic_pagan_reformed_name_DT_CAP:0 "Славянскому язычеству" #ReligionDT_CAP
+ zun_pagan_reformed_name_DT_CAP:0 "Зунскому язычеству" #ReligionDT_CAP
+ hellenic_pagan_reformed_name_DT_CAP:0 "Эллинизму" #ReligionDT_CAP
+ hellenic_pagan_name_DT_CAP:0 "Эллинскому язычеству" #ReligionDT_CAP
+ bon_reformed_name_DT_CAP:0 "Бону" #ReligionDT_CAP
+ bon_name_DT_CAP:0 "Бонскому язычеству" #ReligionDT_CAP
+ mazdaki_name_DT_CAP:0 "Маздкизму" #ReligionDT_CAP
+ manichean_name_DT_CAP:0 "Манихейству" #ReligionDT_CAP
+ khurmazta_name_DT_CAP:0 "Согдомаздеизму" #ReligionDT_CAP
+ samaritan_faith_name_DT_CAP:0 "Самаританизму" #ReligionDT_CAP
+ karaite_faith_name_DT_CAP:0 "Караизму" #ReligionDT_CAP
+ jain_name_DT_CAP:0 "Джайнизму" #ReligionDT_CAP
+ #Религия в творительном падеже с прописной буквы
+ cathar_name_TV_CAP:0 "Катаризмом" #ReligionTV_CAP
+ fraticelli_name_TV_CAP:0 "Фратичелли" #ReligionTV_CAP
+ waldensian_name_TV_CAP:0 "Вальденсизмом" #ReligionTV_CAP
+ lollard_name_TV_CAP:0 "Лоллардизмом" #ReligionTV_CAP
+ monophysite_name_TV_CAP:0 "Монофизитством" #ReligionTV_CAP
+ bogomilist_name_TV_CAP:0 "Богомильством" #ReligionTV_CAP
+ monothelite_name_TV_CAP:0 "Монофелитством" #ReligionTV_CAP
+ iconoclast_name_TV_CAP:0 "Иконоборчеством" #ReligionTV_CAP
+ paulician_name_TV_CAP:0 "Павликианством" #ReligionTV_CAP
+ nestorian_name_TV_CAP:0 "Несторианством" #ReligionTV_CAP
+ messalian_name_TV_CAP:0 "Мессалианством" #ReligionTV_CAP
+ zikri_name_TV_CAP:0 "Зикризмом" #ReligionTV_CAP
+ yazidi_name_TV_CAP:0 "Езидизмом" #ReligionTV_CAP
+ kharijite_name_TV_CAP:0 "Хариджизмом" #ReligionTV_CAP
+ druze_name_TV_CAP:0 "Друзизмом" #ReligionTV_CAP
+ hurufi_name_TV_CAP:0 "Хуруфизмом" #ReligionTV_CAP
+ baltic_pagan_reformed_name_TV_CAP:0 "Балтийским язычеством" #ReligionTV_CAP
+ finnish_pagan_reformed_name_TV_CAP:0 "Финским язычеством" #ReligionTV_CAP
+ slavic_pagan_reformed_name_TV_CAP:0 "Славянским язычеством" #ReligionTV_CAP
+ zun_pagan_reformed_name_TV_CAP:0 "Зунским язычеством" #ReligionTV_CAP
+ hellenic_pagan_reformed_name_TV_CAP:0 "Эллинизмом" #ReligionTV_CAP
+ hellenic_pagan_name_TV_CAP:0 "Эллинским язычеством" #ReligionTV_CAP
+ bon_reformed_name_TV_CAP:0 "Боном" #ReligionTV_CAP
+ bon_name_TV_CAP:0 "Бонским язычеством" #ReligionTV_CAP
+ mazdaki_name_TV_CAP:0 "Маздкизмом" #ReligionTV_CAP
+ manichean_name_TV_CAP:0 "Манихейством" #ReligionTV_CAP
+ khurmazta_name_TV_CAP:0 "Согдомаздеизмом" #ReligionTV_CAP
+ samaritan_faith_name_TV_CAP:0 "Самаританизмом" #ReligionTV_CAP
+ karaite_faith_name_TV_CAP:0 "Караизмом" #ReligionTV_CAP
+ jain_name_TV_CAP:0 "Джайнизмом" #ReligionTV_CAP
+ #Религия в предложном падеже с прописной буквы
+ cathar_name_PR_CAP:0 "Катаризме" #ReligionPR_CAP
+ fraticelli_name_PR_CAP:0 "Фратичелли" #ReligionPR_CAP
+ waldensian_name_PR_CAP:0 "Вальденсизме" #ReligionPR_CAP
+ lollard_name_PR_CAP:0 "Лоллардизме" #ReligionPR_CAP
+ monophysite_name_PR_CAP:0 "Монофизитстве" #ReligionPR_CAP
+ bogomilist_name_PR_CAP:0 "Богомильстве" #ReligionPR_CAP
+ monothelite_name_PR_CAP:0 "Монофелитстве" #ReligionPR_CAP
+ iconoclast_name_PR_CAP:0 "Иконоборчестве" #ReligionPR_CAP
+ paulician_name_PR_CAP:0 "Павликианстве" #ReligionPR_CAP
+ nestorian_name_PR_CAP:0 "Несторианстве" #ReligionPR_CAP
+ messalian_name_PR_CAP:0 "Мессалианстве" #ReligionPR_CAP
+ zikri_name_PR_CAP:0 "Зикризме" #ReligionPR_CAP
+ yazidi_name_PR_CAP:0 "Езидизме" #ReligionPR_CAP
+ kharijite_name_PR_CAP:0 "Хариджизме" #ReligionPR_CAP
+ druze_name_PR_CAP:0 "Друзизме" #ReligionPR_CAP
+ hurufi_name_PR_CAP:0 "Хуруфизме" #ReligionPR_CAP
+ baltic_pagan_reformed_name_PR_CAP:0 "Балтийском язычестве" #ReligionPR_CAP
+ finnish_pagan_reformed_name_PR_CAP:0 "Финском язычестве" #ReligionPR_CAP
+ slavic_pagan_reformed_name_PR_CAP:0 "Славянском язычестве" #ReligionPR_CAP
+ zun_pagan_reformed_name_PR_CAP:0 "Зунском язычестве" #ReligionPR_CAP
+ hellenic_pagan_reformed_name_PR_CAP:0 "Эллинизме" #ReligionPR_CAP
+ hellenic_pagan_name_PR_CAP:0 "Эллинском язычестве" #ReligionPR_CAP
+ bon_reformed_name_PR_CAP:0 "Боне" #ReligionPR_CAP
+ bon_name_PR_CAP:0 "Бонском язычестве" #ReligionPR_CAP
+ mazdaki_name_PR_CAP:0 "Маздкизме" #ReligionPR_CAP
+ manichean_name_PR_CAP:0 "Манихействе" #ReligionPR_CAP
+ khurmazta_name_PR_CAP:0 "Согдомаздеизме" #ReligionPR_CAP
+ samaritan_faith_name_PR_CAP:0 "Самаританизме" #ReligionPR_CAP
+ karaite_faith_name_PR_CAP:0 "Караизме" #ReligionPR_CAP
+ jain_name_PR_CAP:0 "Джайнизме" #ReligionPR_CAP
+ 
+ #Религия верующего в именительном падеже с прописной буквы
+ cathar_IM_CAP:0 "Катарик" #BelieversIM_CAP
+ fraticelli_IM_CAP:0 "Фратичелли" #BelieversIM_CAP
+ waldensian_IM_CAP:0 "Вальденс" #BelieversIM_CAP
+ lollard_IM_CAP:0 "Лоллард" #BelieversIM_CAP
+ monophysite_IM_CAP:0 "Монофизит" #BelieversIM_CAP
+ bogomilist_IM_CAP:0 "Богомил" #BelieversIM_CAP
+ monothelite_IM_CAP:0 "Монофелит" #BelieversIM_CAP
+ iconoclast_IM_CAP:0 "Иконоборец" #BelieversIM_CAP
+ paulician_IM_CAP:0 "Павликианец" #BelieversIM_CAP
+ nestorian_IM_CAP:0 "Несторианин" #BelieversIM_CAP
+ messalian_IM_CAP:0 "Мессалианин" #BelieversIM_CAP
+ zikri_IM_CAP:0 "Зикрит" #BelieversIM_CAP
+ yazidi_IM_CAP:0 "Езид" #BelieversIM_CAP
+ kharijite_IM_CAP:0 "Хариджит" #BelieversIM_CAP
+ druze_IM_CAP:0 "Друзид" #BelieversIM_CAP
+ hurufi_IM_CAP:0 "Хуруфит" #BelieversIM_CAP
+ baltic_pagan_reformed_IM_CAP:0 "Балтийец" #BelieversIM_CAP
+ finnish_pagan_reformed_IM_CAP:0 "Финн" #BelieversIM_CAP
+ slavic_pagan_reformed_IM_CAP:0 "Славянин" #BelieversIM_CAP
+ zun_pagan_reformed_IM_CAP:0 "Зунбил" #BelieversIM_CAP
+ hellenic_pagan_reformed_IM_CAP:0 "Эллин" #BelieversIM_CAP
+ hellenic_pagan_IM_CAP:0 "Эллин" #BelieversIM_CAP
+ bon_reformed_IM_CAP:0 "Бон" #BelieversIM_CAP
+ bon_IM_CAP:0 "Бон" #BelieversIM_CAP
+ mazdaki_IM_CAP:0 "Маздкийец" #BelieversIM_CAP
+ manichean_IM_CAP:0 "Манихейец" #BelieversIM_CAP
+ khurmazta_IM_CAP:0 "Согдомаздеит" #BelieversIM_CAP
+ samaritan_faith_IM_CAP:0 "Самаританит" #BelieversIM_CAP
+ karaite_faith_IM_CAP:0 "Караит" #BelieversIM_CAP
+ jain_IM_CAP:0 "Джайн" #BelieversIM_CAP
+ #Религия верующего в родительном падеже с прописной буквы
+ cathar_RD_CAP:0 "Катарика" #BelieversRD_CAP
+ fraticelli_RD_CAP:0 "Фратичелли" #BelieversRD_CAP
+ waldensian_RD_CAP:0 "Вальденса" #BelieversRD_CAP
+ lollard_RD_CAP:0 "Лолларда" #BelieversRD_CAP
+ monophysite_RD_CAP:0 "Монофизита" #BelieversRD_CAP
+ bogomilist_RD_CAP:0 "Богомила" #BelieversRD_CAP
+ monothelite_RD_CAP:0 "Монофелита" #BelieversRD_CAP
+ iconoclast_RD_CAP:0 "Иконобореца" #BelieversRD_CAP
+ paulician_RD_CAP:0 "Павликианца" #BelieversRD_CAP
+ nestorian_RD_CAP:0 "Несторианина" #BelieversRD_CAP
+ messalian_RD_CAP:0 "Мессалианина" #BelieversRD_CAP
+ zikri_RD_CAP:0 "Зикрита" #BelieversRD_CAP
+ yazidi_RD_CAP:0 "Езида" #BelieversRD_CAP
+ kharijite_RD_CAP:0 "Хариджита" #BelieversRD_CAP
+ druze_RD_CAP:0 "Друзида" #BelieversRD_CAP
+ hurufi_RD_CAP:0 "Хуруфита" #BelieversRD_CAP
+ baltic_pagan_reformed_RD_CAP:0 "Балтийца" #BelieversRD_CAP
+ finnish_pagan_reformed_RD_CAP:0 "Финна" #BelieversRD_CAP
+ slavic_pagan_reformed_RD_CAP:0 "Славянина" #BelieversRD_CAP
+ zun_pagan_reformed_RD_CAP:0 "Зунбила" #BelieversRD_CAP
+ hellenic_pagan_reformed_RD_CAP:0 "Эллина" #BelieversRD_CAP
+ hellenic_pagan_RD_CAP:0 "Эллина" #BelieversRD_CAP
+ bon_reformed_RD_CAP:0 "Бона" #BelieversRD_CAP
+ bon_RD_CAP:0 "Бона" #BelieversRD_CAP
+ mazdaki_RD_CAP:0 "Маздкийеца" #BelieversRD_CAP
+ manichean_RD_CAP:0 "Манихейеца" #BelieversRD_CAP
+ khurmazta_RD_CAP:0 "Согдомаздеита" #BelieversRD_CAP
+ samaritan_faith_RD_CAP:0 "Самаританита" #BelieversRD_CAP
+ karaite_faith_RD_CAP:0 "Караита" #BelieversRD_CAP
+ jain_RD_CAP:0 "Джайна" #BelieversRD_CAP
+ #Религия верующего в дательном падеже с прописной буквы
+ cathar_DT_CAP:0 "Катарику" #BelieversDT_CAP
+ fraticelli_DT_CAP:0 "Фратичелли" #BelieversDT_CAP
+ waldensian_DT_CAP:0 "Вальденсу" #BelieversDT_CAP
+ lollard_DT_CAP:0 "Лолларду" #BelieversDT_CAP
+ monophysite_DT_CAP:0 "Монофизиту" #BelieversDT_CAP
+ bogomilist_DT_CAP:0 "Богомилу" #BelieversDT_CAP
+ monothelite_DT_CAP:0 "Монофелиту" #BelieversDT_CAP
+ iconoclast_DT_CAP:0 "Иконоборецу" #BelieversDT_CAP
+ paulician_DT_CAP:0 "Павликианцу" #BelieversDT_CAP
+ nestorian_DT_CAP:0 "Несторианину" #BelieversDT_CAP
+ messalian_DT_CAP:0 "Мессалианину" #BelieversDT_CAP
+ zikri_DT_CAP:0 "Зикриту" #BelieversDT_CAP
+ yazidi_DT_CAP:0 "Езиду" #BelieversDT_CAP
+ kharijite_DT_CAP:0 "Хариджиту" #BelieversDT_CAP
+ druze_DT_CAP:0 "Друзиду" #BelieversDT_CAP
+ hurufi_DT_CAP:0 "Хуруфиту" #BelieversDT_CAP
+ baltic_pagan_reformed_DT_CAP:0 "Балтийцу" #BelieversDT_CAP
+ finnish_pagan_reformed_DT_CAP:0 "Финну" #BelieversDT_CAP
+ slavic_pagan_reformed_DT_CAP:0 "Славянину" #BelieversDT_CAP
+ zun_pagan_reformed_DT_CAP:0 "Зунбилу" #BelieversDT_CAP
+ hellenic_pagan_reformed_DT_CAP:0 "Эллину" #BelieversDT_CAP
+ hellenic_pagan_DT_CAP:0 "Эллину" #BelieversDT_CAP
+ bon_reformed_DT_CAP:0 "Бону" #BelieversDT_CAP
+ bon_DT_CAP:0 "Бону" #BelieversDT_CAP
+ mazdaki_DT_CAP:0 "Маздкийцу" #BelieversDT_CAP
+ manichean_DT_CAP:0 "Манихейцу" #BelieversDT_CAP
+ khurmazta_DT_CAP:0 "Согдомаздеиту" #BelieversDT_CAP
+ samaritan_faith_DT_CAP:0 "Самаританиту" #BelieversDT_CAP
+ karaite_faith_DT_CAP:0 "Караиту" #BelieversDT_CAP
+ jain_DT_CAP:0 "Джайну" #BelieversDT_CAP
+ #Религия верующего в творительном падеже с прописной буквы
+ cathar_TV_CAP:0 "Катариком" #BelieversTV_CAP
+ fraticelli_TV_CAP:0 "Фратичелли" #BelieversTV_CAP
+ waldensian_TV_CAP:0 "Вальденсом" #BelieversTV_CAP
+ lollard_TV_CAP:0 "Лоллардом" #BelieversTV_CAP
+ monophysite_TV_CAP:0 "Монофизитом" #BelieversTV_CAP
+ bogomilist_TV_CAP:0 "Богомилом" #BelieversTV_CAP
+ monothelite_TV_CAP:0 "Монофелитом" #BelieversTV_CAP
+ iconoclast_TV_CAP:0 "Иконоборцем" #BelieversTV_CAP
+ paulician_TV_CAP:0 "Павликианцем" #BelieversTV_CAP
+ nestorian_TV_CAP:0 "Несторианином" #BelieversTV_CAP
+ messalian_TV_CAP:0 "Мессалианином" #BelieversTV_CAP
+ zikri_TV_CAP:0 "Зикритом" #BelieversTV_CAP
+ yazidi_TV_CAP:0 "Езидом" #BelieversTV_CAP
+ kharijite_TV_CAP:0 "Хариджитом" #BelieversTV_CAP
+ druze_TV_CAP:0 "Друзидом" #BelieversTV_CAP
+ hurufi_TV_CAP:0 "Хуруфитом" #BelieversTV_CAP
+ baltic_pagan_reformed_TV_CAP:0 "Балтийцем" #BelieversTV_CAP
+ finnish_pagan_reformed_TV_CAP:0 "Финном" #BelieversTV_CAP
+ slavic_pagan_reformed_TV_CAP:0 "Славянином" #BelieversTV_CAP
+ zun_pagan_reformed_TV_CAP:0 "Зунбилом" #BelieversTV_CAP
+ hellenic_pagan_reformed_TV_CAP:0 "Эллином" #BelieversTV_CAP
+ hellenic_pagan_TV_CAP:0 "Эллином" #BelieversTV_CAP
+ bon_reformed_TV_CAP:0 "Боном" #BelieversTV_CAP
+ bon_TV_CAP:0 "Боном" #BelieversTV_CAP
+ mazdaki_TV_CAP:0 "Маздкийцем" #BelieversTV_CAP
+ manichean_TV_CAP:0 "Манихейцем" #BelieversTV_CAP
+ khurmazta_TV_CAP:0 "Согдомаздеитом" #BelieversTV_CAP
+ samaritan_faith_TV_CAP:0 "Самаританитом" #BelieversTV_CAP
+ karaite_faith_TV_CAP:0 "Караитом" #BelieversTV_CAP
+ jain_TV_CAP:0 "Джайном" #BelieversTV_CAP
+ #Религия верующего в предложном падеже с прописной буквы
+ cathar_PR_CAP:0 "Катарике" #BelieversPR_CAP
+ fraticelli_PR_CAP:0 "Фратичелли" #BelieversPR_CAP
+ waldensian_PR_CAP:0 "Вальденсе" #BelieversPR_CAP
+ lollard_PR_CAP:0 "Лолларде" #BelieversPR_CAP
+ monophysite_PR_CAP:0 "Монофизите" #BelieversPR_CAP
+ bogomilist_PR_CAP:0 "Богомиле" #BelieversPR_CAP
+ monothelite_PR_CAP:0 "Монофелите" #BelieversPR_CAP
+ iconoclast_PR_CAP:0 "Иконоборце" #BelieversPR_CAP
+ paulician_PR_CAP:0 "Павликианце" #BelieversPR_CAP
+ nestorian_PR_CAP:0 "Несторианине" #BelieversPR_CAP
+ messalian_PR_CAP:0 "Мессалианине" #BelieversPR_CAP
+ zikri_PR_CAP:0 "Зикрите" #BelieversPR_CAP
+ yazidi_PR_CAP:0 "Езиде" #BelieversPR_CAP
+ kharijite_PR_CAP:0 "Хариджите" #BelieversPR_CAP
+ druze_PR_CAP:0 "Друзиде" #BelieversPR_CAP
+ hurufi_PR_CAP:0 "Хуруфите" #BelieversPR_CAP
+ baltic_pagan_reformed_PR_CAP:0 "Балтийце" #BelieversPR_CAP
+ finnish_pagan_reformed_PR_CAP:0 "Финне" #BelieversPR_CAP
+ slavic_pagan_reformed_PR_CAP:0 "Славянине" #BelieversPR_CAP
+ zun_pagan_reformed_PR_CAP:0 "Зунбиле" #BelieversPR_CAP
+ hellenic_pagan_reformed_PR_CAP:0 "Эллине" #BelieversPR_CAP
+ hellenic_pagan_PR_CAP:0 "Эллине" #BelieversPR_CAP
+ bon_reformed_PR_CAP:0 "Боне" #BelieversPR_CAP
+ bon_PR_CAP:0 "Боне" #BelieversPR_CAP
+ mazdaki_PR_CAP:0 "Маздкийце" #BelieversPR_CAP
+ manichean_PR_CAP:0 "Манихейце" #BelieversPR_CAP
+ khurmazta_PR_CAP:0 "Согдомаздеите" #BelieversPR_CAP
+ samaritan_faith_PR_CAP:0 "Самаританите" #BelieversPR_CAP
+ karaite_faith_PR_CAP:0 "Караите" #BelieversPR_CAP
+ jain_PR_CAP:0 "Джайне" #BelieversPR_CAP
+ 
+ #Религия верующих в именительном падеже с прописной буквы
+ cathar_plural_IM_CAP:0 "Катарики" #BelieversPluralIM_CAP
+ fraticelli_plural_IM_CAP:0 "Фратичелли" #BelieversPluralIM_CAP
+ waldensian_plural_IM_CAP:0 "Вальденсы" #BelieversPluralIM_CAP
+ lollard_plural_IM_CAP:0 "Лолларды" #BelieversPluralIM_CAP
+ monophysite_plural_IM_CAP:0 "Монофизиты" #BelieversPluralIM_CAP
+ bogomilist_plural_IM_CAP:0 "Богомилы" #BelieversPluralIM_CAP
+ monothelite_plural_IM_CAP:0 "Монофелиты" #BelieversPluralIM_CAP
+ iconoclast_plural_IM_CAP:0 "Иконоборцы" #BelieversPluralIM_CAP
+ paulician_plural_IM_CAP:0 "Павликианцы" #BelieversPluralIM_CAP
+ nestorian_plural_IM_CAP:0 "Несториане" #BelieversPluralIM_CAP
+ messalian_plural_IM_CAP:0 "Мессалиане" #BelieversPluralIM_CAP
+ zikri_plural_IM_CAP:0 "Зикриты" #BelieversPluralIM_CAP
+ yazidi_plural_IM_CAP:0 "Езиды" #BelieversPluralIM_CAP
+ kharijite_plural_IM_CAP:0 "Хариджиты" #BelieversPluralIM_CAP
+ druze_plural_IM_CAP:0 "Друзиды" #BelieversPluralIM_CAP
+ hurufi_plural_IM_CAP:0 "Хуруфиты" #BelieversPluralIM_CAP
+ baltic_pagan_reformed_plural_IM_CAP:0 "Балтийцы" #BelieversPluralIM_CAP
+ finnish_pagan_reformed_plural_IM_CAP:0 "Финны" #BelieversPluralIM_CAP
+ slavic_pagan_reformed_plural_IM_CAP:0 "Славяне" #BelieversPluralIM_CAP
+ zun_pagan_reformed_plural_IM_CAP:0 "Зунбилы" #BelieversPluralIM_CAP
+ hellenic_pagan_reformed_plural_IM_CAP:0 "Эллины" #BelieversPluralIM_CAP
+ hellenic_pagan_plural_IM_CAP:0 "Эллины" #BelieversPluralIM_CAP
+ bon_reformed_plural_IM_CAP:0 "Боны" #BelieversPluralIM_CAP
+ bon_plural_IM_CAP:0 "Боны" #BelieversPluralIM_CAP
+ mazdaki_plural_IM_CAP:0 "Маздкийцы" #BelieversPluralIM_CAP
+ manichean_plural_IM_CAP:0 "Манихейцы" #BelieversPluralIM_CAP
+ khurmazta_plural_IM_CAP:0 "Согдомаздеиты" #BelieversPluralIM_CAP
+ samaritan_faith_plural_IM_CAP:0 "Самаританиты" #BelieversPluralIM_CAP
+ karaite_faith_plural_IM_CAP:0 "Караиты" #BelieversPluralIM_CAP
+ jain_plural_IM_CAP:0 "Джайны" #BelieversPluralIM_CAP
+ #Религия верующих в родительном падеже с прописной буквы
+ cathar_plural_RD_CAP:0 "Катариков" #BelieversPluralRD_CAP
+ fraticelli_plural_RD_CAP:0 "Фратичелли" #BelieversPluralRD_CAP
+ waldensian_plural_RD_CAP:0 "Вальденсийцев" #BelieversPluralRD_CAP
+ lollard_plural_RD_CAP:0 "Лоллардов" #BelieversPluralRD_CAP
+ monophysite_plural_RD_CAP:0 "Монофизитов" #BelieversPluralRD_CAP
+ bogomilist_plural_RD_CAP:0 "Богомилов" #BelieversPluralRD_CAP
+ monothelite_plural_RD_CAP:0 "Монофелитов" #BelieversPluralRD_CAP
+ iconoclast_plural_RD_CAP:0 "Иконоборцев" #BelieversPluralRD_CAP
+ paulician_plural_RD_CAP:0 "Павликианцев" #BelieversPluralRD_CAP
+ nestorian_plural_RD_CAP:0 "Несториан" #BelieversPluralRD_CAP
+ messalian_plural_RD_CAP:0 "Мессалиан" #BelieversPluralRD_CAP
+ zikri_plural_RD_CAP:0 "Зикритов" #BelieversPluralRD_CAP
+ yazidi_plural_RD_CAP:0 "Езидов" #BelieversPluralRD_CAP
+ kharijite_plural_RD_CAP:0 "Хариджитов" #BelieversPluralRD_CAP
+ druze_plural_RD_CAP:0 "Друзидов" #BelieversPluralRD_CAP
+ hurufi_plural_RD_CAP:0 "Хуруфитов" #BelieversPluralRD_CAP
+ baltic_pagan_reformed_plural_RD_CAP:0 "Балтийцев" #BelieversPluralRD_CAP
+ finnish_pagan_reformed_plural_RD_CAP:0 "Финнов" #BelieversPluralRD_CAP
+ slavic_pagan_reformed_plural_RD_CAP:0 "Славян" #BelieversPluralRD_CAP
+ zun_pagan_reformed_plural_RD_CAP:0 "Зунбилов" #BelieversPluralRD_CAP
+ hellenic_pagan_reformed_plural_RD_CAP:0 "Эллинов" #BelieversPluralRD_CAP
+ hellenic_pagan_plural_RD_CAP:0 "Эллинов" #BelieversPluralRD_CAP
+ bon_reformed_plural_RD_CAP:0 "Бонов" #BelieversPluralRD_CAP
+ bon_plural_RD_CAP:0 "Бонов" #BelieversPluralRD_CAP
+ mazdaki_plural_RD_CAP:0 "Маздкийцев" #BelieversPluralRD_CAP
+ manichean_plural_RD_CAP:0 "Манихейцев" #BelieversPluralRD_CAP
+ khurmazta_plural_RD_CAP:0 "Согдомаздеитов" #BelieversPluralRD_CAP
+ samaritan_faith_plural_RD_CAP:0 "Самаритян" #BelieversPluralRD_CAP
+ karaite_faith_plural_RD_CAP:0 "Караитов" #BelieversPluralRD_CAP
+ jain_plural_RD_CAP:0 "Джайн" #BelieversPluralRD_CAP
+ #Религия верующих в дательном падеже с прописной буквы
+ cathar_plural_DT_CAP:0 "Катарикам" #BelieversPluralDT_CAP
+ fraticelli_plural_DT_CAP:0 "Фратичелли" #BelieversPluralDT_CAP
+ waldensian_plural_DT_CAP:0 "Вальденсам" #BelieversPluralDT_CAP
+ lollard_plural_DT_CAP:0 "Лоллардам" #BelieversPluralDT_CAP
+ monophysite_plural_DT_CAP:0 "Монофизитам" #BelieversPluralDT_CAP
+ bogomilist_plural_DT_CAP:0 "Богомилам" #BelieversPluralDT_CAP
+ monothelite_plural_DT_CAP:0 "Монофелитам" #BelieversPluralDT_CAP
+ iconoclast_plural_DT_CAP:0 "Иконоборцам" #BelieversPluralDT_CAP
+ paulician_plural_DT_CAP:0 "Павликанам" #BelieversPluralDT_CAP
+ nestorian_plural_DT_CAP:0 "Несторианам" #BelieversPluralDT_CAP
+ messalian_plural_DT_CAP:0 "Мессалианам" #BelieversPluralDT_CAP
+ zikri_plural_DT_CAP:0 "Зикритам" #BelieversPluralDT_CAP
+ yazidi_plural_DT_CAP:0 "Езидам" #BelieversPluralDT_CAP
+ kharijite_plural_DT_CAP:0 "Хариджитам" #BelieversPluralDT_CAP
+ druze_plural_DT_CAP:0 "Друзидам" #BelieversPluralDT_CAP
+ hurufi_plural_DT_CAP:0 "Хуруфитам" #BelieversPluralDT_CAP
+ baltic_pagan_reformed_plural_DT_CAP:0 "Балтийцам" #BelieversPluralDT_CAP
+ finnish_pagan_reformed_plural_DT_CAP:0 "Финнам" #BelieversPluralDT_CAP
+ slavic_pagan_reformed_plural_DT_CAP:0 "Славянам" #BelieversPluralDT_CAP
+ zun_pagan_reformed_plural_DT_CAP:0 "Зунбилам" #BelieversPluralDT_CAP
+ hellenic_pagan_reformed_plural_DT_CAP:0 "Эллинам" #BelieversPluralDT_CAP
+ hellenic_pagan_plural_DT_CAP:0 "Эллинам" #BelieversPluralDT_CAP
+ bon_reformed_plural_DT_CAP:0 "Бонам" #BelieversPluralDT_CAP
+ bon_plural_DT_CAP:0 "Бонам" #BelieversPluralDT_CAP
+ mazdaki_plural_DT_CAP:0 "Маздкийцам" #BelieversPluralDT_CAP
+ manichean_plural_DT_CAP:0 "Манихейцам" #BelieversPluralDT_CAP
+ khurmazta_plural_DT_CAP:0 "Согдомаздеитам" #BelieversPluralDT_CAP
+ samaritan_faith_plural_DT_CAP:0 "Самаританитам" #BelieversPluralDT_CAP
+ karaite_faith_plural_DT_CAP:0 "Караитам" #BelieversPluralDT_CAP
+ jain_plural_DT_CAP:0 "Джайнам" #BelieversPluralDT_CAP
+ #Религия верующих в творительном падеже с прописной буквы
+ cathar_plural_TV_CAP:0 "Катариками" #BelieversPluralTV_CAP
+ fraticelli_plural_TV_CAP:0 "Фратичелли" #BelieversPluralTV_CAP
+ waldensian_plural_TV_CAP:0 "Вальденсами" #BelieversPluralTV_CAP
+ lollard_plural_TV_CAP:0 "Лоллардами" #BelieversPluralTV_CAP
+ monophysite_plural_TV_CAP:0 "Монофизитами" #BelieversPluralTV_CAP
+ bogomilist_plural_TV_CAP:0 "Богомилами" #BelieversPluralTV_CAP
+ monothelite_plural_TV_CAP:0 "Монофелитами" #BelieversPluralTV_CAP
+ iconoclast_plural_TV_CAP:0 "Иконоборцами" #BelieversPluralTV_CAP
+ paulician_plural_TV_CAP:0 "Павликианцами" #BelieversPluralTV_CAP
+ nestorian_plural_TV_CAP:0 "Несторианами" #BelieversPluralTV_CAP
+ messalian_plural_TV_CAP:0 "Мессалианами" #BelieversPluralTV_CAP
+ zikri_plural_TV_CAP:0 "Зикритами" #BelieversPluralTV_CAP
+ yazidi_plural_TV_CAP:0 "Езидами" #BelieversPluralTV_CAP
+ kharijite_plural_TV_CAP:0 "Хариджитами" #BelieversPluralTV_CAP
+ druze_plural_TV_CAP:0 "Друзидами" #BelieversPluralTV_CAP
+ hurufi_plural_TV_CAP:0 "Хуруфитами" #BelieversPluralTV_CAP
+ baltic_pagan_reformed_plural_TV_CAP:0 "Балтийцами" #BelieversPluralTV_CAP
+ finnish_pagan_reformed_plural_TV_CAP:0 "Финнами" #BelieversPluralTV_CAP
+ slavic_pagan_reformed_plural_TV_CAP:0 "Славянами" #BelieversPluralTV_CAP
+ zun_pagan_reformed_plural_TV_CAP:0 "Зунбилами" #BelieversPluralTV_CAP
+ hellenic_pagan_reformed_plural_TV_CAP:0 "Эллинами" #BelieversPluralTV_CAP
+ hellenic_pagan_plural_TV_CAP:0 "Эллинами" #BelieversPluralTV_CAP
+ bon_reformed_plural_TV_CAP:0 "Бонами" #BelieversPluralTV_CAP
+ bon_plural_TV_CAP:0 "Бонами" #BelieversPluralTV_CAP
+ mazdaki_plural_TV_CAP:0 "Маздкийцами" #BelieversPluralTV_CAP
+ manichean_plural_TV_CAP:0 "Манихейцами" #BelieversPluralTV_CAP
+ khurmazta_plural_TV_CAP:0 "Согдомаздеитами" #BelieversPluralTV_CAP
+ samaritan_faith_plural_TV_CAP:0 "Самаританитами" #BelieversPluralTV_CAP
+ karaite_faith_plural_TV_CAP:0 "Караитами" #BelieversPluralTV_CAP
+ jain_plural_TV_CAP:0 "Джайнами" #BelieversPluralTV_CAP
+ #Религия верующих в предложном падеже с прописной буквы
+ cathar_plural_PR_CAP:0 "Катариках" #BelieversPluralPR_CAP
+ fraticelli_plural_PR_CAP:0 "Фратичелли" #BelieversPluralPR_CAP
+ waldensian_plural_PR_CAP:0 "Вальденсах" #BelieversPluralPR_CAP
+ lollard_plural_PR_CAP:0 "Лоллардах" #BelieversPluralPR_CAP
+ monophysite_plural_PR_CAP:0 "Монофизитах" #BelieversPluralPR_CAP
+ bogomilist_plural_PR_CAP:0 "Богомилах" #BelieversPluralPR_CAP
+ monothelite_plural_PR_CAP:0 "Монофелитах" #BelieversPluralPR_CAP
+ iconoclast_plural_PR_CAP:0 "Иконоборцах" #BelieversPluralPR_CAP
+ paulician_plural_PR_CAP:0 "Павликианцах" #BelieversPluralPR_CAP
+ nestorian_plural_PR_CAP:0 "Несторианах" #BelieversPluralPR_CAP
+ messalian_plural_PR_CAP:0 "Мессалианах" #BelieversPluralPR_CAP
+ zikri_plural_PR_CAP:0 "Зикритах" #BelieversPluralPR_CAP
+ yazidi_plural_PR_CAP:0 "Езидах" #BelieversPluralPR_CAP
+ kharijite_plural_PR_CAP:0 "Хариджитах" #BelieversPluralPR_CAP
+ druze_plural_PR_CAP:0 "Друзидах" #BelieversPluralPR_CAP
+ hurufi_plural_PR_CAP:0 "Хуруфитах" #BelieversPluralPR_CAP
+ baltic_pagan_reformed_plural_PR_CAP:0 "Балтийцах" #BelieversPluralPR_CAP
+ finnish_pagan_reformed_plural_PR_CAP:0 "Финнах" #BelieversPluralPR_CAP
+ slavic_pagan_reformed_plural_PR_CAP:0 "Славянах" #BelieversPluralPR_CAP
+ zun_pagan_reformed_plural_PR_CAP:0 "Зунбилах" #BelieversPluralPR_CAP
+ hellenic_pagan_reformed_plural_PR_CAP:0 "Эллинах" #BelieversPluralPR_CAP
+ hellenic_pagan_plural_PR_CAP:0 "Эллинах" #BelieversPluralPR_CAP
+ bon_reformed_plural_PR_CAP:0 "Бонах" #BelieversPluralPR_CAP
+ bon_plural_PR_CAP:0 "Бонах" #BelieversPluralPR_CAP
+ mazdaki_plural_PR_CAP:0 "Маздкийцах" #BelieversPluralPR_CAP
+ manichean_plural_PR_CAP:0 "Манихейцах" #BelieversPluralPR_CAP
+ khurmazta_plural_PR_CAP:0 "Согдомаздеитах" #BelieversPluralPR_CAP
+ samaritan_faith_plural_PR_CAP:0 "Самаританитах" #BelieversPluralPR_CAP
+ karaite_faith_plural_PR_CAP:0 "Караитах" #BelieversPluralPR_CAP
+ jain_plural_PR_CAP:0 "Джайнах" #BelieversPluralPR_CAP
+ 
+ #Прилагательные религий
+ cathar_ADJ:0 "катаристск" #ReligionADJ
+ fraticelli_ADJ:0 "фратичелльск" #ReligionADJ
+ waldensian_ADJ:0 "вальденсианск" #ReligionADJ
+ lollard_ADJ:0 "лоллардианск" #ReligionADJ
+ monophysite_ADJ:0 "монофизитск" #ReligionADJ
+ bogomilist_ADJ:0 "богомильск" #ReligionADJ
+ monothelite_ADJ:0 "монофелитск" #ReligionADJ
+ iconoclast_ADJ:0 "иконоборческ" #ReligionADJ
+ paulician_ADJ:0 "павликианск" #ReligionADJ
+ nestorian_ADJ:0 "несторианск" #ReligionADJ
+ messalian_ADJ:0 "мессалианск" #ReligionADJ
+ zikri_ADJ:0 "зикритск" #ReligionADJ
+ yazidi_ADJ:0 "езидитск" #ReligionADJ
+ kharijite_ADJ:0 "хариджитск" #ReligionADJ
+ druze_ADJ:0 "друзитск" #ReligionADJ
+ hurufi_ADJ:0 "хуруфитск" #ReligionADJ
+ baltic_pagan_reformed_ADJ:0 "балтийск" #ReligionADJ
+ finnish_pagan_reformed_ADJ:0 "финск" #ReligionADJ
+ slavic_pagan_reformed_ADJ:0 "славянск" #ReligionADJ
+ zun_pagan_reformed_ADJ:0 "зунитск" #ReligionADJ
+ hellenic_pagan_reformed_ADJ:0 "эллинск" #ReligionADJ
+ hellenic_pagan_ADJ:0 "эллинск" #ReligionADJ
+ bon_reformed_ADJ:0 "бонск" #ReligionADJ
+ bon_ADJ:0 "бонск" #ReligionADJ
+ mazdaki_ADJ:0 "маздкийск" #ReligionADJ
+ manichean_ADJ:0 "манихейск" #ReligionADJ
+ khurmazta_ADJ:0 "согдомаздейск" #ReligionADJ
+ samaritan_faith_ADJ:0 "самаританическ" #ReligionADJ
+ karaite_faith_ADJ:0 "караическ" #ReligionADJ
+ jain_ADJ:0 "джайнистск" #ReligionADJ
+ 
+ #Прилагательные религий с прописной буквы
+ cathar_ADJ_CAP:0 "Катаристск" #ReligionADJ_CAP
+ fraticelli_ADJ_CAP:0 "Фратичелльск" #ReligionADJ_CAP
+ waldensian_ADJ_CAP:0 "Вальденсианск" #ReligionADJ_CAP
+ lollard_ADJ_CAP:0 "Лоллардианск" #ReligionADJ_CAP
+ monophysite_ADJ_CAP:0 "Монофизитск" #ReligionADJ_CAP
+ bogomilist_ADJ_CAP:0 "Богомильск" #ReligionADJ_CAP
+ monothelite_ADJ_CAP:0 "Монофелитск" #ReligionADJ_CAP
+ iconoclast_ADJ_CAP:0 "Иконоборческ" #ReligionADJ_CAP
+ paulician_ADJ_CAP:0 "Павликианск" #ReligionADJ_CAP
+ nestorian_ADJ_CAP:0 "Несторианск" #ReligionADJ_CAP
+ messalian_ADJ_CAP:0 "Мессалианск" #ReligionADJ_CAP
+ zikri_ADJ_CAP:0 "Зикритск" #ReligionADJ_CAP
+ yazidi_ADJ_CAP:0 "Езидитск" #ReligionADJ_CAP
+ kharijite_ADJ_CAP:0 "Хариджитск" #ReligionADJ_CAP
+ druze_ADJ_CAP:0 "Друзитск" #ReligionADJ_CAP
+ hurufi_ADJ_CAP:0 "Хуруфитск" #ReligionADJ_CAP
+ baltic_pagan_reformed_ADJ_CAP:0 "Балтийск" #ReligionADJ_CAP
+ finnish_pagan_reformed_ADJ_CAP:0 "Финск" #ReligionADJ_CAP
+ slavic_pagan_reformed_ADJ_CAP:0 "Славянск" #ReligionADJ_CAP
+ zun_pagan_reformed_ADJ_CAP:0 "Зунитск" #ReligionADJ_CAP
+ hellenic_pagan_reformed_ADJ_CAP:0 "Эллинск" #ReligionADJ_CAP
+ hellenic_pagan_ADJ_CAP:0 "Эллинск" #ReligionADJ_CAP
+ bon_reformed_ADJ_CAP:0 "Бонск" #ReligionADJ_CAP
+ bon_ADJ_CAP:0 "Бонск" #ReligionADJ_CAP
+ mazdaki_ADJ_CAP:0 "Маздкийск" #ReligionADJ_CAP
+ manichean_ADJ_CAP:0 "Манихейск" #ReligionADJ_CAP
+ khurmazta_ADJ_CAP:0 "Согдомаздейск" #ReligionADJ_CAP
+ samaritan_faith_ADJ_CAP:0 "Самаританическ" #ReligionADJ_CAP
+ karaite_faith_ADJ_CAP:0 "Караическ" #ReligionADJ_CAP
+ jain_ADJ_CAP:0 "Джайнистск" #ReligionADJ_CAP
