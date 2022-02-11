@@ -2081,7 +2081,7 @@
  gen_hoa_control_india_ocean.tooltip4:0 "§Y[Root.GetName]§! имеет §Y30%§! торгового влияния в §YКороманделе§!"
  gen_hoa_control_india_ocean.tooltip5:0 "§Y[Root.GetName]§! имеет §Y15%§! торгового влияния в §YБенгалии§!"
  gen_hoa_control_india_ocean.tooltip6:0 "§Y[Root.GetName]§! имеет §Y15%§! торгового влияния в §YМалакке§!"
-###WEST AFRICA MISSIONS###
+ ###WEST AFRICA MISSIONS###
  west_africa_assemble_warband_title:0 "Собрать банду"
  west_africa_assemble_warband_desc:0 "Чтобы эффективно контролировать нашу территорию, нам нужно собрать банду храбрых вояк."
  west_africa_strong_leadership_title:0 "Сильное лидерство"
