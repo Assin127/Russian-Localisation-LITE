@@ -1,0 +1,8 @@
+﻿l_english:
+
+ demand_dummy_title:0 "‰o²pe o¢a²» c²a²» ¯a°e¬e°o¯"
+ demand_dummy_desc:0 "‰o²pe o¢a²», ¶²o º [From.Monarch.GetName] [From.GetTagRD] c²a®[From.GetMEndA] °a·ª¯ ¯a°e¬e°o¯. ™²o ³¢e®ª¶ª² °a·e ¦o¢epªe!"
+ demand_dummy_tooltip:0 "‰o²pe o¢a²», ¶²o º o°ª c²a®ª °a·ª¯ ¯a°e¬e°o¯."
+ demand_dummy_dialog:0 "ƒep¨a¢a [This.GetName] ±o²pe o¢a®a, ¶²o º ¯º c²a®ª ªx ¯a°e¬e°o¯. ™²o ³¢e®ª¶ª² °a·e ¦o¢epªe!"
+ demand_dummy_alert_tooltip:0 "Tpe o¢a°ªe c²a²» ¯a°e¬e°o¯"
+ HAS_MORE_MANPOWER:0 "ƒep¨a¢a [This.GetName] ª¯ee²  o®»·e pe¬p³²o¢, ¶e¯ [From.GetName].\n"

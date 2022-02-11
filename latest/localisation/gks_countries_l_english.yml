@@ -1,0 +1,4832 @@
+﻿l_english:
+ #Государства, отвечающие на вопрос "Кого?"
+ TAG_RD_DYN:0 "¦ep¨a¢º [Root.GetName]" #GetTagRD
+ TAG_RD_ADA:0 "A¦a®÷" #GetTagRD
+ TAG_RD_ADE:0 "A¦e°a" #GetTagRD
+ TAG_RD_AKK:0 "A¬-Ko¾°®³" #GetTagRD
+ TAG_RD_ALB:0 "A® a°ªª" #GetTagRD
+ TAG_RD_ALG:0 "A®¨ªpa" #GetTagRD
+ TAG_RD_ALH:0 "Xacº" #GetTagRD
+ TAG_RD_ALS:0 "C²pac ³p¥a" #GetTagRD
+ TAG_RD_AMG:0 "Ap¯a°»÷¬a" #GetTagRD
+ TAG_RD_ANH:0 "A°¥a®»²a" #GetTagRD
+ TAG_RD_ANN:0 "A°°a¯a" #GetTagRD
+ TAG_RD_ANS:0 "A°c axa" #GetTagRD
+ TAG_RD_ARA:0 "Apa¥o°a" #GetTagRD
+ TAG_RD_ARK:0 "Apa¬a°a" #GetTagRD
+ TAG_RD_ARM:0 "Ap¯e°ªª" #GetTagRD
+ TAG_RD_ASH:0 "A·a°²ª" #GetTagRD
+ TAG_RD_ASS:0 "Acca¯a" #GetTagRD
+ TAG_RD_AST:0 "Ac²paxa°ª" #GetTagRD
+ TAG_RD_ATH:0 "A´ª°" #GetTagRD
+ TAG_RD_ATJ:0 "A¶exa" #GetTagRD
+ TAG_RD_AUV:0 "O¢ep°ª" #GetTagRD
+ TAG_RD_AVI:0 "A¢ª°»o°a" #GetTagRD
+ TAG_RD_AYU:0 "A¾²ªª" #GetTagRD
+ TAG_RD_AZT:0 "Aµ²e¬o¢" #GetTagRD
+ TAG_RD_BAD:0 "€a¦e°a" #GetTagRD
+ TAG_RD_BLI:0 "€a®ª" #GetTagRD
+ TAG_RD_BAN:0 "€a°²e°a" #GetTagRD
+ TAG_RD_BAL:0 "€e®³¦¨ªc²a°a" #GetTagRD
+ TAG_RD_BAV:0 "€a¢apªª" #GetTagRD
+ TAG_RD_BEI:0 "€p³°e÷" #GetTagRD
+ TAG_RD_BEN:0 "€e°ª°a" #GetTagRD
+ TAG_RD_BHU:0 "€³²a°a" #GetTagRD
+ TAG_RD_BIJ:0 "€ª¦¨a±³pa" #GetTagRD
+ TAG_RD_BND:0 "€³°¦e®»xa°¦a" #GetTagRD
+ TAG_RD_BNG:0 "€e°¥a®ªª" #GetTagRD
+ TAG_RD_BOH:0 "€o¥e¯ªª" #GetTagRD
+ TAG_RD_BOS:0 "€oc°ªª" #GetTagRD
+ TAG_RD_BOU:0 "€³p o°a" #GetTagRD
+ TAG_RD_BRA:0 "€pa°¦e° ³p¥a" #GetTagRD
+ TAG_RD_BRB:0 "€pa a°²a" #GetTagRD
+ TAG_RD_BRE:0 "€pe¯e°a" #GetTagRD
+ TAG_RD_BRI:0 "€pe²a°ª" #GetTagRD
+ TAG_RD_BRR:0 "€epapa" #GetTagRD
+ TAG_RD_BRU:0 "€pa³°·¢e«¥a" #GetTagRD
+ TAG_RD_BRZ:0 "€pa©ª®ªª" #GetTagRD
+ TAG_RD_BUL:0 "€o®¥apªª" #GetTagRD
+ TAG_RD_BUR:0 "€³p¥³°¦ªª" #GetTagRD
+ TAG_RD_CAN:0 "Ka°a¦º" #GetTagRD
+ TAG_RD_CAS:0 "Kac²ª®ªª" #GetTagRD
+ TAG_RD_CAT:0 "Ka²a®o°ªª" #GetTagRD
+ TAG_RD_CEP:0 "Kop´³" #GetTagRD
+ TAG_RD_CHA:0 "T÷¯±º" #GetTagRD
+ TAG_RD_CHE:0 "“epo¬ª" #GetTagRD
+ TAG_RD_CHG:0 "“a¥a²a÷" #GetTagRD
+ TAG_RD_CHK:0 "T÷¯±aca¬a" #GetTagRD
+ TAG_RD_CHL:0 "“ª®ª" #GetTagRD
+ TAG_RD_CHM:0 "“ª¯³" #GetTagRD
+ TAG_RD_CHP:0 "”a¯±a°ª" #GetTagRD
+ TAG_RD_CND:0 "ƒ¨a°¦apa" #GetTagRD
+ TAG_RD_COL:0 "Ko®³¯ ªª" #GetTagRD
+ TAG_RD_CNN:0 "K®a°pª¬ap¦a" #GetTagRD
+ TAG_RD_COR:0 "Kopcª¬ª" #GetTagRD
+ TAG_RD_CRE:0 "Kpª¬" #GetTagRD
+ TAG_RD_CRI:0 "Kpº¯a" #GetTagRD
+ TAG_RD_CRN:0 "Kop°³o®®a" #GetTagRD
+ TAG_RD_CRO:0 "Xop¢a²ªª" #GetTagRD
+ TAG_RD_CRT:0 "Kpª²a" #GetTagRD
+ TAG_RD_CYP:0 "Kª±pa" #GetTagRD
+ TAG_RD_DAI:0 "ƒa«¢»e²a" #GetTagRD
+ TAG_RD_DAN:0 "ƒa°ªª" #GetTagRD
+ TAG_RD_DAU:0 "ƒo´ª°e" #GetTagRD
+ TAG_RD_DLH:0 "ƒe®ª" #GetTagRD
+ TAG_RD_DUL:0 "ƒ³®¬a¦ªp" #GetTagRD
+ TAG_RD_DUR:0 "ƒ³ppa°ª" #GetTagRD
+ TAG_RD_ENG:0 "A°¥®ªª" #GetTagRD
+ TAG_RD_ETH:0 "™´ªo±ªª" #GetTagRD
+ TAG_RD_FER:0 "‘eppapº" #GetTagRD
+ TAG_RD_FEZ:0 "‘eca" #GetTagRD
+ TAG_RD_FIN:0 "‘ª°®÷°¦ªª" #GetTagRD
+ TAG_RD_FLA:0 "‘®a°¦pªª" #GetTagRD
+ TAG_RD_FOI:0 "‘³a" #GetTagRD
+ TAG_RD_FRA:0 "‘pa°µªª" #GetTagRD
+ TAG_RD_FRI:0 "‘pªc®a°¦ªª" #GetTagRD
+ TAG_RD_GBR:0 "Be®ª¬o pª²a°ªª" #GetTagRD
+ TAG_RD_GDW:1 "‚apxª" #GetTagRD
+ TAG_RD_GEL:0 "‚e®»¦ep°a" #GetTagRD
+ TAG_RD_GEN:0 "‚e°³ª" #GetTagRD
+ TAG_RD_GEO:0 "‚p³©ªª" #GetTagRD
+ TAG_RD_GER:0 "‚ep¯a°ªª" #GetTagRD
+ TAG_RD_GOL:0 "€o®»·o« Op¦º" #GetTagRD
+ TAG_RD_GOT:0 "‚o²®a°¦a" #GetTagRD
+ TAG_RD_GRA:0 "‚pa°a¦º" #GetTagRD
+ TAG_RD_GRE:0 "‚peµªª" #GetTagRD
+ TAG_RD_GUJ:0 "‚³¦¨apa²a" #GetTagRD
+ TAG_RD_GUY:0 "‚ac¬o°ª" #GetTagRD
+ TAG_RD_HAB:0 "A¢c²pªª" #GetTagRD
+ TAG_RD_HAI:0 "‚e°°e¥a³" #GetTagRD
+ TAG_RD_HAM:0 "‚a¯ ³p¥a" #GetTagRD
+ TAG_RD_HAN:0 "‚a°°o¢epa" #GetTagRD
+ TAG_RD_HAU:0 "Xa³cº" #GetTagRD
+ TAG_RD_HED:0 "Xª¦¨a©a" #GetTagRD
+ TAG_RD_HES:0 "‚ecce°a" #GetTagRD
+ TAG_RD_HOL:0 "‚o®®a°¦ªª" #GetTagRD
+ TAG_RD_HUN:0 "Be°¥pªª" #GetTagRD
+ TAG_RD_HUR:0 "‚³po°o¢" #GetTagRD
+ TAG_RD_INC:0 "†°¬o¢" #GetTagRD
+ TAG_RD_IRE:0 "†p®a°¦ªª" #GetTagRD
+ TAG_RD_IRO:0 "†po¬e©o¢" #GetTagRD
+ TAG_RD_ITA:0 "†²a®ªª" #GetTagRD
+ TAG_RD_JAP:0 "×±o°ªª" #GetTagRD
+ TAG_RD_KAR:0 "Kapa¯a°a" #GetTagRD
+ TAG_RD_KAZ:0 "Ka©a°ª" #GetTagRD
+ TAG_RD_KBO:0 "€op°³" #GetTagRD
+ TAG_RD_KHA:0 "Mo°¥o®o¢" #GetTagRD
+ TAG_RD_KHD:0 "Xa°¦e·a" #GetTagRD
+ TAG_RD_KHI:0 "Xª¢º" #GetTagRD
+ TAG_RD_KHM:0 "Kx¯epo¢" #GetTagRD
+ TAG_RD_KLE:0 "K®e¢e" #GetTagRD
+ TAG_RD_KNI:0 "‚oc±ª²a®»epo¢" #GetTagRD
+ TAG_RD_KOK:0 "‘ep¥a°º" #GetTagRD
+ TAG_RD_KOL:0 "Kë®»°a" #GetTagRD
+ TAG_RD_KON:0 "Ko°¥o" #GetTagRD
+ TAG_RD_KOR:0 "Kopeª" #GetTagRD
+ TAG_RD_KRK:0 "Kap°a²ª¬ª" #GetTagRD
+ TAG_RD_KSH:0 "Ka·¯ªpa" #GetTagRD
+ TAG_RD_KUR:0 "K³p®÷°¦ªª" #GetTagRD
+ TAG_RD_KZH:0 "Ka©axo¢" #GetTagRD
+ TAG_RD_LAN:0 "‘®ope°µªª" #GetTagRD
+ TAG_RD_LAP:0 "ˆa-‰®a²º" #GetTagRD
+ TAG_RD_LEI:0 "ˆe°c²epa" #GetTagRD
+ TAG_RD_LIE:0 "ˆ»e¨a" #GetTagRD
+ TAG_RD_LIT:0 "ˆª²¢º" #GetTagRD
+ TAG_RD_LNA:0 "ˆa°°º" #GetTagRD
+ TAG_RD_LOA:0 "ˆoa°¥o" #GetTagRD
+ TAG_RD_LOR:0 "ˆo²apª°¥ªª" #GetTagRD
+ TAG_RD_LOU:0 "ˆ³ª©ªa°º" #GetTagRD
+ TAG_RD_LUA:0 "ˆ³a°¥±xa a°¥a" #GetTagRD
+ TAG_RD_LUN:0 "ˆ¾°e ³p¥a" #GetTagRD
+ TAG_RD_LUX:0 "ˆ¾¬ce¯ ³p¥a" #GetTagRD
+ TAG_RD_LXA:0 "ˆa°ca°¥a" #GetTagRD
+ TAG_RD_MAD:0 "Ma¦³pa÷" #GetTagRD
+ TAG_RD_MAG:0 "Ma¥¦e ³p¥a" #GetTagRD
+ TAG_RD_MAI:0 "Ma«°µa" #GetTagRD
+ TAG_RD_MAL:0 "Ma®ª" #GetTagRD
+ TAG_RD_MAM:0 "Ma¯®¾¬o¢" #GetTagRD
+ TAG_RD_MAN:0 "Ma°²³ª" #GetTagRD
+ TAG_RD_MAY:0 "Ma«÷" #GetTagRD
+ TAG_RD_MAZ:0 "Ma©o¢ªª" #GetTagRD
+ TAG_RD_MCH:0 "Ma°»¶¨³pªª" #GetTagRD
+ TAG_RD_MEX:0 "Me¬cª¬ª" #GetTagRD
+ TAG_RD_MKL:0 "Me¬®e° ³p¥a" #GetTagRD
+ TAG_RD_MKS:0 "Ma¬acapa" #GetTagRD
+ TAG_RD_MLC:0 "Ma®a¬¬ª" #GetTagRD
+ TAG_RD_MLO:0 "Mª®a°a" #GetTagRD
+ TAG_RD_MLW:0 "Ma®»¢º" #GetTagRD
+ TAG_RD_MNG:0 "Mª°a" #GetTagRD
+ TAG_RD_MNS:0 "To¯o°¦a" #GetTagRD
+ TAG_RD_MOD:0 "Mo¦e°º" #GetTagRD
+ TAG_RD_MOE:0 "Mopeª" #GetTagRD
+ TAG_RD_MOL:0 "Mo®¦a¢ªª" #GetTagRD
+ TAG_RD_MON:0 "“ep°o¥opªª" #GetTagRD
+ TAG_RD_MOR:0 "Mapo¬¬o" #GetTagRD
+ TAG_RD_MOS:0 "Moc¬¢º" #GetTagRD
+ TAG_RD_MTR:0 "Ma²apa¯a" #GetTagRD
+ TAG_RD_MUG:0 "Be®ª¬ªx Mo¥o®o¢" #GetTagRD
+ TAG_RD_MUN:0 "M¾°c²epa" #GetTagRD
+ TAG_RD_MYS:0 "Ma«c³pa" #GetTagRD
+ TAG_RD_NAJ:0 "He¦¨¦a" #GetTagRD
+ TAG_RD_NAV:0 "Ha¢appº" #GetTagRD
+ TAG_RD_NAX:0 "Ha¬coca" #GetTagRD
+ TAG_RD_NED:0 "Hª¦ep®a°¦" #GetTagRD
+ TAG_RD_NEV:0 "He¢epa" #GetTagRD
+ TAG_RD_NOG:0 "Ho¥a«µe¢" #GetTagRD
+ TAG_RD_NOL:0 "Hop²³¯ pªª" #GetTagRD
+ TAG_RD_NOR:0 "Hop¢e¥ªª" #GetTagRD
+ TAG_RD_NOV:0 "Ho¢¥opo¦a" #GetTagRD
+ TAG_RD_NPL:0 "He±a®a" #GetTagRD
+ TAG_RD_NRM:0 "Hop¯a°¦ªª" #GetTagRD
+ TAG_RD_NUB:0 "Ce°°apa" #GetTagRD
+ TAG_RD_ODH:0 "A¢a¦xa" #GetTagRD
+ TAG_RD_OIR:0 "O«pa²o¢" #GetTagRD
+ TAG_RD_OLD:0 "O®»¦e° ³p¥a" #GetTagRD
+ TAG_RD_OMA:0 "O¯a°a" #GetTagRD
+ TAG_RD_ORI:0 "Opªccº" #GetTagRD
+ TAG_RD_ORL:0 "Op®ea°a" #GetTagRD
+ TAG_RD_OYO:0 "O«o" #GetTagRD
+ TAG_RD_PAL:0 "‰´a®»µa" #GetTagRD
+ TAG_RD_PAP:0 "‰a±c¬o« o ®ac²ª" #GetTagRD
+ TAG_RD_PAR:0 "‰ap¯º" #GetTagRD
+ TAG_RD_PAT:0 "‰a²²a°ª" #GetTagRD
+ TAG_RD_PEG:0 "‰e¥³" #GetTagRD
+ TAG_RD_PER:0 "‰epcªª" #GetTagRD
+ TAG_RD_PEU:0 "‰ep³" #GetTagRD
+ TAG_RD_PIC:0 "‰ª¬ap¦ªª" #GetTagRD
+ TAG_RD_PIS:0 "‰ª©º" #GetTagRD
+ TAG_RD_POL:0 "‰o®»·ª" #GetTagRD
+ TAG_RD_POM:0 "‰o¯epa°ªª" #GetTagRD
+ TAG_RD_POR:0 "‰op²³¥a®ªª" #GetTagRD
+ TAG_RD_PRO:0 "‰po¢a°ca" #GetTagRD
+ TAG_RD_PRU:0 "‰p³ccªª" #GetTagRD
+ TAG_RD_PSK:0 "‰c¬o¢a" #GetTagRD
+ TAG_RD_PUN:0 "‰e°¦¨a a" #GetTagRD
+ TAG_RD_QAR:0 "Kapa-Ko¾°®³" #GetTagRD
+ TAG_RD_QAS:0 "Kacª¯o¢a" #GetTagRD
+ TAG_RD_QUE:0 "K¢e e¬a" #GetTagRD
+ TAG_RD_RAG:0 "Pa¥³©º" #GetTagRD
+ TAG_RD_RAJ:0 "Pa¦¨±³²a°º" #GetTagRD
+ TAG_RD_REB:0 "‰o¢c²a°µe¢" #GetTagRD
+ TAG_RD_RIG:0 "Pª¥ª" #GetTagRD
+ TAG_RD_RUS:0 "Poccªª" #GetTagRD
+ TAG_RD_RYA:0 "P÷©a°ª" #GetTagRD
+ TAG_RD_RYU:0 "P¾¬¾" #GetTagRD
+ TAG_RD_SAR:0 "Cap¦ª°ªª" #GetTagRD
+ TAG_RD_SAV:0 "Ca¢o«ª" #GetTagRD
+ TAG_RD_SAX:0 "Ca¬co°ªª" #GetTagRD
+ TAG_RD_SCO:0 "”o²®a°¦ªª" #GetTagRD
+ TAG_RD_SER:0 "Cep ªª" #GetTagRD
+ TAG_RD_SHA:0 "”a³°ª" #GetTagRD
+ TAG_RD_SHL:0 "‚o®»·²e«°a" #GetTagRD
+ TAG_RD_SHR:0 "”ap¦¨ª" #GetTagRD
+ TAG_RD_SHY:0 "‹© e¬o¢" #GetTagRD
+ TAG_RD_SIB:0 "Cª ªpª" #GetTagRD
+ TAG_RD_SIC:0 "Cªµª®ªª" #GetTagRD
+ TAG_RD_SIE:0 "Cªe°º" #GetTagRD
+ TAG_RD_SIL:0 "Cª®e©ªª" #GetTagRD
+ TAG_RD_SLZ:0 "…a®»µ ³p¥a" #GetTagRD
+ TAG_RD_SND:1 "Cª°¦a" #GetTagRD
+ TAG_RD_SOF:0 "Ce¥³" #GetTagRD
+ TAG_RD_SON:0 "Co°¥a÷" #GetTagRD
+ TAG_RD_SPA:0 "†c±a°ªª" #GetTagRD
+ TAG_RD_SST:0 "”a°a" #GetTagRD
+ TAG_RD_STY:0 "”²ªpªª" #GetTagRD
+ TAG_RD_SUL:0 "C³®³" #GetTagRD
+ TAG_RD_SWE:0 "”¢eµªª" #GetTagRD
+ TAG_RD_SWI:0 "”¢e«µapªª" #GetTagRD
+ TAG_RD_TAU:0 "Ta³°¥³" #GetTagRD
+ TAG_RD_TEU:0 "Te¢²o°c¬o¥o op¦e°a" #GetTagRD
+ TAG_RD_THU:0 "T¾pª°¥ªª" #GetTagRD
+ TAG_RD_TIB:0 "Tª e²a" #GetTagRD
+ TAG_RD_TIM:0 "Tª¯³pª¦o¢" #GetTagRD
+ TAG_RD_TIR:0 "Tªpo®÷" #GetTagRD
+ TAG_RD_TOK:0 "To°¬ª°a" #GetTagRD
+ TAG_RD_TOU:0 "T³®³©º" #GetTagRD
+ TAG_RD_TRA:0 "Tpa°cª®»¢a°ªª" #GetTagRD
+ TAG_RD_TRE:0 "Tpa±e©³°¦a" #GetTagRD
+ TAG_RD_TRI:0 "Tpªpa" #GetTagRD
+ TAG_RD_TRP:0 "Tpª±o®ª" #GetTagRD
+ TAG_RD_TRV:0 "Tpa¢a°¬opa" #GetTagRD
+ TAG_RD_TUN:0 "T³°ªca" #GetTagRD
+ TAG_RD_TUR:0 "Oc¯a°o¢" #GetTagRD
+ TAG_RD_TUS:0 "Toc¬a°º" #GetTagRD
+ TAG_RD_TVE:0 "T¢epª" #GetTagRD
+ TAG_RD_TYR:0 "Tªpo°a" #GetTagRD
+ TAG_RD_UKR:0 "P³cª°ªª" #GetTagRD
+ TAG_RD_URB:0 "‹p ª°o" #GetTagRD
+ TAG_RD_USA:0 "Coe¦ª°ë°°ºx ”²a²o¢" #GetTagRD
+ TAG_RD_UTR:0 "‹²pex²a" #GetTagRD
+ TAG_RD_WAL:0 "Ba®axªª" #GetTagRD
+ TAG_RD_WBG:0 "B¾pµ ³p¥a" #GetTagRD
+ TAG_RD_VEN:0 "Be°eµªª" #GetTagRD
+ TAG_RD_VIE:0 "B»e°²»÷°a" #GetTagRD
+ TAG_RD_VIJ:0 "Bª¦¨a÷°a¥apa" #GetTagRD
+ TAG_RD_WLS:0 "‹¼®»ca" #GetTagRD
+ TAG_RD_WUR:0 "B¾p²e¯ ep¥a" #GetTagRD
+ TAG_RD_YAR:0 "×poc®a¢®÷" #GetTagRD
+ TAG_RD_YOR:0 "A°¦xpº" #GetTagRD
+ TAG_RD_ZAP:0 "Ca±o²e¬o¢" #GetTagRD
+ TAG_RD_ZAZ:0 "…a±opo¨c¬o« ce¶ª" #GetTagRD
+ TAG_RD_ZIM:0 "Mo°o¯o²a±º" #GetTagRD
+ TAG_RD_NIZ:0 "ƒe¢a-€e°¥a®a" #GetTagRD
+ TAG_RD_BAS:0 "Ax¯a¦°a¥apa" #GetTagRD
+ TAG_RD_NAT:0 "T³©e¯µe¢" #GetTagRD
+ TAG_RD_PIR:0 "Ka±epo¢" #GetTagRD
+ TAG_RD_AMA:0 "A¯a¥o" #GetTagRD
+ TAG_RD_ASA:0 "Aca¬³pº" #GetTagRD
+ TAG_RD_CSK:0 "Tëco¬a ¼" #GetTagRD
+ TAG_RD_DTE:0 "ƒa²¼" #GetTagRD
+ TAG_RD_HJO:0 "Xo¦©ë" #GetTagRD
+ TAG_RD_HSK:0 "Xoco¬a¢º" #GetTagRD
+ TAG_RD_HTK:0 "Xa²a¬¼÷¯º" #GetTagRD
+ TAG_RD_IKE:0 "†¬¼¦a" #GetTagRD
+ TAG_RD_IMG:0 "†¯a¥a¢º" #GetTagRD
+ TAG_RD_MAE:0 "Ma¼¦a" #GetTagRD
+ TAG_RD_MRI:0 "Mopª" #GetTagRD
+ TAG_RD_ODA:0 "O¦º" #GetTagRD
+ TAG_RD_OTM:0 "O²o¯o" #GetTagRD
+ TAG_RD_OUC:0 "O³²ª" #GetTagRD
+ TAG_RD_SBA:0 "Cª a" #GetTagRD
+ TAG_RD_SMZ:0 "Cª¯a¦©³" #GetTagRD
+ TAG_RD_TKD:0 "Ta¬¼¦º" #GetTagRD
+ TAG_RD_TKG:0 "To¬³¥a¢º" #GetTagRD
+ TAG_RD_UES:0 "‹¼c³¥ª" #GetTagRD
+ TAG_RD_YMN:0 "×¯a°º" #GetTagRD
+ TAG_RD_JNP:0 "ƒ¨a³°±³pa" #GetTagRD
+ TAG_RD_MAW:0 "Map¢apa" #GetTagRD
+ TAG_RD_MER:0 "Me¢apa" #GetTagRD
+ TAG_RD_MUL:0 "M³®²a°a" #GetTagRD
+ TAG_RD_JAN:0 "ƒ¨a°¥®a¦e·a" #GetTagRD
+ TAG_RD_GRJ:0 "‚ap»÷²a" #GetTagRD
+ TAG_RD_GWA:0 "‚¢a®ªopa" #GetTagRD
+ TAG_RD_DHU:0 "ƒx³°¦xapa" #GetTagRD
+ TAG_RD_KLN:0 "Ke®a¦ª" #GetTagRD
+ TAG_RD_MAB:1 "Ka®ª¬³²a" #GetTagRD
+ TAG_RD_MEW:0 "Me¢a²a" #GetTagRD
+ TAG_RD_BST:0 "€ac²apa" #GetTagRD
+ TAG_RD_JSL:0 "ƒ¨a«ca®¯epa" #GetTagRD
+ TAG_RD_KAC:0 "Ka¶apa" #GetTagRD
+ TAG_RD_KMT:0 "K³¶a" #GetTagRD
+ TAG_RD_KGR:0 "Ka°¥pº" #GetTagRD
+ TAG_RD_KAT:1 "Ka¶a" #GetTagRD
+ TAG_RD_KOC:0 "Ko¶¶ª" #GetTagRD
+ TAG_RD_AHM:0 "A³pe°¥a a¦a" #GetTagRD
+ TAG_RD_BAH:0 "€ax¯a°ª" #GetTagRD
+ TAG_RD_NAG:0 "Ha¥±³pa" #GetTagRD
+ TAG_RD_BDA:0 "€apo¦º" #GetTagRD
+ TAG_RD_GOC:0 "‚o®¬o°¦º" #GetTagRD
+ TAG_RD_MAR:0 "Mapa²xo¢" #GetTagRD
+ TAG_RD_VND:0 "Be°a¦a" #GetTagRD
+ TAG_RD_DEC:0 "ƒe¬a°a" #GetTagRD
+ TAG_RD_CZH:0 "“¨o³" #GetTagRD
+ TAG_RD_CSH:0 "”³°»" #GetTagRD
+ TAG_RD_CXI:0 "Cª" #GetTagRD
+ TAG_RD_JOL:0 "ƒ¨o®o´a" #GetTagRD
+ TAG_RD_PLC:0 "Pe¶ª ‰oc±o®ª²o«" #GetTagRD
+ TAG_RD_PRM:0 "‰ep¯ª" #GetTagRD
+ TAG_RD_CEY:1 "Ko²²e" #GetTagRD
+ TAG_RD_AFG:0 "A´¥a°ªc²a°a" #GetTagRD
+ TAG_RD_QNG:0 "’ª°" #GetTagRD
+ TAG_RD_ABE:0 "A e°a¬o¢" #GetTagRD
+ TAG_RD_APA:0 "A±a¶ª" #GetTagRD
+ TAG_RD_ASI:0 "Accª°ª o«°o¢" #GetTagRD
+ TAG_RD_BLA:0 "“ep°o°o¥ªx" #GetTagRD
+ TAG_RD_CAD:0 "K¼¦¦o" #GetTagRD
+ TAG_RD_CHI:0 "“ª¬aco" #GetTagRD
+ TAG_RD_CHO:0 "“o¬²o" #GetTagRD
+ TAG_RD_CHY:0 "”a«e°°o¢" #GetTagRD
+ TAG_RD_COM:0 "Ko¯a°¶ª" #GetTagRD
+ TAG_RD_FOX:0 "Mec¬¢o¬o¢" #GetTagRD
+ TAG_RD_ILL:0 "†®®ª°o«co¢" #GetTagRD
+ TAG_RD_LEN:0 "ƒe®a¢ap" #GetTagRD
+ TAG_RD_MIK:0 "Mª¬¯a¬o¢" #GetTagRD
+ TAG_RD_MMI:0 "Ma«a¯ª" #GetTagRD
+ TAG_RD_MAH:0 "Mo¥ª¬a°" #GetTagRD
+ TAG_RD_NAH:0 "Ha¢axo" #GetTagRD
+ TAG_RD_OJI:0 "O¦¨ª ¢e" #GetTagRD
+ TAG_RD_OSA:0 "Oce«¦¨o¢" #GetTagRD
+ TAG_RD_OTT:0 "O²²a¢º" #GetTagRD
+ TAG_RD_PAW:0 "‰a³°ª" #GetTagRD
+ TAG_RD_PEQ:0 "‰e¬o²o¢" #GetTagRD
+ TAG_RD_PIM:0 "‰ª¯a" #GetTagRD
+ TAG_RD_POT:0 "‰o²a¢a²o¯ª" #GetTagRD
+ TAG_RD_POW:0 "‰o³xa²a°o¢" #GetTagRD
+ TAG_RD_PUE:0 "‰³¼ ®o" #GetTagRD
+ TAG_RD_SIO:0 "Cª³" #GetTagRD
+ TAG_RD_SHO:0 "”o·o°o¢" #GetTagRD
+ TAG_RD_SUS:0 "Cac¬³exa°°o¬o¢" #GetTagRD
+ TAG_RD_WCR:0 "Kpª" #GetTagRD
+ TAG_RD_ZAN:0 "Kª®¢º" #GetTagRD
+ TAG_RD_AJU:0 "A¦¨³pa°a" #GetTagRD
+ TAG_RD_MBA:0 "Mo¯ acº" #GetTagRD
+ TAG_RD_MDI:0 "Mo¥a¦ª·o" #GetTagRD
+ TAG_RD_MLI:0 "Ma®ª°¦ª" #GetTagRD
+ TAG_RD_SFA:0 "Co´a®º" #GetTagRD
+ TAG_RD_EGY:0 "E¥ª±²a" #GetTagRD
+ TAG_RD_BUK:0 "€³xapº" #GetTagRD
+ TAG_RD_BGA:0 "€a¥®a°a" #GetTagRD
+ TAG_RD_BGL:1 "€a¥e®xa°¦a" #GetTagRD
+ TAG_RD_CHD:0 "“a°¦º" #GetTagRD
+ TAG_RD_CMP:0 "Pe¢º Ka°²ª" #GetTagRD
+ TAG_RD_GHR:0 "‚apx¢a®a" #GetTagRD
+ TAG_RD_HAD:0 "Xa¦o²ª" #GetTagRD
+ TAG_RD_JAJ:0 "Xa ca°a" #GetTagRD
+ TAG_RD_JFN:0 "ƒ¨a´°º" #GetTagRD
+ TAG_RD_LDK:0 "ˆa¦a¬xa" #GetTagRD
+ TAG_RD_MLB:0 "Ma°ª±³pa" #GetTagRD
+ TAG_RD_NGA:0 "Ha¥a³pa" #GetTagRD
+ TAG_RD_NGP:0 "ƒ¨ap¬xa°¦a" #GetTagRD
+ TAG_RD_PTA:0 "‰a²ªa®º" #GetTagRD
+ TAG_RD_RMP:0 "Poxª®¬xa°¦a" #GetTagRD
+ TAG_RD_SDY:0 "Ca¦ªª" #GetTagRD
+ TAG_RD_TPR:0 "Tpª±³pa" #GetTagRD
+ TAG_RD_TRT:0 "Tªpx³²a" #GetTagRD
+ TAG_RD_CIR:0 "“ep¬ecªª" #GetTagRD
+ TAG_RD_GAZ:0 "‚a©ª¬³¯³xa" #GetTagRD
+ TAG_RD_IME:0 "†¯epe²ªª" #GetTagRD
+ TAG_RD_TAB:1 "Ma©a°¦apa°a" #GetTagRD
+ TAG_RD_MYR:0 "E¨¼°÷" #GetTagRD
+ TAG_RD_MHX:0 "Xa«cª" #GetTagRD
+ TAG_RD_KRC:0 "Xop¶ª°o¢" #GetTagRD
+ TAG_RD_KLK:0 "Xa®xª" #GetTagRD
+ TAG_RD_DGL:0 "Ma®»¦ª¢" #GetTagRD
+ TAG_RD_HMI:0 "Kapa ƒe®a" #GetTagRD
+ TAG_RD_ZUN:0 "ƒ¨³°¥apa" #GetTagRD
+ TAG_RD_KAS:0 "×p¬e°¦a" #GetTagRD
+ TAG_RD_KSD:0 "Xo·³²o¢" #GetTagRD
+ TAG_RD_SYG:0 "Capº¥ ›¥³pa" #GetTagRD
+ TAG_RD_UTS:1 "’a°¥a" #GetTagRD
+ TAG_RD_KAM:0 "Ka¯a" #GetTagRD
+ TAG_RD_GUG:0 "‚³¥e" #GetTagRD
+ TAG_RD_TMB:0 "Tª¯ ³¬²³" #GetTagRD
+ TAG_RD_AIR:0 "A¥a¦eca" #GetTagRD
+ TAG_RD_MSI:0 "Mocª" #GetTagRD
+ TAG_RD_KTS:0 "Kaµª°º" #GetTagRD
+ TAG_RD_KAN:0 "Ka°o" #GetTagRD
+ TAG_RD_FUL:0 "‘³®o" #GetTagRD
+ TAG_RD_BON:0 "€o°o¯a°a" #GetTagRD
+ TAG_RD_DAH:0 "ƒa¥o¯eª" #GetTagRD
+ TAG_RD_DGB:0 "ƒa¥o¯ º" #GetTagRD
+ TAG_RD_JNN:0 "ƒ¨e°°e" #GetTagRD
+ TAG_RD_KBU:0 "‚a ³" #GetTagRD
+ TAG_RD_KNG:0 "‹a²²apº" #GetTagRD
+ TAG_RD_NUP:0 "H³±e" #GetTagRD
+ TAG_RD_YAO:0 "×o" #GetTagRD
+ TAG_RD_YAT:0 "×²e°¥ª" #GetTagRD
+ TAG_RD_ZAF:0 "Maccª°º" #GetTagRD
+ TAG_RD_ZZZ:0 "…apªª" #GetTagRD
+ TAG_RD_ARD:0 "Ap¦a®a°a" #GetTagRD
+ TAG_RD_BHT:1 "Copa°a" #GetTagRD
+ TAG_RD_ERE:0 "™pe²°º" #GetTagRD
+ TAG_RD_LEB:0 "ˆª¢a°a" #GetTagRD
+ TAG_RD_MAK:0 "M³¬³ppº" #GetTagRD
+ TAG_RD_SHM:0 "”a¯¯apa" #GetTagRD
+ TAG_RD_ARB:0 "Apa¢ªª" #GetTagRD
+ TAG_RD_GRM:0 "‚ep¯ª÷°a" #GetTagRD
+ TAG_RD_MPH:0 "M³a° ‰³a°÷" #GetTagRD
+ TAG_RD_LIG:0 "ˆª¥opa" #GetTagRD
+ TAG_RD_JOH:0 "ƒ¨oxopa" #GetTagRD
+ TAG_RD_KED:0 "Ke¦axa" #GetTagRD
+ TAG_RD_PRK:0 "‰epa¬a" #GetTagRD
+ TAG_RD_HSE:0 "Xce°¢ª" #GetTagRD
+ TAG_RD_MYA:0 "Mo° ×°a" #GetTagRD
+ TAG_RD_AVA:0 "A¢º" #GetTagRD
+ TAG_RD_FEO:0 "‘eo¦opo" #GetTagRD
+ TAG_RD_VOL:0 "Bo®º°ª" #GetTagRD
+ TAG_RD_KIE:0 "Kªe¢a" #GetTagRD
+ TAG_RD_CHR:0 "“ep°ª¥o¢a" #GetTagRD
+ TAG_RD_CHU:0 "“³¬¶e«" #GetTagRD
+ TAG_RD_HOD:0 "Xo¦º°µe¢" #GetTagRD
+ TAG_RD_CHV:0 "“a¢¶³¢e°o¢" #GetTagRD
+ TAG_RD_KMC:0 "Ka¯¶a¦a®o¢" #GetTagRD
+ TAG_RD_BRT:0 "€³p÷²" #GetTagRD
+ TAG_RD_BSH:0 "€a·¬ªpªª" #GetTagRD
+ TAG_RD_TLC:0 "T®e¯ce°a" #GetTagRD
+ TAG_RD_MZB:0 "M©a a" #GetTagRD
+ TAG_RD_TGT:0 "T³¥¥³p²a" #GetTagRD
+ TAG_RD_GHD:0 "ƒ¨epª¦a" #GetTagRD
+ TAG_RD_FZA:0 "‘³©©a°a" #GetTagRD
+ TAG_RD_KBA:0 "Ka ª®ªª" #GetTagRD
+ TAG_RD_SOS:0 "C³ca" #GetTagRD
+ TAG_RD_TFL:0 "Ta´ª®a®»²a" #GetTagRD
+ TAG_RD_ARP:0 "Apa±axo" #GetTagRD
+ TAG_RD_CNK:0 "”ª°³¬a" #GetTagRD
+ TAG_RD_COC:0 "Ko¬o¯o¢" #GetTagRD
+ TAG_RD_XIU:0 "”¬ª±¶e" #GetTagRD
+ TAG_RD_HDA:0 "Xa«¦º" #GetTagRD
+ TAG_RD_ITZ:0 "†µº" #GetTagRD
+ TAG_RD_KIC:0 "Kª¶e" #GetTagRD
+ TAG_RD_KIO:0 "Ka«o¢º" #GetTagRD
+ TAG_RD_MIX:0 "Mª·²e¬o¢" #GetTagRD
+ TAG_RD_SAL:0 "Ca®ª·ª" #GetTagRD
+ TAG_RD_TAR:0 "Tapac¬o" #GetTagRD
+ TAG_RD_TLA:0 "T®a¬o±a°a" #GetTagRD
+ TAG_RD_TLX:0 "T®a·¬a®º" #GetTagRD
+ TAG_RD_TOT:0 "To²o°a¬o¢" #GetTagRD
+ TAG_RD_WIC:0 "‹ª¶ª²o" #GetTagRD
+ TAG_RD_CLM:0 "Ko®ª¯º" #GetTagRD
+ TAG_RD_BLM:0 "€®a¯ a°¥a°a" #GetTagRD
+ TAG_RD_CRB:0 "“ªpe o°a" #GetTagRD
+ TAG_RD_DMK:0 "ƒe¯a¬a" #GetTagRD
+ TAG_RD_PGR:0 "‰a¥ap³¾°¥a" #GetTagRD
+ TAG_RD_PLB:0 "‰a®e¯ a°¥a" #GetTagRD
+ TAG_RD_PSA:0 "‰aca÷" #GetTagRD
+ TAG_RD_SAK:0 "Cªa¬a" #GetTagRD
+ TAG_RD_SUN:0 "C³°¦º" #GetTagRD
+ TAG_RD_MJZ:0 "’©÷°»¶¨o³" #GetTagRD
+ TAG_RD_SRV:0 "”ªp¢a°a" #GetTagRD
+ TAG_RD_MIN:0 "Mª°»" #GetTagRD
+ TAG_RD_YUE:0 "›¼" #GetTagRD
+ TAG_RD_SHU:0 "”³" #GetTagRD
+ TAG_RD_NNG:0 "Hª°c÷" #GetTagRD
+ TAG_RD_CHC:0 "“³" #GetTagRD
+ TAG_RD_TNG:0 "Ta°" #GetTagRD
+ TAG_RD_QIC:0 "’ª" #GetTagRD
+ TAG_RD_YAN:0 "×°»" #GetTagRD
+ TAG_RD_JIN:0 "’©ª°»" #GetTagRD
+ TAG_RD_LNG:0 "ˆ÷°" #GetTagRD
+ TAG_RD_HUA:0 "X³a«xe" #GetTagRD
+ TAG_RD_CGS:0 "“a°·¼°" #GetTagRD
+ TAG_RD_CAB:0 "Kapª " #GetTagRD
+ TAG_RD_LON:0 "ˆeo°a" #GetTagRD
+ TAG_RD_ICM:0 "†¶¯º" #GetTagRD
+ TAG_RD_NUM:0 "H¾p° ep¥a" #GetTagRD
+ TAG_RD_AUS:0 "A¢c²pa®ªª" #GetTagRD
+ TAG_RD_BTI:0 "Cº¯e°a" #GetTagRD
+ TAG_RD_MTH:0 "Mª²a" #GetTagRD
+ TAG_RD_ADU:0 "A°¦a®³cªª" #GetTagRD
+ TAG_RD_MEM:0 "Me¯¯ª°¥e°a" #GetTagRD
+ TAG_RD_VER:0 "‘ep¦e°a" #GetTagRD
+ TAG_RD_NSA:0 "Hacca³" #GetTagRD
+ TAG_RD_RVA:0 "ƒop²¯³°¦a" #GetTagRD
+ TAG_RD_MFA:0 "Mo°´eppa²a" #GetTagRD
+ TAG_RD_LUC:0 "ˆ³¬¬ª" #GetTagRD
+ TAG_RD_LVA:0 "ˆª¢o°ªª" #GetTagRD
+ TAG_RD_EST:0 "™c²o°ªª" #GetTagRD
+ TAG_RD_SMI:0 "ˆa±®a°¦ªª" #GetTagRD
+ TAG_RD_ORM:0 "Op¯³©a" #GetTagRD
+ TAG_RD_KRL:0 "Kape®ªª" #GetTagRD
+ TAG_RD_JAI:0 "Ma®»²º" #GetTagRD
+ TAG_RD_KUB:0 "K³ º" #GetTagRD
+ TAG_RD_KLD:0 "Ka®³°¦¢e" #GetTagRD
+ TAG_RD_YAK:0 "×¬ª" #GetTagRD
+ TAG_RD_KZB:0 "Ka©e¯ e" #GetTagRD
+ TAG_RD_KIK:0 "Kª¬o°¨ª" #GetTagRD
+ TAG_RD_CKW:0 "“o¬¢e" #GetTagRD
+ TAG_RD_LND:0 "ˆ³°¦º" #GetTagRD
+ TAG_RD_LUB:0 "ˆ³ º" #GetTagRD
+ TAG_RD_KSJ:0 "Kaca°¦¨ª" #GetTagRD
+ TAG_RD_SYO:0 "Co«o" #GetTagRD
+ TAG_RD_TYO:0 "To«o" #GetTagRD
+ TAG_RD_BSG:0 "€³co¥ª" #GetTagRD
+ TAG_RD_BNY:0 "€³°»opo" #GetTagRD
+ TAG_RD_KRW:0 "Kapa¥¢e" #GetTagRD
+ TAG_RD_BUG:0 "€³¥a°¦º" #GetTagRD
+ TAG_RD_RWA:0 "P³a°¦º" #GetTagRD
+ TAG_RD_NKO:0 "H»÷°¬o®e" #GetTagRD
+ TAG_RD_BUU:0 "€³p³°¦ª" #GetTagRD
+ TAG_RD_UBH:0 "€³xª" #GetTagRD
+ TAG_RD_MRA:0 "Mapa¢ª" #GetTagRD
+ TAG_RD_LDU:0 "ˆ³°¦³" #GetTagRD
+ TAG_RD_TBK:0 "T³¯ ³¬ª" #GetTagRD
+ TAG_RD_MKU:0 "Ma¬³a" #GetTagRD
+ TAG_RD_RZW:0 "€³²³a" #GetTagRD
+ TAG_RD_MIR:0 "†¯epª°º" #GetTagRD
+ TAG_RD_ANT:0 "A°²e¯opo" #GetTagRD
+ TAG_RD_SKA:0 "Ca¬a®a¢º" #GetTagRD
+ TAG_RD_MFY:0 "Maxa´a®ª" #GetTagRD
+ TAG_RD_BTS:0 "€eµª¯apa¬ª" #GetTagRD
+ TAG_RD_ULS:0 "O®»c²epa" #GetTagRD
+ TAG_RD_DMS:0 "ƒec¯o°¦a" #GetTagRD
+ TAG_RD_ORD:0 "Op¯o°¦a" #GetTagRD
+ TAG_RD_KID:0 "Kª®¦¼pa" #GetTagRD
+ TAG_RD_MCM:0 "Ma°c²epa" #GetTagRD
+ TAG_RD_FLY:0 "O´´a®ª" #GetTagRD
+ TAG_RD_TRY:0 "Tªp¬o°e®a" #GetTagRD
+ TAG_RD_SLN:0 "C®a«¥o" #GetTagRD
+ TAG_RD_OKA:0 "O¦oe¢a" #GetTagRD
+ TAG_RD_ICE:0 "†c®a°¦ªª" #GetTagRD
+ TAG_RD_SLO:0 "Hª²pº" #GetTagRD
+ TAG_RD_HSC:0 "‚¼®¦o¯a" #GetTagRD
+ TAG_RD_ROM:0 "Pª¯c¬o« ª¯±epªª" #GetTagRD
+ TAG_RD_DTT:0 "ƒª²¯ap·e°a" #GetTagRD
+ TAG_RD_GLH:0 "…o®o²o« Op¦º" #GetTagRD
+ TAG_RD_BEJ:0 "€e¦¨ª" #GetTagRD
+ TAG_RD_JIM:0 "ƒ¨ª¯¯º" #GetTagRD
+ TAG_RD_WLY:0 "Bo®a«²º" #GetTagRD
+ TAG_RD_DAM:0 "ƒa¯o²a" #GetTagRD
+ TAG_RD_HDY:0 "Xa¦ªª" #GetTagRD
+ TAG_RD_SOA:0 "”oa" #GetTagRD
+ TAG_RD_JJI:0 "ƒ¨a°¦¨ªpo" #GetTagRD
+ TAG_RD_ENA:0 "™°°apa" #GetTagRD
+ TAG_RD_ABB:0 "ƒo°¥o®º" #GetTagRD
+ TAG_RD_AKM:0 "A¬a¯aµ³" #GetTagRD
+ TAG_RD_AKT:0 "A°¦o" #GetTagRD
+ TAG_RD_CBA:0 "Tª º" #GetTagRD
+ TAG_RD_ISK:0 "†ccª¬ª" #GetTagRD
+ TAG_RD_ITO:0 "†²o" #GetTagRD
+ TAG_RD_KKC:0 "Kª¬³²ª" #GetTagRD
+ TAG_RD_KNO:0 "Ko°o" #GetTagRD
+ TAG_RD_OGS:0 "O¥aca¢apº" #GetTagRD
+ TAG_RD_SHN:0 "Cë°ª" #GetTagRD
+ TAG_RD_STK:0 "Ca²a¬¼" #GetTagRD
+ TAG_RD_TKI:0 "To¬ª" #GetTagRD
+ TAG_RD_UTN:0 "‹µ³°o¯ªª" #GetTagRD
+ TAG_RD_TTI:0 "’³µ³ª" #GetTagRD
+ TAG_RD_ASK:0 "Acª¬a¥ª" #GetTagRD
+ TAG_RD_MVA:0 "Mopa¢ªª" #GetTagRD
+ TAG_RD_YUA:0 "›a°÷" #GetTagRD
+ TAG_RD_BLO:0 "€e®oo©epa" #GetTagRD
+ TAG_RD_RSO:0 "Poc²o¢a" #GetTagRD
+ TAG_RD_MHR:0 "Maxpº" #GetTagRD
+ TAG_RD_HDR:0 "Xa¦pa¯a³²º" #GetTagRD
+ TAG_RD_MDA:0 "Me¦ª°º" #GetTagRD
+ TAG_RD_ANZ:0 "A°a©º" #GetTagRD
+ TAG_RD_FAD:0 "‘a¦®÷" #GetTagRD
+ TAG_RD_YAS:0 "×ca" #GetTagRD
+ TAG_RD_RAS:1 "Paccª¦o¢" #GetTagRD
+ TAG_RD_YEM:0 "‡e¯e°a" #GetTagRD
+ TAG_RD_DAW:0 "ƒa¢acªpa" #GetTagRD
+ TAG_RD_MFL:0 "Mª¬®a´a" #GetTagRD
+ TAG_RD_NJR:0 "Ha¦¨pa°a" #GetTagRD
+ TAG_RD_HSN:0 "Xaca°¬e«´a" #GetTagRD
+ TAG_RD_BTL:0 "€ª²®ªca" #GetTagRD
+ TAG_RD_AVR:0 "A¢apªª" #GetTagRD
+ TAG_RD_MLK:0 "Kapa axa" #GetTagRD
+ TAG_RD_SME:0 "Ca¯µxe" #GetTagRD
+ TAG_RD_ARL:0 "Ap¦e ª®÷" #GetTagRD
+ TAG_RD_MSY:0 "M³·a·ª" #GetTagRD
+ TAG_RD_RUM:0 "P³¯a" #GetTagRD
+ TAG_RD_KRY:0 "‚ª®÷°a" #GetTagRD
+ TAG_RD_LRI:0 "ˆ³pªc²a°a" #GetTagRD
+ TAG_RD_SIS:0 "Cªc²a°" #GetTagRD
+ TAG_RD_BPI:0 "€ª÷x-‰aca" #GetTagRD
+ TAG_RD_FRS:0 "‘apca" #GetTagRD
+ TAG_RD_KRM:0 "Kep¯a°a" #GetTagRD
+ TAG_RD_YZD:0 "×©¦a" #GetTagRD
+ TAG_RD_ISF:0 "†c´axa°a" #GetTagRD
+ TAG_RD_TBR:0 "Te pª©a" #GetTagRD
+ TAG_RD_BSR:0 "€acpº" #GetTagRD
+ TAG_RD_MGR:0 "Mapa¥exa" #GetTagRD
+ TAG_RD_QOM:0 "A¦¨a¯a" #GetTagRD
+ TAG_RD_TRS:0 "Tpa°co¬ca°ªª" #GetTagRD
+ TAG_RD_MAS:0 "Ma¦»÷ca" #GetTagRD
+ TAG_RD_PGS:0 "‰a°¥acª°a°a" #GetTagRD
+ TAG_RD_TDO:0 "To°¦o" #GetTagRD
+ TAG_RD_MNA:0 "Ma°ª®º" #GetTagRD
+ TAG_RD_CEB:0 "Ce ³" #GetTagRD
+ TAG_RD_BTU:0 "€³²³a°a" #GetTagRD
+ TAG_RD_KTB:0 "Kª²a a²a¬¼" #GetTagRD
+ TAG_RD_KOI:0 "Ma°°a" #GetTagRD
+ TAG_RD_LOI:0 "Kopo®e¢c²¢a Oc²po¢o¢" #GetTagRD
+ TAG_RD_MMA:0 "Mo°¥ Mao" #GetTagRD
+ TAG_RD_MKA:0 "Mo°¥ Ka³°" #GetTagRD
+ TAG_RD_MPA:0 "Mo°¥ ‰a«" #GetTagRD
+ TAG_RD_KAL:0 "Ka®e" #GetTagRD
+ TAG_RD_HSI:0 "X©ª±o" #GetTagRD
+ TAG_RD_BPR:0 "‰»ª" #GetTagRD
+ TAG_RD_MNI:0 "Mo°¥ Ha«" #GetTagRD
+ TAG_RD_MBL:0 "Bª·°³±³pa" #GetTagRD
+ TAG_RD_SKK:0 "Cª¬¬ª¯a" #GetTagRD
+ TAG_RD_IDR:0 "A«¦apa" #GetTagRD
+ TAG_RD_NVR:0 "Ha¢a°a¥apa" #GetTagRD
+ TAG_RD_JLV:0 "ƒ¨xa®a¢apa" #GetTagRD
+ TAG_RD_PTL:0 "‰a®ª²a°º" #GetTagRD
+ TAG_RD_RJK:0 "Pa¦¨¬o²a" #GetTagRD
+ TAG_RD_JGD:0 "ƒ¨³°a¥a¦xa" #GetTagRD
+ TAG_RD_PRB:0 "‰op a°¦apa" #GetTagRD
+ TAG_RD_PAN:0 "Ka®ª°¦¨apa" #GetTagRD
+ TAG_RD_KLP:0 "Ka®±ª" #GetTagRD
+ TAG_RD_SBP:0 "Ca¯ a®±³pa" #GetTagRD
+ TAG_RD_PTT:0 "‰a²°º" #GetTagRD
+ TAG_RD_JPR:0 "ƒ¨a«±³pa" #GetTagRD
+ TAG_RD_PRD:0 "‰apa®a¬xe¯³°¦ª" #GetTagRD
+ TAG_RD_KJH:0 "Ke°¦³¦¨xapa" #GetTagRD
+ TAG_RD_KLH:0 "Ka®axa°¦ª" #GetTagRD
+ TAG_RD_RTT:0 "Pa²a°±³pa" #GetTagRD
+ TAG_RD_SRG:0 "C³p¥³¦¨ª" #GetTagRD
+ TAG_RD_TLG:0 "Te®ª°¥a°º" #GetTagRD
+ TAG_RD_KLT:0 "Ko®a²x³°a¦ª" #GetTagRD
+ TAG_RD_DNG:0 "ƒa°¥a" #GetTagRD
+ TAG_RD_DTI:0 "ƒo²ª" #GetTagRD
+ TAG_RD_GRK:0 "‚op¬xª" #GetTagRD
+ TAG_RD_JML:0 "ƒ¨³¯®º" #GetTagRD
+ TAG_RD_LWA:0 "ˆª¯ ³¢a°a" #GetTagRD
+ TAG_RD_MKP:0 "Ma¬¢a°±³pa" #GetTagRD
+ TAG_RD_SRM:0 "Cªp¯³pa" #GetTagRD
+ TAG_RD_KTU:0 "Ka²¯a°¦³" #GetTagRD
+ TAG_RD_KMN:0 "K³¯ao°a" #GetTagRD
+ TAG_RD_KND:0 "Ka°¦ª" #GetTagRD
+ TAG_RD_GNG:0 "‚ª°¥ª" #GetTagRD
+ TAG_RD_TNJ:0 "Ta°¦¨opa" #GetTagRD
+ TAG_RD_PHA:1 "‹" #GetTagRD
+ TAG_RD_RJP:0 "Pa¦¨±³²a°º" #GetTagRD
+ TAG_RD_SRH:0 "Cªpxª°¦a" #GetTagRD
+ TAG_RD_ILK:0 "†®»xa°a²a" #GetTagRD
+ TAG_RD_KLM:0 "Ka®¯º¬o¢" #GetTagRD
+ TAG_RD_MGE:0 "Mo°¥o®»c¬o« ª¯±epªª" #GetTagRD
+ TAG_RD_VAL:0 "Ba®e°cªª" #GetTagRD
+ TAG_RD_ASU:0 "Ac²³pªª" #GetTagRD
+ TAG_RD_SLE:0 "Ca®e" #GetTagRD
+ TAG_RD_TET:0 "Te²³a°a" #GetTagRD
+ TAG_RD_MJO:0 "Ma®»op¬ª" #GetTagRD
+ TAG_RD_MAT:0 "Ma²®aµª°¬ª" #GetTagRD
+ TAG_RD_COI:0 "Koª·²®a³a¬a" #GetTagRD
+ TAG_RD_TEO:0 "Teo²ª²®a°a" #GetTagRD
+ TAG_RD_XAL:0 "Xa®ªc¬o" #GetTagRD
+ TAG_RD_GAM:0 "‚³a¯apa" #GetTagRD
+ TAG_RD_HST:0 "‹a·²e¬o¢" #GetTagRD
+ TAG_RD_CCM:0 "“ª¶ª¯e¬o¢" #GetTagRD
+ TAG_RD_OTO:0 "O²o¯ª" #GetTagRD
+ TAG_RD_YOK:0 "‡o¬o²a°a" #GetTagRD
+ TAG_RD_LAC:0 "’oµª®ª" #GetTagRD
+ TAG_RD_KAQ:0 "Ka¬¶ª¬e®ª" #GetTagRD
+ TAG_RD_CTM:0 "“a¬²e¯a®ª" #GetTagRD
+ TAG_RD_KER:0 "Kepeco¢" #GetTagRD
+ TAG_RD_ZNI:0 "…³°ª" #GetTagRD
+ TAG_RD_MSC:0 "Mec¬a®epo" #GetTagRD
+ TAG_RD_LIP:0 "ˆª±a°a" #GetTagRD
+ TAG_RD_CHT:0 "“op²ª" #GetTagRD
+ TAG_RD_MIS:0 "Mªc¬ª²o" #GetTagRD
+ TAG_RD_TAI:0 "Ta«po°a" #GetTagRD
+ TAG_RD_CNP:0 "Kax ‰e¶a" #GetTagRD
+ TAG_RD_TON:0 "To°a®a" #GetTagRD
+ TAG_RD_YAQ:0 "×¬ª" #GetTagRD
+ TAG_RD_YKT:0 "‡o¬³²co¢" #GetTagRD
+ TAG_RD_CAL:0 "Ka®ª´op°ªª" #GetTagRD
+ TAG_RD_TEX:0 "Texaca" #GetTagRD
+ TAG_RD_JMN:0 "×°-Ma«e°a" #GetTagRD
+ TAG_RD_EFR:0 "Boc²o¶°o« ‘pª©ªª" #GetTagRD
+ TAG_RD_SYN:0 "Cª°²e²ª¬o¢" #GetTagRD
+ TAG_RD_MRE:0 "Mapexa°a" #GetTagRD
+ TAG_RD_MJE:0 "Ma¦¨ªp²ª°a" #GetTagRD
+ TAG_RD_WAR:0 "Bapca°¥a®ª" #GetTagRD
+ TAG_RD_HOB:0 "Xo »o" #GetTagRD
+ TAG_RD_GLE:0 "ƒ¨e®e¦ª" #GetTagRD
+ TAG_RD_KAF:0 "Ka´´º" #GetTagRD
+ TAG_RD_MED:0 "Me¦pª €axpª" #GetTagRD
+ TAG_RD_HAR:0 "Xap¼pa" #GetTagRD
+ TAG_RD_AFA:0 "A´apa" #GetTagRD
+ TAG_RD_ALO:0 "A®»¢º" #GetTagRD
+ TAG_RD_PTE:0 "‰a²e" #GetTagRD
+ TAG_RD_DAR:0 "ƒap´³pa" #GetTagRD
+ TAG_RD_CSU:0 "K³c¬o" #GetTagRD
+ TAG_RD_CCQ:0 "Ka®»¶a¬o¢" #GetTagRD
+ TAG_RD_MPC:0 "Ma±³¶e" #GetTagRD
+ TAG_RD_MCA:0 "M³ªc¬ª" #GetTagRD
+ TAG_RD_QTO:0 "Kª²o" #GetTagRD
+ TAG_RD_CJA:0 "Kaxa¯ap¬ª" #GetTagRD
+ TAG_RD_HJA:0 "‹ª®º" #GetTagRD
+ TAG_RD_PTG:0 "‰o²ª¥³apo¢" #GetTagRD
+ TAG_RD_TPQ:0 "T³±ª°ª¬ª°o¢" #GetTagRD
+ TAG_RD_TUA:0 "Ta±³ª" #GetTagRD
+ TAG_RD_GUA:0 "‚³apa°ª" #GetTagRD
+ TAG_RD_CUA:0 "“app³a" #GetTagRD
+ TAG_RD_WKA:0 "Ba°¬ª" #GetTagRD
+ TAG_RD_CYA:0 "“a¶a±o«ª" #GetTagRD
+ TAG_RD_CLA:0 "Ko®®º" #GetTagRD
+ TAG_RD_CRA:0 "“ap¬ª" #GetTagRD
+ TAG_RD_PCJ:0 "‰a¬axeca" #GetTagRD
+ TAG_RD_TPA:0 "T³±ª°a¯ º" #GetTagRD
+ TAG_RD_ARW:0 "Apa¢a¬o¢" #GetTagRD
+ TAG_RD_TID:0 "Tª¦ope" #GetTagRD
+ TAG_RD_TER:0 "Tep°a²e" #GetTagRD
+ TAG_RD_MGD:0 "Ma¥ª°¦a°ao" #GetTagRD
+ TAG_RD_LUW:0 "ˆ³¢³" #GetTagRD
+ TAG_RD_LNO:0 "ˆa°ao" #GetTagRD
+ TAG_RD_LFA:0 "ˆa°»´a°a" #GetTagRD
+ TAG_RD_BNJ:0 "€a°¦¨apa" #GetTagRD
+ TAG_RD_KUT:0 "K³²a÷" #GetTagRD
+ TAG_RD_BTN:0 "€³²o°a" #GetTagRD
+ TAG_RD_CMI:0 "M÷o" #GetTagRD
+ TAG_RD_CYI:0 "ˆo®o" #GetTagRD
+ TAG_RD_CDL:0 "ƒa®ª" #GetTagRD
+ TAG_RD_CHH:0 "“axapa" #GetTagRD
+ TAG_RD_NDO:0 "H¦o°¥o" #GetTagRD
+ TAG_RD_ANU:0 "A«°o¢" #GetTagRD
+ TAG_RD_BAR:0 "€apa" #GetTagRD
+ TAG_RD_HSA:0 "ˆ¾ e¬a" #GetTagRD
+ TAG_RD_SMO:0 "C¯o®e°c¬a" #GetTagRD
+ TAG_RD_MUR:0 "M³po¯a" #GetTagRD
+ TAG_RD_NZH:0 "Hª¨°e¥o Ho¢¥opo¦a" #GetTagRD
+ TAG_RD_VLA:0 "B®a¦ª¯ªpa" #GetTagRD
+ TAG_RD_LAU:0 "Ca¬ce°-ˆa³¼° ³p¥a" #GetTagRD
+ TAG_RD_AAC:0 "Axe°a" #GetTagRD
+ TAG_RD_ALE:0 "A®a°co°a" #GetTagRD
+ TAG_RD_AUG:0 "A³¥c ³p¥a" #GetTagRD
+ TAG_RD_ULM:0 "‹®»¯a" #GetTagRD
+ TAG_RD_FUJ:0 "‘³¦©ª¢apº" #GetTagRD
+ TAG_RD_TAC:0 "Ta²ª a°º" #GetTagRD
+ TAG_RD_MSA:0 "Ma®a«ª" #GetTagRD
+ TAG_RD_HIN:0 "†°¦oc²a°a" #GetTagRD
+ TAG_RD_BHA:0 "€xapa²a" #GetTagRD
+ TAG_RD_CAM:1 "Coe¦ª°e°°ºx ±po¢ª°µª« A¯epª¬ª" #GetTagRD
+ TAG_RD_DNZ:0 "ƒa°µª¥a" #GetTagRD
+ TAG_RD_ETR:0 "™²p³pªª" #GetTagRD
+ TAG_RD_FRN:0 "‘pa°¬´³p²a" #GetTagRD
+ TAG_RD_HAT:0 "‚aª²ª" #GetTagRD
+ TAG_RD_IRQ:0 "†pa¬a" #GetTagRD
+ TAG_RD_KHO:0 "Xopaca°a" #GetTagRD
+ TAG_RD_KRA:0 "Kpa¬o¢a" #GetTagRD
+ TAG_RD_LIV:0 "ˆª¢o°c¬o¥o op¦e°a" #GetTagRD
+ TAG_RD_NAP:0 "Hea±o®÷" #GetTagRD
+ TAG_RD_PRG:0 "‰apa¥¢a÷" #GetTagRD
+ TAG_RD_QIN:0 "’ª°»" #GetTagRD
+ TAG_RD_RFR:0 "Ha¯ ³" #GetTagRD
+ TAG_RD_SOK:0 "Co¬o²o" #GetTagRD
+ TAG_RD_SPI:0 "Cap¦ª°ªª-‰»e¯o°²a" #GetTagRD
+ TAG_RD_SYR:0 "Cªpªª" #GetTagRD
+ TAG_RD_VNZ:0 "Be°ec³¼®º" #GetTagRD
+ TAG_RD_WES:0 "Bec²´a®ªª" #GetTagRD
+ TAG_RD_WUU:0 "B³" #GetTagRD
+ TAG_RD_XIA:0 "C÷" #GetTagRD
+ TAG_RD_RMN:0 "P³¯º°ªª" #GetTagRD
+ TAG_RD_AYD:0 "A«¦º°a" #GetTagRD
+ TAG_RD_AQU:0 "A¬¢ª®eª" #GetTagRD
+ TAG_RD_BYZ:0 "Bª©a°²ªª" #GetTagRD
+ TAG_RD_MAJ:0 "Ma¦¨a±axª²a" #GetTagRD
+ TAG_RD_MEI:0 "Me«ce°a" #GetTagRD
+ TAG_RD_SUK:0 "C³¬xo²a÷" #GetTagRD
+ TAG_RD_GAL:0 "‚a®ªcªª" #GetTagRD
+ TAG_RD_PLT:0 "‰o®oµ¬a" #GetTagRD
+ TAG_RD_SCA:0 "C¬a°¦ª°a¢ªª" #GetTagRD
+ TAG_RD_ACH:0 "Axeª" #GetTagRD
+ TAG_RD_KOJ:0 "†ep³ca®ª¯a" #GetTagRD
+ TAG_RD_BER:0 "€eppª" #GetTagRD
+ TAG_RD_HLR:0 "C¢÷¸e°°o« Pª¯c¬o« ª¯±epªª" #GetTagRD
+ TAG_RD_SRU:0 "Cap³xa°a" #GetTagRD
+ TAG_RD_MEN:0 "Me°²e·e" #GetTagRD
+ TAG_RD_RAM:0 "Pa¯a©a°a" #GetTagRD
+ TAG_RD_EPI:0 "™±ªpa" #GetTagRD
+ TAG_RD_NSS:0 "H»¾-‰po¢ª¦e°ca" #GetTagRD
+ TAG_RD_PRY:0 "‰op²-Po«a®a" #GetTagRD
+ TAG_RD_LIB:0 "ˆª ep²a®ªª" #GetTagRD
+ TAG_RD_TOR:0 "Top²³¥ª" #GetTagRD
+ TAG_RD_MRK:0 "Mappa¬e·a" #GetTagRD
+ TAG_RD_FRM:0 "ƒ³°°ª°a" #GetTagRD
+ TAG_RD_SOO:0 "Co" #GetTagRD
+ TAG_RD_SOL:0 "Co®o°o¢" #GetTagRD
+ TAG_RD_NVK:0 "Hª¢xo¢" #GetTagRD
+ TAG_RD_EJZ:0 "ƒ³°xa÷" #GetTagRD
+ TAG_RD_NHX:0 "‹¦¼¥e" #GetTagRD
+ #Государства, отвечающие на вопрос "Куда?"
+ TAG_VN_DYN:0 "¦ep¨a¢³ [Root.GetName]" #GetTagVN
+ TAG_VN_ADA:0 "A¦a®»" #GetTagVN
+ TAG_VN_ADE:0 "A¦e°" #GetTagVN
+ TAG_VN_AKK:0 "A¬-Ko¾°®³" #GetTagVN
+ TAG_VN_ALB:0 "A® a°ª¾" #GetTagVN
+ TAG_VN_ALG:0 "A®¨ªp" #GetTagVN
+ TAG_VN_ALH:0 "Xac³" #GetTagVN
+ TAG_VN_ALS:0 "C²pac ³p¥" #GetTagVN
+ TAG_VN_AMG:0 "Ap¯a°»÷¬" #GetTagVN
+ TAG_VN_ANH:0 "A°¥a®»²" #GetTagVN
+ TAG_VN_ANN:0 "A°°a¯" #GetTagVN
+ TAG_VN_ANS:0 "A°c ax" #GetTagVN
+ TAG_VN_ARA:0 "Apa¥o°" #GetTagVN
+ TAG_VN_ARK:0 "Apa¬a°" #GetTagVN
+ TAG_VN_ARM:0 "Ap¯e°ª¾" #GetTagVN
+ TAG_VN_ASH:0 "A·a°²ª" #GetTagVN
+ TAG_VN_ASS:0 "Acca¯" #GetTagVN
+ TAG_VN_AST:0 "Ac²paxa°»" #GetTagVN
+ TAG_VN_ATH:0 "A´ª°º" #GetTagVN
+ TAG_VN_ATJ:0 "A¶ex" #GetTagVN
+ TAG_VN_AUV:0 "O¢ep°»" #GetTagVN
+ TAG_VN_AVI:0 "A¢ª°»o°" #GetTagVN
+ TAG_VN_AYU:0 "A¾²ª¾" #GetTagVN
+ TAG_VN_AZT:0 "¦ep¨a¢³ Aµ²e¬o¢" #GetTagVN
+ TAG_VN_BAD:0 "€a¦e°" #GetTagVN
+ TAG_VN_BLI:0 "€a®ª" #GetTagVN
+ TAG_VN_BAN:0 "€a°²e°" #GetTagVN
+ TAG_VN_BAL:0 "€e®³¦¨ªc²a°" #GetTagVN
+ TAG_VN_BAV:0 "€a¢apª¾" #GetTagVN
+ TAG_VN_BEI:0 "€p³°e«" #GetTagVN
+ TAG_VN_BEN:0 "€e°ª°" #GetTagVN
+ TAG_VN_BHU:0 "€³²a°" #GetTagVN
+ TAG_VN_BIJ:0 "€ª¦¨a±³p" #GetTagVN
+ TAG_VN_BND:0 "€³°¦e®»xa°¦" #GetTagVN
+ TAG_VN_BNG:0 "€e°¥a®ª¾" #GetTagVN
+ TAG_VN_BOH:0 "€o¥e¯ª¾" #GetTagVN
+ TAG_VN_BOS:0 "€oc°ª¾" #GetTagVN
+ TAG_VN_BOU:0 "€³p o°" #GetTagVN
+ TAG_VN_BRA:0 "€pa°¦e° ³p¥" #GetTagVN
+ TAG_VN_BRB:0 "€pa a°²" #GetTagVN
+ TAG_VN_BRE:0 "€pe¯e°" #GetTagVN
+ TAG_VN_BRI:0 "€pe²a°»" #GetTagVN
+ TAG_VN_BRR:0 "€epap" #GetTagVN
+ TAG_VN_BRU:0 "€pa³°·¢e«¥" #GetTagVN
+ TAG_VN_BRZ:0 "€pa©ª®ª¾" #GetTagVN
+ TAG_VN_BUL:0 "€o®¥apª¾" #GetTagVN
+ TAG_VN_BUR:0 "€³p¥³°¦ª¾" #GetTagVN
+ TAG_VN_CAN:0 "Ka°a¦³" #GetTagVN
+ TAG_VN_CAS:0 "Kac²ª®ª¾" #GetTagVN
+ TAG_VN_CAT:0 "Ka²a®o°ª¾" #GetTagVN
+ TAG_VN_CEP:0 "Kop´³" #GetTagVN
+ TAG_VN_CHA:0 "T÷¯±³" #GetTagVN
+ TAG_VN_CHE:0 "“epo¬ª" #GetTagVN
+ TAG_VN_CHG:0 "“a¥a²a«" #GetTagVN
+ TAG_VN_CHK:0 "T÷¯±aca¬³" #GetTagVN
+ TAG_VN_CHL:0 "“ª®ª" #GetTagVN
+ TAG_VN_CHM:0 "“ª¯³" #GetTagVN
+ TAG_VN_CHP:0 "”a¯±a°»" #GetTagVN
+ TAG_VN_CND:0 "ƒ¨a°¦ap" #GetTagVN
+ TAG_VN_COL:0 "Ko®³¯ ª¾" #GetTagVN
+ TAG_VN_CNN:0 "K®a°pª¬ap¦" #GetTagVN
+ TAG_VN_COR:0 "Kopcª¬³" #GetTagVN
+ TAG_VN_CRE:0 "Kpª¬" #GetTagVN
+ TAG_VN_CRI:0 "Kpº¯" #GetTagVN
+ TAG_VN_CRN:0 "Kop°³o®®" #GetTagVN
+ TAG_VN_CRO:0 "Xop¢a²ª¾" #GetTagVN
+ TAG_VN_CRT:0 "Kpª²" #GetTagVN
+ TAG_VN_CYP:0 "Kª±p" #GetTagVN
+ TAG_VN_DAI:0 "ƒa«¢»e²" #GetTagVN
+ TAG_VN_DAN:0 "ƒa°ª¾" #GetTagVN
+ TAG_VN_DAU:0 "ƒo´ª°e" #GetTagVN
+ TAG_VN_DLH:0 "ƒe®ª" #GetTagVN
+ TAG_VN_DUL:0 "ƒ³®¬a¦ªp" #GetTagVN
+ TAG_VN_DUR:0 "ƒ³ppa°ª" #GetTagVN
+ TAG_VN_ENG:0 "A°¥®ª¾" #GetTagVN
+ TAG_VN_ETH:0 "™´ªo±ª¾" #GetTagVN
+ TAG_VN_FER:0 "‘eppap³" #GetTagVN
+ TAG_VN_FEZ:0 "‘ec" #GetTagVN
+ TAG_VN_FIN:0 "‘ª°®÷°¦ª¾" #GetTagVN
+ TAG_VN_FLA:0 "‘®a°¦pª¾" #GetTagVN
+ TAG_VN_FOI:0 "‘³a" #GetTagVN
+ TAG_VN_FRA:0 "‘pa°µª¾" #GetTagVN
+ TAG_VN_FRI:0 "‘pªc®a°¦ª¾" #GetTagVN
+ TAG_VN_GBR:0 "Be®ª¬o pª²a°ª¾" #GetTagVN
+ TAG_VN_GDW:1 "‚apxa" #GetTagVN
+ TAG_VN_GEL:0 "‚e®»¦ep°" #GetTagVN
+ TAG_VN_GEN:0 "‚e°³¾" #GetTagVN
+ TAG_VN_GEO:0 "‚p³©ª¾" #GetTagVN
+ TAG_VN_GER:0 "‚ep¯a°ª¾" #GetTagVN
+ TAG_VN_GOL:0 "€o®»·³¾ Op¦³" #GetTagVN
+ TAG_VN_GOT:0 "‚o²®a°¦" #GetTagVN
+ TAG_VN_GRA:0 "‚pa°a¦³" #GetTagVN
+ TAG_VN_GRE:0 "‚peµª¾" #GetTagVN
+ TAG_VN_GUJ:0 "‚³¦¨apa²" #GetTagVN
+ TAG_VN_GUY:0 "‚ac¬o°»" #GetTagVN
+ TAG_VN_HAB:0 "A¢c²pª¾" #GetTagVN
+ TAG_VN_HAI:0 "‚e°°e¥a³" #GetTagVN
+ TAG_VN_HAM:0 "‚a¯ ³p¥" #GetTagVN
+ TAG_VN_HAN:0 "‚a°°o¢ep" #GetTagVN
+ TAG_VN_HAU:0 "Xa³c³" #GetTagVN
+ TAG_VN_HED:0 "Xª¦¨a©" #GetTagVN
+ TAG_VN_HES:0 "‚ecce°" #GetTagVN
+ TAG_VN_HOL:0 "‚o®®a°¦ª¾" #GetTagVN
+ TAG_VN_HUN:0 "Be°¥pª¾" #GetTagVN
+ TAG_VN_HUR:0 "¦ep¨a¢³ ‚³po°o¢" #GetTagVN
+ TAG_VN_INC:0 "¦ep¨a¢³ †°¬o¢" #GetTagVN
+ TAG_VN_IRE:0 "†p®a°¦ª¾" #GetTagVN
+ TAG_VN_IRO:0 "¬o°´e¦epaµª¾ †po¬e©o¢" #GetTagVN
+ TAG_VN_ITA:0 "†²a®ª¾" #GetTagVN
+ TAG_VN_JAP:0 "×±o°ª¾" #GetTagVN
+ TAG_VN_KAR:0 "Kapa¯a°" #GetTagVN
+ TAG_VN_KAZ:0 "Ka©a°»" #GetTagVN
+ TAG_VN_KBO:0 "€op°³" #GetTagVN
+ TAG_VN_KHA:0 "Mo°¥o®ª¾" #GetTagVN
+ TAG_VN_KHD:0 "Xa°¦e·" #GetTagVN
+ TAG_VN_KHI:0 "Xª¢³" #GetTagVN
+ TAG_VN_KHM:0 "Kx¯epª¾" #GetTagVN
+ TAG_VN_KLE:0 "K®e¢e" #GetTagVN
+ TAG_VN_KNI:0 "op¦e° ‚oc±ª²a®»epo¢" #GetTagVN
+ TAG_VN_KOK:0 "‘ep¥a°³" #GetTagVN
+ TAG_VN_KOL:0 "Kë®»°" #GetTagVN
+ TAG_VN_KON:0 "Ko°¥o" #GetTagVN
+ TAG_VN_KOR:0 "Kope¾" #GetTagVN
+ TAG_VN_KRK:0 "Kap°a²ª¬³" #GetTagVN
+ TAG_VN_KSH:0 "Ka·¯ªp" #GetTagVN
+ TAG_VN_KUR:0 "K³p®÷°¦ª¾" #GetTagVN
+ TAG_VN_KZH:0 "op¦³ Ka©axo¢" #GetTagVN
+ TAG_VN_LAN:0 "‘®ope°µª¾" #GetTagVN
+ TAG_VN_LAP:0 "ˆa-‰®a²³" #GetTagVN
+ TAG_VN_LEI:0 "ˆe°c²ep" #GetTagVN
+ TAG_VN_LIE:0 "ˆ»e¨" #GetTagVN
+ TAG_VN_LIT:0 "ˆª²¢³" #GetTagVN
+ TAG_VN_LNA:0 "ˆa°°³" #GetTagVN
+ TAG_VN_LOA:0 "ˆoa°¥o" #GetTagVN
+ TAG_VN_LOR:0 "ˆo²apª°¥ª¾" #GetTagVN
+ TAG_VN_LOU:0 "ˆ³ª©ªa°³" #GetTagVN
+ TAG_VN_LUA:0 "ˆ³a°¥±xa a°¥" #GetTagVN
+ TAG_VN_LUN:0 "ˆ¾°e ³p¥" #GetTagVN
+ TAG_VN_LUX:0 "ˆ¾¬ce¯ ³p¥" #GetTagVN
+ TAG_VN_LXA:0 "ˆa°ca°¥" #GetTagVN
+ TAG_VN_MAD:0 "Ma¦³pa«" #GetTagVN
+ TAG_VN_MAG:0 "Ma¥¦e ³p¥" #GetTagVN
+ TAG_VN_MAI:0 "Ma«°µ" #GetTagVN
+ TAG_VN_MAL:0 "Ma®ª" #GetTagVN
+ TAG_VN_MAM:0 "Ma¯®¾¬c¬ª« c³®²a°a²" #GetTagVN
+ TAG_VN_MAN:0 "Ma°²³¾" #GetTagVN
+ TAG_VN_MAY:0 "¦ep¨a¢³ Ma«÷" #GetTagVN
+ TAG_VN_MAZ:0 "Ma©o¢ª¾" #GetTagVN
+ TAG_VN_MCH:0 "Ma°»¶¨³pª¾" #GetTagVN
+ TAG_VN_MEX:0 "Me¬cª¬³" #GetTagVN
+ TAG_VN_MKL:0 "Me¬®e° ³p¥" #GetTagVN
+ TAG_VN_MKS:0 "Ma¬acap" #GetTagVN
+ TAG_VN_MLC:0 "Ma®a¬¬³" #GetTagVN
+ TAG_VN_MLO:0 "Mª®a°" #GetTagVN
+ TAG_VN_MLW:0 "Ma®»¢³" #GetTagVN
+ TAG_VN_MNG:0 "Mª°" #GetTagVN
+ TAG_VN_MNS:0 "To¯o°¦" #GetTagVN
+ TAG_VN_MOD:0 "Mo¦e°³" #GetTagVN
+ TAG_VN_MOE:0 "Mope¾" #GetTagVN
+ TAG_VN_MOL:0 "Mo®¦a¢ª¾" #GetTagVN
+ TAG_VN_MON:0 "“ep°o¥opª¾" #GetTagVN
+ TAG_VN_MOR:0 "Mapo¬¬o" #GetTagVN
+ TAG_VN_MOS:0 "Moc¬¢³" #GetTagVN
+ TAG_VN_MTR:0 "Ma²apa¯³" #GetTagVN
+ TAG_VN_MUG:0 "¦ep¨a¢³ Mo¥o®o¢" #GetTagVN
+ TAG_VN_MUN:0 "M¾°c²ep" #GetTagVN
+ TAG_VN_MYS:0 "Ma«c³p" #GetTagVN
+ TAG_VN_NAJ:0 "He¦¨¦" #GetTagVN
+ TAG_VN_NAV:0 "Ha¢app³" #GetTagVN
+ TAG_VN_NAX:0 "Ha¬coc" #GetTagVN
+ TAG_VN_NED:0 "Hª¦ep®a°¦º" #GetTagVN
+ TAG_VN_NEV:0 "He¢ep" #GetTagVN
+ TAG_VN_NOG:0 "Ho¥a«c¬³¾ op¦³" #GetTagVN
+ TAG_VN_NOL:0 "Hop²³¯ pª¾" #GetTagVN
+ TAG_VN_NOR:0 "Hop¢e¥ª¾" #GetTagVN
+ TAG_VN_NOV:0 "Ho¢¥opo¦" #GetTagVN
+ TAG_VN_NPL:0 "He±a®" #GetTagVN
+ TAG_VN_NRM:0 "Hop¯a°¦ª¾" #GetTagVN
+ TAG_VN_NUB:0 "Ce°°ap" #GetTagVN
+ TAG_VN_ODH:0 "A¢a¦x" #GetTagVN
+ TAG_VN_OIR:0 "O«pa²c¬³¾ op¦³" #GetTagVN
+ TAG_VN_OLD:0 "O®»¦e° ³p¥" #GetTagVN
+ TAG_VN_OMA:0 "O¯a°" #GetTagVN
+ TAG_VN_ORI:0 "Opªcc³" #GetTagVN
+ TAG_VN_ORL:0 "Op®ea°" #GetTagVN
+ TAG_VN_OYO:0 "O«o" #GetTagVN
+ TAG_VN_PAL:0 "‰´a®»µ" #GetTagVN
+ TAG_VN_PAP:0 "‰a±c¬³¾ o ®ac²»" #GetTagVN
+ TAG_VN_PAR:0 "‰ap¯³" #GetTagVN
+ TAG_VN_PAT:0 "‰a²²a°ª" #GetTagVN
+ TAG_VN_PEG:0 "‰e¥³" #GetTagVN
+ TAG_VN_PER:0 "‰epcª¾" #GetTagVN
+ TAG_VN_PEU:0 "‰ep³" #GetTagVN
+ TAG_VN_PIC:0 "‰ª¬ap¦ª¾" #GetTagVN
+ TAG_VN_PIS:0 "‰ª©³" #GetTagVN
+ TAG_VN_POL:0 "‰o®»·³" #GetTagVN
+ TAG_VN_POM:0 "‰o¯epa°ª¾" #GetTagVN
+ TAG_VN_POR:0 "‰op²³¥a®ª¾" #GetTagVN
+ TAG_VN_PRO:0 "‰po¢a°c" #GetTagVN
+ TAG_VN_PRU:0 "‰p³ccª¾" #GetTagVN
+ TAG_VN_PSK:0 "‰c¬o¢" #GetTagVN
+ TAG_VN_PUN:0 "‰e°¦¨a " #GetTagVN
+ TAG_VN_QAR:0 "Kapa-Ko¾°®³" #GetTagVN
+ TAG_VN_QAS:0 "Kacª¯o¢" #GetTagVN
+ TAG_VN_QUE:0 "K¢e e¬" #GetTagVN
+ TAG_VN_RAG:0 "Pa¥³©³" #GetTagVN
+ TAG_VN_RAJ:0 "Pa¦¨±³²a°³" #GetTagVN
+ TAG_VN_REB:0 "¢o«c¬o ±o¢c²a°µe¢" #GetTagVN
+ TAG_VN_RIG:0 "Pª¥³" #GetTagVN
+ TAG_VN_RUS:0 "Poccª¾" #GetTagVN
+ TAG_VN_RYA:0 "P÷©a°»" #GetTagVN
+ TAG_VN_RYU:0 "P¾¬¾" #GetTagVN
+ TAG_VN_SAR:0 "Cap¦ª°ª¾" #GetTagVN
+ TAG_VN_SAV:0 "Ca¢o«¾" #GetTagVN
+ TAG_VN_SAX:0 "Ca¬co°ª¾" #GetTagVN
+ TAG_VN_SCO:0 "”o²®a°¦ª¾" #GetTagVN
+ TAG_VN_SER:0 "Cep ª¾" #GetTagVN
+ TAG_VN_SHA:0 "”a³°ª" #GetTagVN
+ TAG_VN_SHL:0 "‚o®»·²e«°" #GetTagVN
+ TAG_VN_SHR:0 "”ap¦¨ª" #GetTagVN
+ TAG_VN_SHY:0 "‹© e¬c¬oe xa°c²¢o" #GetTagVN
+ TAG_VN_SIB:0 "Cª ªp»" #GetTagVN
+ TAG_VN_SIC:0 "Cªµª®ª¾" #GetTagVN
+ TAG_VN_SIE:0 "Cªe°³" #GetTagVN
+ TAG_VN_SIL:0 "Cª®e©ª¾" #GetTagVN
+ TAG_VN_SLZ:0 "…a®»µ ³p¥" #GetTagVN
+ TAG_VN_SND:1 "Cª°¦" #GetTagVN
+ TAG_VN_SOF:0 "Ce¥³" #GetTagVN
+ TAG_VN_SON:0 "Co°¥a«" #GetTagVN
+ TAG_VN_SPA:0 "†c±a°ª¾" #GetTagVN
+ TAG_VN_SST:0 "”a°" #GetTagVN
+ TAG_VN_STY:0 "”²ªpª¾" #GetTagVN
+ TAG_VN_SUL:0 "C³®³" #GetTagVN
+ TAG_VN_SWE:0 "”¢eµª¾" #GetTagVN
+ TAG_VN_SWI:0 "”¢e«µapª¾" #GetTagVN
+ TAG_VN_TAU:0 "Ta³°¥³" #GetTagVN
+ TAG_VN_TEU:0 "Te¢²o°c¬ª« op¦e°" #GetTagVN
+ TAG_VN_THU:0 "T¾pª°¥ª¾" #GetTagVN
+ TAG_VN_TIB:0 "Tª e²" #GetTagVN
+ TAG_VN_TIM:0 "¦ep¨a¢³ Tª¯³pª¦o¢" #GetTagVN
+ TAG_VN_TIR:0 "Tªpo®»" #GetTagVN
+ TAG_VN_TOK:0 "To°¬ª°" #GetTagVN
+ TAG_VN_TOU:0 "T³®³©³" #GetTagVN
+ TAG_VN_TRA:0 "Tpa°cª®»¢a°ª¾" #GetTagVN
+ TAG_VN_TRE:0 "Tpa±e©³°¦" #GetTagVN
+ TAG_VN_TRI:0 "Tpªp" #GetTagVN
+ TAG_VN_TRP:0 "Tpª±o®ª" #GetTagVN
+ TAG_VN_TRV:0 "Tpa¢a°¬op³" #GetTagVN
+ TAG_VN_TUN:0 "T³°ªc" #GetTagVN
+ TAG_VN_TUR:0 "Oc¯a°c¬³¾ ª¯±epª¾" #GetTagVN
+ TAG_VN_TUS:0 "Toc¬a°³" #GetTagVN
+ TAG_VN_TVE:0 "T¢ep»" #GetTagVN
+ TAG_VN_TYR:0 "Tªpo°" #GetTagVN
+ TAG_VN_UKR:0 "P³cª°ª¾" #GetTagVN
+ TAG_VN_URB:0 "‹p ª°o" #GetTagVN
+ TAG_VN_USA:0 "Coe¦ª°ë°°ºe ”²a²º" #GetTagVN
+ TAG_VN_UTR:0 "‹²pex²" #GetTagVN
+ TAG_VN_WAL:0 "Ba®axª¾" #GetTagVN
+ TAG_VN_WBG:0 "B¾pµ ³p¥" #GetTagVN
+ TAG_VN_VEN:0 "Be°eµª¾" #GetTagVN
+ TAG_VN_VIE:0 "B»e°²»÷°³" #GetTagVN
+ TAG_VN_VIJ:0 "Bª¦¨a÷°a¥ap" #GetTagVN
+ TAG_VN_WLS:0 "‹¼®»c" #GetTagVN
+ TAG_VN_WUR:0 "B¾p²e¯ ep¥" #GetTagVN
+ TAG_VN_YAR:0 "×poc®a¢®»" #GetTagVN
+ TAG_VN_YOR:0 "A°¦xp³" #GetTagVN
+ TAG_VN_ZAP:0 "¦ep¨a¢³ Ca±o²e¬o¢" #GetTagVN
+ TAG_VN_ZAZ:0 "…a±opo¨c¬³¾ ce¶»" #GetTagVN
+ TAG_VN_ZIM:0 "Mo°o¯o²a±³" #GetTagVN
+ TAG_VN_NIZ:0 "ƒe¢a-€e°¥a®" #GetTagVN
+ TAG_VN_BAS:0 "Ax¯a¦°a¥ap" #GetTagVN
+ TAG_VN_NAT:0 "±®e¯÷ ²³©e¯µe¢" #GetTagVN
+ TAG_VN_PIR:0 "´®o² ¬a±epo¢" #GetTagVN
+ TAG_VN_AMA:0 "A¯a¥o" #GetTagVN
+ TAG_VN_ASA:0 "Aca¬³p³" #GetTagVN
+ TAG_VN_CSK:0 "Tëco¬a ¼" #GetTagVN
+ TAG_VN_DTE:0 "ƒa²¼" #GetTagVN
+ TAG_VN_HJO:0 "Xo¦©ë" #GetTagVN
+ TAG_VN_HSK:0 "Xoco¬a¢³" #GetTagVN
+ TAG_VN_HTK:0 "Xa²a¬¼÷¯³" #GetTagVN
+ TAG_VN_IKE:0 "†¬¼¦a" #GetTagVN
+ TAG_VN_IMG:0 "†¯a¥a¢³" #GetTagVN
+ TAG_VN_MAE:0 "Ma¼¦a" #GetTagVN
+ TAG_VN_MRI:0 "Mopª" #GetTagVN
+ TAG_VN_ODA:0 "O¦³" #GetTagVN
+ TAG_VN_OTM:0 "O²o¯o" #GetTagVN
+ TAG_VN_OUC:0 "O³²ª" #GetTagVN
+ TAG_VN_SBA:0 "Cª a" #GetTagVN
+ TAG_VN_SMZ:0 "Cª¯a¦©³" #GetTagVN
+ TAG_VN_TKD:0 "Ta¬¼¦³" #GetTagVN
+ TAG_VN_TKG:0 "To¬³¥a¢³" #GetTagVN
+ TAG_VN_UES:0 "‹¼c³¥ª" #GetTagVN
+ TAG_VN_YMN:0 "×¯a°³" #GetTagVN
+ TAG_VN_JNP:0 "ƒ¨a³°±³p" #GetTagVN
+ TAG_VN_MAW:0 "Map¢ap" #GetTagVN
+ TAG_VN_MER:0 "Me¢ap" #GetTagVN
+ TAG_VN_MUL:0 "M³®²a°" #GetTagVN
+ TAG_VN_JAN:0 "ƒ¨a°¥®a¦e·" #GetTagVN
+ TAG_VN_GRJ:0 "‚ap»÷²" #GetTagVN
+ TAG_VN_GWA:0 "‚¢a®ªop" #GetTagVN
+ TAG_VN_DHU:0 "ƒx³°¦xap" #GetTagVN
+ TAG_VN_KLN:0 "Ke®a¦ª" #GetTagVN
+ TAG_VN_MAB:1 "Ka®ª¬³²" #GetTagVN
+ TAG_VN_MEW:0 "Me¢a²" #GetTagVN
+ TAG_VN_BST:0 "€ac²ap" #GetTagVN
+ TAG_VN_JSL:0 "ƒ¨a«ca®¯ep" #GetTagVN
+ TAG_VN_KAC:0 "Ka¶ap" #GetTagVN
+ TAG_VN_KMT:0 "K³¶" #GetTagVN
+ TAG_VN_KGR:0 "Ka°¥p³" #GetTagVN
+ TAG_VN_KAT:1 "Ka¶" #GetTagVN
+ TAG_VN_KOC:0 "Ko¶¶ª" #GetTagVN
+ TAG_VN_AHM:0 "A³pe°¥a a¦" #GetTagVN
+ TAG_VN_BAH:0 "€ax¯a°ª" #GetTagVN
+ TAG_VN_NAG:0 "Ha¥±³p" #GetTagVN
+ TAG_VN_BDA:0 "€apo¦³" #GetTagVN
+ TAG_VN_GOC:0 "‚o®¬o°¦³" #GetTagVN
+ TAG_VN_MAR:0 "¬°÷¨ec²¢o Mapa²xo¢" #GetTagVN
+ TAG_VN_VND:0 "Be°a¦" #GetTagVN
+ TAG_VN_DEC:0 "ƒe¬a°" #GetTagVN
+ TAG_VN_CZH:0 "“¨o³" #GetTagVN
+ TAG_VN_CSH:0 "”³°»" #GetTagVN
+ TAG_VN_CXI:0 "Cª" #GetTagVN
+ TAG_VN_JOL:0 "ƒ¨o®o´" #GetTagVN
+ TAG_VN_PLC:0 "Pe¶» ‰oc±o®ª²³¾" #GetTagVN
+ TAG_VN_PRM:0 "‰ep¯»" #GetTagVN
+ TAG_VN_CEY:1 "Ko²²e" #GetTagVN
+ TAG_VN_AFG:0 "A´¥a°ªc²a°" #GetTagVN
+ TAG_VN_QNG:0 "’ª°" #GetTagVN
+ TAG_VN_ABE:0 "¦ep¨a¢³ A e°a¬o¢" #GetTagVN
+ TAG_VN_APA:0 "A±a¶ª" #GetTagVN
+ TAG_VN_ASI:0 "¦ep¨a¢³ Accª°ª o«°o¢" #GetTagVN
+ TAG_VN_BLA:0 "¦ep¨a¢³ “ep°o°o¥ªx" #GetTagVN
+ TAG_VN_CAD:0 "K¼¦¦o" #GetTagVN
+ TAG_VN_CHI:0 "“ª¬aco" #GetTagVN
+ TAG_VN_CHO:0 "“o¬²o" #GetTagVN
+ TAG_VN_CHY:0 "¦ep¨a¢³ ”a«e°°o¢" #GetTagVN
+ TAG_VN_COM:0 "Ko¯a°¶ª" #GetTagVN
+ TAG_VN_FOX:0 "¦ep¨a¢³ Mec¬¢o¬o¢" #GetTagVN
+ TAG_VN_ILL:0 "¦ep¨a¢³ †®®ª°o«co¢" #GetTagVN
+ TAG_VN_LEN:0 "ƒe®a¢ap" #GetTagVN
+ TAG_VN_MIK:0 "¦ep¨a¢³ Mª¬¯a¬o¢" #GetTagVN
+ TAG_VN_MMI:0 "Ma«a¯ª" #GetTagVN
+ TAG_VN_MAH:0 "¦ep¨a¢³ Mo¥ª¬a°" #GetTagVN
+ TAG_VN_NAH:0 "Ha¢axo" #GetTagVN
+ TAG_VN_OJI:0 "¦ep¨a¢³ O¦¨ª ¢e" #GetTagVN
+ TAG_VN_OSA:0 "¦ep¨a¢³ Oce«¦¨o¢" #GetTagVN
+ TAG_VN_OTT:0 "O²²a¢³" #GetTagVN
+ TAG_VN_PAW:0 "‰a³°ª" #GetTagVN
+ TAG_VN_PEQ:0 "¦ep¨a¢³ ‰e¬o²o¢" #GetTagVN
+ TAG_VN_PIM:0 "‰ª¯³" #GetTagVN
+ TAG_VN_POT:0 "‰o²a¢a²o¯ª" #GetTagVN
+ TAG_VN_POW:0 "¦ep¨a¢³ ‰o³xa²a°o¢" #GetTagVN
+ TAG_VN_PUE:0 "‰³¼ ®o" #GetTagVN
+ TAG_VN_SIO:0 "Cª³" #GetTagVN
+ TAG_VN_SHO:0 "¦ep¨a¢³ ”o·o°o¢" #GetTagVN
+ TAG_VN_SUS:0 "¦ep¨a¢³ Cac¬³exa°°o¬o¢" #GetTagVN
+ TAG_VN_WCR:0 "Kpª" #GetTagVN
+ TAG_VN_ZAN:0 "Kª®¢³" #GetTagVN
+ TAG_VN_AJU:0 "A¦¨³pa°" #GetTagVN
+ TAG_VN_MBA:0 "Mo¯ ac³" #GetTagVN
+ TAG_VN_MDI:0 "Mo¥a¦ª·o" #GetTagVN
+ TAG_VN_MLI:0 "Ma®ª°¦ª" #GetTagVN
+ TAG_VN_SFA:0 "Co´a®³" #GetTagVN
+ TAG_VN_EGY:0 "E¥ª±e²" #GetTagVN
+ TAG_VN_BUK:0 "€³xap³" #GetTagVN
+ TAG_VN_BGA:0 "€a¥®a°" #GetTagVN
+ TAG_VN_BGL:1 "€a¥e®xa°¦" #GetTagVN
+ TAG_VN_CHD:0 "“a°¦³" #GetTagVN
+ TAG_VN_CMP:0 "Pe¢³ Ka°²ª" #GetTagVN
+ TAG_VN_GHR:0 "‚apx¢a®" #GetTagVN
+ TAG_VN_HAD:0 "Xa¦o²ª" #GetTagVN
+ TAG_VN_JAJ:0 "Xa ca°" #GetTagVN
+ TAG_VN_JFN:0 "ƒ¨a´°³" #GetTagVN
+ TAG_VN_LDK:0 "ˆa¦a¬x" #GetTagVN
+ TAG_VN_MLB:0 "Ma°ª±³p" #GetTagVN
+ TAG_VN_NGA:0 "Ha¥a³p" #GetTagVN
+ TAG_VN_NGP:0 "ƒ¨ap¬xa°¦" #GetTagVN
+ TAG_VN_PTA:0 "‰a²ªa®³" #GetTagVN
+ TAG_VN_RMP:0 "Poxª®¬xa°¦" #GetTagVN
+ TAG_VN_SDY:0 "Ca¦ª¾" #GetTagVN
+ TAG_VN_TPR:0 "Tpª±³p" #GetTagVN
+ TAG_VN_TRT:0 "Tªpx³²" #GetTagVN
+ TAG_VN_CIR:0 "“ep¬ecª¾" #GetTagVN
+ TAG_VN_GAZ:0 "‚a©ª¬³¯³x" #GetTagVN
+ TAG_VN_IME:0 "†¯epe²ª¾" #GetTagVN
+ TAG_VN_TAB:1 "Ma©a°¦apa°" #GetTagVN
+ TAG_VN_MYR:0 "E¨¼°»" #GetTagVN
+ TAG_VN_MHX:0 "Xa«cª" #GetTagVN
+ TAG_VN_KRC:0 "op¦³ Xop¶ª°o¢" #GetTagVN
+ TAG_VN_KLK:0 "Xa®x³" #GetTagVN
+ TAG_VN_DGL:0 "Ma®»¦ª¢º" #GetTagVN
+ TAG_VN_HMI:0 "Kapa ƒe®" #GetTagVN
+ TAG_VN_ZUN:0 "ƒ¨³°¥ap" #GetTagVN
+ TAG_VN_KAS:0 "×p¬e°¦" #GetTagVN
+ TAG_VN_KSD:0 "¦ep¨a¢³ Xo·³²o¢" #GetTagVN
+ TAG_VN_SYG:0 "Capº¥ ›¥³p" #GetTagVN
+ TAG_VN_UTS:1 "’a°¥" #GetTagVN
+ TAG_VN_KAM:0 "Ka¯" #GetTagVN
+ TAG_VN_GUG:0 "‚³¥e" #GetTagVN
+ TAG_VN_TMB:0 "Tª¯ ³¬²³" #GetTagVN
+ TAG_VN_AIR:0 "A¥a¦ec" #GetTagVN
+ TAG_VN_MSI:0 "Mocª" #GetTagVN
+ TAG_VN_KTS:0 "Kaµª°³" #GetTagVN
+ TAG_VN_KAN:0 "Ka°o" #GetTagVN
+ TAG_VN_FUL:0 "‘³®o" #GetTagVN
+ TAG_VN_BON:0 "€o°o¯a°³" #GetTagVN
+ TAG_VN_DAH:0 "ƒa¥o¯e¾" #GetTagVN
+ TAG_VN_DGB:0 "ƒa¥o¯ ³" #GetTagVN
+ TAG_VN_JNN:0 "ƒ¨e°°e" #GetTagVN
+ TAG_VN_KBU:0 "‚a ³" #GetTagVN
+ TAG_VN_KNG:0 "‹a²²ap³" #GetTagVN
+ TAG_VN_NUP:0 "H³±e" #GetTagVN
+ TAG_VN_YAO:0 "×o" #GetTagVN
+ TAG_VN_YAT:0 "×²e°¥ª" #GetTagVN
+ TAG_VN_ZAF:0 "Maccª°³" #GetTagVN
+ TAG_VN_ZZZ:0 "…apª¾" #GetTagVN
+ TAG_VN_ARD:0 "Ap¦a®a°" #GetTagVN
+ TAG_VN_BHT:1 "Copa°" #GetTagVN
+ TAG_VN_ERE:0 "™pe²°³" #GetTagVN
+ TAG_VN_LEB:0 "ˆª¢a°" #GetTagVN
+ TAG_VN_MAK:0 "M³¬³pp³" #GetTagVN
+ TAG_VN_SHM:0 "”a¯¯ap" #GetTagVN
+ TAG_VN_ARB:0 "Apa¢ª¾" #GetTagVN
+ TAG_VN_GRM:0 "‚ep¯ª÷°" #GetTagVN
+ TAG_VN_MPH:0 "M³a° ‰³a°" #GetTagVN
+ TAG_VN_LIG:0 "ˆª¥op" #GetTagVN
+ TAG_VN_JOH:0 "ƒ¨oxop" #GetTagVN
+ TAG_VN_KED:0 "Ke¦ax" #GetTagVN
+ TAG_VN_PRK:0 "‰epa¬" #GetTagVN
+ TAG_VN_HSE:0 "Xce°¢ª" #GetTagVN
+ TAG_VN_MYA:0 "Mo° ×°a" #GetTagVN
+ TAG_VN_AVA:0 "A¢³" #GetTagVN
+ TAG_VN_FEO:0 "‘eo¦opo" #GetTagVN
+ TAG_VN_VOL:0 "Bo®º°»" #GetTagVN
+ TAG_VN_KIE:0 "Kªe¢" #GetTagVN
+ TAG_VN_CHR:0 "“ep°ª¥o¢" #GetTagVN
+ TAG_VN_CHU:0 "¦ep¨a¢³ ¶³¬¶e«" #GetTagVN
+ TAG_VN_HOD:0 "¦ep¨a¢³ xo¦º°µe¢" #GetTagVN
+ TAG_VN_CHV:0 "¦ep¨a¢³ ¶a¢¶³¢e°o¢" #GetTagVN
+ TAG_VN_KMC:0 "¦ep¨a¢³ ¬a¯¶a¦a®o¢" #GetTagVN
+ TAG_VN_BRT:0 "¦ep¨a¢³  ³p÷²" #GetTagVN
+ TAG_VN_BSH:0 "€a·¬ªpª¾" #GetTagVN
+ TAG_VN_TLC:0 "T®e¯ce°" #GetTagVN
+ TAG_VN_MZB:0 "M©a " #GetTagVN
+ TAG_VN_TGT:0 "T³¥¥³p²" #GetTagVN
+ TAG_VN_GHD:0 "ƒ¨epª¦" #GetTagVN
+ TAG_VN_FZA:0 "‘³©©a°" #GetTagVN
+ TAG_VN_KBA:0 "Ka ª®ª¾" #GetTagVN
+ TAG_VN_SOS:0 "C³c" #GetTagVN
+ TAG_VN_TFL:0 "Ta´ª®a®»²" #GetTagVN
+ TAG_VN_ARP:0 "Apa±axo" #GetTagVN
+ TAG_VN_CNK:0 "”ª°³¬" #GetTagVN
+ TAG_VN_COC:0 "¦ep¨a¢³ ¬o¬o¯o¢" #GetTagVN
+ TAG_VN_XIU:0 "”¬ª±¶e" #GetTagVN
+ TAG_VN_HDA:0 "Xa«¦³" #GetTagVN
+ TAG_VN_ITZ:0 "†µ³" #GetTagVN
+ TAG_VN_KIC:0 "Kª¶e" #GetTagVN
+ TAG_VN_KIO:0 "Ka«o¢³" #GetTagVN
+ TAG_VN_MIX:0 "¦ep¨a¢³ ¯ª·²e¬o¢" #GetTagVN
+ TAG_VN_SAL:0 "Ca®ª·ª" #GetTagVN
+ TAG_VN_TAR:0 "Tapac¬o" #GetTagVN
+ TAG_VN_TLA:0 "T®a¬o±a°" #GetTagVN
+ TAG_VN_TLX:0 "T®a·¬a®³" #GetTagVN
+ TAG_VN_TOT:0 "¦ep¨a¢³ ²o²o°a¬o¢" #GetTagVN
+ TAG_VN_WIC:0 "‹ª¶ª²o" #GetTagVN
+ TAG_VN_CLM:0 "Ko®ª¯³" #GetTagVN
+ TAG_VN_BLM:0 "€®a¯ a°¥a°" #GetTagVN
+ TAG_VN_CRB:0 "“ªpe o°" #GetTagVN
+ TAG_VN_DMK:0 "ƒe¯a¬" #GetTagVN
+ TAG_VN_PGR:0 "‰a¥ap³¾°¥" #GetTagVN
+ TAG_VN_PLB:0 "‰a®e¯ a°¥" #GetTagVN
+ TAG_VN_PSA:0 "‰aca«" #GetTagVN
+ TAG_VN_SAK:0 "Cªa¬" #GetTagVN
+ TAG_VN_SUN:0 "C³°¦³" #GetTagVN
+ TAG_VN_MJZ:0 "’©÷°»¶¨o³" #GetTagVN
+ TAG_VN_SRV:0 "”ªp¢a°" #GetTagVN
+ TAG_VN_MIN:0 "Mª°»" #GetTagVN
+ TAG_VN_YUE:0 "›¼" #GetTagVN
+ TAG_VN_SHU:0 "”³" #GetTagVN
+ TAG_VN_NNG:0 "Hª°c÷" #GetTagVN
+ TAG_VN_CHC:0 "“³" #GetTagVN
+ TAG_VN_TNG:0 "Ta°" #GetTagVN
+ TAG_VN_QIC:0 "’ª" #GetTagVN
+ TAG_VN_YAN:0 "×°»" #GetTagVN
+ TAG_VN_JIN:0 "’©ª°»" #GetTagVN
+ TAG_VN_LNG:0 "ˆ÷°" #GetTagVN
+ TAG_VN_HUA:0 "X³a«xe" #GetTagVN
+ TAG_VN_CGS:0 "“a°·¼°" #GetTagVN
+ TAG_VN_CAB:0 "Kapª º" #GetTagVN
+ TAG_VN_LON:0 "ˆeo°" #GetTagVN
+ TAG_VN_ICM:0 "†¶¯³" #GetTagVN
+ TAG_VN_NUM:0 "H¾p° ep¥" #GetTagVN
+ TAG_VN_AUS:0 "A¢c²pa®ª¾" #GetTagVN
+ TAG_VN_BTI:0 "Cº¯e°" #GetTagVN
+ TAG_VN_MTH:0 "Mª²" #GetTagVN
+ TAG_VN_ADU:0 "A°¦a®³cª¾" #GetTagVN
+ TAG_VN_MEM:0 "Me¯¯ª°¥e°" #GetTagVN
+ TAG_VN_VER:0 "‘ep¦e°" #GetTagVN
+ TAG_VN_NSA:0 "Hacca³" #GetTagVN
+ TAG_VN_RVA:0 "ƒop²¯³°¦" #GetTagVN
+ TAG_VN_MFA:0 "Mo°´eppa²" #GetTagVN
+ TAG_VN_LUC:0 "ˆ³¬¬³" #GetTagVN
+ TAG_VN_LVA:0 "ˆª¢o°ª¾" #GetTagVN
+ TAG_VN_EST:0 "™c²o°ª¾" #GetTagVN
+ TAG_VN_SMI:0 "ˆa±®a°¦ª¾" #GetTagVN
+ TAG_VN_ORM:0 "Op¯³©" #GetTagVN
+ TAG_VN_KRL:0 "Kape®ª¾" #GetTagVN
+ TAG_VN_JAI:0 "Ma®»²³" #GetTagVN
+ TAG_VN_KUB:0 "K³ ³" #GetTagVN
+ TAG_VN_KLD:0 "Ka®³°¦¢e" #GetTagVN
+ TAG_VN_YAK:0 "×¬ª" #GetTagVN
+ TAG_VN_KZB:0 "Ka©e¯ e" #GetTagVN
+ TAG_VN_KIK:0 "Kª¬o°¨ª" #GetTagVN
+ TAG_VN_CKW:0 "“o¬¢e" #GetTagVN
+ TAG_VN_LND:0 "ˆ³°¦³" #GetTagVN
+ TAG_VN_LUB:0 "ˆ³ ³" #GetTagVN
+ TAG_VN_KSJ:0 "Kaca°¦¨ª" #GetTagVN
+ TAG_VN_SYO:0 "Co«o" #GetTagVN
+ TAG_VN_TYO:0 "To«o" #GetTagVN
+ TAG_VN_BSG:0 "€³co¥ª" #GetTagVN
+ TAG_VN_BNY:0 "€³°»opo" #GetTagVN
+ TAG_VN_KRW:0 "Kapa¥¢e" #GetTagVN
+ TAG_VN_BUG:0 "€³¥a°¦³" #GetTagVN
+ TAG_VN_RWA:0 "P³a°¦³" #GetTagVN
+ TAG_VN_NKO:0 "H»÷°¬o®e" #GetTagVN
+ TAG_VN_BUU:0 "€³p³°¦ª" #GetTagVN
+ TAG_VN_UBH:0 "€³xe" #GetTagVN
+ TAG_VN_MRA:0 "Mapa¢ª" #GetTagVN
+ TAG_VN_LDU:0 "ˆ³°¦³" #GetTagVN
+ TAG_VN_TBK:0 "T³¯ ³¬ª" #GetTagVN
+ TAG_VN_MKU:0 "Ma¬³a" #GetTagVN
+ TAG_VN_RZW:0 "€³²³a" #GetTagVN
+ TAG_VN_MIR:0 "†¯epª°³" #GetTagVN
+ TAG_VN_ANT:0 "A°²e¯opo" #GetTagVN
+ TAG_VN_SKA:0 "Ca¬a®a¢³" #GetTagVN
+ TAG_VN_MFY:0 "Maxa´a®ª" #GetTagVN
+ TAG_VN_BTS:0 "€eµª¯apa¬ª" #GetTagVN
+ TAG_VN_ULS:0 "O®»c²ep" #GetTagVN
+ TAG_VN_DMS:0 "ƒec¯o°¦" #GetTagVN
+ TAG_VN_ORD:0 "Op¯o°¦" #GetTagVN
+ TAG_VN_KID:0 "Kª®¦¼p" #GetTagVN
+ TAG_VN_MCM:0 "Ma°c²ep" #GetTagVN
+ TAG_VN_FLY:0 "O´´a®ª" #GetTagVN
+ TAG_VN_TRY:0 "Tªp¬o°e®" #GetTagVN
+ TAG_VN_SLN:0 "C®a«¥o" #GetTagVN
+ TAG_VN_OKA:0 "O¦oe¢" #GetTagVN
+ TAG_VN_ICE:0 "†c®a°¦ª¾" #GetTagVN
+ TAG_VN_SLO:0 "Hª²p³" #GetTagVN
+ TAG_VN_HSC:0 "‚¼®¦o¯" #GetTagVN
+ TAG_VN_ROM:0 "Pª¯c¬³¾ ª¯±epª¾" #GetTagVN
+ TAG_VN_DTT:0 "ƒª²¯ap·e°" #GetTagVN
+ TAG_VN_GLH:0 "…o®o²³¾ Op¦³" #GetTagVN
+ TAG_VN_BEJ:0 "€e¦¨³" #GetTagVN
+ TAG_VN_JIM:0 "ƒ¨ª¯¯³" #GetTagVN
+ TAG_VN_WLY:0 "Bo®a«²³" #GetTagVN
+ TAG_VN_DAM:0 "ƒa¯o²" #GetTagVN
+ TAG_VN_HDY:0 "Xa¦ª¾" #GetTagVN
+ TAG_VN_SOA:0 "”oa" #GetTagVN
+ TAG_VN_JJI:0 "ƒ¨a°¦¨ªpo" #GetTagVN
+ TAG_VN_ENA:0 "™°°ap" #GetTagVN
+ TAG_VN_ABB:0 "ƒo°¥o®³" #GetTagVN
+ TAG_VN_AKM:0 "A¬a¯aµ³" #GetTagVN
+ TAG_VN_AKT:0 "A°¦o" #GetTagVN
+ TAG_VN_CBA:0 "Tª ³" #GetTagVN
+ TAG_VN_ISK:0 "†ccª¬ª" #GetTagVN
+ TAG_VN_ITO:0 "†²o" #GetTagVN
+ TAG_VN_KKC:0 "Kª¬³²ª" #GetTagVN
+ TAG_VN_KNO:0 "Ko°o" #GetTagVN
+ TAG_VN_OGS:0 "O¥aca¢apº" #GetTagVN
+ TAG_VN_SHN:0 "Cë°ª" #GetTagVN
+ TAG_VN_STK:0 "Ca²a¬¼" #GetTagVN
+ TAG_VN_TKI:0 "To¬ª" #GetTagVN
+ TAG_VN_UTN:0 "‹µ³°o¯ªª" #GetTagVN
+ TAG_VN_TTI:0 "’³µ³ª" #GetTagVN
+ TAG_VN_ASK:0 "Acª¬a¥a" #GetTagVN
+ TAG_VN_MVA:0 "Mopa¢ª¾" #GetTagVN
+ TAG_VN_YUA:0 "›a°»" #GetTagVN
+ TAG_VN_BLO:0 "€e®oo©epo" #GetTagVN
+ TAG_VN_RSO:0 "Poc²o¢" #GetTagVN
+ TAG_VN_MHR:0 "Maxp³" #GetTagVN
+ TAG_VN_HDR:0 "Xa¦pa¯a³²³" #GetTagVN
+ TAG_VN_MDA:0 "Me¦ª°³" #GetTagVN
+ TAG_VN_ANZ:0 "A°a©³" #GetTagVN
+ TAG_VN_FAD:0 "‘a¦®»" #GetTagVN
+ TAG_VN_YAS:0 "×c" #GetTagVN
+ TAG_VN_RAS:1 "¦ep¨a¢³ Paccª¦o¢" #GetTagVN
+ TAG_VN_YEM:0 "‡e¯e°" #GetTagVN
+ TAG_VN_DAW:0 "ƒa¢acªp" #GetTagVN
+ TAG_VN_MFL:0 "Mª¬®a´" #GetTagVN
+ TAG_VN_NJR:0 "Ha¦¨pa°" #GetTagVN
+ TAG_VN_HSN:0 "Xaca°¬e«´" #GetTagVN
+ TAG_VN_BTL:0 "€ª²®ªc" #GetTagVN
+ TAG_VN_AVR:0 "A¢apª¾" #GetTagVN
+ TAG_VN_MLK:0 "Kapa ax" #GetTagVN
+ TAG_VN_SME:0 "Ca¯µxe" #GetTagVN
+ TAG_VN_ARL:0 "Ap¦e ª®»" #GetTagVN
+ TAG_VN_MSY:0 "M³·a·³" #GetTagVN
+ TAG_VN_RUM:0 "P³¯" #GetTagVN
+ TAG_VN_KRY:0 "‚ª®÷°" #GetTagVN
+ TAG_VN_LRI:0 "ˆ³pªc²a°" #GetTagVN
+ TAG_VN_SIS:0 "Cªc²a°" #GetTagVN
+ TAG_VN_BPI:0 "€ª÷x-‰ac" #GetTagVN
+ TAG_VN_FRS:0 "‘apc" #GetTagVN
+ TAG_VN_KRM:0 "Kep¯a°" #GetTagVN
+ TAG_VN_YZD:0 "×©¦" #GetTagVN
+ TAG_VN_ISF:0 "†c´axa°" #GetTagVN
+ TAG_VN_TBR:0 "Te pª©" #GetTagVN
+ TAG_VN_BSR:0 "€acp³" #GetTagVN
+ TAG_VN_MGR:0 "Mapa¥ex" #GetTagVN
+ TAG_VN_QOM:0 "A¦¨a¯" #GetTagVN
+ TAG_VN_TRS:0 "Tpa°co¬ca°ª¾" #GetTagVN
+ TAG_VN_MAS:0 "Ma¦»÷c" #GetTagVN
+ TAG_VN_PGS:0 "‰a°¥acª°a°" #GetTagVN
+ TAG_VN_TDO:0 "To°¦o" #GetTagVN
+ TAG_VN_MNA:0 "Ma°ª®³" #GetTagVN
+ TAG_VN_CEB:0 "Ce ³" #GetTagVN
+ TAG_VN_BTU:0 "€³²³a°" #GetTagVN
+ TAG_VN_KTB:0 "Kª²a a²a¬¼" #GetTagVN
+ TAG_VN_KOI:0 "Ma°°" #GetTagVN
+ TAG_VN_LOI:0 "Kopo®e¢c²¢o Oc²po¢o¢" #GetTagVN
+ TAG_VN_MMA:0 "Mo°¥ Mao" #GetTagVN
+ TAG_VN_MKA:0 "Mo°¥ Ka³°" #GetTagVN
+ TAG_VN_MPA:0 "Mo°¥ ‰a«" #GetTagVN
+ TAG_VN_KAL:0 "Ka®e" #GetTagVN
+ TAG_VN_HSI:0 "X©ª±o" #GetTagVN
+ TAG_VN_BPR:0 "‰»ª" #GetTagVN
+ TAG_VN_MNI:0 "Mo°¥ Ha«" #GetTagVN
+ TAG_VN_MBL:0 "Bª·°³±³p" #GetTagVN
+ TAG_VN_SKK:0 "Cª¬¬ª¯" #GetTagVN
+ TAG_VN_IDR:0 "A«¦ap" #GetTagVN
+ TAG_VN_NVR:0 "Ha¢a°a¥ap" #GetTagVN
+ TAG_VN_JLV:0 "ƒ¨xa®a¢ap" #GetTagVN
+ TAG_VN_PTL:0 "‰a®ª²a°³" #GetTagVN
+ TAG_VN_RJK:0 "Pa¦¨¬o²" #GetTagVN
+ TAG_VN_JGD:0 "ƒ¨³°a¥a¦x" #GetTagVN
+ TAG_VN_PRB:0 "‰op a°¦ap" #GetTagVN
+ TAG_VN_PAN:0 "Ka®ª°¦¨ap" #GetTagVN
+ TAG_VN_KLP:0 "Ka®±ª" #GetTagVN
+ TAG_VN_SBP:0 "Ca¯ a®±³p" #GetTagVN
+ TAG_VN_PTT:0 "‰a²°³" #GetTagVN
+ TAG_VN_JPR:0 "ƒ¨a«±³p" #GetTagVN
+ TAG_VN_PRD:0 "‰apa®a¬xe¯³°¦ª" #GetTagVN
+ TAG_VN_KJH:0 "Ke°¦³¦¨xap³" #GetTagVN
+ TAG_VN_KLH:0 "Ka®axa°¦ª" #GetTagVN
+ TAG_VN_RTT:0 "Pa²a°±³p" #GetTagVN
+ TAG_VN_SRG:0 "C³p¥³¦¨³" #GetTagVN
+ TAG_VN_TLG:0 "Te®ª°¥a°³" #GetTagVN
+ TAG_VN_KLT:0 "Ko®a²x³°a¦" #GetTagVN
+ TAG_VN_DNG:0 "ƒa°¥³" #GetTagVN
+ TAG_VN_DTI:0 "ƒo²ª" #GetTagVN
+ TAG_VN_GRK:0 "‚op¬x³" #GetTagVN
+ TAG_VN_JML:0 "ƒ¨³¯®³" #GetTagVN
+ TAG_VN_LWA:0 "ˆª¯ ³¢a°" #GetTagVN
+ TAG_VN_MKP:0 "Ma¬¢a°±³p" #GetTagVN
+ TAG_VN_SRM:0 "Cªp¯³p" #GetTagVN
+ TAG_VN_KTU:0 "Ka²¯a°¦³" #GetTagVN
+ TAG_VN_KMN:0 "K³¯ao°" #GetTagVN
+ TAG_VN_KND:0 "Ka°¦ª" #GetTagVN
+ TAG_VN_GNG:0 "‚ª°¥ª" #GetTagVN
+ TAG_VN_TNJ:0 "Ta°¦¨op" #GetTagVN
+ TAG_VN_PHA:1 "‹" #GetTagVN
+ TAG_VN_RJP:0 "Pa¦¨±³²a°³" #GetTagVN
+ TAG_VN_SRH:0 "Cªpxª°¦" #GetTagVN
+ TAG_VN_ILK:0 "†®»xa°a²" #GetTagVN
+ TAG_VN_KLM:0 "¦ep¨a¢³ Ka®¯º¬o¢" #GetTagVN
+ TAG_VN_MGE:0 "Mo°¥o®»c¬³¾ ª¯±epª¾" #GetTagVN
+ TAG_VN_VAL:0 "Ba®e°cª¾" #GetTagVN
+ TAG_VN_ASU:0 "Ac²³pª¾" #GetTagVN
+ TAG_VN_SLE:0 "Ca®e" #GetTagVN
+ TAG_VN_TET:0 "Te²³a°" #GetTagVN
+ TAG_VN_MJO:0 "Ma®»op¬³" #GetTagVN
+ TAG_VN_MAT:0 "Ma²®aµª°¬³" #GetTagVN
+ TAG_VN_COI:0 "Koª·²®a³a¬³" #GetTagVN
+ TAG_VN_TEO:0 "Teo²ª²®a°³" #GetTagVN
+ TAG_VN_XAL:0 "Xa®ªc¬o" #GetTagVN
+ TAG_VN_GAM:0 "‚³a¯ap" #GetTagVN
+ TAG_VN_HST:0 "‹a·²e¬ª" #GetTagVN
+ TAG_VN_CCM:0 "¦ep¨a¢³ “ª¶ª¯e¬o¢" #GetTagVN
+ TAG_VN_OTO:0 "O²o¯ª" #GetTagVN
+ TAG_VN_YOK:0 "‡o¬o²a°³" #GetTagVN
+ TAG_VN_LAC:0 "’oµª®ª" #GetTagVN
+ TAG_VN_KAQ:0 "Ka¬¶ª¬e®ª" #GetTagVN
+ TAG_VN_CTM:0 "“a¬²e¯a®ª" #GetTagVN
+ TAG_VN_KER:0 "¦ep¨a¢³ Kepeco¢" #GetTagVN
+ TAG_VN_ZNI:0 "…³°ª" #GetTagVN
+ TAG_VN_MSC:0 "Mec¬a®epo" #GetTagVN
+ TAG_VN_LIP:0 "ˆª±a°" #GetTagVN
+ TAG_VN_CHT:0 "“op²ª" #GetTagVN
+ TAG_VN_MIS:0 "Mªc¬ª²o" #GetTagVN
+ TAG_VN_TAI:0 "Ta«po°³" #GetTagVN
+ TAG_VN_CNP:0 "Kax ‰e¶" #GetTagVN
+ TAG_VN_TON:0 "To°a®" #GetTagVN
+ TAG_VN_YAQ:0 "×¬ª" #GetTagVN
+ TAG_VN_YKT:0 "¦ep¨a¢³ ‡o¬³²co¢" #GetTagVN
+ TAG_VN_CAL:0 "Ka®ª´op°ª¾" #GetTagVN
+ TAG_VN_TEX:0 "Texac" #GetTagVN
+ TAG_VN_JMN:0 "×°-Ma«e°" #GetTagVN
+ TAG_VN_EFR:0 "Boc²o¶°³¾ ‘pª©ª¾" #GetTagVN
+ TAG_VN_SYN:0 "¦ep¨a¢³ Cª°²e²ª¬o¢" #GetTagVN
+ TAG_VN_MRE:0 "Mapexa°³" #GetTagVN
+ TAG_VN_MJE:0 "Ma¦¨ªp²ª°" #GetTagVN
+ TAG_VN_WAR:0 "Bapca°¥a®ª" #GetTagVN
+ TAG_VN_HOB:0 "Xo »o" #GetTagVN
+ TAG_VN_GLE:0 "ƒ¨e®e¦ª" #GetTagVN
+ TAG_VN_KAF:0 "Ka´´³" #GetTagVN
+ TAG_VN_MED:0 "Me¦pª €axpª" #GetTagVN
+ TAG_VN_HAR:0 "Xap¼p" #GetTagVN
+ TAG_VN_AFA:0 "A´ap" #GetTagVN
+ TAG_VN_ALO:0 "A®»¢³" #GetTagVN
+ TAG_VN_PTE:0 "‰a²e" #GetTagVN
+ TAG_VN_DAR:0 "ƒap´³p" #GetTagVN
+ TAG_VN_CSU:0 "K³c¬o" #GetTagVN
+ TAG_VN_CCQ:0 "¦ep¨a¢³ Ka®»¶a¬o¢" #GetTagVN
+ TAG_VN_MPC:0 "¦ep¨a¢³ Ma±³¶e" #GetTagVN
+ TAG_VN_MCA:0 "M³ªc¬ª" #GetTagVN
+ TAG_VN_QTO:0 "Kª²o" #GetTagVN
+ TAG_VN_CJA:0 "Kaxa¯ap¬ª" #GetTagVN
+ TAG_VN_HJA:0 "‹ª®³" #GetTagVN
+ TAG_VN_PTG:0 "¦ep¨a¢³ ‰o²ª¥³apo¢" #GetTagVN
+ TAG_VN_TPQ:0 "¦ep¨a¢³ T³±ª°ª¬ª°o¢" #GetTagVN
+ TAG_VN_TUA:0 "Ta±³ª" #GetTagVN
+ TAG_VN_GUA:0 "‚³apa°ª" #GetTagVN
+ TAG_VN_CUA:0 "“app³a" #GetTagVN
+ TAG_VN_WKA:0 "Ba°¬ª" #GetTagVN
+ TAG_VN_CYA:0 "“a¶a±o«ª" #GetTagVN
+ TAG_VN_CLA:0 "Ko®®³" #GetTagVN
+ TAG_VN_CRA:0 "“ap¬ª" #GetTagVN
+ TAG_VN_PCJ:0 "‰a¬axec" #GetTagVN
+ TAG_VN_TPA:0 "T³±ª°a¯ ³" #GetTagVN
+ TAG_VN_ARW:0 "¦ep¨a¢³ Apa¢a¬o¢" #GetTagVN
+ TAG_VN_TID:0 "Tª¦ope" #GetTagVN
+ TAG_VN_TER:0 "Tep°a²e" #GetTagVN
+ TAG_VN_MGD:0 "Ma¥ª°¦a°ao" #GetTagVN
+ TAG_VN_LUW:0 "ˆ³¢³" #GetTagVN
+ TAG_VN_LNO:0 "ˆa°ao" #GetTagVN
+ TAG_VN_LFA:0 "ˆa°»´a°" #GetTagVN
+ TAG_VN_BNJ:0 "€a°¦¨ap" #GetTagVN
+ TAG_VN_KUT:0 "K³²a«" #GetTagVN
+ TAG_VN_BTN:0 "€³²o°" #GetTagVN
+ TAG_VN_CMI:0 "M÷o" #GetTagVN
+ TAG_VN_CYI:0 "ˆo®o" #GetTagVN
+ TAG_VN_CDL:0 "ƒa®ª" #GetTagVN
+ TAG_VN_CHH:0 "“axap" #GetTagVN
+ TAG_VN_NDO:0 "H¦o°¥o" #GetTagVN
+ TAG_VN_ANU:0 "¦ep¨a¢³ A«°o¢" #GetTagVN
+ TAG_VN_BAR:0 "€ap" #GetTagVN
+ TAG_VN_HSA:0 "ˆ¾ e¬" #GetTagVN
+ TAG_VN_SMO:0 "C¯o®e°c¬" #GetTagVN
+ TAG_VN_MUR:0 "M³po¯" #GetTagVN
+ TAG_VN_NZH:0 "Hª¨°ª« Ho¢¥opo¦" #GetTagVN
+ TAG_VN_VLA:0 "B®a¦ª¯ªp" #GetTagVN
+ TAG_VN_LAU:0 "Ca¬ce°-ˆa³¼° ³p¥" #GetTagVN
+ TAG_VN_AAC:0 "Axe°" #GetTagVN
+ TAG_VN_ALE:0 "A®a°co°" #GetTagVN
+ TAG_VN_AUG:0 "A³¥c ³p¥" #GetTagVN
+ TAG_VN_ULM:0 "‹®»¯" #GetTagVN
+ TAG_VN_FUJ:0 "‘³¦©ª¢ap³" #GetTagVN
+ TAG_VN_TAC:0 "Ta²ª a°³" #GetTagVN
+ TAG_VN_MSA:0 "Ma®a«¾" #GetTagVN
+ TAG_VN_HIN:0 "†°¦oc²a°" #GetTagVN
+ TAG_VN_BHA:0 "€xapa²" #GetTagVN
+ TAG_VN_CAM:1 "Coe¦ª°e°°ºe ±po¢ª°µªª A¯epª¬ª" #GetTagVN
+ TAG_VN_DNZ:0 "ƒa°µª¥" #GetTagVN
+ TAG_VN_ETR:0 "™²p³pª¾" #GetTagVN
+ TAG_VN_FRN:0 "‘pa°¬´³p²" #GetTagVN
+ TAG_VN_HAT:0 "‚aª²ª" #GetTagVN
+ TAG_VN_IRQ:0 "†pa¬" #GetTagVN
+ TAG_VN_KHO:0 "Xopaca°" #GetTagVN
+ TAG_VN_KRA:0 "Kpa¬o¢" #GetTagVN
+ TAG_VN_LIV:0 "ˆª¢o°c¬ª« op¦e°" #GetTagVN
+ TAG_VN_NAP:0 "Hea±o®»" #GetTagVN
+ TAG_VN_PRG:0 "‰apa¥¢a«" #GetTagVN
+ TAG_VN_QIN:0 "’ª°»" #GetTagVN
+ TAG_VN_RFR:0 "Ha¯ ³" #GetTagVN
+ TAG_VN_SOK:0 "Co¬o²o" #GetTagVN
+ TAG_VN_SPI:0 "Cap¦ª°ª¾-‰»e¯o°²" #GetTagVN
+ TAG_VN_SYR:0 "Cªpª¾" #GetTagVN
+ TAG_VN_VNZ:0 "Be°ec³¼®³" #GetTagVN
+ TAG_VN_WES:0 "Bec²´a®ª¾" #GetTagVN
+ TAG_VN_WUU:0 "B³" #GetTagVN
+ TAG_VN_XIA:0 "C÷" #GetTagVN
+ TAG_VN_RMN:0 "P³¯º°ª¾" #GetTagVN
+ TAG_VN_AYD:0 "A«¦º°" #GetTagVN
+ TAG_VN_AQU:0 "A¬¢ª®e¾" #GetTagVN
+ TAG_VN_BYZ:0 "Bª©a°²ª¾" #GetTagVN
+ TAG_VN_MAJ:0 "Ma¦¨a±axª²" #GetTagVN
+ TAG_VN_MEI:0 "Me«ce°" #GetTagVN
+ TAG_VN_SUK:0 "C³¬xo²aª" #GetTagVN
+ TAG_VN_GAL:0 "‚a®ªcª¾" #GetTagVN
+ TAG_VN_PLT:0 "‰o®oµ¬" #GetTagVN
+ TAG_VN_SCA:0 "C¬a°¦ª°a¢ª¾" #GetTagVN
+ TAG_VN_ACH:0 "Axe¾" #GetTagVN
+ TAG_VN_KOJ:0 "†ep³ca®ª¯" #GetTagVN
+ TAG_VN_BER:0 "€eppª" #GetTagVN
+ TAG_VN_HLR:0 "C¢÷¸e°°³¾ Pª¯c¬³¾ ª¯±epª¾" #GetTagVN
+ TAG_VN_SRU:0 "Cap³xa°" #GetTagVN
+ TAG_VN_MEN:0 "Me°²e·e" #GetTagVN
+ TAG_VN_RAM:0 "Pa¯a©a°" #GetTagVN
+ TAG_VN_EPI:0 "™±ªp" #GetTagVN
+ TAG_VN_NSS:0 "H»¾-‰po¢ª¦e°c" #GetTagVN
+ TAG_VN_PRY:0 "‰op²-Po«a®" #GetTagVN
+ TAG_VN_LIB:0 "ˆª ep²a®ª¾" #GetTagVN
+ TAG_VN_TOR:0 "Top²³¥³" #GetTagVN
+ TAG_VN_MRK:0 "Mappa¬e·" #GetTagVN
+ TAG_VN_FRM:0 "ƒ³°°ª°" #GetTagVN
+ TAG_VN_SOO:0 "Co" #GetTagU
+ TAG_VN_SOL:0 "¦ep¨a¢³ Co®o°o¢" #GetTagVN
+ TAG_VN_NVK:0 "¦ep¨a¢³ Hª¢xo¢" #GetTagVN
+ TAG_VN_EJZ:0 "ƒ³°xa«" #GetTagVN
+ TAG_VN_NHX:0 "‹¦¼¥e" #GetTagVN
+ #Государства, отвечающие на вопрос "Сделано чем?"
+ TAG_TV_DYN:0 "¦ep¨a¢o« [Root.GetName]" #GetTagTV
+ TAG_TV_ADA:0 "A¦a®e¯" #GetTagTV
+ TAG_TV_ADE:0 "A¦e°o¯" #GetTagTV
+ TAG_TV_AKK:0 "A¬-Ko¾°®³" #GetTagTV
+ TAG_TV_ALB:0 "A® a°ªe«" #GetTagTV
+ TAG_TV_ALG:0 "A®¨ªpo¯" #GetTagTV
+ TAG_TV_ALH:0 "Xaco«" #GetTagTV
+ TAG_TV_ALS:0 "C²pac ³p¥o¯" #GetTagTV
+ TAG_TV_AMG:0 "Ap¯a°»÷¬o¯" #GetTagTV
+ TAG_TV_ANH:0 "A°¥a®»²o¯" #GetTagTV
+ TAG_TV_ANN:0 "A°°a¯o¯" #GetTagTV
+ TAG_TV_ANS:0 "A°c axo¯" #GetTagTV
+ TAG_TV_ARA:0 "Apa¥o°o¯" #GetTagTV
+ TAG_TV_ARK:0 "Apa¬a°o¯" #GetTagTV
+ TAG_TV_ARM:0 "Ap¯e°ªe«" #GetTagTV
+ TAG_TV_ASH:0 "A·a°²ª" #GetTagTV
+ TAG_TV_ASS:0 "Acca¯o¯" #GetTagTV
+ TAG_TV_AST:0 "Ac²paxa°»¾" #GetTagTV
+ TAG_TV_ATH:0 "A´ª°a¯ª" #GetTagTV
+ TAG_TV_ATJ:0 "A¶exo¯" #GetTagTV
+ TAG_TV_AUV:0 "O¢ep°»¾" #GetTagTV
+ TAG_TV_AVI:0 "A¢ª°»o°o¯" #GetTagTV
+ TAG_TV_AYU:0 "A¾²ªe«" #GetTagTV
+ TAG_TV_AZT:0 "Aµ²e¬a¯ª" #GetTagTV
+ TAG_TV_BAD:0 "€a¦e°o¯" #GetTagTV
+ TAG_TV_BLI:0 "€a®ª" #GetTagTV
+ TAG_TV_BAN:0 "€a°²e°o¯" #GetTagTV
+ TAG_TV_BAL:0 "€e®³¦¨ªc²a°o¯" #GetTagTV
+ TAG_TV_BAV:0 "€a¢apªe«" #GetTagTV
+ TAG_TV_BEI:0 "€p³°e«e¯" #GetTagTV
+ TAG_TV_BEN:0 "€e°ª°o¯" #GetTagTV
+ TAG_TV_BHU:0 "€³²a°o¯" #GetTagTV
+ TAG_TV_BIJ:0 "€ª¦¨a±³po¯" #GetTagTV
+ TAG_TV_BND:0 "€³°¦e®»xa°¦o¯" #GetTagTV
+ TAG_TV_BNG:0 "€e°¥a®ªe«" #GetTagTV
+ TAG_TV_BOH:0 "€o¥e¯ªe«" #GetTagTV
+ TAG_TV_BOS:0 "€oc°ªe«" #GetTagTV
+ TAG_TV_BOU:0 "€³p o°o¯" #GetTagTV
+ TAG_TV_BRA:0 "€pa°¦e° ³p¥o¯" #GetTagTV
+ TAG_TV_BRB:0 "€pa a°²o¯" #GetTagTV
+ TAG_TV_BRE:0 "€pe¯e°o¯" #GetTagTV
+ TAG_TV_BRI:0 "€pe²a°»¾" #GetTagTV
+ TAG_TV_BRR:0 "€epapo¯" #GetTagTV
+ TAG_TV_BRU:0 "€pa³°·¢e«¥o¯" #GetTagTV
+ TAG_TV_BRZ:0 "€pa©ª®ªe«" #GetTagTV
+ TAG_TV_BUL:0 "€o®¥apªe«" #GetTagTV
+ TAG_TV_BUR:0 "€³p¥³°¦ªe«" #GetTagTV
+ TAG_TV_CAN:0 "Ka°a¦o«" #GetTagTV
+ TAG_TV_CAS:0 "Kac²ª®ªe«" #GetTagTV
+ TAG_TV_CAT:0 "Ka²a®o°ªe«" #GetTagTV
+ TAG_TV_CEP:0 "Kop´³" #GetTagTV
+ TAG_TV_CHA:0 "T÷¯±³" #GetTagTV
+ TAG_TV_CHE:0 "“epo¬ª" #GetTagTV
+ TAG_TV_CHG:0 "“a¥a²ae¯" #GetTagTV
+ TAG_TV_CHK:0 "T÷¯±aca¬³" #GetTagTV
+ TAG_TV_CHL:0 "“ª®ª" #GetTagTV
+ TAG_TV_CHM:0 "“ª¯³" #GetTagTV
+ TAG_TV_CHP:0 "”a¯±a°»¾" #GetTagTV
+ TAG_TV_CND:0 "ƒ¨a°¦apo¯" #GetTagTV
+ TAG_TV_COL:0 "Ko®³¯ ªe«" #GetTagTV
+ TAG_TV_CNN:0 "K®a°pª¬ap¦o¯" #GetTagTV
+ TAG_TV_COR:0 "Kopcª¬o«" #GetTagTV
+ TAG_TV_CRE:0 "Kpª¬" #GetTagTV
+ TAG_TV_CRI:0 "Kpº¯o¯" #GetTagTV
+ TAG_TV_CRN:0 "Kop°³o®®o¯" #GetTagTV
+ TAG_TV_CRO:0 "Xop¢a²ªe«" #GetTagTV
+ TAG_TV_CRT:0 "Kpª²o¯" #GetTagTV
+ TAG_TV_CYP:0 "Kª±po¯" #GetTagTV
+ TAG_TV_DAI:0 "ƒa«¢»e²o¯" #GetTagTV
+ TAG_TV_DAN:0 "ƒa°ªe«" #GetTagTV
+ TAG_TV_DAU:0 "ƒo´ª°e" #GetTagTV
+ TAG_TV_DLH:0 "ƒe®ª" #GetTagTV
+ TAG_TV_DUL:0 "ƒ³®¬a¦ªpo¯" #GetTagTV
+ TAG_TV_DUR:0 "ƒ³ppa°ª" #GetTagTV
+ TAG_TV_ENG:0 "A°¥®ªe«" #GetTagTV
+ TAG_TV_ETH:0 "™´ªo±ªe«" #GetTagTV
+ TAG_TV_FER:0 "‘eppapo«" #GetTagTV
+ TAG_TV_FEZ:0 "‘eco¯" #GetTagTV
+ TAG_TV_FIN:0 "‘ª°®÷°¦ªe«" #GetTagTV
+ TAG_TV_FLA:0 "‘®a°¦pªe«" #GetTagTV
+ TAG_TV_FOI:0 "‘³a" #GetTagTV
+ TAG_TV_FRA:0 "‘pa°µªe«" #GetTagTV
+ TAG_TV_FRI:0 "‘pªc®a°¦ªe«" #GetTagTV
+ TAG_TV_GBR:0 "Be®ª¬o pª²a°ªe«" #GetTagTV
+ TAG_TV_GDW:1 "‚apxo«" #GetTagTV
+ TAG_TV_GEL:0 "‚e®»¦ep°o¯" #GetTagTV
+ TAG_TV_GEN:0 "‚e°³e«" #GetTagTV
+ TAG_TV_GEO:0 "‚p³©ªe«" #GetTagTV
+ TAG_TV_GER:0 "‚ep¯a°ªe«" #GetTagTV
+ TAG_TV_GOL:0 "€o®»·o« Op¦o«" #GetTagTV
+ TAG_TV_GOT:0 "‚o²®a°¦o¯" #GetTagTV
+ TAG_TV_GRA:0 "‚pa°a¦o«" #GetTagTV
+ TAG_TV_GRE:0 "‚peµªe«" #GetTagTV
+ TAG_TV_GUJ:0 "‚³¦¨apa²o¯" #GetTagTV
+ TAG_TV_GUY:0 "‚ac¬o°»¾" #GetTagTV
+ TAG_TV_HAB:0 "A¢c²pªe«" #GetTagTV
+ TAG_TV_HAI:0 "‚e°°e¥a³" #GetTagTV
+ TAG_TV_HAM:0 "‚a¯ ³p¥o¯" #GetTagTV
+ TAG_TV_HAN:0 "‚a°°o¢epo¯" #GetTagTV
+ TAG_TV_HAU:0 "Xa³co«" #GetTagTV
+ TAG_TV_HED:0 "Xª¦¨a©o¯" #GetTagTV
+ TAG_TV_HES:0 "‚ecce°o¯" #GetTagTV
+ TAG_TV_HOL:0 "‚o®®a°¦ªe«" #GetTagTV
+ TAG_TV_HUN:0 "Be°¥pªe«" #GetTagTV
+ TAG_TV_HUR:0 "‚³po°a¯ª" #GetTagTV
+ TAG_TV_INC:0 "†°¬a¯ª" #GetTagTV
+ TAG_TV_IRE:0 "†p®a°¦ªe«" #GetTagTV
+ TAG_TV_IRO:0 "†po¬e©a¯ª" #GetTagTV
+ TAG_TV_ITA:0 "†²a®ªe«" #GetTagTV
+ TAG_TV_JAP:0 "×±o°ªe«" #GetTagTV
+ TAG_TV_KAR:0 "Kapa¯a°o¯" #GetTagTV
+ TAG_TV_KAZ:0 "Ka©a°»¾" #GetTagTV
+ TAG_TV_KBO:0 "€op°³" #GetTagTV
+ TAG_TV_KHA:0 "Mo°¥o®a¯ª" #GetTagTV
+ TAG_TV_KHD:0 "Xa°¦e·e¯" #GetTagTV
+ TAG_TV_KHI:0 "Xª¢o«" #GetTagTV
+ TAG_TV_KHM:0 "Kx¯epa¯ª" #GetTagTV
+ TAG_TV_KLE:0 "K®e¢e" #GetTagTV
+ TAG_TV_KNI:0 "‚oc±ª²a®»epa¯ª" #GetTagTV
+ TAG_TV_KOK:0 "‘ep¥a°o«" #GetTagTV
+ TAG_TV_KOL:0 "Kë®»°o¯" #GetTagTV
+ TAG_TV_KON:0 "Ko°¥o" #GetTagTV
+ TAG_TV_KOR:0 "Kopee«" #GetTagTV
+ TAG_TV_KRK:0 "Kap°a²ª¬o«" #GetTagTV
+ TAG_TV_KSH:0 "Ka·¯ªpo¯" #GetTagTV
+ TAG_TV_KUR:0 "K³p®÷°¦ªe«" #GetTagTV
+ TAG_TV_KZH:0 "Ka©axa¯ª" #GetTagTV
+ TAG_TV_LAN:0 "‘®ope°µªe«" #GetTagTV
+ TAG_TV_LAP:0 "ˆa-‰®a²o«" #GetTagTV
+ TAG_TV_LEI:0 "ˆe°c²epo¯" #GetTagTV
+ TAG_TV_LIE:0 "ˆ»e¨e¯" #GetTagTV
+ TAG_TV_LIT:0 "ˆª²¢o«" #GetTagTV
+ TAG_TV_LNA:0 "ˆa°°o«" #GetTagTV
+ TAG_TV_LOA:0 "ˆoa°¥o" #GetTagTV
+ TAG_TV_LOR:0 "ˆo²apª°¥ªe«" #GetTagTV
+ TAG_TV_LOU:0 "ˆ³ª©ªa°o«" #GetTagTV
+ TAG_TV_LUA:0 "ˆ³a°¥±xa a°¥o¯" #GetTagTV
+ TAG_TV_LUN:0 "ˆ¾°e ³p¥o¯" #GetTagTV
+ TAG_TV_LUX:0 "ˆ¾¬ce¯ ³p¥o¯" #GetTagTV
+ TAG_TV_LXA:0 "ˆa°ca°¥o¯" #GetTagTV
+ TAG_TV_MAD:0 "Ma¦³pa«e¯" #GetTagTV
+ TAG_TV_MAG:0 "Ma¥¦e ³p¥o¯" #GetTagTV
+ TAG_TV_MAI:0 "Ma«°µe¯" #GetTagTV
+ TAG_TV_MAL:0 "Ma®ª" #GetTagTV
+ TAG_TV_MAM:0 "Ma¯®¾¬a¯ª" #GetTagTV
+ TAG_TV_MAN:0 "Ma°²³e«" #GetTagTV
+ TAG_TV_MAY:0 "Ma«÷" #GetTagTV
+ TAG_TV_MAZ:0 "Ma©o¢ªe«" #GetTagTV
+ TAG_TV_MCH:0 "Ma°»¶¨³pªe«" #GetTagTV
+ TAG_TV_MEX:0 "Me¬cª¬o«" #GetTagTV
+ TAG_TV_MKL:0 "Me¬®e° ³p¥o¯" #GetTagTV
+ TAG_TV_MKS:0 "Ma¬acapo¯" #GetTagTV
+ TAG_TV_MLC:0 "Ma®a¬¬o«" #GetTagTV
+ TAG_TV_MLO:0 "Mª®a°o¯" #GetTagTV
+ TAG_TV_MLW:0 "Ma®»¢o«" #GetTagTV
+ TAG_TV_MNG:0 "Mª°o¯" #GetTagTV
+ TAG_TV_MNS:0 "To¯o°¦o¯" #GetTagTV
+ TAG_TV_MOD:0 "Mo¦e°o«" #GetTagTV
+ TAG_TV_MOE:0 "Mopee«" #GetTagTV
+ TAG_TV_MOL:0 "Mo®¦a¢ªe«" #GetTagTV
+ TAG_TV_MON:0 "“ep°o¥opªe«" #GetTagTV
+ TAG_TV_MOR:0 "Mapo¬¬o" #GetTagTV
+ TAG_TV_MOS:0 "Moc¬¢o«" #GetTagTV
+ TAG_TV_MTR:0 "Ma²apa¯o«" #GetTagTV
+ TAG_TV_MUG:0 "Be®ª¬ª¯ª Mo¥o®a¯ª" #GetTagTV
+ TAG_TV_MUN:0 "M¾°c²epo¯" #GetTagTV
+ TAG_TV_MYS:0 "Ma«c³po¯" #GetTagTV
+ TAG_TV_NAJ:0 "He¦¨¦o¯" #GetTagTV
+ TAG_TV_NAV:0 "Ha¢appo«" #GetTagTV
+ TAG_TV_NAX:0 "Ha¬coco¯" #GetTagTV
+ TAG_TV_NED:0 "Hª¦ep®a°¦a¯ª" #GetTagTV
+ TAG_TV_NEV:0 "He¢epo¯" #GetTagTV
+ TAG_TV_NOG:0 "Ho¥a«µa¯ª" #GetTagTV
+ TAG_TV_NOL:0 "Hop²³¯ pªe«" #GetTagTV
+ TAG_TV_NOR:0 "Hop¢e¥ªe«" #GetTagTV
+ TAG_TV_NOV:0 "Ho¢¥opo¦o¯" #GetTagTV
+ TAG_TV_NPL:0 "He±a®o¯" #GetTagTV
+ TAG_TV_NRM:0 "Hop¯a°¦ªe«" #GetTagTV
+ TAG_TV_NUB:0 "Ce°°apo¯" #GetTagTV
+ TAG_TV_ODH:0 "A¢a¦xo¯" #GetTagTV
+ TAG_TV_OIR:0 "O«pa²a¯ª" #GetTagTV
+ TAG_TV_OLD:0 "O®»¦e° ³p¥o¯" #GetTagTV
+ TAG_TV_OMA:0 "O¯a°o¯" #GetTagTV
+ TAG_TV_ORI:0 "Opªcco«" #GetTagTV
+ TAG_TV_ORL:0 "Op®ea°o¯" #GetTagTV
+ TAG_TV_OYO:0 "O«o" #GetTagTV
+ TAG_TV_PAL:0 "‰´a®»µe¯" #GetTagTV
+ TAG_TV_PAP:0 "‰a±c¬o« o ®ac²»¾" #GetTagTV
+ TAG_TV_PAR:0 "‰ap¯o«" #GetTagTV
+ TAG_TV_PAT:0 "‰a²²a°ª" #GetTagTV
+ TAG_TV_PEG:0 "‰e¥³" #GetTagTV
+ TAG_TV_PER:0 "‰epcªe«" #GetTagTV
+ TAG_TV_PEU:0 "‰ep³" #GetTagTV
+ TAG_TV_PIC:0 "‰ª¬ap¦ªe«" #GetTagTV
+ TAG_TV_PIS:0 "‰ª©o«" #GetTagTV
+ TAG_TV_POL:0 "‰o®»·o«" #GetTagTV
+ TAG_TV_POM:0 "‰o¯epa°ªe«" #GetTagTV
+ TAG_TV_POR:0 "‰op²³¥a®ªe«" #GetTagTV
+ TAG_TV_PRO:0 "‰po¢a°co¯" #GetTagTV
+ TAG_TV_PRU:0 "‰p³ccªe«" #GetTagTV
+ TAG_TV_PSK:0 "‰c¬o¢o¯" #GetTagTV
+ TAG_TV_PUN:0 "‰e°¦¨a o¯" #GetTagTV
+ TAG_TV_QAR:0 "Kapa-Ko¾°®³" #GetTagTV
+ TAG_TV_QAS:0 "Kacª¯o¢º¯" #GetTagTV
+ TAG_TV_QUE:0 "K¢e e¬o¯" #GetTagTV
+ TAG_TV_RAG:0 "Pa¥³©o«" #GetTagTV
+ TAG_TV_RAJ:0 "Pa¦¨±³²a°o«" #GetTagTV
+ TAG_TV_REB:0 "±o¢c²a°µa¯ª" #GetTagTV
+ TAG_TV_RIG:0 "Pª¥o«" #GetTagTV
+ TAG_TV_RUS:0 "Poccªe«" #GetTagTV
+ TAG_TV_RYA:0 "P÷©a°»¾" #GetTagTV
+ TAG_TV_RYU:0 "P¾¬¾" #GetTagTV
+ TAG_TV_SAR:0 "Cap¦ª°ªe«" #GetTagTV
+ TAG_TV_SAV:0 "Ca¢o«e«" #GetTagTV
+ TAG_TV_SAX:0 "Ca¬co°ªe«" #GetTagTV
+ TAG_TV_SCO:0 "”o²®a°¦ªe«" #GetTagTV
+ TAG_TV_SER:0 "Cep ªe«" #GetTagTV
+ TAG_TV_SHA:0 "”a³°ª" #GetTagTV
+ TAG_TV_SHL:0 "‚o®»·²e«°o¯" #GetTagTV
+ TAG_TV_SHR:0 "”ap¦¨ª" #GetTagTV
+ TAG_TV_SHY:0 "‹© e¬a¯ª" #GetTagTV
+ TAG_TV_SIB:0 "Cª ªp»¾" #GetTagTV
+ TAG_TV_SIC:0 "Cªµª®ªe«" #GetTagTV
+ TAG_TV_SIE:0 "Cªe°o«" #GetTagTV
+ TAG_TV_SIL:0 "Cª®e©ªe«" #GetTagTV
+ TAG_TV_SLZ:0 "…a®»µ ³p¥o¯" #GetTagTV
+ TAG_TV_SND:1 "Cª°¦o¯" #GetTagTV
+ TAG_TV_SOF:0 "Ce¥³" #GetTagTV
+ TAG_TV_SON:0 "Co°¥a«e¯" #GetTagTV
+ TAG_TV_SPA:0 "†c±a°ªe«" #GetTagTV
+ TAG_TV_SST:0 "”a°o¯" #GetTagTV
+ TAG_TV_STY:0 "”²ªpªe«" #GetTagTV
+ TAG_TV_SUL:0 "C³®³" #GetTagTV
+ TAG_TV_SWE:0 "”¢eµªe«" #GetTagTV
+ TAG_TV_SWI:0 "”¢e«µapªe«" #GetTagTV
+ TAG_TV_TAU:0 "Ta³°¥³" #GetTagTV
+ TAG_TV_TEU:0 "Te¢²o°c¬ª¯ op¦e°o¯" #GetTagTV
+ TAG_TV_THU:0 "T¾pª°¥ªe«" #GetTagTV
+ TAG_TV_TIB:0 "Tª e²o¯" #GetTagTV
+ TAG_TV_TIM:0 "Tª¯³pª¦a¯ª" #GetTagTV
+ TAG_TV_TIR:0 "Tªpo®»e¯" #GetTagTV
+ TAG_TV_TOK:0 "To°¬ª°o¯" #GetTagTV
+ TAG_TV_TOU:0 "T³®³©o«" #GetTagTV
+ TAG_TV_TRA:0 "Tpa°cª®»¢a°ªe«" #GetTagTV
+ TAG_TV_TRE:0 "Tpa±e©³°¦o¯" #GetTagTV
+ TAG_TV_TRI:0 "Tpªpo¯" #GetTagTV
+ TAG_TV_TRP:0 "Tpª±o®ª" #GetTagTV
+ TAG_TV_TRV:0 "Tpa¢a°¬opo¯" #GetTagTV
+ TAG_TV_TUN:0 "T³°ªco¯" #GetTagTV
+ TAG_TV_TUR:0 "Oc¯a°a¯ª" #GetTagTV
+ TAG_TV_TUS:0 "Toc¬a°o«" #GetTagTV
+ TAG_TV_TVE:0 "T¢ep»¾" #GetTagTV
+ TAG_TV_TYR:0 "Tªpo°o¯" #GetTagTV
+ TAG_TV_UKR:0 "P³cª°ªe«" #GetTagTV
+ TAG_TV_URB:0 "‹p ª°o" #GetTagTV
+ TAG_TV_USA:0 "Coe¦ª°ë°°º¯ª ”²a²a¯ª" #GetTagTV
+ TAG_TV_UTR:0 "‹²pex²o¯" #GetTagTV
+ TAG_TV_WAL:0 "Ba®axªe«" #GetTagTV
+ TAG_TV_WBG:0 "B¾pµ ³p¥o¯" #GetTagTV
+ TAG_TV_VEN:0 "Be°eµªe«" #GetTagTV
+ TAG_TV_VIE:0 "B»e°²»÷°o¯" #GetTagTV
+ TAG_TV_VIJ:0 "Bª¦¨a÷°a¥apo¯" #GetTagTV
+ TAG_TV_WLS:0 "‹¼®»co¯" #GetTagTV
+ TAG_TV_WUR:0 "B¾p²e¯ ep¥o¯" #GetTagTV
+ TAG_TV_YAR:0 "×poc®a¢®»e¯" #GetTagTV
+ TAG_TV_YOR:0 "A°¦xpo«" #GetTagTV
+ TAG_TV_ZAP:0 "Ca±o²e¬a¯ª" #GetTagTV
+ TAG_TV_ZAZ:0 "…a±opo¨c¬o« ce¶»¾" #GetTagTV
+ TAG_TV_ZIM:0 "Mo°o¯o²a±o«" #GetTagTV
+ TAG_TV_NIZ:0 "ƒe¢a-€e°¥a®o¯" #GetTagTV
+ TAG_TV_BAS:0 "Ax¯a¦°a¥apo¯" #GetTagTV
+ TAG_TV_NAT:0 "²³©e¯µa¯ª" #GetTagTV
+ TAG_TV_PIR:0 "¬a±epa¯ª" #GetTagTV
+ TAG_TV_AMA:0 "A¯a¥o" #GetTagTV
+ TAG_TV_ASA:0 "Aca¬³po«" #GetTagTV
+ TAG_TV_CSK:0 "Tëco¬a ¼" #GetTagTV
+ TAG_TV_DTE:0 "ƒa²¼" #GetTagTV
+ TAG_TV_HJO:0 "Xo¦©ë" #GetTagTV
+ TAG_TV_HSK:0 "Xoco¬a¢o«" #GetTagTV
+ TAG_TV_HTK:0 "Xa²a¬¼÷¯o«" #GetTagTV
+ TAG_TV_IKE:0 "†¬¼¦a" #GetTagTV
+ TAG_TV_IMG:0 "†¯a¥a¢o«" #GetTagTV
+ TAG_TV_MAE:0 "Ma¼¦a" #GetTagTV
+ TAG_TV_MRI:0 "Mopª" #GetTagTV
+ TAG_TV_ODA:0 "O¦o«" #GetTagTV
+ TAG_TV_OTM:0 "O²o¯o" #GetTagTV
+ TAG_TV_OUC:0 "O³²ª" #GetTagTV
+ TAG_TV_SBA:0 "Cª a" #GetTagTV
+ TAG_TV_SMZ:0 "Cª¯a¦©o«" #GetTagTV
+ TAG_TV_TKD:0 "Ta¬¼¦o«" #GetTagTV
+ TAG_TV_TKG:0 "To¬³¥a¢o«" #GetTagTV
+ TAG_TV_UES:0 "‹¼c³¥ª" #GetTagTV
+ TAG_TV_YMN:0 "×¯a°o«" #GetTagTV
+ TAG_TV_JNP:0 "ƒ¨a³°±³po¯" #GetTagTV
+ TAG_TV_MAW:0 "Map¢apo¯" #GetTagTV
+ TAG_TV_MER:0 "Me¢apo¯" #GetTagTV
+ TAG_TV_MUL:0 "M³®²a°o¯" #GetTagTV
+ TAG_TV_JAN:0 "ƒ¨a°¥®a¦e·o¯" #GetTagTV
+ TAG_TV_GRJ:0 "‚ap»÷²o¯" #GetTagTV
+ TAG_TV_GWA:0 "‚¢a®ªopo¯" #GetTagTV
+ TAG_TV_DHU:0 "ƒx³°¦xapo¯" #GetTagTV
+ TAG_TV_KLN:0 "Ke®a¦ª" #GetTagTV
+ TAG_TV_MAB:1 "Ka®ª¬³²o¯" #GetTagTV
+ TAG_TV_MEW:0 "Me¢a²o¯" #GetTagTV
+ TAG_TV_BST:0 "€ac²apo¯" #GetTagTV
+ TAG_TV_JSL:0 "ƒ¨a«ca®¯epo¯" #GetTagTV
+ TAG_TV_KAC:0 "Ka¶apo¯" #GetTagTV
+ TAG_TV_KMT:0 "K³¶e¯" #GetTagTV
+ TAG_TV_KGR:0 "Ka°¥po«" #GetTagTV
+ TAG_TV_KAT:1 "Ka¶e¯" #GetTagTV
+ TAG_TV_KOC:0 "Ko¶¶ª" #GetTagTV
+ TAG_TV_AHM:0 "A³pe°¥a a¦o¯" #GetTagTV
+ TAG_TV_BAH:0 "€ax¯a°ª" #GetTagTV
+ TAG_TV_NAG:0 "Ha¥±³po¯" #GetTagTV
+ TAG_TV_BDA:0 "€apo¦o«" #GetTagTV
+ TAG_TV_GOC:0 "‚o®¬o°¦o«" #GetTagTV
+ TAG_TV_MAR:0 "Mapa²xa¯ª" #GetTagTV
+ TAG_TV_VND:0 "Be°a¦o¯" #GetTagTV
+ TAG_TV_DEC:0 "ƒe¬a°o¯" #GetTagTV
+ TAG_TV_CZH:0 "“¨o³" #GetTagTV
+ TAG_TV_CSH:0 "”³°»" #GetTagTV
+ TAG_TV_CXI:0 "Cª" #GetTagTV
+ TAG_TV_JOL:0 "ƒ¨o®o´o¯" #GetTagTV
+ TAG_TV_PLC:0 "Pe¶»¾ ‰oc±o®ª²o«" #GetTagTV
+ TAG_TV_PRM:0 "‰ep¯»¾" #GetTagTV
+ TAG_TV_CEY:1 "Ko²²e" #GetTagTV
+ TAG_TV_AFG:0 "A´¥a°ªc²a°o¯" #GetTagTV
+ TAG_TV_QNG:0 "’ª°" #GetTagTV
+ TAG_TV_ABE:0 "A e°a¬a¯ª" #GetTagTV
+ TAG_TV_APA:0 "A±a¶ª" #GetTagTV
+ TAG_TV_ASI:0 "Accª°ª o«°a¯ª" #GetTagTV
+ TAG_TV_BLA:0 "“ep°o°o¥ª¯ª" #GetTagTV
+ TAG_TV_CAD:0 "K¼¦¦o" #GetTagTV
+ TAG_TV_CHI:0 "“ª¬aco" #GetTagTV
+ TAG_TV_CHO:0 "“o¬²o" #GetTagTV
+ TAG_TV_CHY:0 "”a«e°°a¯ª" #GetTagTV
+ TAG_TV_COM:0 "Ko¯a°¶ª" #GetTagTV
+ TAG_TV_FOX:0 "Mec¬¢o¬a¯ª" #GetTagTV
+ TAG_TV_ILL:0 "†®®ª°o«ca¯ª" #GetTagTV
+ TAG_TV_LEN:0 "ƒe®a¢apa¯ª" #GetTagTV
+ TAG_TV_MIK:0 "Mª¬¯a¬a¯ª" #GetTagTV
+ TAG_TV_MMI:0 "Ma«a¯ª" #GetTagTV
+ TAG_TV_MAH:0 "Mo¥ª¬a°a¯ª" #GetTagTV
+ TAG_TV_NAH:0 "Ha¢axo" #GetTagTV
+ TAG_TV_OJI:0 "O¦¨ª ¢e" #GetTagTV
+ TAG_TV_OSA:0 "Oce«¦¨a¯ª" #GetTagTV
+ TAG_TV_OTT:0 "O²²a¢o«" #GetTagTV
+ TAG_TV_PAW:0 "‰a³°ª" #GetTagTV
+ TAG_TV_PEQ:0 "‰e¬o²a¯ª" #GetTagTV
+ TAG_TV_PIM:0 "‰ª¯³" #GetTagTV
+ TAG_TV_POT:0 "‰o²a¢a²o¯ª" #GetTagTV
+ TAG_TV_POW:0 "‰o³xa²a°a¯ª" #GetTagTV
+ TAG_TV_PUE:0 "‰³¼ ®o" #GetTagTV
+ TAG_TV_SIO:0 "Cª³" #GetTagTV
+ TAG_TV_SHO:0 "”o·o°a¯ª" #GetTagTV
+ TAG_TV_SUS:0 "Cac¬³exa°°o¬a¯ª" #GetTagTV
+ TAG_TV_WCR:0 "Kpª" #GetTagTV
+ TAG_TV_ZAN:0 "Kª®¢o«" #GetTagTV
+ TAG_TV_AJU:0 "A¦¨³pa°o¯" #GetTagTV
+ TAG_TV_MBA:0 "Mo¯ aco«" #GetTagTV
+ TAG_TV_MDI:0 "Mo¥a¦ª·o" #GetTagTV
+ TAG_TV_MLI:0 "Ma®ª°¦ª" #GetTagTV
+ TAG_TV_SFA:0 "Co´a®o«" #GetTagTV
+ TAG_TV_EGY:0 "E¥ª±²o¯" #GetTagTV
+ TAG_TV_BUK:0 "€³xapo«" #GetTagTV
+ TAG_TV_BGA:0 "€a¥®a°o¯" #GetTagTV
+ TAG_TV_BGL:1 "€a¥e®xa°¦o¯" #GetTagTV
+ TAG_TV_CHD:0 "“a°¦o«" #GetTagTV
+ TAG_TV_CMP:0 "Pe¢³ Ka°²ª" #GetTagTV
+ TAG_TV_GHR:0 "‚apx¢a®o¯" #GetTagTV
+ TAG_TV_HAD:0 "Xa¦o²ª" #GetTagTV
+ TAG_TV_JAJ:0 "Xa ca°o¯" #GetTagTV
+ TAG_TV_JFN:0 "ƒ¨a´°o«" #GetTagTV
+ TAG_TV_LDK:0 "ˆa¦a¬xo¯" #GetTagTV
+ TAG_TV_MLB:0 "Ma°ª±³po¯" #GetTagTV
+ TAG_TV_NGA:0 "Ha¥a³po¯" #GetTagTV
+ TAG_TV_NGP:0 "ƒ¨ap¬xa°¦o¯" #GetTagTV
+ TAG_TV_PTA:0 "‰a²ªa®o«" #GetTagTV
+ TAG_TV_RMP:0 "Poxª®¬xa°¦o¯" #GetTagTV
+ TAG_TV_SDY:0 "Ca¦ªe«" #GetTagTV
+ TAG_TV_TPR:0 "Tpª±³po¯" #GetTagTV
+ TAG_TV_TRT:0 "Tªpx³²o¯" #GetTagTV
+ TAG_TV_CIR:0 "“ep¬ecªe«" #GetTagTV
+ TAG_TV_GAZ:0 "‚a©ª¬³¯³xo¯" #GetTagTV
+ TAG_TV_IME:0 "†¯epe²ªe«" #GetTagTV
+ TAG_TV_TAB:1 "Ma©a°¦apa°o¯" #GetTagTV
+ TAG_TV_MYR:0 "E¨¼°»¾" #GetTagTV
+ TAG_TV_MHX:0 "Xa«cª" #GetTagTV
+ TAG_TV_KRC:0 "Xop¶ª°a¯ª" #GetTagTV
+ TAG_TV_KLK:0 "Xa®xo«" #GetTagTV
+ TAG_TV_DGL:0 "Ma®»¦ª¢a¯ª" #GetTagTV
+ TAG_TV_HMI:0 "Kapa ƒe®o¯" #GetTagTV
+ TAG_TV_ZUN:0 "ƒ¨³°¥apo¯" #GetTagTV
+ TAG_TV_KAS:0 "×p¬e°¦o¯" #GetTagTV
+ TAG_TV_KSD:0 "Xo·³²a¯ª" #GetTagTV
+ TAG_TV_SYG:0 "Capº¥ ›¥³po¯" #GetTagTV
+ TAG_TV_UTS:1 "’a°¥o¯" #GetTagTV
+ TAG_TV_KAM:0 "Ka¯o¯" #GetTagTV
+ TAG_TV_GUG:0 "‚³¥e" #GetTagTV
+ TAG_TV_TMB:0 "Tª¯ ³¬²³" #GetTagTV
+ TAG_TV_AIR:0 "A¥a¦eco¯" #GetTagTV
+ TAG_TV_MSI:0 "Mocª" #GetTagTV
+ TAG_TV_KTS:0 "Kaµª°o«" #GetTagTV
+ TAG_TV_KAN:0 "Ka°o" #GetTagTV
+ TAG_TV_FUL:0 "‘³®o" #GetTagTV
+ TAG_TV_BON:0 "€o°o¯a°o¯" #GetTagTV
+ TAG_TV_DAH:0 "ƒa¥o¯ee«" #GetTagTV
+ TAG_TV_DGB:0 "ƒa¥o¯ o«" #GetTagTV
+ TAG_TV_JNN:0 "ƒ¨e°°e" #GetTagTV
+ TAG_TV_KBU:0 "‚a ³" #GetTagTV
+ TAG_TV_KNG:0 "‹a²²ap³" #GetTagTV
+ TAG_TV_NUP:0 "H³±e" #GetTagTV
+ TAG_TV_YAO:0 "×o" #GetTagTV
+ TAG_TV_YAT:0 "×²e°¥o«" #GetTagTV
+ TAG_TV_ZAF:0 "Maccª°o«" #GetTagTV
+ TAG_TV_ZZZ:0 "…apªe«" #GetTagTV
+ TAG_TV_ARD:0 "Ap¦a®a°o¯" #GetTagTV
+ TAG_TV_BHT:1 "Copa°o¯" #GetTagTV
+ TAG_TV_ERE:0 "™pe²°o«" #GetTagTV
+ TAG_TV_LEB:0 "ˆª¢a°o¯" #GetTagTV
+ TAG_TV_MAK:0 "M³¬³ppo«" #GetTagTV
+ TAG_TV_SHM:0 "”a¯¯apo¯" #GetTagTV
+ TAG_TV_ARB:0 "Apa¢ªe«" #GetTagTV
+ TAG_TV_GRM:0 "‚ep¯ª÷°o¯" #GetTagTV
+ TAG_TV_MPH:0 "M³a° ‰³a°o¯" #GetTagTV
+ TAG_TV_LIG:0 "ˆª¥opo¯" #GetTagTV
+ TAG_TV_JOH:0 "ƒ¨oxopo¯" #GetTagTV
+ TAG_TV_KED:0 "Ke¦axo¯" #GetTagTV
+ TAG_TV_PRK:0 "‰epa¬o¯" #GetTagTV
+ TAG_TV_HSE:0 "Xce°¢ª" #GetTagTV
+ TAG_TV_MYA:0 "Mo° ×°o¯" #GetTagTV
+ TAG_TV_AVA:0 "A¢o«" #GetTagTV
+ TAG_TV_FEO:0 "‘eo¦opo" #GetTagTV
+ TAG_TV_VOL:0 "Bo®º°»¾" #GetTagTV
+ TAG_TV_KIE:0 "Kªe¢o¯" #GetTagTV
+ TAG_TV_CHR:0 "“ep°ª¥o¢o¯" #GetTagTV
+ TAG_TV_CHU:0 "“³¬¶a¯ª" #GetTagTV
+ TAG_TV_HOD:0 "Xo¦º°µa¯ª" #GetTagTV
+ TAG_TV_CHV:0 "“a¢¶³¢e°a¯ª" #GetTagTV
+ TAG_TV_KMC:0 "Ka¯¶a¦a®a¯ª" #GetTagTV
+ TAG_TV_BRT:0 "€³p÷²a¯ª" #GetTagTV
+ TAG_TV_BSH:0 "€a·¬ªpªe«" #GetTagTV
+ TAG_TV_TLC:0 "T®e¯ce°o¯" #GetTagTV
+ TAG_TV_MZB:0 "M©a o¯" #GetTagTV
+ TAG_TV_TGT:0 "T³¥¥³p²o¯" #GetTagTV
+ TAG_TV_GHD:0 "ƒ¨epª¦o¯" #GetTagTV
+ TAG_TV_FZA:0 "‘³©©a°o¯" #GetTagTV
+ TAG_TV_KBA:0 "Ka ª®ªe«" #GetTagTV
+ TAG_TV_SOS:0 "C³co¯" #GetTagTV
+ TAG_TV_TFL:0 "Ta´ª®a®»²o¯" #GetTagTV
+ TAG_TV_ARP:0 "Apa±axo" #GetTagTV
+ TAG_TV_CNK:0 "”ª°³¬o¯" #GetTagTV
+ TAG_TV_COC:0 "Ko¬o¯a¯ª" #GetTagTV
+ TAG_TV_XIU:0 "”¬ª±¶e" #GetTagTV
+ TAG_TV_HDA:0 "Xa«¦³" #GetTagTV
+ TAG_TV_ITZ:0 "†µo«" #GetTagTV
+ TAG_TV_KIC:0 "Kª¶e" #GetTagTV
+ TAG_TV_KIO:0 "Ka«o¢o«" #GetTagTV
+ TAG_TV_MIX:0 "Mª·²e¬a¯ª" #GetTagTV
+ TAG_TV_SAL:0 "Ca®ª·ª" #GetTagTV
+ TAG_TV_TAR:0 "Tapac¬o" #GetTagTV
+ TAG_TV_TLA:0 "T®a¬o±a°o¯" #GetTagTV
+ TAG_TV_TLX:0 "T®a·¬a®o«" #GetTagTV
+ TAG_TV_TOT:0 "To²o°a¬a¯ª" #GetTagTV
+ TAG_TV_WIC:0 "‹ª¶ª²o" #GetTagTV
+ TAG_TV_CLM:0 "Ko®ª¯o«" #GetTagTV
+ TAG_TV_BLM:0 "€®a¯ a°¥a°o¯" #GetTagTV
+ TAG_TV_CRB:0 "“ªpe o°o¯" #GetTagTV
+ TAG_TV_DMK:0 "ƒe¯a¬o¯" #GetTagTV
+ TAG_TV_PGR:0 "‰a¥ap³¾°¥o¯" #GetTagTV
+ TAG_TV_PLB:0 "‰a®e¯ a°¥o¯" #GetTagTV
+ TAG_TV_PSA:0 "‰aca«e¯" #GetTagTV
+ TAG_TV_SAK:0 "Cªa¬o¯" #GetTagTV
+ TAG_TV_SUN:0 "C³°¦o«" #GetTagTV
+ TAG_TV_MJZ:0 "’©÷°»¶¨o³" #GetTagTV
+ TAG_TV_SRV:0 "”ªp¢a°o¯" #GetTagTV
+ TAG_TV_MIN:0 "Mª°»" #GetTagTV
+ TAG_TV_YUE:0 "›¼" #GetTagTV
+ TAG_TV_SHU:0 "”³" #GetTagTV
+ TAG_TV_NNG:0 "Hª°c÷" #GetTagTV
+ TAG_TV_CHC:0 "“³" #GetTagTV
+ TAG_TV_TNG:0 "Ta°" #GetTagTV
+ TAG_TV_QIC:0 "’ª" #GetTagTV
+ TAG_TV_YAN:0 "×°»" #GetTagTV
+ TAG_TV_JIN:0 "’©ª°»" #GetTagTV
+ TAG_TV_LNG:0 "ˆ÷°" #GetTagTV
+ TAG_TV_HUA:0 "X³a«xe" #GetTagTV
+ TAG_TV_CGS:0 "“a°·¼°" #GetTagTV
+ TAG_TV_CAB:0 "Kapª a¯ª" #GetTagTV
+ TAG_TV_LON:0 "ˆeo°o¯" #GetTagTV
+ TAG_TV_ICM:0 "†¶¯o«" #GetTagTV
+ TAG_TV_NUM:0 "H¾p° ep¥o¯" #GetTagTV
+ TAG_TV_AUS:0 "A¢c²pa®ªe«" #GetTagTV
+ TAG_TV_BTI:0 "Cº¯e°o¯" #GetTagTV
+ TAG_TV_MTH:0 "Mª²o¯" #GetTagTV
+ TAG_TV_ADU:0 "A°¦a®³cªe«" #GetTagTV
+ TAG_TV_MEM:0 "Me¯¯ª°¥e°o¯" #GetTagTV
+ TAG_TV_VER:0 "‘ep¦e°o¯" #GetTagTV
+ TAG_TV_NSA:0 "Hacca³" #GetTagTV
+ TAG_TV_RVA:0 "ƒop²¯³°¦o¯" #GetTagTV
+ TAG_TV_MFA:0 "Mo°´eppa²o¯" #GetTagTV
+ TAG_TV_LUC:0 "ˆ³¬¬o«" #GetTagTV
+ TAG_TV_LVA:0 "ˆª¢o°ªe«" #GetTagTV
+ TAG_TV_EST:0 "™c²o°ªe«" #GetTagTV
+ TAG_TV_SMI:0 "ˆa±®a°¦ªe«" #GetTagTV
+ TAG_TV_ORM:0 "Op¯³©o¯" #GetTagTV
+ TAG_TV_KRL:0 "Kape®ªe«" #GetTagTV
+ TAG_TV_JAI:0 "Ma®»²o«" #GetTagTV
+ TAG_TV_KUB:0 "K³ o«" #GetTagTV
+ TAG_TV_KLD:0 "Ka®³°¦¢e" #GetTagTV
+ TAG_TV_YAK:0 "×¬ª" #GetTagTV
+ TAG_TV_KZB:0 "Ka©e¯ e" #GetTagTV
+ TAG_TV_KIK:0 "Kª¬o°¨ª" #GetTagTV
+ TAG_TV_CKW:0 "“o¬¢e" #GetTagTV
+ TAG_TV_LND:0 "ˆ³°¦o«" #GetTagTV
+ TAG_TV_LUB:0 "ˆ³ o«" #GetTagTV
+ TAG_TV_KSJ:0 "Kaca°¦¨ª" #GetTagTV
+ TAG_TV_SYO:0 "Co«o" #GetTagTV
+ TAG_TV_TYO:0 "To«o" #GetTagTV
+ TAG_TV_BSG:0 "€³co¥ª" #GetTagTV
+ TAG_TV_BNY:0 "€³°»opo" #GetTagTV
+ TAG_TV_KRW:0 "Kapa¥¢e" #GetTagTV
+ TAG_TV_BUG:0 "€³¥a°¦o«" #GetTagTV
+ TAG_TV_RWA:0 "P³a°¦o«" #GetTagTV
+ TAG_TV_NKO:0 "H»÷°¬o®e" #GetTagTV
+ TAG_TV_BUU:0 "€³p³°¦ª" #GetTagTV
+ TAG_TV_UBH:0 "€³xe" #GetTagTV
+ TAG_TV_MRA:0 "Mapa¢ª" #GetTagTV
+ TAG_TV_LDU:0 "ˆ³°¦³" #GetTagTV
+ TAG_TV_TBK:0 "T³¯ ³¬ª" #GetTagTV
+ TAG_TV_MKU:0 "Ma¬³a" #GetTagTV
+ TAG_TV_RZW:0 "€³²³a" #GetTagTV
+ TAG_TV_MIR:0 "†¯epª°o«" #GetTagTV
+ TAG_TV_ANT:0 "A°²e¯opo" #GetTagTV
+ TAG_TV_SKA:0 "Ca¬a®a¢o«" #GetTagTV
+ TAG_TV_MFY:0 "Maxa´a®ª" #GetTagTV
+ TAG_TV_BTS:0 "€eµª¯apa¬ª" #GetTagTV
+ TAG_TV_ULS:0 "O®»c²epo¯" #GetTagTV
+ TAG_TV_DMS:0 "ƒec¯o°¦o¯" #GetTagTV
+ TAG_TV_ORD:0 "Op¯o°¦o¯" #GetTagTV
+ TAG_TV_KID:0 "Kª®¦¼pe¯" #GetTagTV
+ TAG_TV_MCM:0 "Ma°c²epo¯" #GetTagTV
+ TAG_TV_FLY:0 "O´´a®ª" #GetTagTV
+ TAG_TV_TRY:0 "Tªp¬o°e®o¯" #GetTagTV
+ TAG_TV_SLN:0 "C®a«¥o" #GetTagTV
+ TAG_TV_OKA:0 "O¦oe¢º¯" #GetTagTV
+ TAG_TV_ICE:0 "†c®a°¦ªe«" #GetTagTV
+ TAG_TV_SLO:0 "Hª²po«" #GetTagTV
+ TAG_TV_HSC:0 "‚¼®¦o¯o¯" #GetTagTV
+ TAG_TV_ROM:0 "Pª¯c¬o« ª¯±epªe«" #GetTagTV
+ TAG_TV_DTT:0 "ƒª²¯ap·e°e¯" #GetTagTV
+ TAG_TV_GLH:0 "…o®o²o« Op¦o«" #GetTagTV
+ TAG_TV_BEJ:0 "€e¦¨o«" #GetTagTV
+ TAG_TV_JIM:0 "ƒ¨ª¯¯o«" #GetTagTV
+ TAG_TV_WLY:0 "Bo®a«²o«" #GetTagTV
+ TAG_TV_DAM:0 "ƒa¯o²o¯" #GetTagTV
+ TAG_TV_HDY:0 "Xa¦ªe«" #GetTagTV
+ TAG_TV_SOA:0 "”oa" #GetTagTV
+ TAG_TV_JJI:0 "ƒ¨a°¦¨ªpo" #GetTagTV
+ TAG_TV_ENA:0 "™°°apo¯" #GetTagTV
+ TAG_TV_ABB:0 "ƒo°¥o®o«" #GetTagTV
+ TAG_TV_AKM:0 "A¬a¯aµ³" #GetTagTV
+ TAG_TV_AKT:0 "A°¦o" #GetTagTV
+ TAG_TV_CBA:0 "Tª o«" #GetTagTV
+ TAG_TV_ISK:0 "†ccª¬ª" #GetTagTV
+ TAG_TV_ITO:0 "†²o" #GetTagTV
+ TAG_TV_KKC:0 "Kª¬³²ª" #GetTagTV
+ TAG_TV_KNO:0 "Ko°o" #GetTagTV
+ TAG_TV_OGS:0 "O¥aca¢apo«" #GetTagTV
+ TAG_TV_SHN:0 "Cë°ª" #GetTagTV
+ TAG_TV_STK:0 "Ca²a¬¼" #GetTagTV
+ TAG_TV_TKI:0 "To¬ª" #GetTagTV
+ TAG_TV_UTN:0 "‹µ³°o¯ªª" #GetTagTV
+ TAG_TV_TTI:0 "’³µ³ª" #GetTagTV
+ TAG_TV_ASK:0 "Acª¬a¥o«" #GetTagTV
+ TAG_TV_MVA:0 "Mopa¢ªe«" #GetTagTV
+ TAG_TV_YUA:0 "›a°e¯" #GetTagTV
+ TAG_TV_BLO:0 "€e®oo©epo¯" #GetTagTV
+ TAG_TV_RSO:0 "Poc²o¢o¯" #GetTagTV
+ TAG_TV_MHR:0 "Maxpo«" #GetTagTV
+ TAG_TV_HDR:0 "Xa¦pa¯a³²o«" #GetTagTV
+ TAG_TV_MDA:0 "Me¦ª°o«" #GetTagTV
+ TAG_TV_ANZ:0 "A°a©o«" #GetTagTV
+ TAG_TV_FAD:0 "‘a¦®e¯" #GetTagTV
+ TAG_TV_YAS:0 "×co¯" #GetTagTV
+ TAG_TV_RAS:1 "Paccª¦a¯ª" #GetTagTV
+ TAG_TV_YEM:0 "‡e¯e°o¯" #GetTagTV
+ TAG_TV_DAW:0 "ƒa¢acªpo¯" #GetTagTV
+ TAG_TV_MFL:0 "Mª¬®a´o¯" #GetTagTV
+ TAG_TV_NJR:0 "Ha¦¨pa°o¯" #GetTagTV
+ TAG_TV_HSN:0 "Xaca°¬e«´o¯" #GetTagTV
+ TAG_TV_BTL:0 "€ª²®ªco¯" #GetTagTV
+ TAG_TV_AVR:0 "A¢apªe«" #GetTagTV
+ TAG_TV_MLK:0 "Kapa axo¯" #GetTagTV
+ TAG_TV_SME:0 "Ca¯µxe" #GetTagTV
+ TAG_TV_ARL:0 "Ap¦e ª®e¯" #GetTagTV
+ TAG_TV_MSY:0 "M³·a·o«" #GetTagTV
+ TAG_TV_RUM:0 "P³¯o¯" #GetTagTV
+ TAG_TV_KRY:0 "‚ª®÷°o¯" #GetTagTV
+ TAG_TV_LRI:0 "ˆ³pªc²a°o¯" #GetTagTV
+ TAG_TV_SIS:0 "Cªc²a°o¯" #GetTagTV
+ TAG_TV_BPI:0 "€ª÷x-‰aco¯" #GetTagTV
+ TAG_TV_FRS:0 "‘apco¯" #GetTagTV
+ TAG_TV_KRM:0 "Kep¯a°o¯" #GetTagTV
+ TAG_TV_YZD:0 "×©¦o¯" #GetTagTV
+ TAG_TV_ISF:0 "†c´axa°o¯" #GetTagTV
+ TAG_TV_TBR:0 "Te pª©o¯" #GetTagTV
+ TAG_TV_BSR:0 "€acpo«" #GetTagTV
+ TAG_TV_MGR:0 "Mapa¥exo¯" #GetTagTV
+ TAG_TV_QOM:0 "A¦¨a¯o¯" #GetTagTV
+ TAG_TV_TRS:0 "Tpa°co¬ca°ªe«" #GetTagTV
+ TAG_TV_MAS:0 "Ma¦»÷co¯" #GetTagTV
+ TAG_TV_PGS:0 "‰a°¥acª°a°o¯" #GetTagTV
+ TAG_TV_TDO:0 "To°¦o" #GetTagTV
+ TAG_TV_MNA:0 "Ma°ª®o«" #GetTagTV
+ TAG_TV_CEB:0 "Ce ³" #GetTagTV
+ TAG_TV_BTU:0 "€³²³a°o¯" #GetTagTV
+ TAG_TV_KTB:0 "Kª²a a²a¬¼" #GetTagTV
+ TAG_TV_KOI:0 "Ma°°o¯" #GetTagTV
+ TAG_TV_LOI:0 "Kopo®e¢c²¢o¯ Oc²po¢o¢" #GetTagTV
+ TAG_TV_MMA:0 "Mo°¥ Mao" #GetTagTV
+ TAG_TV_MKA:0 "Mo°¥ Ka³°" #GetTagTV
+ TAG_TV_MPA:0 "Mo°¥ ‰a«" #GetTagTV
+ TAG_TV_KAL:0 "Ka®e" #GetTagTV
+ TAG_TV_HSI:0 "X©ª±o" #GetTagTV
+ TAG_TV_BPR:0 "‰»ª" #GetTagTV
+ TAG_TV_MNI:0 "Mo°¥ Ha«" #GetTagTV
+ TAG_TV_MBL:0 "Bª·°³±³po¯" #GetTagTV
+ TAG_TV_SKK:0 "Cª¬¬ª¯o¯" #GetTagTV
+ TAG_TV_IDR:0 "A«¦apo¯" #GetTagTV
+ TAG_TV_NVR:0 "Ha¢a°a¥apo¯" #GetTagTV
+ TAG_TV_JLV:0 "ƒ¨xa®a¢apo¯" #GetTagTV
+ TAG_TV_PTL:0 "‰a®ª²a°o«" #GetTagTV
+ TAG_TV_RJK:0 "Pa¦¨¬o²o¯" #GetTagTV
+ TAG_TV_JGD:0 "ƒ¨³°a¥a¦xo¯" #GetTagTV
+ TAG_TV_PRB:0 "‰op a°¦apo¯" #GetTagTV
+ TAG_TV_PAN:0 "Ka®ª°¦¨apo¯" #GetTagTV
+ TAG_TV_KLP:0 "Ka®±ª" #GetTagTV
+ TAG_TV_SBP:0 "Ca¯ a®±³po¯" #GetTagTV
+ TAG_TV_PTT:0 "‰a²°o«" #GetTagTV
+ TAG_TV_JPR:0 "ƒ¨a«±³po¯" #GetTagTV
+ TAG_TV_PRD:0 "‰apa®a¬xe¯³°¦ª" #GetTagTV
+ TAG_TV_KJH:0 "Ke°¦³¦¨xapo«" #GetTagTV
+ TAG_TV_KLH:0 "Ka®axa°¦ª" #GetTagTV
+ TAG_TV_RTT:0 "Pa²a°±³po¯" #GetTagTV
+ TAG_TV_SRG:0 "C³p¥³¦¨o«" #GetTagTV
+ TAG_TV_TLG:0 "Te®ª°¥a°o«" #GetTagTV
+ TAG_TV_KLT:0 "Ko®a²x³°a¦o¯" #GetTagTV
+ TAG_TV_DNG:0 "ƒa°¥o¯" #GetTagTV
+ TAG_TV_DTI:0 "ƒo²ª" #GetTagTV
+ TAG_TV_GRK:0 "‚op¬xo«" #GetTagTV
+ TAG_TV_JML:0 "ƒ¨³¯®o«" #GetTagTV
+ TAG_TV_LWA:0 "ˆª¯ ³¢a°o¯" #GetTagTV
+ TAG_TV_MKP:0 "Ma¬¢a°±³po¯" #GetTagTV
+ TAG_TV_SRM:0 "Cªp¯³po¯" #GetTagTV
+ TAG_TV_KTU:0 "Ka²¯a°¦³" #GetTagTV
+ TAG_TV_KMN:0 "K³¯ao°o¯" #GetTagTV
+ TAG_TV_KND:0 "Ka°¦ª" #GetTagTV
+ TAG_TV_GNG:0 "‚ª°¥ª" #GetTagTV
+ TAG_TV_TNJ:0 "Ta°¦¨opo¯" #GetTagTV
+ TAG_TV_PHA:1 "‹" #GetTagTV
+ TAG_TV_RJP:0 "Pa¦¨±³²a°o«" #GetTagTV
+ TAG_TV_SRH:0 "Cªpxª°¦o¯" #GetTagTV
+ TAG_TV_ILK:0 "†®»xa°a²o¯" #GetTagTV
+ TAG_TV_KLM:0 "Ka®¯º¬a¯ª" #GetTagTV
+ TAG_TV_MGE:0 "Mo°¥o®»c¬o« ª¯±epªe«" #GetTagTV
+ TAG_TV_VAL:0 "Ba®e°cªe«" #GetTagTV
+ TAG_TV_ASU:0 "Ac²³pªe«" #GetTagTV
+ TAG_TV_SLE:0 "Ca®e" #GetTagTV
+ TAG_TV_TET:0 "Te²³a°o¯" #GetTagTV
+ TAG_TV_MJO:0 "Ma®»op¬o«" #GetTagTV
+ TAG_TV_MAT:0 "Ma²®aµª°¬o¯" #GetTagTV
+ TAG_TV_COI:0 "Koª·²®a³a¬o¯" #GetTagTV
+ TAG_TV_TEO:0 "Teo²ª²®a°o¯" #GetTagTV
+ TAG_TV_XAL:0 "Xa®ªc¬o" #GetTagTV
+ TAG_TV_GAM:0 "‚³a¯apo¯" #GetTagTV
+ TAG_TV_HST:0 "‹a·²e¬a¯ª" #GetTagTV
+ TAG_TV_CCM:0 "“ª¶ª¯e¬a¯ª" #GetTagTV
+ TAG_TV_OTO:0 "O²o¯ª" #GetTagTV
+ TAG_TV_YOK:0 "‡o¬o²a°o¯" #GetTagTV
+ TAG_TV_LAC:0 "’oµª®ª" #GetTagTV
+ TAG_TV_KAQ:0 "Ka¬¶ª¬e®a¯ª" #GetTagTV
+ TAG_TV_CTM:0 "“a¬²e¯a®ª" #GetTagTV
+ TAG_TV_KER:0 "Kepeca¯ª" #GetTagTV
+ TAG_TV_ZNI:0 "…³°ª" #GetTagTV
+ TAG_TV_MSC:0 "Mec¬a®epo" #GetTagTV
+ TAG_TV_LIP:0 "ˆª±a°o¯" #GetTagTV
+ TAG_TV_CHT:0 "“op²ª" #GetTagTV
+ TAG_TV_MIS:0 "Mªc¬ª²o" #GetTagTV
+ TAG_TV_TAI:0 "Ta«po°o«" #GetTagTV
+ TAG_TV_CNP:0 "Kax ‰e¶a¯ª" #GetTagTV
+ TAG_TV_TON:0 "To°a®a¯ª" #GetTagTV
+ TAG_TV_YAQ:0 "×¬ª" #GetTagTV
+ TAG_TV_YKT:0 "‡o¬³²ca¯ª" #GetTagTV
+ TAG_TV_CAL:0 "Ka®ª´op°ªe«" #GetTagTV
+ TAG_TV_TEX:0 "Texaco¯" #GetTagTV
+ TAG_TV_JMN:0 "×°-Ma«e°o¯" #GetTagTV
+ TAG_TV_EFR:0 "Boc²o¶°o« ‘pª©ªe«" #GetTagTV
+ TAG_TV_SYN:0 "Cª°²e²ª¬a¯ª" #GetTagTV
+ TAG_TV_MRE:0 "Mapexa°o«" #GetTagTV
+ TAG_TV_MJE:0 "Ma¦¨ªp²ª°o¯" #GetTagTV
+ TAG_TV_WAR:0 "Bapca°¥a®ª" #GetTagTV
+ TAG_TV_HOB:0 "Xo »o" #GetTagTV
+ TAG_TV_GLE:0 "ƒ¨e®e¦ª" #GetTagTV
+ TAG_TV_KAF:0 "Ka´´o«" #GetTagTV
+ TAG_TV_MED:0 "Me¦pª €axpª" #GetTagTV
+ TAG_TV_HAR:0 "Xap¼po¯" #GetTagTV
+ TAG_TV_AFA:0 "A´apo¯" #GetTagTV
+ TAG_TV_ALO:0 "A®»¢o«" #GetTagTV
+ TAG_TV_PTE:0 "‰a²e" #GetTagTV
+ TAG_TV_DAR:0 "ƒap´³po¯" #GetTagTV
+ TAG_TV_CSU:0 "K³c¬o" #GetTagTV
+ TAG_TV_CCQ:0 "Ka®»¶a¬a¯ª" #GetTagTV
+ TAG_TV_MPC:0 "Ma±³¶e" #GetTagTV
+ TAG_TV_MCA:0 "M³ªc¬ª" #GetTagTV
+ TAG_TV_QTO:0 "Kª²o" #GetTagTV
+ TAG_TV_CJA:0 "Kaxa¯ap¬ª" #GetTagTV
+ TAG_TV_HJA:0 "‹ª®o«" #GetTagTV
+ TAG_TV_PTG:0 "‰o²ª¥³apa¯ª" #GetTagTV
+ TAG_TV_TPQ:0 "T³±ª°ª¬ª°a¯ª" #GetTagTV
+ TAG_TV_TUA:0 "Ta±³ª" #GetTagTV
+ TAG_TV_GUA:0 "‚³apa°ª" #GetTagTV
+ TAG_TV_CUA:0 "“app³a" #GetTagTV
+ TAG_TV_WKA:0 "Ba°¬ª" #GetTagTV
+ TAG_TV_CYA:0 "“a¶a±o«ª" #GetTagTV
+ TAG_TV_CLA:0 "Ko®®o«" #GetTagTV
+ TAG_TV_CRA:0 "“ap¬ª" #GetTagTV
+ TAG_TV_PCJ:0 "‰a¬axeco¯" #GetTagTV
+ TAG_TV_TPA:0 "T³±ª°a¯ o«" #GetTagTV
+ TAG_TV_ARW:0 "Apa¢a¬a¯ª" #GetTagTV
+ TAG_TV_TID:0 "Tª¦ope" #GetTagTV
+ TAG_TV_TER:0 "Tep°a²e" #GetTagTV
+ TAG_TV_MGD:0 "Ma¥ª°¦a°ao" #GetTagTV
+ TAG_TV_LUW:0 "ˆ³¢³" #GetTagTV
+ TAG_TV_LNO:0 "ˆa°ao" #GetTagTV
+ TAG_TV_LFA:0 "ˆa°»´a°o¯" #GetTagTV
+ TAG_TV_BNJ:0 "€a°¦¨apo¯" #GetTagTV
+ TAG_TV_KUT:0 "K³²a«e¯" #GetTagTV
+ TAG_TV_BTN:0 "€³²o°o¯" #GetTagTV
+ TAG_TV_CMI:0 "M÷o" #GetTagTV
+ TAG_TV_CYI:0 "ˆo®o" #GetTagTV
+ TAG_TV_CDL:0 "ƒa®ª" #GetTagTV
+ TAG_TV_CHH:0 "“axapo¯" #GetTagTV
+ TAG_TV_NDO:0 "H¦o°¥o" #GetTagTV
+ TAG_TV_ANU:0 "A«°a¯ª" #GetTagTV
+ TAG_TV_BAR:0 "€apo¯" #GetTagTV
+ TAG_TV_HSA:0 "ˆ¾ e¬o¯" #GetTagTV
+ TAG_TV_SMO:0 "C¯o®e°c¬o¯" #GetTagTV
+ TAG_TV_MUR:0 "M³po¯o¯" #GetTagTV
+ TAG_TV_NZH:0 "Hª¨°ª¯ Ho¢¥opo¦o¯" #GetTagTV
+ TAG_TV_VLA:0 "B®a¦ª¯ªpo¯" #GetTagTV
+ TAG_TV_LAU:0 "Ca¬ce°-ˆa³¼° ³p¥o¯" #GetTagTV
+ TAG_TV_AAC:0 "Axe°o¯" #GetTagTV
+ TAG_TV_ALE:0 "A®a°co°o¯" #GetTagTV
+ TAG_TV_AUG:0 "A³¥c ³p¥o¯" #GetTagTV
+ TAG_TV_ULM:0 "‹®»¯o¯" #GetTagTV
+ TAG_TV_FUJ:0 "‘³¦©ª¢apo«" #GetTagTV
+ TAG_TV_TAC:0 "Ta²ª a°o«" #GetTagTV
+ TAG_TV_MSA:0 "Ma®a«e«" #GetTagTV
+ TAG_TV_HIN:0 "†°¦oc²a°o¯" #GetTagTV
+ TAG_TV_BHA:0 "€xapa²o¯" #GetTagTV
+ TAG_TV_CAM:1 "Coe¦ª°e°°º¯ª ±po¢ª°µª÷¯ª A¯epª¬ª" #GetTagTV
+ TAG_TV_DNZ:0 "ƒa°µª¥o¯" #GetTagTV
+ TAG_TV_ETR:0 "™²p³pªe«" #GetTagTV
+ TAG_TV_FRN:0 "‘pa°¬´³p²o¯" #GetTagTV
+ TAG_TV_HAT:0 "‚aª²ª" #GetTagTV
+ TAG_TV_IRQ:0 "†pa¬o¯" #GetTagTV
+ TAG_TV_KHO:0 "Xopaca°o¯" #GetTagTV
+ TAG_TV_KRA:0 "Kpa¬o¢º¯" #GetTagTV
+ TAG_TV_LIV:0 "ˆª¢o°c¬ª¯ op¦e°o¯" #GetTagTV
+ TAG_TV_NAP:0 "Hea±o®e¯" #GetTagTV
+ TAG_TV_PRG:0 "‰apa¥¢a«e¯" #GetTagTV
+ TAG_TV_QIN:0 "’ª°»" #GetTagTV
+ TAG_TV_RFR:0 "Ha¯ ³" #GetTagTV
+ TAG_TV_SOK:0 "Co¬o²o" #GetTagTV
+ TAG_TV_SPI:0 "Cap¦ª°ªe«-‰»e¯o°²o¯" #GetTagTV
+ TAG_TV_SYR:0 "Cªpªe«" #GetTagTV
+ TAG_TV_VNZ:0 "Be°ec³¼®o«" #GetTagTV
+ TAG_TV_WES:0 "Bec²´a®ªe«" #GetTagTV
+ TAG_TV_WUU:0 "B³" #GetTagTV
+ TAG_TV_XIA:0 "C÷" #GetTagTV
+ TAG_TV_RMN:0 "P³¯º°ªe«" #GetTagTV
+ TAG_TV_AYD:0 "A«¦º°o¯" #GetTagTV
+ TAG_TV_AQU:0 "A¬¢ª®ee«" #GetTagTV
+ TAG_TV_BYZ:0 "Bª©a°²ªe«" #GetTagTV
+ TAG_TV_MAJ:0 "Ma¦¨a±axª²o¯" #GetTagTV
+ TAG_TV_MEI:0 "Me«ce°o¯" #GetTagTV
+ TAG_TV_SUK:0 "C³¬xo²ae¯" #GetTagTV
+ TAG_TV_GAL:0 "‚a®ªcªe«" #GetTagTV
+ TAG_TV_PLT:0 "‰o®oµ¬o¯" #GetTagTV
+ TAG_TV_SCA:0 "C¬a°¦ª°a¢ªe«" #GetTagTV
+ TAG_TV_ACH:0 "Axee«" #GetTagTV
+ TAG_TV_KOJ:0 "†ep³ca®ª¯o¯" #GetTagTV
+ TAG_TV_BER:0 "€eppª" #GetTagTV
+ TAG_TV_HLR:0 "C¢÷¸e°°o« Pª¯c¬o« ª¯±epªe«" #GetTagTV
+ TAG_TV_SRU:0 "Cap³xa°o¯" #GetTagTV
+ TAG_TV_MEN:0 "Me°²e·e" #GetTagTV
+ TAG_TV_RAM:0 "Pa¯a©a°o¯" #GetTagTV
+ TAG_TV_EPI:0 "™±ªpo¯" #GetTagTV
+ TAG_TV_NSS:0 "H»¾-‰po¢ª¦e°co¯" #GetTagTV
+ TAG_TV_PRY:0 "‰op²-Po«a®o¯" #GetTagTV
+ TAG_TV_LIB:0 "ˆª ep²a®ªe«" #GetTagTV
+ TAG_TV_TOR:0 "Top²³¥o«" #GetTagTV
+ TAG_TV_MRK:0 "Mappa¬e·e¯" #GetTagTV
+ TAG_TV_FRM:0 "ƒ³°°ª°o¯" #GetTagTV
+ TAG_TV_SOO:0 "Co" #GetTagTV
+ TAG_TV_SOL:0 "Co®o°a¯ª" #GetTagTV
+ TAG_TV_NVK:0 "Hª¢xa¯ª" #GetTagTV
+ TAG_TV_EJZ:0 "ƒ³°xa«e¯" #GetTagTV
+ TAG_TV_NHX:0 "‹¦¼¥e" #GetTagTV
+ #Государства, отвечающие на вопрос "Где?"
+ TAG_PR_DYN:0 "¦ep¨a¢e [Root.GetName]" #GetTagPR
+ TAG_PR_ADA:0 "A¦a®e" #GetTagPR
+ TAG_PR_ADE:0 "A¦e°e" #GetTagPR
+ TAG_PR_AKK:0 "A¬-Ko¾°®³" #GetTagPR
+ TAG_PR_ALB:0 "A® a°ªª" #GetTagPR
+ TAG_PR_ALG:0 "A®¨ªpe" #GetTagPR
+ TAG_PR_ALH:0 "Xace" #GetTagPR
+ TAG_PR_ALS:0 "C²pac ³p¥e" #GetTagPR
+ TAG_PR_AMG:0 "Ap¯a°»÷¬e" #GetTagPR
+ TAG_PR_ANH:0 "A°¥a®»²e" #GetTagPR
+ TAG_PR_ANN:0 "A°°a¯e" #GetTagPR
+ TAG_PR_ANS:0 "A°c axe" #GetTagPR
+ TAG_PR_ARA:0 "Apa¥o°e" #GetTagPR
+ TAG_PR_ARK:0 "Apa¬a°e" #GetTagPR
+ TAG_PR_ARM:0 "Ap¯e°ªª" #GetTagPR
+ TAG_PR_ASH:0 "A·a°²ª" #GetTagPR
+ TAG_PR_ASS:0 "Acca¯e" #GetTagPR
+ TAG_PR_AST:0 "Ac²paxa°ª" #GetTagPR
+ TAG_PR_ATH:0 "A´ª°ax" #GetTagPR
+ TAG_PR_ATJ:0 "A¶exe" #GetTagPR
+ TAG_PR_AUV:0 "O¢ep°ª" #GetTagPR
+ TAG_PR_AVI:0 "A¢ª°»o°e" #GetTagPR
+ TAG_PR_AYU:0 "A¾²ªª" #GetTagPR
+ TAG_PR_AZT:0 "Aµ²e¬ax" #GetTagPR
+ TAG_PR_BAD:0 "€a¦e°e" #GetTagPR
+ TAG_PR_BLI:0 "€a®ª" #GetTagPR
+ TAG_PR_BAN:0 "€a°²e°e" #GetTagPR
+ TAG_PR_BAL:0 "€e®³¦¨ªc²a°e" #GetTagPR
+ TAG_PR_BAV:0 "€a¢apªª" #GetTagPR
+ TAG_PR_BEI:0 "€p³°e«e" #GetTagPR
+ TAG_PR_BEN:0 "€e°ª°e" #GetTagPR
+ TAG_PR_BHU:0 "€³²a°e" #GetTagPR
+ TAG_PR_BIJ:0 "€ª¦¨a±³pe" #GetTagPR
+ TAG_PR_BND:0 "€³°¦e®»xa°¦e" #GetTagPR
+ TAG_PR_BNG:0 "€e°¥a®ªª" #GetTagPR
+ TAG_PR_BOH:0 "€o¥e¯ªª" #GetTagPR
+ TAG_PR_BOS:0 "€oc°ªª" #GetTagPR
+ TAG_PR_BOU:0 "€³p o°e" #GetTagPR
+ TAG_PR_BRA:0 "€pa°¦e° ³p¥e" #GetTagPR
+ TAG_PR_BRB:0 "€pa a°²e" #GetTagPR
+ TAG_PR_BRE:0 "€pe¯e°e" #GetTagPR
+ TAG_PR_BRI:0 "€pe²a°ª" #GetTagPR
+ TAG_PR_BRR:0 "€epape" #GetTagPR
+ TAG_PR_BRU:0 "€pa³°·¢e«¥e" #GetTagPR
+ TAG_PR_BRZ:0 "€pa©ª®ªª" #GetTagPR
+ TAG_PR_BUL:0 "€o®¥apªª" #GetTagPR
+ TAG_PR_BUR:0 "€³p¥³°¦ªª" #GetTagPR
+ TAG_PR_CAN:0 "Ka°a¦e" #GetTagPR
+ TAG_PR_CAS:0 "Kac²ª®ªª" #GetTagPR
+ TAG_PR_CAT:0 "Ka²a®o°ªª" #GetTagPR
+ TAG_PR_CEP:0 "Kop´³" #GetTagPR
+ TAG_PR_CHA:0 "T÷¯±e" #GetTagPR
+ TAG_PR_CHE:0 "“epo¬ª" #GetTagPR
+ TAG_PR_CHG:0 "“a¥a²a«e" #GetTagPR
+ TAG_PR_CHK:0 "T÷¯±aca¬e" #GetTagPR
+ TAG_PR_CHL:0 "“ª®ª" #GetTagPR
+ TAG_PR_CHM:0 "“ª¯³" #GetTagPR
+ TAG_PR_CHP:0 "”a¯±a°ª" #GetTagPR
+ TAG_PR_CND:0 "ƒ¨a°¦ape" #GetTagPR
+ TAG_PR_COL:0 "Ko®³¯ ªª" #GetTagPR
+ TAG_PR_CNN:0 "K®a°pª¬ap¦e" #GetTagPR
+ TAG_PR_COR:0 "Kopcª¬e" #GetTagPR
+ TAG_PR_CRE:0 "Kpª¬" #GetTagPR
+ TAG_PR_CRI:0 "Kpº¯e" #GetTagPR
+ TAG_PR_CRN:0 "Kop°³o®®e" #GetTagPR
+ TAG_PR_CRO:0 "Xop¢a²ªª" #GetTagPR
+ TAG_PR_CRT:0 "Kpª²e" #GetTagPR
+ TAG_PR_CYP:0 "Kª±pe" #GetTagPR
+ TAG_PR_DAI:0 "ƒa«¢»e²e" #GetTagPR
+ TAG_PR_DAN:0 "ƒa°ªª" #GetTagPR
+ TAG_PR_DAU:0 "ƒo´ª°e" #GetTagPR
+ TAG_PR_DLH:0 "ƒe®ª" #GetTagPR
+ TAG_PR_DUL:0 "ƒ³®¬a¦ªpe" #GetTagPR
+ TAG_PR_DUR:0 "ƒ³ppa°ª" #GetTagPR
+ TAG_PR_ENG:0 "A°¥®ªª" #GetTagPR
+ TAG_PR_ETH:0 "™´ªo±ªª" #GetTagPR
+ TAG_PR_FER:0 "‘eppape" #GetTagPR
+ TAG_PR_FEZ:0 "‘ece" #GetTagPR
+ TAG_PR_FIN:0 "‘ª°®÷°¦ªª" #GetTagPR
+ TAG_PR_FLA:0 "‘®a°¦pªª" #GetTagPR
+ TAG_PR_FOI:0 "‘³a" #GetTagPR
+ TAG_PR_FRA:0 "‘pa°µªª" #GetTagPR
+ TAG_PR_FRI:0 "‘pªc®a°¦ªª" #GetTagPR
+ TAG_PR_GBR:0 "Be®ª¬o pª²a°ªª" #GetTagPR
+ TAG_PR_GDW:1 "‚apxe" #GetTagPR
+ TAG_PR_GEL:0 "‚e®»¦ep°e" #GetTagPR
+ TAG_PR_GEN:0 "‚e°³ª" #GetTagPR
+ TAG_PR_GEO:0 "‚p³©ªª" #GetTagPR
+ TAG_PR_GER:0 "‚ep¯a°ªª" #GetTagPR
+ TAG_PR_GOL:0 "€o®»·o« Op¦e" #GetTagPR
+ TAG_PR_GOT:0 "‚o²®a°¦e" #GetTagPR
+ TAG_PR_GRA:0 "‚pa°a¦e" #GetTagPR
+ TAG_PR_GRE:0 "‚peµªª" #GetTagPR
+ TAG_PR_GUJ:0 "‚³¦¨apa²e" #GetTagPR
+ TAG_PR_GUY:0 "‚ac¬o°ª" #GetTagPR
+ TAG_PR_HAB:0 "A¢c²pªª" #GetTagPR
+ TAG_PR_HAI:0 "‚e°°e¥a³" #GetTagPR
+ TAG_PR_HAM:0 "‚a¯ ³p¥e" #GetTagPR
+ TAG_PR_HAN:0 "‚a°°o¢epe" #GetTagPR
+ TAG_PR_HAU:0 "Xa³ce" #GetTagPR
+ TAG_PR_HED:0 "Xª¦¨a©e" #GetTagPR
+ TAG_PR_HES:0 "‚ecce°e" #GetTagPR
+ TAG_PR_HOL:0 "‚o®®a°¦ªª" #GetTagPR
+ TAG_PR_HUN:0 "Be°¥pªª" #GetTagPR
+ TAG_PR_HUR:0 "‚³po°ax" #GetTagPR
+ TAG_PR_INC:0 "†°¬ax" #GetTagPR
+ TAG_PR_IRE:0 "†p®a°¦ªª" #GetTagPR
+ TAG_PR_IRO:0 "†po¬e©ax" #GetTagPR
+ TAG_PR_ITA:0 "†²a®ªª" #GetTagPR
+ TAG_PR_JAP:0 "×±o°ªª" #GetTagPR
+ TAG_PR_KAR:0 "Kapa¯a°e" #GetTagPR
+ TAG_PR_KAZ:0 "Ka©a°ª" #GetTagPR
+ TAG_PR_KBO:0 "€op°³" #GetTagPR
+ TAG_PR_KHA:0 "Mo°¥o®ax" #GetTagPR
+ TAG_PR_KHD:0 "Xa°¦e·e" #GetTagPR
+ TAG_PR_KHI:0 "Xª¢e" #GetTagPR
+ TAG_PR_KHM:0 "Kx¯epax" #GetTagPR
+ TAG_PR_KLE:0 "K®e¢e" #GetTagPR
+ TAG_PR_KNI:0 "‚oc±ª²a®»epax" #GetTagPR
+ TAG_PR_KOK:0 "‘ep¥a°e" #GetTagPR
+ TAG_PR_KOL:0 "Kë®»°e" #GetTagPR
+ TAG_PR_KON:0 "Ko°¥o" #GetTagPR
+ TAG_PR_KOR:0 "Kopee" #GetTagPR
+ TAG_PR_KRK:0 "Kap°a²ª¬e" #GetTagPR
+ TAG_PR_KSH:0 "Ka·¯ªpe" #GetTagPR
+ TAG_PR_KUR:0 "K³p®÷°¦ªª" #GetTagPR
+ TAG_PR_KZH:0 "Ka©axax" #GetTagPR
+ TAG_PR_LAN:0 "‘®ope°µªª" #GetTagPR
+ TAG_PR_LAP:0 "ˆa-‰®a²e" #GetTagPR
+ TAG_PR_LEI:0 "ˆe°c²epe" #GetTagPR
+ TAG_PR_LIE:0 "ˆ»e¨e" #GetTagPR
+ TAG_PR_LIT:0 "ˆª²¢e" #GetTagPR
+ TAG_PR_LNA:0 "ˆa°°e" #GetTagPR
+ TAG_PR_LOA:0 "ˆoa°¥o" #GetTagPR
+ TAG_PR_LOR:0 "ˆo²apª°¥ªª" #GetTagPR
+ TAG_PR_LOU:0 "ˆ³ª©ªa°e" #GetTagPR
+ TAG_PR_LUA:0 "ˆ³a°¥±xa a°¥e" #GetTagPR
+ TAG_PR_LUN:0 "ˆ¾°e ³p¥e" #GetTagPR
+ TAG_PR_LUX:0 "ˆ¾¬ce¯ ³p¥e" #GetTagPR
+ TAG_PR_LXA:0 "ˆa°ca°¥e" #GetTagPR
+ TAG_PR_MAD:0 "Ma¦³pa«e" #GetTagPR
+ TAG_PR_MAG:0 "Ma¥¦e ³p¥e" #GetTagPR
+ TAG_PR_MAI:0 "Ma«°µe" #GetTagPR
+ TAG_PR_MAL:0 "Ma®ª" #GetTagPR
+ TAG_PR_MAM:0 "Ma¯®¾¬ax" #GetTagPR
+ TAG_PR_MAN:0 "Ma°²³e" #GetTagPR
+ TAG_PR_MAY:0 "Ma«÷" #GetTagPR
+ TAG_PR_MAZ:0 "Ma©o¢ªª" #GetTagPR
+ TAG_PR_MCH:0 "Ma°»¶¨³pªª" #GetTagPR
+ TAG_PR_MEX:0 "Me¬cª¬ª" #GetTagPR
+ TAG_PR_MKL:0 "Me¬®e° ³p¥e" #GetTagPR
+ TAG_PR_MKS:0 "Ma¬acape" #GetTagPR
+ TAG_PR_MLC:0 "Ma®a¬¬e" #GetTagPR
+ TAG_PR_MLO:0 "Mª®a°e" #GetTagPR
+ TAG_PR_MLW:0 "Ma®»¢e" #GetTagPR
+ TAG_PR_MNG:0 "Mª°e" #GetTagPR
+ TAG_PR_MNS:0 "To¯o°¦e" #GetTagPR
+ TAG_PR_MOD:0 "Mo¦e°e" #GetTagPR
+ TAG_PR_MOE:0 "Mopee" #GetTagPR
+ TAG_PR_MOL:0 "Mo®¦a¢ªª" #GetTagPR
+ TAG_PR_MON:0 "“ep°o¥opªª" #GetTagPR
+ TAG_PR_MOR:0 "Mapo¬¬o" #GetTagPR
+ TAG_PR_MOS:0 "Moc¬¢e" #GetTagPR
+ TAG_PR_MTR:0 "Ma²apa¯e" #GetTagPR
+ TAG_PR_MUG:0 "Be®ª¬ªx Mo¥o®ax" #GetTagPR
+ TAG_PR_MUN:0 "M¾°c²epe" #GetTagPR
+ TAG_PR_MYS:0 "Ma«c³pe" #GetTagPR
+ TAG_PR_NAJ:0 "He¦¨¦e" #GetTagPR
+ TAG_PR_NAV:0 "Ha¢appe" #GetTagPR
+ TAG_PR_NAX:0 "Ha¬coce" #GetTagPR
+ TAG_PR_NED:0 "Hª¦ep®a°¦ax" #GetTagPR
+ TAG_PR_NEV:0 "He¢epe" #GetTagPR
+ TAG_PR_NOG:0 "Ho¥a«µax" #GetTagPR
+ TAG_PR_NOL:0 "Hop²³¯ pªª" #GetTagPR
+ TAG_PR_NOR:0 "Hop¢e¥ªª" #GetTagPR
+ TAG_PR_NOV:0 "Ho¢¥opo¦e" #GetTagPR
+ TAG_PR_NPL:0 "He±a®e" #GetTagPR
+ TAG_PR_NRM:0 "Hop¯a°¦ªª" #GetTagPR
+ TAG_PR_NUB:0 "Ce°°ape" #GetTagPR
+ TAG_PR_ODH:0 "A¢a¦xe" #GetTagPR
+ TAG_PR_OIR:0 "O«pa²ax" #GetTagPR
+ TAG_PR_OLD:0 "O®»¦e° ³p¥e" #GetTagPR
+ TAG_PR_OMA:0 "O¯a°e" #GetTagPR
+ TAG_PR_ORI:0 "Opªcce" #GetTagPR
+ TAG_PR_ORL:0 "Op®ea°e" #GetTagPR
+ TAG_PR_OYO:0 "O«o" #GetTagPR
+ TAG_PR_PAL:0 "‰´a®»µe" #GetTagPR
+ TAG_PR_PAP:0 "‰a±c¬o« o ®ac²ª" #GetTagPR
+ TAG_PR_PAR:0 "‰ap¯e" #GetTagPR
+ TAG_PR_PAT:0 "‰a²²a°ª" #GetTagPR
+ TAG_PR_PEG:0 "‰e¥³" #GetTagPR
+ TAG_PR_PER:0 "‰epcªª" #GetTagPR
+ TAG_PR_PEU:0 "‰ep³" #GetTagPR
+ TAG_PR_PIC:0 "‰ª¬ap¦ªª" #GetTagPR
+ TAG_PR_PIS:0 "‰ª©e" #GetTagPR
+ TAG_PR_POL:0 "‰o®»·e" #GetTagPR
+ TAG_PR_POM:0 "‰o¯epa°ªª" #GetTagPR
+ TAG_PR_POR:0 "‰op²³¥a®ªª" #GetTagPR
+ TAG_PR_PRO:0 "‰po¢a°ce" #GetTagPR
+ TAG_PR_PRU:0 "‰p³ccªª" #GetTagPR
+ TAG_PR_PSK:0 "‰c¬o¢e" #GetTagPR
+ TAG_PR_PUN:0 "‰e°¦¨a e" #GetTagPR
+ TAG_PR_QAR:0 "Kapa-Ko¾°®³" #GetTagPR
+ TAG_PR_QAS:0 "Kacª¯o¢e" #GetTagPR
+ TAG_PR_QUE:0 "K¢e e¬e" #GetTagPR
+ TAG_PR_RAG:0 "Pa¥³©e" #GetTagPR
+ TAG_PR_RAJ:0 "Pa¦¨±³²a°e" #GetTagPR
+ TAG_PR_REB:0 "¢o«c¬e ±o¢c²a°µe¢" #GetTagPR
+ TAG_PR_RIG:0 "Pª¥e" #GetTagPR
+ TAG_PR_RUS:0 "Poccªª" #GetTagPR
+ TAG_PR_RYA:0 "P÷©a°ª" #GetTagPR
+ TAG_PR_RYU:0 "P¾¬¾" #GetTagPR
+ TAG_PR_SAR:0 "Cap¦ª°ªª" #GetTagPR
+ TAG_PR_SAV:0 "Ca¢o«e" #GetTagPR
+ TAG_PR_SAX:0 "Ca¬co°ªª" #GetTagPR
+ TAG_PR_SCO:0 "”o²®a°¦ªª" #GetTagPR
+ TAG_PR_SER:0 "Cep ªª" #GetTagPR
+ TAG_PR_SHA:0 "”a³°ª" #GetTagPR
+ TAG_PR_SHL:0 "‚o®»·²e«°e" #GetTagPR
+ TAG_PR_SHR:0 "”ap¦¨ª" #GetTagPR
+ TAG_PR_SHY:0 "‹© e¬ax" #GetTagPR
+ TAG_PR_SIB:0 "Cª ªpª" #GetTagPR
+ TAG_PR_SIC:0 "Cªµª®ªª" #GetTagPR
+ TAG_PR_SIE:0 "Cªe°e" #GetTagPR
+ TAG_PR_SIL:0 "Cª®e©ªª" #GetTagPR
+ TAG_PR_SLZ:0 "…a®»µ ³p¥e" #GetTagPR
+ TAG_PR_SND:1 "Cª°¦e" #GetTagPR
+ TAG_PR_SOF:0 "Ce¥³" #GetTagPR
+ TAG_PR_SON:0 "Co°¥a«e" #GetTagPR
+ TAG_PR_SPA:0 "†c±a°ªª" #GetTagPR
+ TAG_PR_SST:0 "”a°e" #GetTagPR
+ TAG_PR_STY:0 "”²ªpªª" #GetTagPR
+ TAG_PR_SUL:0 "C³®³" #GetTagPR
+ TAG_PR_SWE:0 "”¢eµªª" #GetTagPR
+ TAG_PR_SWI:0 "”¢e«µapªª" #GetTagPR
+ TAG_PR_TAU:0 "Ta³°¥³" #GetTagPR
+ TAG_PR_TEU:0 "Te¢²o°c¬o¯ op¦e°e" #GetTagPR
+ TAG_PR_THU:0 "T¾pª°¥ªª" #GetTagPR
+ TAG_PR_TIB:0 "Tª e²e" #GetTagPR
+ TAG_PR_TIM:0 "Tª¯³pª¦ax" #GetTagPR
+ TAG_PR_TIR:0 "Tªpo®e" #GetTagPR
+ TAG_PR_TOK:0 "To°¬ª°e" #GetTagPR
+ TAG_PR_TOU:0 "T³®³©e" #GetTagPR
+ TAG_PR_TRA:0 "Tpa°cª®»¢a°ªª" #GetTagPR
+ TAG_PR_TRE:0 "Tpa±e©³°¦e" #GetTagPR
+ TAG_PR_TRI:0 "Tpªpe" #GetTagPR
+ TAG_PR_TRP:0 "Tpª±o®ª" #GetTagPR
+ TAG_PR_TRV:0 "Tpa¢a°¬ope" #GetTagPR
+ TAG_PR_TUN:0 "T³°ªce" #GetTagPR
+ TAG_PR_TUR:0 "Oc¯a°ax" #GetTagPR
+ TAG_PR_TUS:0 "Toc¬a°e" #GetTagPR
+ TAG_PR_TVE:0 "T¢epª" #GetTagPR
+ TAG_PR_TYR:0 "Tªpo°e" #GetTagPR
+ TAG_PR_UKR:0 "P³cª°ªª" #GetTagPR
+ TAG_PR_URB:0 "‹p ª°o" #GetTagPR
+ TAG_PR_USA:0 "Coe¦ª°ë°°ºx ”²a²ax" #GetTagPR
+ TAG_PR_UTR:0 "‹²pex²e" #GetTagPR
+ TAG_PR_WAL:0 "Ba®axªª" #GetTagPR
+ TAG_PR_WBG:0 "B¾pµ ³p¥e" #GetTagPR
+ TAG_PR_VEN:0 "Be°eµªª" #GetTagPR
+ TAG_PR_VIE:0 "B»e°²»÷°e" #GetTagPR
+ TAG_PR_VIJ:0 "Bª¦¨a÷°a¥ape" #GetTagPR
+ TAG_PR_WLS:0 "‹¼®»ce" #GetTagPR
+ TAG_PR_WUR:0 "B¾p²e¯ ep¥e" #GetTagPR
+ TAG_PR_YAR:0 "×poc®a¢®e" #GetTagPR
+ TAG_PR_YOR:0 "A°¦xpe" #GetTagPR
+ TAG_PR_ZAP:0 "Ca±o²e¬ax" #GetTagPR
+ TAG_PR_ZAZ:0 "…a±opo¨c¬o« ce¶ª" #GetTagPR
+ TAG_PR_ZIM:0 "Mo°o¯o²a±e" #GetTagPR
+ TAG_PR_NIZ:0 "ƒe¢a-€e°¥a®e" #GetTagPR
+ TAG_PR_BAS:0 "Ax¯a¦°a¥ape" #GetTagPR
+ TAG_PR_NAT:0 "±®e¯e°ª ²³©e¯µe¢" #GetTagPR
+ TAG_PR_PIR:0 "´®o²e ¬a±epo¢" #GetTagPR
+ TAG_PR_AMA:0 "A¯a¥o" #GetTagPR
+ TAG_PR_ASA:0 "Aca¬³pe" #GetTagPR
+ TAG_PR_CSK:0 "Tëco¬a ¼" #GetTagPR
+ TAG_PR_DTE:0 "ƒa²¼" #GetTagPR
+ TAG_PR_HJO:0 "Xo¦©ë" #GetTagPR
+ TAG_PR_HSK:0 "Xoco¬a¢e" #GetTagPR
+ TAG_PR_HTK:0 "Xa²a¬¼÷¯e" #GetTagPR
+ TAG_PR_IKE:0 "†¬¼¦a" #GetTagPR
+ TAG_PR_IMG:0 "†¯a¥a¢e" #GetTagPR
+ TAG_PR_MAE:0 "Ma¼¦a" #GetTagPR
+ TAG_PR_MRI:0 "Mopª" #GetTagPR
+ TAG_PR_ODA:0 "O¦e" #GetTagPR
+ TAG_PR_OTM:0 "O²o¯o" #GetTagPR
+ TAG_PR_OUC:0 "O³²ª" #GetTagPR
+ TAG_PR_SBA:0 "Cª a" #GetTagPR
+ TAG_PR_SMZ:0 "Cª¯a¦©e" #GetTagPR
+ TAG_PR_TKD:0 "Ta¬¼¦e" #GetTagPR
+ TAG_PR_TKG:0 "To¬³¥a¢e" #GetTagPR
+ TAG_PR_UES:0 "‹¼c³¥ª" #GetTagPR
+ TAG_PR_YMN:0 "×¯a°e" #GetTagPR
+ TAG_PR_JNP:0 "ƒ¨a³°±³pe" #GetTagPR
+ TAG_PR_MAW:0 "Map¢ape" #GetTagPR
+ TAG_PR_MER:0 "Me¢ape" #GetTagPR
+ TAG_PR_MUL:0 "M³®²a°e" #GetTagPR
+ TAG_PR_JAN:0 "ƒ¨a°¥®a¦e·e" #GetTagPR
+ TAG_PR_GRJ:0 "‚ap»÷²e" #GetTagPR
+ TAG_PR_GWA:0 "‚¢a®ªope" #GetTagPR
+ TAG_PR_DHU:0 "ƒx³°¦xape" #GetTagPR
+ TAG_PR_KLN:0 "Ke®a¦ª" #GetTagPR
+ TAG_PR_MAB:1 "Ka®ª¬³²e" #GetTagPR
+ TAG_PR_MEW:0 "Me¢a²e" #GetTagPR
+ TAG_PR_BST:0 "€ac²ape" #GetTagPR
+ TAG_PR_JSL:0 "ƒ¨a«ca®¯epe" #GetTagPR
+ TAG_PR_KAC:0 "Ka¶ape" #GetTagPR
+ TAG_PR_KMT:0 "K³¶e" #GetTagPR
+ TAG_PR_KGR:0 "Ka°¥pe" #GetTagPR
+ TAG_PR_KAT:1 "Ka¶e" #GetTagPR
+ TAG_PR_KOC:0 "Ko¶¶ª" #GetTagPR
+ TAG_PR_AHM:0 "A³pe°¥a a¦e" #GetTagPR
+ TAG_PR_BAH:0 "€ax¯a°ª" #GetTagPR
+ TAG_PR_NAG:0 "Ha¥±³pe" #GetTagPR
+ TAG_PR_BDA:0 "€apo¦e" #GetTagPR
+ TAG_PR_GOC:0 "‚o®¬o°¦e" #GetTagPR
+ TAG_PR_MAR:0 "Mapa²xe" #GetTagPR
+ TAG_PR_VND:0 "Be°a¦e" #GetTagPR
+ TAG_PR_DEC:0 "ƒe¬a°e" #GetTagPR
+ TAG_PR_CZH:0 "“¨o³" #GetTagPR
+ TAG_PR_CSH:0 "”³°»" #GetTagPR
+ TAG_PR_CXI:0 "Cª" #GetTagPR
+ TAG_PR_JOL:0 "ƒ¨o®o´e" #GetTagPR
+ TAG_PR_PLC:0 "Pe¶ª ‰oc±o®ª²o«" #GetTagPR
+ TAG_PR_PRM:0 "‰ep¯ª" #GetTagPR
+ TAG_PR_CEY:1 "Ko²²e" #GetTagPR
+ TAG_PR_AFG:0 "A´¥a°ªc²a°e" #GetTagPR
+ TAG_PR_QNG:0 "’ª°" #GetTagPR
+ TAG_PR_ABE:0 "A e°a¬ax" #GetTagPR
+ TAG_PR_APA:0 "A±a¶ª" #GetTagPR
+ TAG_PR_ASI:0 "Accª°ª o«°ax" #GetTagPR
+ TAG_PR_BLA:0 "“ep°o°o¥ªx" #GetTagPR
+ TAG_PR_CAD:0 "K¼¦¦o" #GetTagPR
+ TAG_PR_CHI:0 "“ª¬aco" #GetTagPR
+ TAG_PR_CHO:0 "“o¬²o" #GetTagPR
+ TAG_PR_CHY:0 "”a«e°°ax" #GetTagPR
+ TAG_PR_COM:0 "Ko¯a°¶ª" #GetTagPR
+ TAG_PR_FOX:0 "Mec¬¢o¬ax" #GetTagPR
+ TAG_PR_ILL:0 "†®®ª°o«cax" #GetTagPR
+ TAG_PR_LEN:0 "ƒe®a¢ape" #GetTagPR
+ TAG_PR_MIK:0 "Mª¬¯a¬ax" #GetTagPR
+ TAG_PR_MMI:0 "Ma«a¯ª" #GetTagPR
+ TAG_PR_MAH:0 "Mo¥ª¬a°ax" #GetTagPR
+ TAG_PR_NAH:0 "Ha¢axo" #GetTagPR
+ TAG_PR_OJI:0 "O¦¨ª ¢e" #GetTagPR
+ TAG_PR_OSA:0 "Oce«¦¨ax" #GetTagPR
+ TAG_PR_OTT:0 "O²²a¢e" #GetTagPR
+ TAG_PR_PAW:0 "‰a³°ª" #GetTagPR
+ TAG_PR_PEQ:0 "‰e¬o²ax" #GetTagPR
+ TAG_PR_PIM:0 "‰ª¯³" #GetTagPR
+ TAG_PR_POT:0 "‰o²a¢a²o¯ª" #GetTagPR
+ TAG_PR_POW:0 "‰o³xa²a°ax" #GetTagPR
+ TAG_PR_PUE:0 "‰³¼ ®o" #GetTagPR
+ TAG_PR_SIO:0 "Cª³" #GetTagPR
+ TAG_PR_SHO:0 "”o·o°ax" #GetTagPR
+ TAG_PR_SUS:0 "Cac¬³exa°°o¬ax" #GetTagPR
+ TAG_PR_WCR:0 "Kpª" #GetTagPR
+ TAG_PR_ZAN:0 "Kª®¢e" #GetTagPR
+ TAG_PR_AJU:0 "A¦¨³pa°e" #GetTagPR
+ TAG_PR_MBA:0 "Mo¯ ace" #GetTagPR
+ TAG_PR_MDI:0 "Mo¥a¦ª·o" #GetTagPR
+ TAG_PR_MLI:0 "Ma®ª°¦ª" #GetTagPR
+ TAG_PR_SFA:0 "Co´a®e" #GetTagPR
+ TAG_PR_EGY:0 "E¥ª±²e" #GetTagPR
+ TAG_PR_BUK:0 "€³xape" #GetTagPR
+ TAG_PR_BGA:0 "€a¥®a°e" #GetTagPR
+ TAG_PR_BGL:1 "€a¥e®xa°¦e" #GetTagPR
+ TAG_PR_CHD:0 "“a°¦³" #GetTagPR
+ TAG_PR_CMP:0 "Pe¢³ Ka°²ª" #GetTagPR
+ TAG_PR_GHR:0 "‚apx¢a®e" #GetTagPR
+ TAG_PR_HAD:0 "Xa¦o²ª" #GetTagPR
+ TAG_PR_JAJ:0 "Xa ca°e" #GetTagPR
+ TAG_PR_JFN:0 "ƒ¨a´°e" #GetTagPR
+ TAG_PR_LDK:0 "ˆa¦a¬xe" #GetTagPR
+ TAG_PR_MLB:0 "Ma°ª±³pe" #GetTagPR
+ TAG_PR_NGA:0 "Ha¥a³pe" #GetTagPR
+ TAG_PR_NGP:0 "ƒ¨ap¬xa°¦e" #GetTagPR
+ TAG_PR_PTA:0 "‰a²ªa®³" #GetTagPR
+ TAG_PR_RMP:0 "Poxª®¬xa°¦e" #GetTagPR
+ TAG_PR_SDY:0 "Ca¦ªª" #GetTagPR
+ TAG_PR_TPR:0 "Tpª±³pe" #GetTagPR
+ TAG_PR_TRT:0 "Tªpx³²e" #GetTagPR
+ TAG_PR_CIR:0 "“ep¬ecªª" #GetTagPR
+ TAG_PR_GAZ:0 "‚a©ª¬³¯³xe" #GetTagPR
+ TAG_PR_IME:0 "†¯epe²ªª" #GetTagPR
+ TAG_PR_TAB:1 "Ma©a°¦apa°e" #GetTagPR
+ TAG_PR_MYR:0 "E¨¼°e" #GetTagPR
+ TAG_PR_MHX:0 "Xa«cª" #GetTagPR
+ TAG_PR_KRC:0 "Xop¶ª°ax" #GetTagPR
+ TAG_PR_KLK:0 "Xa®xe" #GetTagPR
+ TAG_PR_DGL:0 "Ma®»¦ª¢ax" #GetTagPR
+ TAG_PR_HMI:0 "Kapa ƒe®e" #GetTagPR
+ TAG_PR_ZUN:0 "ƒ¨³°¥ape" #GetTagPR
+ TAG_PR_KAS:0 "×p¬e°¦e" #GetTagPR
+ TAG_PR_KSD:0 "Xo·³²ax" #GetTagPR
+ TAG_PR_SYG:0 "Capº¥ ›¥³pe" #GetTagPR
+ TAG_PR_UTS:1 "’a°¥e" #GetTagPR
+ TAG_PR_KAM:0 "Ka¯e" #GetTagPR
+ TAG_PR_GUG:0 "‚³¥e" #GetTagPR
+ TAG_PR_TMB:0 "Tª¯ ³¬²³" #GetTagPR
+ TAG_PR_AIR:0 "A¥a¦ece" #GetTagPR
+ TAG_PR_MSI:0 "Mocª" #GetTagPR
+ TAG_PR_KTS:0 "Kaµª°e" #GetTagPR
+ TAG_PR_KAN:0 "Ka°o" #GetTagPR
+ TAG_PR_FUL:0 "‘³®o" #GetTagPR
+ TAG_PR_BON:0 "€o°o¯a°e" #GetTagPR
+ TAG_PR_DAH:0 "ƒa¥o¯ee" #GetTagPR
+ TAG_PR_DGB:0 "ƒa¥o¯ e" #GetTagPR
+ TAG_PR_JNN:0 "ƒ¨e°°e" #GetTagPR
+ TAG_PR_KBU:0 "‚a ³" #GetTagPR
+ TAG_PR_KNG:0 "‹a²²ape" #GetTagPR
+ TAG_PR_NUP:0 "H³±e" #GetTagPR
+ TAG_PR_YAO:0 "×o" #GetTagPR
+ TAG_PR_YAT:0 "×²e°¥ª" #GetTagPR
+ TAG_PR_ZAF:0 "Maccª°e" #GetTagPR
+ TAG_PR_ZZZ:0 "…apªª" #GetTagPR
+ TAG_PR_ARD:0 "Ap¦a®a°e" #GetTagPR
+ TAG_PR_BHT:1 "Copa°e" #GetTagPR
+ TAG_PR_ERE:0 "™pe²°e" #GetTagPR
+ TAG_PR_LEB:0 "ˆª¢a°e" #GetTagPR
+ TAG_PR_MAK:0 "M³¬³ppe" #GetTagPR
+ TAG_PR_SHM:0 "”a¯¯ape" #GetTagPR
+ TAG_PR_ARB:0 "Apa¢ªª" #GetTagPR
+ TAG_PR_GRM:0 "‚ep¯ª÷°e" #GetTagPR
+ TAG_PR_MPH:0 "M³a° ‰³a°e" #GetTagPR
+ TAG_PR_LIG:0 "ˆª¥ope" #GetTagPR
+ TAG_PR_JOH:0 "ƒ¨oxope" #GetTagPR
+ TAG_PR_KED:0 "Ke¦axe" #GetTagPR
+ TAG_PR_PRK:0 "‰epa¬e" #GetTagPR
+ TAG_PR_HSE:0 "Xce°¢ª" #GetTagPR
+ TAG_PR_MYA:0 "Mo° ×°a" #GetTagPR
+ TAG_PR_AVA:0 "A¢e" #GetTagPR
+ TAG_PR_FEO:0 "‘eo¦opo" #GetTagPR
+ TAG_PR_VOL:0 "Bo®º°ª" #GetTagPR
+ TAG_PR_KIE:0 "Kªe¢e" #GetTagPR
+ TAG_PR_CHR:0 "“ep°ª¥o¢e" #GetTagPR
+ TAG_PR_CHU:0 "“³¬¶ax" #GetTagPR
+ TAG_PR_HOD:0 "Xo¦º°µax" #GetTagPR
+ TAG_PR_CHV:0 "“a¢¶³¢e°ax" #GetTagPR
+ TAG_PR_KMC:0 "Ka¯¶a¦a®ax" #GetTagPR
+ TAG_PR_BRT:0 "€³p÷²ax" #GetTagPR
+ TAG_PR_BSH:0 "€a·¬ªpªª" #GetTagPR
+ TAG_PR_TLC:0 "T®e¯ce°e" #GetTagPR
+ TAG_PR_MZB:0 "M©a e" #GetTagPR
+ TAG_PR_TGT:0 "T³¥¥³p²e" #GetTagPR
+ TAG_PR_GHD:0 "ƒ¨epª¦e" #GetTagPR
+ TAG_PR_FZA:0 "‘³©©a°e" #GetTagPR
+ TAG_PR_KBA:0 "Ka ª®ªª" #GetTagPR
+ TAG_PR_SOS:0 "C³ce" #GetTagPR
+ TAG_PR_TFL:0 "Ta´ª®a®»²e" #GetTagPR
+ TAG_PR_ARP:0 "Apa±axo" #GetTagPR
+ TAG_PR_CNK:0 "”ª°³¬e" #GetTagPR
+ TAG_PR_COC:0 "Ko¬o¯ax" #GetTagPR
+ TAG_PR_XIU:0 "”¬ª±¶e" #GetTagPR
+ TAG_PR_HDA:0 "Xa«¦e" #GetTagPR
+ TAG_PR_ITZ:0 "†µe" #GetTagPR
+ TAG_PR_KIC:0 "Kª¶e" #GetTagPR
+ TAG_PR_KIO:0 "Ka«o¢e" #GetTagPR
+ TAG_PR_MIX:0 "Mª·²e¬ax" #GetTagPR
+ TAG_PR_SAL:0 "Ca®ª·ª" #GetTagPR
+ TAG_PR_TAR:0 "Tapac¬o" #GetTagPR
+ TAG_PR_TLA:0 "T®a¬o±a°e" #GetTagPR
+ TAG_PR_TLX:0 "T®a·¬a®e" #GetTagPR
+ TAG_PR_TOT:0 "To²o°a¬ax" #GetTagPR
+ TAG_PR_WIC:0 "‹ª¶ª²o" #GetTagPR
+ TAG_PR_CLM:0 "Ko®ª¯e" #GetTagPR
+ TAG_PR_BLM:0 "€®a¯ a°¥a°e" #GetTagPR
+ TAG_PR_CRB:0 "“ªpe o°e" #GetTagPR
+ TAG_PR_DMK:0 "ƒe¯a¬e" #GetTagPR
+ TAG_PR_PGR:0 "‰a¥ap³¾°¥e" #GetTagPR
+ TAG_PR_PLB:0 "‰a®e¯ a°¥e" #GetTagPR
+ TAG_PR_PSA:0 "‰aca«e" #GetTagPR
+ TAG_PR_SAK:0 "Cªa¬e" #GetTagPR
+ TAG_PR_SUN:0 "C³°¦e" #GetTagPR
+ TAG_PR_MJZ:0 "’©÷°»¶¨o³" #GetTagPR
+ TAG_PR_SRV:0 "”ªp¢a°e" #GetTagPR
+ TAG_PR_MIN:0 "Mª°»" #GetTagPR
+ TAG_PR_YUE:0 "›¼" #GetTagPR
+ TAG_PR_SHU:0 "”³" #GetTagPR
+ TAG_PR_NNG:0 "Hª°c÷" #GetTagPR
+ TAG_PR_CHC:0 "“³" #GetTagPR
+ TAG_PR_TNG:0 "Ta°" #GetTagPR
+ TAG_PR_QIC:0 "’ª" #GetTagPR
+ TAG_PR_YAN:0 "×°»" #GetTagPR
+ TAG_PR_JIN:0 "’©ª°»" #GetTagPR
+ TAG_PR_LNG:0 "ˆ÷°" #GetTagPR
+ TAG_PR_HUA:0 "X³a«xe" #GetTagPR
+ TAG_PR_CGS:0 "“a°·¼°" #GetTagPR
+ TAG_PR_CAB:0 "Kapª ax" #GetTagPR
+ TAG_PR_LON:0 "ˆeo°e" #GetTagPR
+ TAG_PR_ICM:0 "†¶¯e" #GetTagPR
+ TAG_PR_NUM:0 "H¾p° ep¥e" #GetTagPR
+ TAG_PR_AUS:0 "A¢c²pa®ªª" #GetTagPR
+ TAG_PR_BTI:0 "Cº¯e°e" #GetTagPR
+ TAG_PR_MTH:0 "Mª²e" #GetTagPR
+ TAG_PR_ADU:0 "A°¦a®³cªª" #GetTagPR
+ TAG_PR_MEM:0 "Me¯¯ª°¥e°e" #GetTagPR
+ TAG_PR_VER:0 "‘ep¦e°e" #GetTagPR
+ TAG_PR_NSA:0 "Hacca³" #GetTagPR
+ TAG_PR_RVA:0 "ƒop²¯³°¦e" #GetTagPR
+ TAG_PR_MFA:0 "Mo°´eppa²e" #GetTagPR
+ TAG_PR_LUC:0 "ˆ³¬¬e" #GetTagPR
+ TAG_PR_LVA:0 "ˆª¢o°ªª" #GetTagPR
+ TAG_PR_EST:0 "™c²o°ªª" #GetTagPR
+ TAG_PR_SMI:0 "ˆa±®a°¦ªª" #GetTagPR
+ TAG_PR_ORM:0 "Op¯³©e" #GetTagPR
+ TAG_PR_KRL:0 "Kape®ªª" #GetTagPR
+ TAG_PR_JAI:0 "Ma®»²e" #GetTagPR
+ TAG_PR_KUB:0 "K³ e" #GetTagPR
+ TAG_PR_KLD:0 "Ka®³°¦¢e" #GetTagPR
+ TAG_PR_YAK:0 "×¬ª" #GetTagPR
+ TAG_PR_KZB:0 "Ka©e¯ e" #GetTagPR
+ TAG_PR_KIK:0 "Kª¬o°¨ª" #GetTagPR
+ TAG_PR_CKW:0 "“o¬¢e" #GetTagPR
+ TAG_PR_LND:0 "ˆ³°¦³" #GetTagPR
+ TAG_PR_LUB:0 "ˆ³ e" #GetTagPR
+ TAG_PR_KSJ:0 "Kaca°¦¨ª" #GetTagPR
+ TAG_PR_SYO:0 "Co«o" #GetTagPR
+ TAG_PR_TYO:0 "To«o" #GetTagPR
+ TAG_PR_BSG:0 "€³co¥ª" #GetTagPR
+ TAG_PR_BNY:0 "€³°»opo" #GetTagPR
+ TAG_PR_KRW:0 "Kapa¥¢e" #GetTagPR
+ TAG_PR_BUG:0 "€³¥a°¦e" #GetTagPR
+ TAG_PR_RWA:0 "P³a°¦e" #GetTagPR
+ TAG_PR_NKO:0 "H»÷°¬o®e" #GetTagPR
+ TAG_PR_BUU:0 "€³p³°¦ª" #GetTagPR
+ TAG_PR_UBH:0 "€³xe" #GetTagPR
+ TAG_PR_MRA:0 "Mapa¢ª" #GetTagPR
+ TAG_PR_LDU:0 "ˆ³°¦³" #GetTagPR
+ TAG_PR_TBK:0 "T³¯ ³¬ª" #GetTagPR
+ TAG_PR_MKU:0 "Ma¬³a" #GetTagPR
+ TAG_PR_RZW:0 "€³²³a" #GetTagPR
+ TAG_PR_MIR:0 "†¯epª°e" #GetTagPR
+ TAG_PR_ANT:0 "A°²e¯opo" #GetTagPR
+ TAG_PR_SKA:0 "Ca¬a®a¢e" #GetTagPR
+ TAG_PR_MFY:0 "Maxa´a®ª" #GetTagPR
+ TAG_PR_BTS:0 "€eµª¯apa¬ª" #GetTagPR
+ TAG_PR_ULS:0 "O®»c²epe" #GetTagPR
+ TAG_PR_DMS:0 "ƒec¯o°¦e" #GetTagPR
+ TAG_PR_ORD:0 "Op¯o°¦e" #GetTagPR
+ TAG_PR_KID:0 "Kª®¦¼pe" #GetTagPR
+ TAG_PR_MCM:0 "Ma°c²epe" #GetTagPR
+ TAG_PR_FLY:0 "O´´a®ª" #GetTagPR
+ TAG_PR_TRY:0 "Tªp¬o°e®e" #GetTagPR
+ TAG_PR_SLN:0 "C®a«¥o" #GetTagPR
+ TAG_PR_OKA:0 "O¦oe¢e" #GetTagPR
+ TAG_PR_ICE:0 "†c®a°¦ªª" #GetTagPR
+ TAG_PR_SLO:0 "Hª²pe" #GetTagPR
+ TAG_PR_HSC:0 "‚¼®¦o¯e" #GetTagPR
+ TAG_PR_ROM:0 "Pª¯c¬o« ª¯±epªª" #GetTagPR
+ TAG_PR_DTT:0 "ƒª²¯ap·e°e" #GetTagPR
+ TAG_PR_GLH:0 "…o®o²o« Op¦e" #GetTagPR
+ TAG_PR_BEJ:0 "€e¦¨e" #GetTagPR
+ TAG_PR_JIM:0 "ƒ¨ª¯¯e" #GetTagPR
+ TAG_PR_WLY:0 "Bo®a«²e" #GetTagPR
+ TAG_PR_DAM:0 "ƒa¯o²e" #GetTagPR
+ TAG_PR_HDY:0 "Xa¦ªª" #GetTagPR
+ TAG_PR_SOA:0 "”oa" #GetTagPR
+ TAG_PR_JJI:0 "ƒ¨a°¦¨ªpo" #GetTagPR
+ TAG_PR_ENA:0 "™°°ape" #GetTagPR
+ TAG_PR_ABB:0 "ƒo°¥o®e" #GetTagPR
+ TAG_PR_AKM:0 "A¬a¯aµ³" #GetTagPR
+ TAG_PR_AKT:0 "A°¦o" #GetTagPR
+ TAG_PR_CBA:0 "Tª ³" #GetTagPR
+ TAG_PR_ISK:0 "†ccª¬ª" #GetTagPR
+ TAG_PR_ITO:0 "†²o" #GetTagPR
+ TAG_PR_KKC:0 "Kª¬³²ª" #GetTagPR
+ TAG_PR_KNO:0 "Ko°o" #GetTagPR
+ TAG_PR_OGS:0 "O¥aca¢ape" #GetTagPR
+ TAG_PR_SHN:0 "Cë°ª" #GetTagPR
+ TAG_PR_STK:0 "Ca²a¬¼" #GetTagPR
+ TAG_PR_TKI:0 "To¬ª" #GetTagPR
+ TAG_PR_UTN:0 "‹µ³°o¯ªª" #GetTagPR
+ TAG_PR_TTI:0 "’³µ³ª" #GetTagPR
+ TAG_PR_ASK:0 "Acª¬a¥e" #GetTagPR
+ TAG_PR_MVA:0 "Mopa¢ªª" #GetTagPR
+ TAG_PR_YUA:0 "›a°e" #GetTagPR
+ TAG_PR_BLO:0 "€e®oo©epe" #GetTagPR
+ TAG_PR_RSO:0 "Poc²o¢e" #GetTagPR
+ TAG_PR_MHR:0 "Maxpe" #GetTagPR
+ TAG_PR_HDR:0 "Xa¦pa¯a³²e" #GetTagPR
+ TAG_PR_MDA:0 "Me¦ª°e" #GetTagPR
+ TAG_PR_ANZ:0 "A°a©e" #GetTagPR
+ TAG_PR_FAD:0 "‘a¦®e" #GetTagPR
+ TAG_PR_YAS:0 "×ce" #GetTagPR
+ TAG_PR_RAS:1 "Paccª¦ax" #GetTagPR
+ TAG_PR_YEM:0 "‡e¯e°e" #GetTagPR
+ TAG_PR_DAW:0 "ƒa¢acªpe" #GetTagPR
+ TAG_PR_MFL:0 "Mª¬®a´e" #GetTagPR
+ TAG_PR_NJR:0 "Ha¦¨pa°e" #GetTagPR
+ TAG_PR_HSN:0 "Xaca°¬e«´e" #GetTagPR
+ TAG_PR_BTL:0 "€ª²®ªce" #GetTagPR
+ TAG_PR_AVR:0 "A¢apªª" #GetTagPR
+ TAG_PR_MLK:0 "Kapa axe" #GetTagPR
+ TAG_PR_SME:0 "Ca¯µxe" #GetTagPR
+ TAG_PR_ARL:0 "Ap¦e ª®e" #GetTagPR
+ TAG_PR_MSY:0 "M³·a·e" #GetTagPR
+ TAG_PR_RUM:0 "P³¯e" #GetTagPR
+ TAG_PR_KRY:0 "‚ª®÷°e" #GetTagPR
+ TAG_PR_LRI:0 "ˆ³pªc²a°e" #GetTagPR
+ TAG_PR_SIS:0 "Cªc²a°e" #GetTagPR
+ TAG_PR_BPI:0 "€ª÷x-‰ace" #GetTagPR
+ TAG_PR_FRS:0 "‘apce" #GetTagPR
+ TAG_PR_KRM:0 "Kep¯a°e" #GetTagPR
+ TAG_PR_YZD:0 "×©¦e" #GetTagPR
+ TAG_PR_ISF:0 "†c´axa°e" #GetTagPR
+ TAG_PR_TBR:0 "Te pª©e" #GetTagPR
+ TAG_PR_BSR:0 "€acpe" #GetTagPR
+ TAG_PR_MGR:0 "Mapa¥exe" #GetTagPR
+ TAG_PR_QOM:0 "A¦¨a¯e" #GetTagPR
+ TAG_PR_TRS:0 "Tpa°co¬ca°ªª" #GetTagPR
+ TAG_PR_MAS:0 "Ma¦»÷ce" #GetTagPR
+ TAG_PR_PGS:0 "‰a°¥acª°a°e" #GetTagPR
+ TAG_PR_TDO:0 "To°¦o" #GetTagPR
+ TAG_PR_MNA:0 "Ma°ª®e" #GetTagPR
+ TAG_PR_CEB:0 "Ce ³" #GetTagPR
+ TAG_PR_BTU:0 "€³²³a°e" #GetTagPR
+ TAG_PR_KTB:0 "Kª²a a²a¬¼" #GetTagPR
+ TAG_PR_KOI:0 "Ma°°e" #GetTagPR
+ TAG_PR_LOI:0 "Kopo®e¢c²¢e Oc²po¢o¢" #GetTagPR
+ TAG_PR_MMA:0 "Mo°¥ Mao" #GetTagPR
+ TAG_PR_MKA:0 "Mo°¥ Ka³°" #GetTagPR
+ TAG_PR_MPA:0 "Mo°¥ ‰a«" #GetTagPR
+ TAG_PR_KAL:0 "Ka®e" #GetTagPR
+ TAG_PR_HSI:0 "X©ª±o" #GetTagPR
+ TAG_PR_BPR:0 "‰»ª" #GetTagPR
+ TAG_PR_MNI:0 "Mo°¥ Ha«" #GetTagPR
+ TAG_PR_MBL:0 "Bª·°³±³pe" #GetTagPR
+ TAG_PR_SKK:0 "Cª¬¬ª¯e" #GetTagPR
+ TAG_PR_IDR:0 "A«¦ape" #GetTagPR
+ TAG_PR_NVR:0 "Ha¢a°a¥ape" #GetTagPR
+ TAG_PR_JLV:0 "ƒ¨xa®a¢ape" #GetTagPR
+ TAG_PR_PTL:0 "‰a®ª²a°e" #GetTagPR
+ TAG_PR_RJK:0 "Pa¦¨¬o²e" #GetTagPR
+ TAG_PR_JGD:0 "ƒ¨³°a¥a¦xe" #GetTagPR
+ TAG_PR_PRB:0 "‰op a°¦ape" #GetTagPR
+ TAG_PR_PAN:0 "Ka®ª°¦¨ape" #GetTagPR
+ TAG_PR_KLP:0 "Ka®±ª" #GetTagPR
+ TAG_PR_SBP:0 "Ca¯ a®±³pe" #GetTagPR
+ TAG_PR_PTT:0 "‰a²°³" #GetTagPR
+ TAG_PR_JPR:0 "ƒ¨a«±³pe" #GetTagPR
+ TAG_PR_PRD:0 "‰apa®a¬xe¯³°¦ª" #GetTagPR
+ TAG_PR_KJH:0 "Ke°¦³¦¨xape" #GetTagPR
+ TAG_PR_KLH:0 "Ka®axa°¦ª" #GetTagPR
+ TAG_PR_RTT:0 "Pa²a°±³pe" #GetTagPR
+ TAG_PR_SRG:0 "C³p¥³¦¨e" #GetTagPR
+ TAG_PR_TLG:0 "Te®ª°¥a°e" #GetTagPR
+ TAG_PR_KLT:0 "Ko®a²x³°a¦e" #GetTagPR
+ TAG_PR_DNG:0 "ƒa°¥e" #GetTagPR
+ TAG_PR_DTI:0 "ƒo²ª" #GetTagPR
+ TAG_PR_GRK:0 "‚op¬xe" #GetTagPR
+ TAG_PR_JML:0 "ƒ¨³¯®e" #GetTagPR
+ TAG_PR_LWA:0 "ˆª¯ ³¢a°e" #GetTagPR
+ TAG_PR_MKP:0 "Ma¬¢a°±³pe" #GetTagPR
+ TAG_PR_SRM:0 "Cªp¯³pe" #GetTagPR
+ TAG_PR_KTU:0 "Ka²¯a°¦³" #GetTagPR
+ TAG_PR_KMN:0 "K³¯ao°e" #GetTagPR
+ TAG_PR_KND:0 "Ka°¦ª" #GetTagPR
+ TAG_PR_GNG:0 "‚ª°¥ª" #GetTagPR
+ TAG_PR_TNJ:0 "Ta°¦¨ope" #GetTagPR
+ TAG_PR_PHA:1 "‹" #GetTagPR
+ TAG_PR_RJP:0 "Pa¦¨±³²a°e" #GetTagPR
+ TAG_PR_SRH:0 "Cªpxª°¦e" #GetTagPR
+ TAG_PR_ILK:0 "†®»xa°a²e" #GetTagPR
+ TAG_PR_KLM:0 "Ka®¯º¬a" #GetTagPR
+ TAG_PR_MGE:0 "Mo°¥o®»c¬o« ª¯±epªª" #GetTagPR
+ TAG_PR_VAL:0 "Ba®e°cªª" #GetTagPR
+ TAG_PR_ASU:0 "Ac²³pªª" #GetTagPR
+ TAG_PR_SLE:0 "Ca®e" #GetTagPR
+ TAG_PR_TET:0 "Te²³a°e" #GetTagPR
+ TAG_PR_MJO:0 "Ma®»op¬e" #GetTagPR
+ TAG_PR_MAT:0 "Ma²®aµª°¬e" #GetTagPR
+ TAG_PR_COI:0 "Koª·²®a³a¬e" #GetTagPR
+ TAG_PR_TEO:0 "Teo²ª²®a°e" #GetTagPR
+ TAG_PR_XAL:0 "Xa®ªc¬o" #GetTagPR
+ TAG_PR_GAM:0 "‚³a¯ape" #GetTagPR
+ TAG_PR_HST:0 "‹a·²e¬ax" #GetTagPR
+ TAG_PR_CCM:0 "“ª¶ª¯e¬ax" #GetTagPR
+ TAG_PR_OTO:0 "O²o¯ª" #GetTagPR
+ TAG_PR_YOK:0 "‡o¬o²a°e" #GetTagPR
+ TAG_PR_LAC:0 "’oµª®ª" #GetTagPR
+ TAG_PR_KAQ:0 "Ka¬¶ª¬e®ª" #GetTagPR
+ TAG_PR_CTM:0 "“a¬²e¯a®ª" #GetTagPR
+ TAG_PR_KER:0 "Kepecax" #GetTagPR
+ TAG_PR_ZNI:0 "…³°ª" #GetTagPR
+ TAG_PR_MSC:0 "Mec¬a®epo" #GetTagPR
+ TAG_PR_LIP:0 "ˆª±a°e" #GetTagPR
+ TAG_PR_CHT:0 "“op²ª" #GetTagPR
+ TAG_PR_MIS:0 "Mªc¬ª²o" #GetTagPR
+ TAG_PR_TAI:0 "Ta«po°e" #GetTagPR
+ TAG_PR_CNP:0 "Kax ‰e¶e" #GetTagPR
+ TAG_PR_TON:0 "To°a®e" #GetTagPR
+ TAG_PR_YAQ:0 "×¬ª" #GetTagPR
+ TAG_PR_YKT:0 "‡o¬³²cax" #GetTagPR
+ TAG_PR_CAL:0 "Ka®ª´op°ªª" #GetTagPR
+ TAG_PR_TEX:0 "Texace" #GetTagPR
+ TAG_PR_JMN:0 "×°-Ma«e°e" #GetTagPR
+ TAG_PR_EFR:0 "Boc²o¶°o« ‘pª©ªª" #GetTagPR
+ TAG_PR_SYN:0 "Cª°²e²ª¬ax" #GetTagPR
+ TAG_PR_MRE:0 "Mapexa°e" #GetTagPR
+ TAG_PR_MJE:0 "Ma¦¨ªp²ª°e" #GetTagPR
+ TAG_PR_WAR:0 "Bapca°¥a®ª" #GetTagPR
+ TAG_PR_HOB:0 "Xo »o" #GetTagPR
+ TAG_PR_GLE:0 "ƒ¨e®e¦ª" #GetTagPR
+ TAG_PR_KAF:0 "Ka´´e" #GetTagPR
+ TAG_PR_MED:0 "Me¦pª €axpª" #GetTagPR
+ TAG_PR_HAR:0 "Xap¼pe" #GetTagPR
+ TAG_PR_AFA:0 "A´ape" #GetTagPR
+ TAG_PR_ALO:0 "A®»¢e" #GetTagPR
+ TAG_PR_PTE:0 "‰a²e" #GetTagPR
+ TAG_PR_DAR:0 "ƒap´³pe" #GetTagPR
+ TAG_PR_CSU:0 "K³c¬o" #GetTagPR
+ TAG_PR_CCQ:0 "Ka®»¶a¬ax" #GetTagPR
+ TAG_PR_MPC:0 "Ma±³¶e" #GetTagPR
+ TAG_PR_MCA:0 "M³ªc¬ª" #GetTagPR
+ TAG_PR_QTO:0 "Kª²o" #GetTagPR
+ TAG_PR_CJA:0 "Kaxa¯ap¬ª" #GetTagPR
+ TAG_PR_HJA:0 "‹ª®³" #GetTagPR
+ TAG_PR_PTG:0 "‰o²ª¥³apax" #GetTagPR
+ TAG_PR_TPQ:0 "T³±ª°ª¬ª°ax" #GetTagPR
+ TAG_PR_TUA:0 "Ta±³ª" #GetTagPR
+ TAG_PR_GUA:0 "‚³apa°ª" #GetTagPR
+ TAG_PR_CUA:0 "“app³a" #GetTagPR
+ TAG_PR_WKA:0 "Ba°¬ª" #GetTagPR
+ TAG_PR_CYA:0 "“a¶a±o«ª" #GetTagPR
+ TAG_PR_CLA:0 "Ko®®e" #GetTagPR
+ TAG_PR_CRA:0 "“ap¬ª" #GetTagPR
+ TAG_PR_PCJ:0 "‰a¬axece" #GetTagPR
+ TAG_PR_TPA:0 "T³±ª°a¯ ³" #GetTagPR
+ TAG_PR_ARW:0 "Apa¢a¬ax" #GetTagPR
+ TAG_PR_TID:0 "Tª¦ope" #GetTagPR
+ TAG_PR_TER:0 "Tep°a²e" #GetTagPR
+ TAG_PR_MGD:0 "Ma¥ª°¦a°ao" #GetTagPR
+ TAG_PR_LUW:0 "ˆ³¢e" #GetTagPR
+ TAG_PR_LNO:0 "ˆa°ao" #GetTagPR
+ TAG_PR_LFA:0 "ˆa°»´a°e" #GetTagPR
+ TAG_PR_BNJ:0 "€a°¦¨ape" #GetTagPR
+ TAG_PR_KUT:0 "K³²a«e" #GetTagPR
+ TAG_PR_BTN:0 "€³²o°e" #GetTagPR
+ TAG_PR_CMI:0 "M÷o" #GetTagPR
+ TAG_PR_CYI:0 "ˆo®o" #GetTagPR
+ TAG_PR_CDL:0 "ƒa®ª" #GetTagPR
+ TAG_PR_CHH:0 "“axape" #GetTagPR
+ TAG_PR_NDO:0 "H¦o°¥o" #GetTagPR
+ TAG_PR_ANU:0 "A«°ax" #GetTagPR
+ TAG_PR_BAR:0 "€ape" #GetTagPR
+ TAG_PR_HSA:0 "ˆ¾ e¬e" #GetTagPR
+ TAG_PR_SMO:0 "C¯o®e°c¬e" #GetTagPR
+ TAG_PR_MUR:0 "M³po¯e" #GetTagPR
+ TAG_PR_NZH:0 "Hª¨°e¯ Ho¢¥opo¦e" #GetTagPR
+ TAG_PR_VLA:0 "B®a¦ª¯ªpe" #GetTagPR
+ TAG_PR_LAU:0 "Ca¬ce°-ˆa³¼° ³p¥e" #GetTagPR
+ TAG_PR_AAC:0 "Axe°e" #GetTagPR
+ TAG_PR_ALE:0 "A®a°co°e" #GetTagPR
+ TAG_PR_AUG:0 "A³¥c ³p¥e" #GetTagPR
+ TAG_PR_ULM:0 "‹®»¯e" #GetTagPR
+ TAG_PR_FUJ:0 "‘³¦©ª¢ape" #GetTagPR
+ TAG_PR_TAC:0 "Ta²ª a°e" #GetTagPR
+ TAG_PR_MSA:0 "Ma®a«e" #GetTagPR
+ TAG_PR_HIN:0 "†°¦oc²a°e" #GetTagPR
+ TAG_PR_BHA:0 "€xapa²e" #GetTagPR
+ TAG_PR_CAM:1 "Coe¦ª°e°°ºx ±po¢ª°µª÷x A¯epª¬ª" #GetTagPR
+ TAG_PR_DNZ:0 "ƒa°µª¥e" #GetTagPR
+ TAG_PR_ETR:0 "™²p³pªª" #GetTagPR
+ TAG_PR_FRN:0 "‘pa°¬´³p²e" #GetTagPR
+ TAG_PR_HAT:0 "‚aª²ª" #GetTagPR
+ TAG_PR_IRQ:0 "†pa¬e" #GetTagPR
+ TAG_PR_KHO:0 "Xopaca°e" #GetTagPR
+ TAG_PR_KRA:0 "Kpa¬o¢e" #GetTagPR
+ TAG_PR_LIV:0 "ˆª¢o°c¬o¯ op¦e°e" #GetTagPR
+ TAG_PR_NAP:0 "Hea±o®e" #GetTagPR
+ TAG_PR_PRG:0 "‰apa¥¢a«e" #GetTagPR
+ TAG_PR_QIN:0 "’ª°»" #GetTagPR
+ TAG_PR_RFR:0 "Ha¯ ³" #GetTagPR
+ TAG_PR_SOK:0 "Co¬o²o" #GetTagPR
+ TAG_PR_SPI:0 "Cap¦ª°ªª-‰»e¯o°²e" #GetTagPR
+ TAG_PR_SYR:0 "Cªpªª" #GetTagPR
+ TAG_PR_VNZ:0 "Be°ec³¼®e" #GetTagPR
+ TAG_PR_WES:0 "Bec²´a®ªª" #GetTagPR
+ TAG_PR_WUU:0 "B³" #GetTagPR
+ TAG_PR_XIA:0 "C÷" #GetTagPR
+ TAG_PR_RMN:0 "P³¯º°ªª" #GetTagPR
+ TAG_PR_AYD:0 "A«¦º°e" #GetTagPR
+ TAG_PR_AQU:0 "A¬¢ª®eª" #GetTagPR
+ TAG_PR_BYZ:0 "Bª©a°²ªª" #GetTagPR
+ TAG_PR_MAJ:0 "Ma¦¨a±axª²e" #GetTagPR
+ TAG_PR_MEI:0 "Me«ce°e" #GetTagPR
+ TAG_PR_SUK:0 "C³¬xo²ae" #GetTagPR
+ TAG_PR_GAL:0 "‚a®ªcªª" #GetTagPR
+ TAG_PR_PLT:0 "‰o®oµ¬e" #GetTagPR
+ TAG_PR_SCA:0 "C¬a°¦ª°a¢ªª" #GetTagPR
+ TAG_PR_ACH:0 "Axeª" #GetTagPR
+ TAG_PR_KOJ:0 "†ep³ca®ª¯e" #GetTagPR
+ TAG_PR_BER:0 "€eppª" #GetTagPR
+ TAG_PR_HLR:0 "C¢÷¸e°°o« Pª¯c¬o« ª¯±epªª" #GetTagPR
+ TAG_PR_SRU:0 "Cap³xa°e" #GetTagPR
+ TAG_PR_MEN:0 "Me°²e·e" #GetTagPR
+ TAG_PR_RAM:0 "Pa¯a©a°e" #GetTagPR
+ TAG_PR_EPI:0 "™±ªpe" #GetTagPR
+ TAG_PR_NSS:0 "H»¾-‰po¢ª¦e°ce" #GetTagPR
+ TAG_PR_PRY:0 "‰op²-Po«a®e" #GetTagPR
+ TAG_PR_LIB:0 "ˆª ep²a®ªª" #GetTagPR
+ TAG_PR_TOR:0 "Top²³¥e" #GetTagPR
+ TAG_PR_MRK:0 "Mappa¬e·e" #GetTagPR
+ TAG_PR_FRM:0 "ƒ³°°ª°e" #GetTagPR
+ TAG_PR_SOO:0 "Co" #GetTagPR
+ TAG_PR_SOL:0 "¦ep¨a¢e Co®o°o¢" #GetTagPR
+ TAG_PR_NVK:0 "¦ep¨a¢e Hª¢xo¢" #GetTagPR
+ TAG_PR_EJZ:0 "ƒ³°xa«e" #GetTagPR
+ TAG_PR_NHX:0 "‹¦¼¥e" #GetTagPR
+ #Государства, отвечающие на вопрос "Кому?"
+ TAG_DT_DYN:0 "¦ep¨a¢e [Root.GetName]" #GetTagDT
+ TAG_DT_ADA:0 "A¦a®¾" #GetTagDT
+ TAG_DT_ADE:0 "A¦e°³" #GetTagDT
+ TAG_DT_AKK:0 "A¬-Ko¾°®³" #GetTagDT
+ TAG_DT_ALB:0 "A® a°ªª" #GetTagDT
+ TAG_DT_ALG:0 "A®¨ªp³" #GetTagDT
+ TAG_DT_ALH:0 "Xace" #GetTagDT
+ TAG_DT_ALS:0 "C²pac ³p¥³" #GetTagDT
+ TAG_DT_AMG:0 "Ap¯a°»÷¬³" #GetTagDT
+ TAG_DT_ANH:0 "A°¥a®»²³" #GetTagDT
+ TAG_DT_ANN:0 "A°°a¯³" #GetTagDT
+ TAG_DT_ANS:0 "A°c ax³" #GetTagDT
+ TAG_DT_ARA:0 "Apa¥o°³" #GetTagDT
+ TAG_DT_ARK:0 "Apa¬a°³" #GetTagDT
+ TAG_DT_ARM:0 "Ap¯e°ªª" #GetTagDT
+ TAG_DT_ASH:0 "A·a°²ª" #GetTagDT
+ TAG_DT_ASS:0 "Acca¯³" #GetTagDT
+ TAG_DT_AST:0 "Ac²paxa°ª" #GetTagDT
+ TAG_DT_ATH:0 "A´ª°a¯" #GetTagDT
+ TAG_DT_ATJ:0 "A¶ex³" #GetTagDT
+ TAG_DT_AUV:0 "O¢ep°ª" #GetTagDT
+ TAG_DT_AVI:0 "A¢ª°»o°³" #GetTagDT
+ TAG_DT_AYU:0 "A¾²ªª" #GetTagDT
+ TAG_DT_AZT:0 "Aµ²e¬a¯" #GetTagDT
+ TAG_DT_BAD:0 "€a¦e°³" #GetTagDT
+ TAG_DT_BLI:0 "€a®ª" #GetTagDT
+ TAG_DT_BAN:0 "€a°²e°³" #GetTagDT
+ TAG_DT_BAL:0 "€e®³¦¨ªc²a°³" #GetTagDT
+ TAG_DT_BAV:0 "€a¢apªª" #GetTagDT
+ TAG_DT_BEI:0 "€p³°e¾" #GetTagDT
+ TAG_DT_BEN:0 "€e°ª°³" #GetTagDT
+ TAG_DT_BHU:0 "€³²a°³" #GetTagDT
+ TAG_DT_BIJ:0 "€ª¦¨a±³p³" #GetTagDT
+ TAG_DT_BND:0 "€³°¦e®»xa°¦³" #GetTagDT
+ TAG_DT_BNG:0 "€e°¥a®ªª" #GetTagDT
+ TAG_DT_BOH:0 "€o¥e¯ªª" #GetTagDT
+ TAG_DT_BOS:0 "€oc°ªª" #GetTagDT
+ TAG_DT_BOU:0 "€³p o°³" #GetTagDT
+ TAG_DT_BRA:0 "€pa°¦e° ³p¥³" #GetTagDT
+ TAG_DT_BRB:0 "€pa a°²³" #GetTagDT
+ TAG_DT_BRE:0 "€pe¯e°³" #GetTagDT
+ TAG_DT_BRI:0 "€pe²a°ª" #GetTagDT
+ TAG_DT_BRR:0 "€epap³" #GetTagDT
+ TAG_DT_BRU:0 "€pa³°·¢e«¥³" #GetTagDT
+ TAG_DT_BRZ:0 "€pa©ª®ªª" #GetTagDT
+ TAG_DT_BUL:0 "€o®¥apªª" #GetTagDT
+ TAG_DT_BUR:0 "€³p¥³°¦ªª" #GetTagDT
+ TAG_DT_CAN:0 "Ka°a¦e" #GetTagDT
+ TAG_DT_CAS:0 "Kac²ª®ªª" #GetTagDT
+ TAG_DT_CAT:0 "Ka²a®o°ªª" #GetTagDT
+ TAG_DT_CEP:0 "Kop´³" #GetTagDT
+ TAG_DT_CHA:0 "T÷¯±e" #GetTagDT
+ TAG_DT_CHE:0 "“epo¬ª" #GetTagDT
+ TAG_DT_CHG:0 "“a¥a²a¾" #GetTagDT
+ TAG_DT_CHK:0 "T÷¯±aca¬e" #GetTagDT
+ TAG_DT_CHL:0 "“ª®ª" #GetTagDT
+ TAG_DT_CHM:0 "“ª¯³" #GetTagDT
+ TAG_DT_CHP:0 "”a¯±a°ª" #GetTagDT
+ TAG_DT_CND:0 "ƒ¨a°¦ap³" #GetTagDT
+ TAG_DT_COL:0 "Ko®³¯ ªª" #GetTagDT
+ TAG_DT_CNN:0 "K®a°pª¬ap¦³" #GetTagDT
+ TAG_DT_COR:0 "Kopcª¬e" #GetTagDT
+ TAG_DT_CRE:0 "Kpª¬" #GetTagDT
+ TAG_DT_CRI:0 "Kpº¯³" #GetTagDT
+ TAG_DT_CRN:0 "Kop°³o®®³" #GetTagDT
+ TAG_DT_CRO:0 "Xop¢a²ªª" #GetTagDT
+ TAG_DT_CRT:0 "Kpª²³" #GetTagDT
+ TAG_DT_CYP:0 "Kª±p³" #GetTagDT
+ TAG_DT_DAI:0 "ƒa«¢»e²³" #GetTagDT
+ TAG_DT_DAN:0 "ƒa°ªª" #GetTagDT
+ TAG_DT_DAU:0 "ƒo´ª°e" #GetTagDT
+ TAG_DT_DLH:0 "ƒe®ª" #GetTagDT
+ TAG_DT_DUL:0 "ƒ³®¬a¦ªp³" #GetTagDT
+ TAG_DT_DUR:0 "ƒ³ppa°ª" #GetTagDT
+ TAG_DT_ENG:0 "A°¥®ªª" #GetTagDT
+ TAG_DT_ETH:0 "™´ªo±ªª" #GetTagDT
+ TAG_DT_FER:0 "‘eppape" #GetTagDT
+ TAG_DT_FEZ:0 "‘ec³" #GetTagDT
+ TAG_DT_FIN:0 "‘ª°®÷°¦ªª" #GetTagDT
+ TAG_DT_FLA:0 "‘®a°¦pªª" #GetTagDT
+ TAG_DT_FOI:0 "‘³a" #GetTagDT
+ TAG_DT_FRA:0 "‘pa°µªª" #GetTagDT
+ TAG_DT_FRI:0 "‘pªc®a°¦ªª" #GetTagDT
+ TAG_DT_GBR:0 "Be®ª¬o pª²a°ªª" #GetTagDT
+ TAG_DT_GDW:1 "‚apx³" #GetTagDT
+ TAG_DT_GEL:0 "‚e®»¦ep°³" #GetTagDT
+ TAG_DT_GEN:0 "‚e°³e" #GetTagDT
+ TAG_DT_GEO:0 "‚p³©ªª" #GetTagDT
+ TAG_DT_GER:0 "‚ep¯a°ªª" #GetTagDT
+ TAG_DT_GOL:0 "€o®»·o« Op¦e" #GetTagDT
+ TAG_DT_GOT:0 "‚o²®a°¦³" #GetTagDT
+ TAG_DT_GRA:0 "‚pa°a¦e" #GetTagDT
+ TAG_DT_GRE:0 "‚peµªª" #GetTagDT
+ TAG_DT_GUJ:0 "‚³¦¨apa²³" #GetTagDT
+ TAG_DT_GUY:0 "‚ac¬o°ª" #GetTagDT
+ TAG_DT_HAB:0 "A¢c²pªª" #GetTagDT
+ TAG_DT_HAI:0 "‚e°°e¥a³" #GetTagDT
+ TAG_DT_HAM:0 "‚a¯ ³p¥³" #GetTagDT
+ TAG_DT_HAN:0 "‚a°°o¢ep³" #GetTagDT
+ TAG_DT_HAU:0 "Xa³ce" #GetTagDT
+ TAG_DT_HED:0 "Xª¦¨a©³" #GetTagDT
+ TAG_DT_HES:0 "‚ecce°³" #GetTagDT
+ TAG_DT_HOL:0 "‚o®®a°¦ªª" #GetTagDT
+ TAG_DT_HUN:0 "Be°¥pªª" #GetTagDT
+ TAG_DT_HUR:0 "‚³po°a¯" #GetTagDT
+ TAG_DT_INC:0 "†°¬a¯" #GetTagDT
+ TAG_DT_IRE:0 "†p®a°¦ªª" #GetTagDT
+ TAG_DT_IRO:0 "†po¬e©a¯" #GetTagDT
+ TAG_DT_ITA:0 "†²a®ªª" #GetTagDT
+ TAG_DT_JAP:0 "×±o°ªª" #GetTagDT
+ TAG_DT_KAR:0 "Kapa¯a°³" #GetTagDT
+ TAG_DT_KAZ:0 "Ka©a°ª" #GetTagDT
+ TAG_DT_KBO:0 "€op°³" #GetTagDT
+ TAG_DT_KHA:0 "Mo°¥o®a¯" #GetTagDT
+ TAG_DT_KHD:0 "Xa°¦e·³" #GetTagDT
+ TAG_DT_KHI:0 "Xª¢e" #GetTagDT
+ TAG_DT_KHM:0 "Kx¯epa¯" #GetTagDT
+ TAG_DT_KLE:0 "K®e¢e" #GetTagDT
+ TAG_DT_KNI:0 "‚oc±ª²a®»epa¯" #GetTagDT
+ TAG_DT_KOK:0 "‘ep¥a°³" #GetTagDT
+ TAG_DT_KOL:0 "Kë®»°³" #GetTagDT
+ TAG_DT_KON:0 "Ko°¥o" #GetTagDT
+ TAG_DT_KOR:0 "Kopee" #GetTagDT
+ TAG_DT_KRK:0 "Kap°a²ª¬e" #GetTagDT
+ TAG_DT_KSH:0 "Ka·¯ªp³" #GetTagDT
+ TAG_DT_KUR:0 "K³p®÷°¦ªª" #GetTagDT
+ TAG_DT_KZH:0 "Ka©axa¯" #GetTagDT
+ TAG_DT_LAN:0 "‘®ope°µªª" #GetTagDT
+ TAG_DT_LAP:0 "ˆa-‰®a²e" #GetTagDT
+ TAG_DT_LEI:0 "ˆe°c²ep³" #GetTagDT
+ TAG_DT_LIE:0 "ˆ»e¨³" #GetTagDT
+ TAG_DT_LIT:0 "ˆª²¢e" #GetTagDT
+ TAG_DT_LNA:0 "ˆa°°e" #GetTagDT
+ TAG_DT_LOA:0 "ˆoa°¥o" #GetTagDT
+ TAG_DT_LOR:0 "ˆo²apª°¥ªª" #GetTagDT
+ TAG_DT_LOU:0 "ˆ³ª©ªa°e" #GetTagDT
+ TAG_DT_LUA:0 "ˆ³a°¥±xa a°¥³" #GetTagDT
+ TAG_DT_LUN:0 "ˆ¾°e ³p¥³" #GetTagDT
+ TAG_DT_LUX:0 "ˆ¾¬ce¯ ³p¥³" #GetTagDT
+ TAG_DT_LXA:0 "ˆa°ca°¥³" #GetTagDT
+ TAG_DT_MAD:0 "Ma¦³pa¾" #GetTagDT
+ TAG_DT_MAG:0 "Ma¥¦e ³p¥³" #GetTagDT
+ TAG_DT_MAI:0 "Ma«°µ³" #GetTagDT
+ TAG_DT_MAL:0 "Ma®ª" #GetTagDT
+ TAG_DT_MAM:0 "Ma¯®¾¬a¯" #GetTagDT
+ TAG_DT_MAN:0 "Ma°²³e" #GetTagDT
+ TAG_DT_MAY:0 "Ma«÷" #GetTagDT
+ TAG_DT_MAZ:0 "Ma©o¢ªª" #GetTagDT
+ TAG_DT_MCH:0 "Ma°»¶¨³pªª" #GetTagDT
+ TAG_DT_MEX:0 "Me¬cª¬e" #GetTagDT
+ TAG_DT_MKL:0 "Me¬®e° ³p¥³" #GetTagDT
+ TAG_DT_MKS:0 "Ma¬acap³" #GetTagDT
+ TAG_DT_MLC:0 "Ma®a¬¬e" #GetTagDT
+ TAG_DT_MLO:0 "Mª®a°³" #GetTagDT
+ TAG_DT_MLW:0 "Ma®»¢e" #GetTagDT
+ TAG_DT_MNG:0 "Mª°³" #GetTagDT
+ TAG_DT_MNS:0 "To¯o°¦³" #GetTagDT
+ TAG_DT_MOD:0 "Mo¦e°e" #GetTagDT
+ TAG_DT_MOE:0 "Mopee" #GetTagDT
+ TAG_DT_MOL:0 "Mo®¦a¢ªª" #GetTagDT
+ TAG_DT_MON:0 "“ep°o¥opªª" #GetTagDT
+ TAG_DT_MOR:0 "Mapo¬¬o" #GetTagDT
+ TAG_DT_MOS:0 "Moc¬¢e" #GetTagDT
+ TAG_DT_MTR:0 "Ma²apa¯³" #GetTagDT
+ TAG_DT_MUG:0 "Be®ª¬ª¯ Mo¥o®a¯" #GetTagDT
+ TAG_DT_MUN:0 "M¾°c²ep³" #GetTagDT
+ TAG_DT_MYS:0 "Ma«c³p³" #GetTagDT
+ TAG_DT_NAJ:0 "He¦¨¦³" #GetTagDT
+ TAG_DT_NAV:0 "Ha¢appe" #GetTagDT
+ TAG_DT_NAX:0 "Ha¬coc³" #GetTagDT
+ TAG_DT_NED:0 "Hª¦ep®a°¦a¯" #GetTagDT
+ TAG_DT_NEV:0 "He¢ep³" #GetTagDT
+ TAG_DT_NOG:0 "Ho¥a«µa¯" #GetTagDT
+ TAG_DT_NOL:0 "Hop²³¯ pªª" #GetTagDT
+ TAG_DT_NOR:0 "Hop¢e¥ªª" #GetTagDT
+ TAG_DT_NOV:0 "Ho¢¥opo¦³" #GetTagDT
+ TAG_DT_NPL:0 "He±a®³" #GetTagDT
+ TAG_DT_NRM:0 "Hop¯a°¦ªª" #GetTagDT
+ TAG_DT_NUB:0 "Ce°°ap³" #GetTagDT
+ TAG_DT_ODH:0 "A¢a¦x³" #GetTagDT
+ TAG_DT_OIR:0 "O«pa²a¯" #GetTagDT
+ TAG_DT_OLD:0 "O®»¦e° ³p¥³" #GetTagDT
+ TAG_DT_OMA:0 "O¯a°³" #GetTagDT
+ TAG_DT_ORI:0 "Opªcce" #GetTagDT
+ TAG_DT_ORL:0 "Op®ea°³" #GetTagDT
+ TAG_DT_OYO:0 "O«o" #GetTagDT
+ TAG_DT_PAL:0 "‰´a®»µ³" #GetTagDT
+ TAG_DT_PAP:0 "‰a±c¬o« o ®ac²ª" #GetTagDT
+ TAG_DT_PAR:0 "‰ap¯e" #GetTagDT
+ TAG_DT_PAT:0 "‰a²²a°ª" #GetTagDT
+ TAG_DT_PEG:0 "‰e¥³" #GetTagDT
+ TAG_DT_PER:0 "‰epcªª" #GetTagDT
+ TAG_DT_PEU:0 "‰ep³" #GetTagDT
+ TAG_DT_PIC:0 "‰ª¬ap¦ªª" #GetTagDT
+ TAG_DT_PIS:0 "‰ª©e" #GetTagDT
+ TAG_DT_POL:0 "‰o®»·e" #GetTagDT
+ TAG_DT_POM:0 "‰o¯epa°ªª" #GetTagDT
+ TAG_DT_POR:0 "‰op²³¥a®ªª" #GetTagDT
+ TAG_DT_PRO:0 "‰po¢a°c³" #GetTagDT
+ TAG_DT_PRU:0 "‰p³ccªª" #GetTagDT
+ TAG_DT_PSK:0 "‰c¬o¢³" #GetTagDT
+ TAG_DT_PUN:0 "‰e°¦¨a ³" #GetTagDT
+ TAG_DT_QAR:0 "Kapa-Ko¾°®³" #GetTagDT
+ TAG_DT_QAS:0 "Kacª¯o¢³" #GetTagDT
+ TAG_DT_QUE:0 "K¢e e¬³" #GetTagDT
+ TAG_DT_RAG:0 "Pa¥³©e" #GetTagDT
+ TAG_DT_RAJ:0 "Pa¦¨±³²a°³" #GetTagDT
+ TAG_DT_REB:0 "±o¢c²a°µa¯" #GetTagDT
+ TAG_DT_RIG:0 "Pª¥e" #GetTagDT
+ TAG_DT_RUS:0 "Poccªª" #GetTagDT
+ TAG_DT_RYA:0 "P÷©a°ª" #GetTagDT
+ TAG_DT_RYU:0 "P¾¬¾" #GetTagDT
+ TAG_DT_SAR:0 "Cap¦ª°ªª" #GetTagDT
+ TAG_DT_SAV:0 "Ca¢o«e" #GetTagDT
+ TAG_DT_SAX:0 "Ca¬co°ªª" #GetTagDT
+ TAG_DT_SCO:0 "”o²®a°¦ªª" #GetTagDT
+ TAG_DT_SER:0 "Cep ªª" #GetTagDT
+ TAG_DT_SHA:0 "”a³°ª" #GetTagDT
+ TAG_DT_SHL:0 "‚o®»·²e«°³" #GetTagDT
+ TAG_DT_SHR:0 "”ap¦¨ª" #GetTagDT
+ TAG_DT_SHY:0 "‹© e¬a¯" #GetTagDT
+ TAG_DT_SIB:0 "Cª ªpª" #GetTagDT
+ TAG_DT_SIC:0 "Cªµª®ªª" #GetTagDT
+ TAG_DT_SIE:0 "Cªe°e" #GetTagDT
+ TAG_DT_SIL:0 "Cª®e©ªª" #GetTagDT
+ TAG_DT_SLZ:0 "…a®»µ ³p¥³" #GetTagDT
+ TAG_DT_SND:1 "Cª°¦³" #GetTagDT
+ TAG_DT_SOF:0 "Ce¥³" #GetTagDT
+ TAG_DT_SON:0 "Co°¥a¾" #GetTagDT
+ TAG_DT_SPA:0 "†c±a°ªª" #GetTagDT
+ TAG_DT_SST:0 "”a°³" #GetTagDT
+ TAG_DT_STY:0 "”²ªpªª" #GetTagDT
+ TAG_DT_SUL:0 "C³®³" #GetTagDT
+ TAG_DT_SWE:0 "”¢eµªª" #GetTagDT
+ TAG_DT_SWI:0 "”¢e«µapªª" #GetTagDT
+ TAG_DT_TAU:0 "Ta³°¥³" #GetTagDT
+ TAG_DT_TEU:0 "Te¢²o°c¬o¯³ op¦e°³" #GetTagDT
+ TAG_DT_THU:0 "T¾pª°¥ªª" #GetTagDT
+ TAG_DT_TIB:0 "Tª e²³" #GetTagDT
+ TAG_DT_TIM:0 "Tª¯³pª¦a¯" #GetTagDT
+ TAG_DT_TIR:0 "Tªpo®¾" #GetTagDT
+ TAG_DT_TOK:0 "To°¬ª°³" #GetTagDT
+ TAG_DT_TOU:0 "T³®³©e" #GetTagDT
+ TAG_DT_TRA:0 "Tpa°cª®»¢a°ªª" #GetTagDT
+ TAG_DT_TRE:0 "Tpa±e©³°¦³" #GetTagDT
+ TAG_DT_TRI:0 "Tpªp³" #GetTagDT
+ TAG_DT_TRP:0 "Tpª±o®ª" #GetTagDT
+ TAG_DT_TRV:0 "Tpa¢a°¬op³" #GetTagDT
+ TAG_DT_TUN:0 "T³°ªc³" #GetTagDT
+ TAG_DT_TUR:0 "Oc¯a°a¯" #GetTagDT
+ TAG_DT_TUS:0 "Toc¬a°e" #GetTagDT
+ TAG_DT_TVE:0 "T¢epª" #GetTagDT
+ TAG_DT_TYR:0 "Tªpo°³" #GetTagDT
+ TAG_DT_UKR:0 "P³cª°ªª" #GetTagDT
+ TAG_DT_URB:0 "‹p ª°o" #GetTagDT
+ TAG_DT_USA:0 "Coe¦ª°ë°°º¯ ”²a²a¯" #GetTagDT
+ TAG_DT_UTR:0 "‹²pex²³" #GetTagDT
+ TAG_DT_WAL:0 "Ba®axªª" #GetTagDT
+ TAG_DT_WBG:0 "B¾pµ ³p¥³" #GetTagDT
+ TAG_DT_VEN:0 "Be°eµªª" #GetTagDT
+ TAG_DT_VIE:0 "B»e°²»÷°³" #GetTagDT
+ TAG_DT_VIJ:0 "Bª¦¨a÷°a¥ap³" #GetTagDT
+ TAG_DT_WLS:0 "‹¼®»c³" #GetTagDT
+ TAG_DT_WUR:0 "B¾p²e¯ ep¥³" #GetTagDT
+ TAG_DT_YAR:0 "×poc®a¢®¾" #GetTagDT
+ TAG_DT_YOR:0 "A°¦xpe" #GetTagDT
+ TAG_DT_ZAP:0 "Ca±o²e¬a¯" #GetTagDT
+ TAG_DT_ZAZ:0 "…a±opo¨c¬o« ce¶ª" #GetTagDT
+ TAG_DT_ZIM:0 "Mo°o¯o²a±³" #GetTagDT
+ TAG_DT_NIZ:0 "ƒe¢a-€e°¥a®¾" #GetTagDT
+ TAG_DT_BAS:0 "Ax¯a¦°a¥ap³" #GetTagDT
+ TAG_DT_NAT:0 "²³©e¯µa¯" #GetTagDT
+ TAG_DT_PIR:0 "¬a±epa¯" #GetTagDT
+ TAG_DT_AMA:0 "A¯a¥o" #GetTagDT
+ TAG_DT_ASA:0 "Aca¬³p³" #GetTagDT
+ TAG_DT_CSK:0 "Tëco¬a ¼" #GetTagDT
+ TAG_DT_DTE:0 "ƒa²¼" #GetTagDT
+ TAG_DT_HJO:0 "Xo¦©ë" #GetTagDT
+ TAG_DT_HSK:0 "Xoco¬a¢e" #GetTagDT
+ TAG_DT_HTK:0 "Xa²a¬¼÷¯e" #GetTagDT
+ TAG_DT_IKE:0 "†¬¼¦a" #GetTagDT
+ TAG_DT_IMG:0 "†¯a¥a¢e" #GetTagDT
+ TAG_DT_MAE:0 "Ma¼¦a" #GetTagDT
+ TAG_DT_MRI:0 "Mopª" #GetTagDT
+ TAG_DT_ODA:0 "O¦e" #GetTagDT
+ TAG_DT_OTM:0 "O²o¯o" #GetTagDT
+ TAG_DT_OUC:0 "O³²ª" #GetTagDT
+ TAG_DT_SBA:0 "Cª a" #GetTagDT
+ TAG_DT_SMZ:0 "Cª¯a¦©e" #GetTagDT
+ TAG_DT_TKD:0 "Ta¬¼¦e" #GetTagDT
+ TAG_DT_TKG:0 "To¬³¥a¢e" #GetTagDT
+ TAG_DT_UES:0 "‹¼c³¥ª" #GetTagDT
+ TAG_DT_YMN:0 "×¯a°e" #GetTagDT
+ TAG_DT_JNP:0 "ƒ¨a³°±³p³" #GetTagDT
+ TAG_DT_MAW:0 "Map¢ap³" #GetTagDT
+ TAG_DT_MER:0 "Me¢ap³" #GetTagDT
+ TAG_DT_MUL:0 "M³®²a°³" #GetTagDT
+ TAG_DT_JAN:0 "ƒ¨a°¥®a¦e·³" #GetTagDT
+ TAG_DT_GRJ:0 "‚ap»÷²³" #GetTagDT
+ TAG_DT_GWA:0 "‚¢a®ªop³" #GetTagDT
+ TAG_DT_DHU:0 "ƒx³°¦xap³" #GetTagDT
+ TAG_DT_KLN:0 "Ke®a¦ª" #GetTagDT
+ TAG_DT_MAB:1 "Ka®ª¬³²³" #GetTagDT
+ TAG_DT_MEW:0 "Me¢a²³" #GetTagDT
+ TAG_DT_BST:0 "€ac²ap³" #GetTagDT
+ TAG_DT_JSL:0 "ƒ¨a«ca®¯ep³" #GetTagDT
+ TAG_DT_KAC:0 "Ka¶ap³" #GetTagDT
+ TAG_DT_KMT:0 "K³¶³" #GetTagDT
+ TAG_DT_KGR:0 "Ka°¥pe" #GetTagDT
+ TAG_DT_KAT:1 "Ka¶³" #GetTagDT
+ TAG_DT_KOC:0 "Ko¶¶ª" #GetTagDT
+ TAG_DT_AHM:0 "A³pe°¥a a¦³" #GetTagDT
+ TAG_DT_BAH:0 "€ax¯a°ª" #GetTagDT
+ TAG_DT_NAG:0 "Ha¥±³p³" #GetTagDT
+ TAG_DT_BDA:0 "€apo¦³" #GetTagDT
+ TAG_DT_GOC:0 "‚o®¬o°¦³" #GetTagDT
+ TAG_DT_MAR:0 "Mapa²x³" #GetTagDT
+ TAG_DT_VND:0 "Be°a¦³" #GetTagDT
+ TAG_DT_DEC:0 "ƒe¬a°³" #GetTagDT
+ TAG_DT_CZH:0 "“¨o³" #GetTagDT
+ TAG_DT_CSH:0 "”³°»" #GetTagDT
+ TAG_DT_CXI:0 "Cª" #GetTagDT
+ TAG_DT_JOL:0 "ƒ¨o®o´³" #GetTagDT
+ TAG_DT_PLC:0 "Pe¶ª ‰oc±o®ª²o«" #GetTagDT
+ TAG_DT_PRM:0 "‰ep¯ª" #GetTagDT
+ TAG_DT_CEY:1 "Ko²²e" #GetTagDT
+ TAG_DT_AFG:0 "A´¥a°ªc²a°³" #GetTagDT
+ TAG_DT_QNG:0 "’ª°" #GetTagDT
+ TAG_DT_ABE:0 "A e°a¬a¯" #GetTagDT
+ TAG_DT_APA:0 "A±a¶ª" #GetTagDT
+ TAG_DT_ASI:0 "Accª°ª o«°a¯" #GetTagDT
+ TAG_DT_BLA:0 "“ep°o°o¥ª¯" #GetTagDT
+ TAG_DT_CAD:0 "K¼¦¦o" #GetTagDT
+ TAG_DT_CHI:0 "“ª¬aco" #GetTagDT
+ TAG_DT_CHO:0 "“o¬²o" #GetTagDT
+ TAG_DT_CHY:0 "”a«e°°a¯" #GetTagDT
+ TAG_DT_COM:0 "Ko¯a°¶ª" #GetTagDT
+ TAG_DT_FOX:0 "Mec¬¢o¬a¯" #GetTagDT
+ TAG_DT_ILL:0 "†®®ª°o«ca¯" #GetTagDT
+ TAG_DT_LEN:0 "ƒe®a¢apa¯" #GetTagDT
+ TAG_DT_MIK:0 "Mª¬¯a¬a¯" #GetTagDT
+ TAG_DT_MMI:0 "Ma«a¯ª" #GetTagDT
+ TAG_DT_MAH:0 "Mo¥ª¬a°a¯" #GetTagDT
+ TAG_DT_NAH:0 "Ha¢axo" #GetTagDT
+ TAG_DT_OJI:0 "O¦¨ª ¢e" #GetTagDT
+ TAG_DT_OSA:0 "Oce«¦¨a¯" #GetTagDT
+ TAG_DT_OTT:0 "O²²a¢e" #GetTagDT
+ TAG_DT_PAW:0 "‰a³°ª" #GetTagDT
+ TAG_DT_PEQ:0 "‰e¬o²a¯" #GetTagDT
+ TAG_DT_PIM:0 "‰ª¯³" #GetTagDT
+ TAG_DT_POT:0 "‰o²a¢a²o¯ª" #GetTagDT
+ TAG_DT_POW:0 "‰o³xa²a°a¯" #GetTagDT
+ TAG_DT_PUE:0 "‰³¼ ®o" #GetTagDT
+ TAG_DT_SIO:0 "Cª³" #GetTagDT
+ TAG_DT_SHO:0 "”o·o°a¯" #GetTagDT
+ TAG_DT_SUS:0 "Cac¬³exa°°o¬a¯" #GetTagDT
+ TAG_DT_WCR:0 "Kpª" #GetTagDT
+ TAG_DT_ZAN:0 "Kª®¢e" #GetTagDT
+ TAG_DT_AJU:0 "A¦¨³pa°³" #GetTagDT
+ TAG_DT_MBA:0 "Mo¯ ac³" #GetTagDT
+ TAG_DT_MDI:0 "Mo¥a¦ª·o" #GetTagDT
+ TAG_DT_MLI:0 "Ma®ª°¦ª" #GetTagDT
+ TAG_DT_SFA:0 "Co´a®³" #GetTagDT
+ TAG_DT_EGY:0 "E¥ª±²³" #GetTagDT
+ TAG_DT_BUK:0 "€³xape" #GetTagDT
+ TAG_DT_BGA:0 "€a¥®a°³" #GetTagDT
+ TAG_DT_BGL:1 "€a¥e®xa°¦³" #GetTagDT
+ TAG_DT_CHD:0 "“a°¦³" #GetTagDT
+ TAG_DT_CMP:0 "Pe¢³ Ka°²ª" #GetTagDT
+ TAG_DT_GHR:0 "‚apx¢a®³" #GetTagDT
+ TAG_DT_HAD:0 "Xa¦o²ª" #GetTagDT
+ TAG_DT_JAJ:0 "Xa ca°³" #GetTagDT
+ TAG_DT_JFN:0 "ƒ¨a´°e" #GetTagDT
+ TAG_DT_LDK:0 "ˆa¦a¬x³" #GetTagDT
+ TAG_DT_MLB:0 "Ma°ª±³p³" #GetTagDT
+ TAG_DT_NGA:0 "Ha¥a³p³" #GetTagDT
+ TAG_DT_NGP:0 "ƒ¨ap¬xa°¦³" #GetTagDT
+ TAG_DT_PTA:0 "‰a²ªa®³" #GetTagDT
+ TAG_DT_RMP:0 "Poxª®¬xa°¦³" #GetTagDT
+ TAG_DT_SDY:0 "Ca¦ªª" #GetTagDT
+ TAG_DT_TPR:0 "Tpª±³p³" #GetTagDT
+ TAG_DT_TRT:0 "Tªpx³²³" #GetTagDT
+ TAG_DT_CIR:0 "“ep¬ecªª" #GetTagDT
+ TAG_DT_GAZ:0 "‚a©ª¬³¯³x³" #GetTagDT
+ TAG_DT_IME:0 "†¯epe²ªª" #GetTagDT
+ TAG_DT_TAB:1 "Ma©a°¦apa°³" #GetTagDT
+ TAG_DT_MYR:0 "E¨¼°¾" #GetTagDT
+ TAG_DT_MHX:0 "Xa«cª" #GetTagDT
+ TAG_DT_KRC:0 "Xop¶ª°a¯" #GetTagDT
+ TAG_DT_KLK:0 "Xa®xe" #GetTagDT
+ TAG_DT_DGL:0 "Ma®»¦ª¢a¯" #GetTagDT
+ TAG_DT_HMI:0 "Kapa ƒe®³" #GetTagDT
+ TAG_DT_ZUN:0 "ƒ¨³°¥ap³" #GetTagDT
+ TAG_DT_KAS:0 "×p¬e°¦³" #GetTagDT
+ TAG_DT_KSD:0 "Xo·³²a¯" #GetTagDT
+ TAG_DT_SYG:0 "Capº¥ ›¥³p³" #GetTagDT
+ TAG_DT_UTS:1 "’a°¥³" #GetTagDT
+ TAG_DT_KAM:0 "Ka¯³" #GetTagDT
+ TAG_DT_GUG:0 "‚³¥e" #GetTagDT
+ TAG_DT_TMB:0 "Tª¯ ³¬²³" #GetTagDT
+ TAG_DT_AIR:0 "A¥a¦ec³" #GetTagDT
+ TAG_DT_MSI:0 "Mocª" #GetTagDT
+ TAG_DT_KTS:0 "Kaµª°e" #GetTagDT
+ TAG_DT_KAN:0 "Ka°o" #GetTagDT
+ TAG_DT_FUL:0 "‘³®o" #GetTagDT
+ TAG_DT_BON:0 "€o°o¯a°³" #GetTagDT
+ TAG_DT_DAH:0 "ƒa¥o¯ee" #GetTagDT
+ TAG_DT_DGB:0 "ƒa¥o¯ e" #GetTagDT
+ TAG_DT_JNN:0 "ƒ¨e°°e" #GetTagDT
+ TAG_DT_KBU:0 "‚a ³" #GetTagDT
+ TAG_DT_KNG:0 "‹a²²ap³" #GetTagDT
+ TAG_DT_NUP:0 "H³±e" #GetTagDT
+ TAG_DT_YAO:0 "×o" #GetTagDT
+ TAG_DT_YAT:0 "×²e°¥ª" #GetTagDT
+ TAG_DT_ZAF:0 "Maccª°e" #GetTagDT
+ TAG_DT_ZZZ:0 "…apªª" #GetTagDT
+ TAG_DT_ARD:0 "Ap¦a®a°³" #GetTagDT
+ TAG_DT_BHT:1 "Copa°³" #GetTagDT
+ TAG_DT_ERE:0 "™pe²°e" #GetTagDT
+ TAG_DT_LEB:0 "ˆª¢a°³" #GetTagDT
+ TAG_DT_MAK:0 "M³¬³pp³" #GetTagDT
+ TAG_DT_SHM:0 "”a¯¯ap³" #GetTagDT
+ TAG_DT_ARB:0 "Apa¢ªª" #GetTagDT
+ TAG_DT_GRM:0 "‚ep¯ª÷°³" #GetTagDT
+ TAG_DT_MPH:0 "M³a° ‰³a°³" #GetTagDT
+ TAG_DT_LIG:0 "ˆª¥op³" #GetTagDT
+ TAG_DT_JOH:0 "ƒ¨oxop³" #GetTagDT
+ TAG_DT_KED:0 "Ke¦ax³" #GetTagDT
+ TAG_DT_PRK:0 "‰epa¬³" #GetTagDT
+ TAG_DT_HSE:0 "Xce°¢ª" #GetTagDT
+ TAG_DT_MYA:0 "Mo° ×°³" #GetTagDT
+ TAG_DT_AVA:0 "A¢e" #GetTagDT
+ TAG_DT_FEO:0 "‘eo¦opo" #GetTagDT
+ TAG_DT_VOL:0 "Bo®º°ª" #GetTagDT
+ TAG_DT_KIE:0 "Kªe¢³" #GetTagDT
+ TAG_DT_CHR:0 "“ep°ª¥o¢³" #GetTagDT
+ TAG_DT_CHU:0 "“³¬¶a¯" #GetTagDT
+ TAG_DT_HOD:0 "Xo¦º°µa¯" #GetTagDT
+ TAG_DT_CHV:0 "“a¢¶³¢e°a¯" #GetTagDT
+ TAG_DT_KMC:0 "Ka¯¶a¦a®a¯" #GetTagDT
+ TAG_DT_BRT:0 "€³p÷²a¯" #GetTagDT
+ TAG_DT_BSH:0 "€a·¬ªpªª" #GetTagDT
+ TAG_DT_TLC:0 "T®e¯ce°³" #GetTagDT
+ TAG_DT_MZB:0 "M©a ³" #GetTagDT
+ TAG_DT_TGT:0 "T³¥¥³p²³" #GetTagDT
+ TAG_DT_GHD:0 "ƒ¨epª¦³" #GetTagDT
+ TAG_DT_FZA:0 "‘³©©a°³" #GetTagDT
+ TAG_DT_KBA:0 "Ka ª®ªª" #GetTagDT
+ TAG_DT_SOS:0 "C³c³" #GetTagDT
+ TAG_DT_TFL:0 "Ta´ª®a®»²³" #GetTagDT
+ TAG_DT_ARP:0 "Apa±axo" #GetTagDT
+ TAG_DT_CNK:0 "”ª°³¬³" #GetTagDT
+ TAG_DT_COC:0 "Ko¬o¯a¯" #GetTagDT
+ TAG_DT_XIU:0 "”¬ª±¶e" #GetTagDT
+ TAG_DT_HDA:0 "Xa«¦³" #GetTagDT
+ TAG_DT_ITZ:0 "†µ³" #GetTagDT
+ TAG_DT_KIC:0 "Kª¶e" #GetTagDT
+ TAG_DT_KIO:0 "Ka«o¢a¯" #GetTagDT
+ TAG_DT_MIX:0 "Mª·²e¬a¯" #GetTagDT
+ TAG_DT_SAL:0 "Ca®ª·ª" #GetTagDT
+ TAG_DT_TAR:0 "Tapac¬o" #GetTagDT
+ TAG_DT_TLA:0 "T®a¬o±a°³" #GetTagDT
+ TAG_DT_TLX:0 "T®a·¬a®e" #GetTagDT
+ TAG_DT_TOT:0 "To²o°a¬a¯" #GetTagDT
+ TAG_DT_WIC:0 "‹ª¶ª²o" #GetTagDT
+ TAG_DT_CLM:0 "Ko®ª¯e" #GetTagDT
+ TAG_DT_BLM:0 "€®a¯ a°¥a°³" #GetTagDT
+ TAG_DT_CRB:0 "“ªpe o°³" #GetTagDT
+ TAG_DT_DMK:0 "ƒe¯a¬³" #GetTagDT
+ TAG_DT_PGR:0 "‰a¥ap³¾°¥³" #GetTagDT
+ TAG_DT_PLB:0 "‰a®e¯ a°¥³" #GetTagDT
+ TAG_DT_PSA:0 "‰aca«e" #GetTagDT
+ TAG_DT_SAK:0 "Cªa¬³" #GetTagDT
+ TAG_DT_SUN:0 "C³°¦³" #GetTagDT
+ TAG_DT_MJZ:0 "’©÷°»¶¨o³" #GetTagDT
+ TAG_DT_SRV:0 "”ªp¢a°³" #GetTagDT
+ TAG_DT_MIN:0 "Mª°»" #GetTagDT
+ TAG_DT_YUE:0 "›¼" #GetTagDT
+ TAG_DT_SHU:0 "”³" #GetTagDT
+ TAG_DT_NNG:0 "Hª°c÷" #GetTagDT
+ TAG_DT_CHC:0 "“³" #GetTagDT
+ TAG_DT_TNG:0 "Ta°" #GetTagDT
+ TAG_DT_QIC:0 "’ª" #GetTagDT
+ TAG_DT_YAN:0 "×°»" #GetTagDT
+ TAG_DT_JIN:0 "’©ª°»" #GetTagDT
+ TAG_DT_LNG:0 "ˆ÷°" #GetTagDT
+ TAG_DT_HUA:0 "X³a«xe" #GetTagDT
+ TAG_DT_CGS:0 "“a°·¼°" #GetTagDT
+ TAG_DT_CAB:0 "Kapª a¯" #GetTagDT
+ TAG_DT_LON:0 "ˆeo°³" #GetTagDT
+ TAG_DT_ICM:0 "†¶¯e" #GetTagDT
+ TAG_DT_NUM:0 "H¾p° ep¥³" #GetTagDT
+ TAG_DT_AUS:0 "A¢c²pa®ªª" #GetTagDT
+ TAG_DT_BTI:0 "Cº¯e°³" #GetTagDT
+ TAG_DT_MTH:0 "Mª²³" #GetTagDT
+ TAG_DT_ADU:0 "A°¦a®³cªª" #GetTagDT
+ TAG_DT_MEM:0 "Me¯¯ª°¥e°³" #GetTagDT
+ TAG_DT_VER:0 "‘ep¦e°³" #GetTagDT
+ TAG_DT_NSA:0 "Hacca³" #GetTagDT
+ TAG_DT_RVA:0 "ƒop²¯³°¦³" #GetTagDT
+ TAG_DT_MFA:0 "Mo°´eppa²³" #GetTagDT
+ TAG_DT_LUC:0 "ˆ³¬¬e" #GetTagDT
+ TAG_DT_LVA:0 "ˆª¢o°ªª" #GetTagDT
+ TAG_DT_EST:0 "™c²o°ªª" #GetTagDT
+ TAG_DT_SMI:0 "ˆa±®a°¦ªª" #GetTagDT
+ TAG_DT_ORM:0 "Op¯³©³" #GetTagDT
+ TAG_DT_KRL:0 "Kape®ªª" #GetTagDT
+ TAG_DT_JAI:0 "Ma®»²e" #GetTagDT
+ TAG_DT_KUB:0 "K³ e" #GetTagDT
+ TAG_DT_KLD:0 "Ka®³°¦¢³" #GetTagDT
+ TAG_DT_YAK:0 "×¬ª" #GetTagDT
+ TAG_DT_KZB:0 "Ka©e¯ ³" #GetTagDT
+ TAG_DT_KIK:0 "Kª¬o°¨ª" #GetTagDT
+ TAG_DT_CKW:0 "“o¬¢e" #GetTagDT
+ TAG_DT_LND:0 "ˆ³°¦³" #GetTagDT
+ TAG_DT_LUB:0 "ˆ³ e" #GetTagDT
+ TAG_DT_KSJ:0 "Kaca°¦¨ª" #GetTagDT
+ TAG_DT_SYO:0 "Co«o" #GetTagDT
+ TAG_DT_TYO:0 "To«o" #GetTagDT
+ TAG_DT_BSG:0 "€³co¥ª" #GetTagDT
+ TAG_DT_BNY:0 "€³°»opo" #GetTagDT
+ TAG_DT_KRW:0 "Kapa¥¢e" #GetTagDT
+ TAG_DT_BUG:0 "€³¥a°¦e" #GetTagDT
+ TAG_DT_RWA:0 "P³a°¦e" #GetTagDT
+ TAG_DT_NKO:0 "H»÷°¬o®e" #GetTagDT
+ TAG_DT_BUU:0 "€³p³°¦ª" #GetTagDT
+ TAG_DT_UBH:0 "€³xe" #GetTagDT
+ TAG_DT_MRA:0 "Mapa¢ª" #GetTagDT
+ TAG_DT_LDU:0 "ˆ³°¦³" #GetTagDT
+ TAG_DT_TBK:0 "T³¯ ³¬ª" #GetTagDT
+ TAG_DT_MKU:0 "Ma¬³a" #GetTagDT
+ TAG_DT_RZW:0 "€³²³a" #GetTagDT
+ TAG_DT_MIR:0 "†¯epª°e" #GetTagDT
+ TAG_DT_ANT:0 "A°²e¯opo" #GetTagDT
+ TAG_DT_SKA:0 "Ca¬a®a¢e" #GetTagDT
+ TAG_DT_MFY:0 "Maxa´a®ª" #GetTagDT
+ TAG_DT_BTS:0 "€eµª¯apa¬ª" #GetTagDT
+ TAG_DT_ULS:0 "O®»c²ep³" #GetTagDT
+ TAG_DT_DMS:0 "ƒec¯o°¦³" #GetTagDT
+ TAG_DT_ORD:0 "Op¯o°¦³" #GetTagDT
+ TAG_DT_KID:0 "Kª®¦¼p³" #GetTagDT
+ TAG_DT_MCM:0 "Ma°c²ep³" #GetTagDT
+ TAG_DT_FLY:0 "O´´a®ª" #GetTagDT
+ TAG_DT_TRY:0 "Tªp¬o°e®³" #GetTagDT
+ TAG_DT_SLN:0 "C®a«¥o" #GetTagDT
+ TAG_DT_OKA:0 "O¦oe¢³" #GetTagDT
+ TAG_DT_ICE:0 "†c®a°¦ªª" #GetTagDT
+ TAG_DT_SLO:0 "Hª²pe" #GetTagDT
+ TAG_DT_HSC:0 "‚¼®¦o¯³" #GetTagDT
+ TAG_DT_ROM:0 "Pª¯c¬o« ª¯±epªª" #GetTagDT
+ TAG_DT_DTT:0 "ƒª²¯ap·e°³" #GetTagDT
+ TAG_DT_GLH:0 "…o®o²o« Op¦e" #GetTagDT
+ TAG_DT_BEJ:0 "€e¦¨e" #GetTagDT
+ TAG_DT_JIM:0 "ƒ¨ª¯¯e" #GetTagDT
+ TAG_DT_WLY:0 "Bo®a«²³" #GetTagDT
+ TAG_DT_DAM:0 "ƒa¯o²³" #GetTagDT
+ TAG_DT_HDY:0 "Xa¦ªª" #GetTagDT
+ TAG_DT_SOA:0 "”oa" #GetTagDT
+ TAG_DT_JJI:0 "ƒ¨a°¦¨ªpo" #GetTagDT
+ TAG_DT_ENA:0 "™°°ape" #GetTagDT
+ TAG_DT_ABB:0 "ƒo°¥o®e" #GetTagDT
+ TAG_DT_AKM:0 "A¬a¯aµ³" #GetTagDT
+ TAG_DT_AKT:0 "A°¦o" #GetTagDT
+ TAG_DT_CBA:0 "Tª ³" #GetTagDT
+ TAG_DT_ISK:0 "†ccª¬ª" #GetTagDT
+ TAG_DT_ITO:0 "†²o" #GetTagDT
+ TAG_DT_KKC:0 "Kª¬³²ª" #GetTagDT
+ TAG_DT_KNO:0 "Ko°o" #GetTagDT
+ TAG_DT_OGS:0 "O¥aca¢ape" #GetTagDT
+ TAG_DT_SHN:0 "Cë°ª" #GetTagDT
+ TAG_DT_STK:0 "Ca²a¬¼" #GetTagDT
+ TAG_DT_TKI:0 "To¬ª" #GetTagDT
+ TAG_DT_UTN:0 "‹µ³°o¯ªª" #GetTagDT
+ TAG_DT_TTI:0 "’³µ³ª" #GetTagDT
+ TAG_DT_ASK:0 "Acª¬a¥e" #GetTagDT
+ TAG_DT_MVA:0 "Mopa¢ªª" #GetTagDT
+ TAG_DT_YUA:0 "›a°¾" #GetTagDT
+ TAG_DT_BLO:0 "€e®oo©ep³" #GetTagDT
+ TAG_DT_RSO:0 "Poc²o¢³" #GetTagDT
+ TAG_DT_MHR:0 "Maxp³" #GetTagDT
+ TAG_DT_HDR:0 "Xa¦pa¯a³²³" #GetTagDT
+ TAG_DT_MDA:0 "Me¦ª°e" #GetTagDT
+ TAG_DT_ANZ:0 "A°a©³" #GetTagDT
+ TAG_DT_FAD:0 "‘a¦®¾" #GetTagDT
+ TAG_DT_YAS:0 "×c³" #GetTagDT
+ TAG_DT_RAS:1 "Paccª¦a¯" #GetTagDT
+ TAG_DT_YEM:0 "‡e¯e°³" #GetTagDT
+ TAG_DT_DAW:0 "ƒa¢acªp³" #GetTagDT
+ TAG_DT_MFL:0 "Mª¬®a´³" #GetTagDT
+ TAG_DT_NJR:0 "Ha¦¨pa°³" #GetTagDT
+ TAG_DT_HSN:0 "Xaca°¬e«´³" #GetTagDT
+ TAG_DT_BTL:0 "€ª²®ªc³" #GetTagDT
+ TAG_DT_AVR:0 "A¢apªª" #GetTagDT
+ TAG_DT_MLK:0 "Kapa ax³" #GetTagDT
+ TAG_DT_SME:0 "Ca¯µxe" #GetTagDT
+ TAG_DT_ARL:0 "Ap¦e ª®¾" #GetTagDT
+ TAG_DT_MSY:0 "M³·a·³" #GetTagDT
+ TAG_DT_RUM:0 "P³¯³" #GetTagDT
+ TAG_DT_KRY:0 "‚ª®÷°³" #GetTagDT
+ TAG_DT_LRI:0 "ˆ³pªc²a°³" #GetTagDT
+ TAG_DT_SIS:0 "Cªc²a°³" #GetTagDT
+ TAG_DT_BPI:0 "€ª÷x-‰ac³" #GetTagDT
+ TAG_DT_FRS:0 "‘apc³" #GetTagDT
+ TAG_DT_KRM:0 "Kep¯a°³" #GetTagDT
+ TAG_DT_YZD:0 "×©¦³" #GetTagDT
+ TAG_DT_ISF:0 "†c´axa°³" #GetTagDT
+ TAG_DT_TBR:0 "Te pª©³" #GetTagDT
+ TAG_DT_BSR:0 "€acp³" #GetTagDT
+ TAG_DT_MGR:0 "Mapa¥ex³" #GetTagDT
+ TAG_DT_QOM:0 "A¦¨a¯³" #GetTagDT
+ TAG_DT_TRS:0 "Tpa°co¬ca°ªª" #GetTagDT
+ TAG_DT_MAS:0 "Ma¦»÷c³" #GetTagDT
+ TAG_DT_PGS:0 "‰a°¥acª°a°³" #GetTagDT
+ TAG_DT_TDO:0 "To°¦o" #GetTagDT
+ TAG_DT_MNA:0 "Ma°ª®³" #GetTagDT
+ TAG_DT_CEB:0 "Ce ³" #GetTagDT
+ TAG_DT_BTU:0 "€³²³a°³" #GetTagDT
+ TAG_DT_KTB:0 "Kª²a a²a¬¼" #GetTagDT
+ TAG_DT_KOI:0 "Ma°°³" #GetTagDT
+ TAG_DT_LOI:0 "Kopo®e¢c²¢³ Oc²po¢o¢" #GetTagDT
+ TAG_DT_MMA:0 "Mo°¥ Mao" #GetTagDT
+ TAG_DT_MKA:0 "Mo°¥ Ka³°" #GetTagDT
+ TAG_DT_MPA:0 "Mo°¥ ‰a«" #GetTagDT
+ TAG_DT_KAL:0 "Ka®e" #GetTagDT
+ TAG_DT_HSI:0 "X©ª±o" #GetTagDT
+ TAG_DT_BPR:0 "‰»ª" #GetTagDT
+ TAG_DT_MNI:0 "Mo°¥ Ha«" #GetTagDT
+ TAG_DT_MBL:0 "Bª·°³±³p³" #GetTagDT
+ TAG_DT_SKK:0 "Cª¬¬ª¯³" #GetTagDT
+ TAG_DT_IDR:0 "A«¦ap³" #GetTagDT
+ TAG_DT_NVR:0 "Ha¢a°a¥ap³" #GetTagDT
+ TAG_DT_JLV:0 "ƒ¨xa®a¢ap³" #GetTagDT
+ TAG_DT_PTL:0 "‰a®ª²a°³" #GetTagDT
+ TAG_DT_RJK:0 "Pa¦¨¬o²³" #GetTagDT
+ TAG_DT_JGD:0 "ƒ¨³°a¥a¦x³" #GetTagDT
+ TAG_DT_PRB:0 "‰op a°¦ap³" #GetTagDT
+ TAG_DT_PAN:0 "Ka®ª°¦¨ap³" #GetTagDT
+ TAG_DT_KLP:0 "Ka®±ª" #GetTagDT
+ TAG_DT_SBP:0 "Ca¯ a®±³p³" #GetTagDT
+ TAG_DT_PTT:0 "‰a²°³" #GetTagDT
+ TAG_DT_JPR:0 "ƒ¨a«±³p³" #GetTagDT
+ TAG_DT_PRD:0 "‰apa®a¬xe¯³°¦ª" #GetTagDT
+ TAG_DT_KJH:0 "Ke°¦³¦¨xap³" #GetTagDT
+ TAG_DT_KLH:0 "Ka®axa°¦ª" #GetTagDT
+ TAG_DT_RTT:0 "Pa²a°±³p³" #GetTagDT
+ TAG_DT_SRG:0 "C³p¥³¦¨³" #GetTagDT
+ TAG_DT_TLG:0 "Te®ª°¥a°³" #GetTagDT
+ TAG_DT_KLT:0 "Ko®a²x³°a¦³" #GetTagDT
+ TAG_DT_DNG:0 "ƒa°¥³" #GetTagDT
+ TAG_DT_DTI:0 "ƒo²ª" #GetTagDT
+ TAG_DT_GRK:0 "‚op¬xe" #GetTagDT
+ TAG_DT_JML:0 "ƒ¨³¯®³" #GetTagDT
+ TAG_DT_LWA:0 "ˆª¯ ³¢a°³" #GetTagDT
+ TAG_DT_MKP:0 "Ma¬¢a°±³p³" #GetTagDT
+ TAG_DT_SRM:0 "Cªp¯³p³" #GetTagDT
+ TAG_DT_KTU:0 "Ka²¯a°¦³" #GetTagDT
+ TAG_DT_KMN:0 "K³¯ao°³" #GetTagDT
+ TAG_DT_KND:0 "Ka°¦ª" #GetTagDT
+ TAG_DT_GNG:0 "‚ª°¥ª" #GetTagDT
+ TAG_DT_TNJ:0 "Ta°¦¨op³" #GetTagDT
+ TAG_DT_PHA:1 "‹" #GetTagDT
+ TAG_DT_RJP:0 "Pa¦¨±³²a°e" #GetTagDT
+ TAG_DT_SRH:0 "Cªpxª°¦³" #GetTagDT
+ TAG_DT_ILK:0 "†®»xa°a²³" #GetTagDT
+ TAG_DT_KLM:0 "Ka®¯º¬a¯" #GetTagDT
+ TAG_DT_MGE:0 "Mo°¥o®»c¬o« ª¯±epªª" #GetTagDT
+ TAG_DT_VAL:0 "Ba®e°cªª" #GetTagDT
+ TAG_DT_ASU:0 "Ac²³pªª" #GetTagDT
+ TAG_DT_SLE:0 "Ca®e" #GetTagDT
+ TAG_DT_TET:0 "Te²³a°³" #GetTagDT
+ TAG_DT_MJO:0 "Ma®»op¬e" #GetTagDT
+ TAG_DT_MAT:0 "Ma²®aµª°¬e" #GetTagDT
+ TAG_DT_COI:0 "Koª·²®a³a¬e" #GetTagDT
+ TAG_DT_TEO:0 "Teo²ª²®a°e" #GetTagDT
+ TAG_DT_XAL:0 "Xa®ªc¬o" #GetTagDT
+ TAG_DT_GAM:0 "‚³a¯ape" #GetTagDT
+ TAG_DT_HST:0 "‹a·²e¬a¯" #GetTagDT
+ TAG_DT_CCM:0 "“ª¶ª¯e¬a¯" #GetTagDT
+ TAG_DT_OTO:0 "O²o¯ª" #GetTagDT
+ TAG_DT_YOK:0 "‡o¬o²a°³" #GetTagDT
+ TAG_DT_LAC:0 "’oµª®ª" #GetTagDT
+ TAG_DT_KAQ:0 "Ka¬¶ª¬e®ª" #GetTagDT
+ TAG_DT_CTM:0 "“a¬²e¯a®ª" #GetTagDT
+ TAG_DT_KER:0 "Kepeca¯" #GetTagDT
+ TAG_DT_ZNI:0 "…³°ª" #GetTagDT
+ TAG_DT_MSC:0 "Mec¬a®epo" #GetTagDT
+ TAG_DT_LIP:0 "ˆª±a°³" #GetTagDT
+ TAG_DT_CHT:0 "“op²ª" #GetTagDT
+ TAG_DT_MIS:0 "Mªc¬ª²o" #GetTagDT
+ TAG_DT_TAI:0 "Ta«po°³" #GetTagDT
+ TAG_DT_CNP:0 "Kax ‰e¶³" #GetTagDT
+ TAG_DT_TON:0 "To°a®³" #GetTagDT
+ TAG_DT_YAQ:0 "×¬ª" #GetTagDT
+ TAG_DT_YKT:0 "‡o¬³²ca¯" #GetTagDT
+ TAG_DT_CAL:0 "Ka®ª´op°ªª" #GetTagDT
+ TAG_DT_TEX:0 "Texac³" #GetTagDT
+ TAG_DT_JMN:0 "×°-Ma«e°³" #GetTagDT
+ TAG_DT_EFR:0 "Boc²o¶°o« ‘pª©ªª" #GetTagDT
+ TAG_DT_SYN:0 "Cª°²e²ª¬a¯" #GetTagDT
+ TAG_DT_MRE:0 "Mapexa°³" #GetTagDT
+ TAG_DT_MJE:0 "Ma¦¨ªp²ª°³" #GetTagDT
+ TAG_DT_WAR:0 "Bapca°¥a®ª" #GetTagDT
+ TAG_DT_HOB:0 "Xo »o" #GetTagDT
+ TAG_DT_GLE:0 "ƒ¨e®e¦ª" #GetTagDT
+ TAG_DT_KAF:0 "Ka´´e" #GetTagDT
+ TAG_DT_MED:0 "Me¦pª €axpª" #GetTagDT
+ TAG_DT_HAR:0 "Xap¼p³" #GetTagDT
+ TAG_DT_AFA:0 "A´ap³" #GetTagDT
+ TAG_DT_ALO:0 "A®»¢e" #GetTagDT
+ TAG_DT_PTE:0 "‰a²³" #GetTagDT
+ TAG_DT_DAR:0 "ƒap´³p³" #GetTagDT
+ TAG_DT_CSU:0 "K³c¬o" #GetTagDT
+ TAG_DT_CCQ:0 "Ka®»¶a¬a¯" #GetTagDT
+ TAG_DT_MPC:0 "Ma±³¶e" #GetTagDT
+ TAG_DT_MCA:0 "M³ªc¬ª" #GetTagDT
+ TAG_DT_QTO:0 "Kª²o" #GetTagDT
+ TAG_DT_CJA:0 "Kaxa¯ap¬ª" #GetTagDT
+ TAG_DT_HJA:0 "‹ª®³" #GetTagDT
+ TAG_DT_PTG:0 "‰o²ª¥³apa¯" #GetTagDT
+ TAG_DT_TPQ:0 "T³±ª°ª¬ª°a¯" #GetTagDT
+ TAG_DT_TUA:0 "Ta±³ª" #GetTagDT
+ TAG_DT_GUA:0 "‚³apa°ª" #GetTagDT
+ TAG_DT_CUA:0 "“app³a" #GetTagDT
+ TAG_DT_WKA:0 "Ba°¬ª" #GetTagDT
+ TAG_DT_CYA:0 "“a¶a±o«ª" #GetTagDT
+ TAG_DT_CLA:0 "Ko®®e" #GetTagDT
+ TAG_DT_CRA:0 "“ap¬ª" #GetTagDT
+ TAG_DT_PCJ:0 "‰a¬axece" #GetTagDT
+ TAG_DT_TPA:0 "T³±ª°a¯ ³" #GetTagDT
+ TAG_DT_ARW:0 "Apa¢a¬a¯" #GetTagDT
+ TAG_DT_TID:0 "Tª¦ope" #GetTagDT
+ TAG_DT_TER:0 "Tep°a²³" #GetTagDT
+ TAG_DT_MGD:0 "Ma¥ª°¦a°ao" #GetTagDT
+ TAG_DT_LUW:0 "ˆ³¢e" #GetTagDT
+ TAG_DT_LNO:0 "ˆa°ao" #GetTagDT
+ TAG_DT_LFA:0 "ˆa°»´a°³" #GetTagDT
+ TAG_DT_BNJ:0 "€a°¦¨ap³" #GetTagDT
+ TAG_DT_KUT:0 "K³²a«e" #GetTagDT
+ TAG_DT_BTN:0 "€³²o°³" #GetTagDT
+ TAG_DT_CMI:0 "M÷o" #GetTagDT
+ TAG_DT_CYI:0 "ˆo®o" #GetTagDT
+ TAG_DT_CDL:0 "ƒa®ª" #GetTagDT
+ TAG_DT_CHH:0 "“axap³" #GetTagDT
+ TAG_DT_NDO:0 "H¦o°¥o" #GetTagDT
+ TAG_DT_ANU:0 "A«°a¯" #GetTagDT
+ TAG_DT_BAR:0 "€ap³" #GetTagDT
+ TAG_DT_HSA:0 "ˆ¾ e¬³" #GetTagDT
+ TAG_DT_SMO:0 "C¯o®e°c¬³" #GetTagDT
+ TAG_DT_MUR:0 "M³po¯³" #GetTagDT
+ TAG_DT_NZH:0 "Hª¨°e¯³ Ho¢¥opo¦³" #GetTagDT
+ TAG_DT_VLA:0 "B®a¦ª¯ªp³" #GetTagDT
+ TAG_DT_LAU:0 "Ca¬ce°-ˆa³¼° ³p¥³" #GetTagDT
+ TAG_DT_AAC:0 "Axe°³" #GetTagDT
+ TAG_DT_ALE:0 "A®a°co°³" #GetTagDT
+ TAG_DT_AUG:0 "A³¥c ³p¥³" #GetTagDT
+ TAG_DT_ULM:0 "‹®»¯³" #GetTagDT
+ TAG_DT_FUJ:0 "‘³¦©ª¢ap³" #GetTagDT
+ TAG_DT_TAC:0 "Ta²ª a°³" #GetTagDT
+ TAG_DT_MSA:0 "Ma®a«e" #GetTagDT
+ TAG_DT_HIN:0 "†°¦oc²a°³" #GetTagDT
+ TAG_DT_BHA:0 "€xapa²³" #GetTagDT
+ TAG_DT_CAM:1 "Coe¦ª°e°°º¯ ±po¢ª°µª÷¯ A¯epª¬ª" #GetTagDT
+ TAG_DT_DNZ:0 "ƒa°µª¥³" #GetTagDT
+ TAG_DT_ETR:0 "™²p³pªª" #GetTagDT
+ TAG_DT_FRN:0 "‘pa°¬´³p²³" #GetTagDT
+ TAG_DT_HAT:0 "‚aª²ª" #GetTagDT
+ TAG_DT_IRQ:0 "†pa¬³" #GetTagDT
+ TAG_DT_KHO:0 "Xopaca°³" #GetTagDT
+ TAG_DT_KRA:0 "Kpa¬o¢³" #GetTagDT
+ TAG_DT_LIV:0 "ˆª¢o°c¬o¯³ op¦e°³" #GetTagDT
+ TAG_DT_NAP:0 "Hea±o®¾" #GetTagDT
+ TAG_DT_PRG:0 "‰apa¥¢a¾" #GetTagDT
+ TAG_DT_QIN:0 "’ª°»" #GetTagDT
+ TAG_DT_RFR:0 "Ha¯ ³" #GetTagDT
+ TAG_DT_SOK:0 "Co¬o²o" #GetTagDT
+ TAG_DT_SPI:0 "Cap¦ª°ªª-‰»e¯o°²³" #GetTagDT
+ TAG_DT_SYR:0 "Cªpªª" #GetTagDT
+ TAG_DT_VNZ:0 "Be°ec³¼®e" #GetTagDT
+ TAG_DT_WES:0 "Bec²´a®ªª" #GetTagDT
+ TAG_DT_WUU:0 "B³" #GetTagDT
+ TAG_DT_XIA:0 "C÷" #GetTagDT
+ TAG_DT_RMN:0 "P³¯º°ªª" #GetTagDT
+ TAG_DT_AYD:0 "A«¦º°³" #GetTagDT
+ TAG_DT_AQU:0 "A¬¢ª®eª" #GetTagDT
+ TAG_DT_BYZ:0 "Bª©a°²ªª" #GetTagDT
+ TAG_DT_MAJ:0 "Ma¦¨a±axª²³" #GetTagDT
+ TAG_DT_MEI:0 "Me«ce°³" #GetTagDT
+ TAG_DT_SUK:0 "C³¬xo²a¾" #GetTagDT
+ TAG_DT_GAL:0 "‚a®ªcªª" #GetTagDT
+ TAG_DT_PLT:0 "‰o®oµ¬³" #GetTagDT
+ TAG_DT_SCA:0 "C¬a°¦ª°a¢ªª" #GetTagDT
+ TAG_DT_ACH:0 "Axeª" #GetTagDT
+ TAG_DT_KOJ:0 "†ep³ca®ª¯³" #GetTagDT
+ TAG_DT_BER:0 "€eppª" #GetTagDT
+ TAG_DT_HLR:0 "C¢÷¸e°°o« Pª¯c¬o« ª¯±epªª" #GetTagDT
+ TAG_DT_SRU:0 "Cap³xa°³" #GetTagDT
+ TAG_DT_MEN:0 "Me°²e·³" #GetTagDT
+ TAG_DT_RAM:0 "Pa¯a©a°³" #GetTagDT
+ TAG_DT_EPI:0 "™±ªp³" #GetTagDT
+ TAG_DT_NSS:0 "H»¾-‰po¢ª¦e°c³" #GetTagDT
+ TAG_DT_PRY:0 "‰op²-Po«a®³" #GetTagDT
+ TAG_DT_LIB:0 "ˆª ep²a®ªª" #GetTagDT
+ TAG_DT_TOR:0 "Top²³¥e" #GetTagDT
+ TAG_DT_MRK:0 "Mappa¬e·³" #GetTagDT
+ TAG_DT_FRM:0 "ƒ³°°ª°³" #GetTagDT
+ TAG_DT_SOO:0 "Co" #GetTagDT
+ TAG_DT_SOL:0 "¦ep¨a¢e Co®o°o¢" #GetTagDT
+ TAG_DT_NVK:0 "¦ep¨a¢e Hª¢xo¢" #GetTagDT
+ TAG_DT_EJZ:0 "ƒ³°xa¾" #GetTagDT
+ TAG_DT_NHX:0 "‹¦¼¥e" #GetTagDT
+ ### 1.30
+ TAG_RD_SNA:0 "Co°ope" #GetTagRD
+ TAG_RD_WSI:0 "Bec²-†°¦ªª" #GetTagRD
+ TAG_RD_CUB:0 "K³ º" #GetTagRD
+ TAG_RD_VRM:0 "Bep¯o°²a" #GetTagRD
+ TAG_RD_FLO:0 "‘®opª¦º" #GetTagRD
+ TAG_RD_ILI:0 "†®®ª°o«ca" #GetTagRD
+ TAG_RD_DAL:0 "ƒa®¯aµªª" #GetTagRD
+ TAG_RD_ALA:0 "A®÷c¬ª" #GetTagRD
+ TAG_RD_CSC:0 "Kac¬a¦ªª" #GetTagRD
+ TAG_RD_NZL:0 "…e®a°¦ªª" #GetTagRD
+ TAG_RD_GNV:0 "„e°e¢º" #GetTagRD
+ TAG_RD_TTL:0 "Co¾©a Tpëx ˆª¥" #GetTagRD
+ TAG_RD_OPL:0 "O±o®e" #GetTagRD
+ TAG_RD_GLG:0 "‚®o¥³¢a" #GetTagRD
+ TAG_RD_BLG:0 "€o®o°»ª" #GetTagRD
+ TAG_RD_BRG:0 "€ep¥a" #GetTagRD
+ TAG_RD_CLI:0 "’e®e" #GetTagRD
+ TAG_RD_HRZ:0 "‚epµe¥o¢ª°º" #GetTagRD
+ TAG_RD_MLH:0 "M¾®³©a" #GetTagRD
+ TAG_RD_PDV:0 "‰a¦³ª" #GetTagRD
+ TAG_RD_SPL:0 "C±o®e²o" #GetTagRD
+ TAG_RD_SZO:0 "Ca®³µµo" #GetTagRD
+ TAG_RD_VRN:0 "Bepo°º" #GetTagRD
+ TAG_RD_UBV:0 "M¾°xe°a" #GetTagRD
+ TAG_RD_LBV:0 "ˆa°¦cx³²a" #GetTagRD
+ TAG_RD_ING:0 "†°¥o®»·²a¦²a" #GetTagRD
+ TAG_RD_PSS:0 "‰acca³" #GetTagRD
+ TAG_RD_MBZ:0 "€pe¥e°µa" #GetTagRD
+ TAG_RD_KNZ:0 "Ko°c²a°µa" #GetTagRD
+ TAG_RD_ROT:0 "Po²e° ³p¥a" #GetTagRD
+ TAG_RD_BYT:0 "€a«po«²a" #GetTagRD
+ TAG_RD_REG:0 "Pe¥e°c ³p¥a" #GetTagRD
+ TAG_RD_WOL:0 "Bo®»¥ac²a" #GetTagRD
+ TAG_RD_STE:0 "”²e²²ª°a" #GetTagRD
+ TAG_RD_GOS:0 "‚oc®apa" #GetTagRD
+ TAG_RD_SOR:0 "ˆ³¨ªµº" #GetTagRD
+ TAG_RD_RUG:0 "P¾¥e°a" #GetTagRD
+ TAG_RD_FKN:0 "‘pa°¬o°ªª" #GetTagRD
+ TAG_RD_SWA:0 "”¢a ªª" #GetTagRD
+ TAG_RD_TNT:0 "Tpe°²a" #GetTagRD
+ TAG_RD_BAM:0 "€a¯ ep¥a" #GetTagRD
+ TAG_RD_RUP:0 "P³±±ª°a" #GetTagRD
+ TAG_RD_LPP:0 "ˆª±±e" #GetTagRD
+ TAG_RD_PAD:0 "‰a¦e op°a" #GetTagRD
+ TAG_RD_CLB:0 "Ka®e° ep¥a" #GetTagRD
+ TAG_RD_DWT:0 "ƒo°a³¢ëp²a" #GetTagRD
+ TAG_RD_OSN:0 "Oc°a p¾¬a" #GetTagRD
+ TAG_RD_COB:0 "Ko ³p¥a" #GetTagRD
+ TAG_RD_TTS:0 "O oªx Cªµª®ª«" #GetTagRD
+ TAG_RD_LOT:0 "ˆo²apª°¥ªª" #GetTagRD
+ TAG_RD_PGA:0 "‰ep³¦¨º" #GetTagRD
+ 
+ TAG_VN_SNA:0 "Co°op³" #GetTagVN
+ TAG_VN_WSI:0 "Bec²-†°¦ª¾" #GetTagVN
+ TAG_VN_CUB:0 "K³ ³" #GetTagVN
+ TAG_VN_VRM:0 "Bep¯o°²" #GetTagVN
+ TAG_VN_FLO:0 "‘®opª¦³" #GetTagVN
+ TAG_VN_ILI:0 "†®®ª°o«c" #GetTagVN
+ TAG_VN_DAL:0 "ƒa®¯aµª¾" #GetTagVN
+ TAG_VN_ALA:0 "A®÷c¬³" #GetTagVN
+ TAG_VN_CSC:0 "Kac¬a¦ª¾" #GetTagVN
+ TAG_VN_NZL:0 "…e®a°¦ª¾" #GetTagVN
+ TAG_VN_GNV:0 "„e°e¢³" #GetTagVN
+ TAG_VN_TTL:0 "Co¾© Tpëx ˆª¥" #GetTagVN
+ TAG_VN_OPL:0 "O±o®e" #GetTagVN
+ TAG_VN_GLG:0 "‚®o¥³¢" #GetTagVN
+ TAG_VN_BLG:0 "€o®o°»¾" #GetTagVN
+ TAG_VN_BRG:0 "€ep¥" #GetTagVN
+ TAG_VN_CLI:0 "’e®e" #GetTagVN
+ TAG_VN_HRZ:0 "‚epµe¥o¢ª°³" #GetTagVN
+ TAG_VN_MLH:0 "M¾®³©" #GetTagVN
+ TAG_VN_PDV:0 "‰a¦³¾" #GetTagVN
+ TAG_VN_SPL:0 "C±o®e²o" #GetTagVN
+ TAG_VN_SZO:0 "Ca®³µµo" #GetTagVN
+ TAG_VN_VRN:0 "Bepo°³" #GetTagVN
+ TAG_VN_UBV:0 "M¾°xe°" #GetTagVN
+ TAG_VN_LBV:0 "ˆa°¦cx³²" #GetTagVN
+ TAG_VN_ING:0 "†°¥o®»·²a¦²" #GetTagVN
+ TAG_VN_PSS:0 "‰acca³" #GetTagVN
+ TAG_VN_MBZ:0 "€pe¥e°µ" #GetTagVN
+ TAG_VN_KNZ:0 "Ko°c²a°µ" #GetTagVN
+ TAG_VN_ROT:0 "Po²e° ³p¥" #GetTagVN
+ TAG_VN_BYT:0 "€a«po«²" #GetTagVN
+ TAG_VN_REG:0 "Pe¥e°c ³p¥" #GetTagVN
+ TAG_VN_WOL:0 "Bo®»¥ac²" #GetTagVN
+ TAG_VN_STE:0 "”²e²²ª°" #GetTagVN
+ TAG_VN_GOS:0 "‚oc®ap" #GetTagVN
+ TAG_VN_SOR:0 "ˆ³¨ªµ³" #GetTagVN
+ TAG_VN_RUG:0 "P¾¥e°" #GetTagVN
+ TAG_VN_FKN:0 "‘pa°¬o°ª¾" #GetTagVN
+ TAG_VN_SWA:0 "”¢a ª¾" #GetTagVN
+ TAG_VN_TNT:0 "Tpe°²" #GetTagVN
+ TAG_VN_BAM:0 "€a¯ ep¥" #GetTagVN
+ TAG_VN_RUP:0 "P³±±ª°" #GetTagVN
+ TAG_VN_LPP:0 "ˆª±±e" #GetTagVN
+ TAG_VN_PAD:0 "‰a¦e op°" #GetTagVN
+ TAG_VN_CLB:0 "Ka®e° ep¥" #GetTagVN
+ TAG_VN_DWT:0 "ƒo°a³¢ëp²" #GetTagVN
+ TAG_VN_OSN:0 "Oc°a p¾¬" #GetTagVN
+ TAG_VN_COB:0 "Ko ³p¥" #GetTagVN
+ TAG_VN_TTS:0 "O e Cªµª®ªª" #GetTagVN
+ TAG_VN_LOT:0 "ˆo²apª°¥ª¾" #GetTagVN
+ TAG_VN_PGA:0 "‰ep³¦¨³" #GetTagVN
+ 
+ TAG_TV_SNA:0 "Co°opo«" #GetTagTV
+ TAG_TV_WSI:0 "Bec²-†°¦ªe«" #GetTagTV
+ TAG_TV_CUB:0 "K³ o«" #GetTagTV
+ TAG_TV_VRM:0 "Bep¯o°²o¯" #GetTagTV
+ TAG_TV_FLO:0 "‘®opª¦o«" #GetTagTV
+ TAG_TV_ILI:0 "†®®ª°o«co¯" #GetTagTV
+ TAG_TV_DAL:0 "ƒa®¯aµªe«" #GetTagTV
+ TAG_TV_ALA:0 "A®÷c¬o«" #GetTagTV
+ TAG_TV_CSC:0 "Kac¬a¦ªe«" #GetTagTV
+ TAG_TV_NZL:0 "…e®a°¦ªe«" #GetTagTV
+ TAG_TV_GNV:0 "„e°e¢o«" #GetTagTV
+ TAG_TV_TTL:0 "Co¾©o¯ Tpëx ˆª¥" #GetTagTV
+ TAG_TV_OPL:0 "O±o®e" #GetTagTV
+ TAG_TV_GLG:0 "‚®o¥³¢o¯" #GetTagTV
+ TAG_TV_BLG:0 "€o®o°»e«" #GetTagTV
+ TAG_TV_BRG:0 "€ep¥o¯" #GetTagTV
+ TAG_TV_CLI:0 "’e®e" #GetTagTV
+ TAG_TV_HRZ:0 "‚epµe¥o¢ª°o«" #GetTagTV
+ TAG_TV_MLH:0 "M¾®³©o¯" #GetTagTV
+ TAG_TV_PDV:0 "‰a¦³e«" #GetTagTV
+ TAG_TV_SPL:0 "C±o®e²o" #GetTagTV
+ TAG_TV_SZO:0 "Ca®³µµo" #GetTagTV
+ TAG_TV_VRN:0 "Bepo°o«" #GetTagTV
+ TAG_TV_UBV:0 "M¾°xe°o¯" #GetTagTV
+ TAG_TV_LBV:0 "ˆa°¦cx³²o¯" #GetTagTV
+ TAG_TV_ING:0 "†°¥o®»·²a¦²o¯" #GetTagTV
+ TAG_TV_PSS:0 "‰acca³" #GetTagTV
+ TAG_TV_MBZ:0 "€pe¥e°µo¯" #GetTagTV
+ TAG_TV_KNZ:0 "Ko°c²a°µo¯" #GetTagTV
+ TAG_TV_ROT:0 "Po²e° ³p¥o¯" #GetTagTV
+ TAG_TV_BYT:0 "€a«po«²o¯" #GetTagTV
+ TAG_TV_REG:0 "Pe¥e°c ³p¥o¯" #GetTagTV
+ TAG_TV_WOL:0 "Bo®»¥ac²o¯" #GetTagTV
+ TAG_TV_STE:0 "”²e²²ª°o¯" #GetTagTV
+ TAG_TV_GOS:0 "‚oc®apo¯" #GetTagTV
+ TAG_TV_SOR:0 "ˆ³¨ªµo«" #GetTagTV
+ TAG_TV_RUG:0 "P¾¥e°o¯" #GetTagTV
+ TAG_TV_FKN:0 "‘pa°¬o°ªe«" #GetTagTV
+ TAG_TV_SWA:0 "”¢a ªe«" #GetTagTV
+ TAG_TV_TNT:0 "Tpe°²o¯" #GetTagTV
+ TAG_TV_BAM:0 "€a¯ ep¥o¯" #GetTagTV
+ TAG_TV_RUP:0 "P³±±ª°o¯" #GetTagTV
+ TAG_TV_LPP:0 "ˆª±±e" #GetTagTV
+ TAG_TV_PAD:0 "‰a¦e op°o¯" #GetTagTV
+ TAG_TV_CLB:0 "Ka®e° ep¥o¯" #GetTagTV
+ TAG_TV_DWT:0 "ƒo°a³¢ëp²o¯" #GetTagTV
+ TAG_TV_OSN:0 "Oc°a p¾¬o¯" #GetTagTV
+ TAG_TV_COB:0 "Ko ³p¥o¯" #GetTagTV
+ TAG_TV_TTS:0 "O oª¯ª Cªµª®ª÷¯ª" #GetTagTV
+ TAG_TV_LOT:0 "ˆo²apª°¥ªe«" #GetTagTV
+ TAG_TV_PGA:0 "‰ep³¦¨o«" #GetTagTV
+ 
+ TAG_PR_SNA:0 "Co°ope" #GetTagPR
+ TAG_PR_WSI:0 "Bec²-†°¦ªª" #GetTagPR
+ TAG_PR_CUB:0 "K³ e" #GetTagPR
+ TAG_PR_VRM:0 "Bep¯o°²e" #GetTagPR
+ TAG_PR_FLO:0 "‘®opª¦e" #GetTagPR
+ TAG_PR_ILI:0 "†®®ª°o«ce" #GetTagPR
+ TAG_PR_DAL:0 "ƒa®¯aµªª" #GetTagPR
+ TAG_PR_ALA:0 "A®÷c¬e" #GetTagPR
+ TAG_PR_CSC:0 "Kac¬a¦ªª" #GetTagPR
+ TAG_PR_NZL:0 "…e®a°¦ªª" #GetTagPR
+ TAG_PR_GNV:0 "„e°e¢e" #GetTagPR
+ TAG_PR_TTL:0 "Co¾©e Tpëx ˆª¥" #GetTagPR
+ TAG_PR_OPL:0 "O±o®e" #GetTagPR
+ TAG_PR_GLG:0 "‚®o¥³¢e" #GetTagPR
+ TAG_PR_BLG:0 "€o®o°»e" #GetTagPR
+ TAG_PR_BRG:0 "€ep¥e" #GetTagPR
+ TAG_PR_CLI:0 "’e®e" #GetTagPR
+ TAG_PR_HRZ:0 "‚epµe¥o¢ª°e" #GetTagPR
+ TAG_PR_MLH:0 "M¾®³©e" #GetTagPR
+ TAG_PR_PDV:0 "‰a¦³e" #GetTagPR
+ TAG_PR_SPL:0 "C±o®e²o" #GetTagPR
+ TAG_PR_SZO:0 "Ca®³µµo" #GetTagPR
+ TAG_PR_VRN:0 "Bepo°e" #GetTagPR
+ TAG_PR_UBV:0 "M¾°xe°e" #GetTagPR
+ TAG_PR_LBV:0 "ˆa°¦cx³²e" #GetTagPR
+ TAG_PR_ING:0 "†°¥o®»·²a¦²e" #GetTagPR
+ TAG_PR_PSS:0 "‰acca³" #GetTagPR
+ TAG_PR_MBZ:0 "€pe¥e°µe" #GetTagPR
+ TAG_PR_KNZ:0 "Ko°c²a°µe" #GetTagPR
+ TAG_PR_ROT:0 "Po²e° ³p¥e" #GetTagPR
+ TAG_PR_BYT:0 "€a«po«²e" #GetTagPR
+ TAG_PR_REG:0 "Pe¥e°c ³p¥e" #GetTagPR
+ TAG_PR_WOL:0 "Bo®»¥ac²e" #GetTagPR
+ TAG_PR_STE:0 "”²e²²ª°e" #GetTagPR
+ TAG_PR_GOS:0 "‚oc®ape" #GetTagPR
+ TAG_PR_SOR:0 "ˆ³¨ªµe" #GetTagPR
+ TAG_PR_RUG:0 "P¾¥e°e" #GetTagPR
+ TAG_PR_FKN:0 "‘pa°¬o°ªª" #GetTagPR
+ TAG_PR_SWA:0 "”¢a ªª" #GetTagPR
+ TAG_PR_TNT:0 "Tpe°²e" #GetTagPR
+ TAG_PR_BAM:0 "€a¯ ep¥e" #GetTagPR
+ TAG_PR_RUP:0 "P³±±ª°e" #GetTagPR
+ TAG_PR_LPP:0 "ˆª±±e" #GetTagPR
+ TAG_PR_PAD:0 "‰a¦e op°e" #GetTagPR
+ TAG_PR_CLB:0 "Ka®e° ep¥e" #GetTagPR
+ TAG_PR_DWT:0 "ƒo°a³¢ëp²e" #GetTagPR
+ TAG_PR_OSN:0 "Oc°a p¾¬e" #GetTagPR
+ TAG_PR_COB:0 "Ko ³p¥e" #GetTagPR
+ TAG_PR_TTS:0 "O oªx Cªµª®ª÷x" #GetTagPR
+ TAG_PR_LOT:0 "ˆo²apª°¥ªª" #GetTagPR
+ TAG_PR_PGA:0 "‰ep³¦¨e" #GetTagPR
+ 
+ TAG_DT_SNA:0 "Co°ope" #GetTagDT
+ TAG_DT_WSI:0 "Bec²-†°¦ªª" #GetTagDT
+ TAG_DT_CUB:0 "K³ e" #GetTagDT
+ TAG_DT_VRM:0 "Bep¯o°²³" #GetTagDT
+ TAG_DT_FLO:0 "‘®opª¦e" #GetTagDT
+ TAG_DT_ILI:0 "†®®ª°o«c³" #GetTagDT
+ TAG_DT_DAL:0 "ƒa®¯aµªª" #GetTagDT
+ TAG_DT_ALA:0 "A®÷c¬e" #GetTagDT
+ TAG_DT_CSC:0 "Kac¬a¦ªª" #GetTagDT
+ TAG_DT_NZL:0 "…e®a°¦ªª" #GetTagDT
+ TAG_DT_GNV:0 "„e°e¢e" #GetTagDT
+ TAG_DT_TTL:0 "Co¾©³ Tpëx ˆª¥" #GetTagDT
+ TAG_DT_OPL:0 "O±o®e" #GetTagDT
+ TAG_DT_GLG:0 "‚®o¥³¢³" #GetTagDT
+ TAG_DT_BLG:0 "€o®o°»e" #GetTagDT
+ TAG_DT_BRG:0 "€ep¥³" #GetTagDT
+ TAG_DT_CLI:0 "’e®e" #GetTagDT
+ TAG_DT_HRZ:0 "‚epµe¥o¢ª°e" #GetTagDT
+ TAG_DT_MLH:0 "M¾®³©³" #GetTagDT
+ TAG_DT_PDV:0 "‰a¦³ª" #GetTagDT
+ TAG_DT_SPL:0 "C±o®e²o" #GetTagDT
+ TAG_DT_SZO:0 "Ca®³µµo" #GetTagDT
+ TAG_DT_VRN:0 "Bepo°e" #GetTagDT
+ TAG_DT_UBV:0 "M¾°xe°³" #GetTagDT
+ TAG_DT_LBV:0 "ˆa°¦cx³²³" #GetTagDT
+ TAG_DT_ING:0 "†°¥o®»·²a¦²³" #GetTagDT
+ TAG_DT_PSS:0 "‰acca³" #GetTagDT
+ TAG_DT_MBZ:0 "€pe¥e°µ³" #GetTagDT
+ TAG_DT_KNZ:0 "Ko°c²a°µ³" #GetTagDT
+ TAG_DT_ROT:0 "Po²e° ³p¥³" #GetTagDT
+ TAG_DT_BYT:0 "€a«po«²³" #GetTagDT
+ TAG_DT_REG:0 "Pe¥e°c ³p¥³" #GetTagDT
+ TAG_DT_WOL:0 "Bo®»¥ac²³" #GetTagDT
+ TAG_DT_STE:0 "”²e²²ª°³" #GetTagDT
+ TAG_DT_GOS:0 "‚oc®ap³" #GetTagDT
+ TAG_DT_SOR:0 "ˆ³¨ªµe" #GetTagDT
+ TAG_DT_RUG:0 "P¾¥e°³" #GetTagDT
+ TAG_DT_FKN:0 "‘pa°¬o°ªª" #GetTagDT
+ TAG_DT_SWA:0 "”¢a ªª" #GetTagDT
+ TAG_DT_TNT:0 "Tpe°²³" #GetTagDT
+ TAG_DT_BAM:0 "€a¯ ep¥³" #GetTagDT
+ TAG_DT_RUP:0 "P³±±ª°³" #GetTagDT
+ TAG_DT_LPP:0 "ˆª±±e" #GetTagDT
+ TAG_DT_PAD:0 "‰a¦e op°³" #GetTagDT
+ TAG_DT_CLB:0 "Ka®e° ep¥³" #GetTagDT
+ TAG_DT_DWT:0 "ƒo°a³¢ëp²³" #GetTagDT
+ TAG_DT_OSN:0 "Oc°a p¾¬³" #GetTagDT
+ TAG_DT_COB:0 "Ko ³p¥³" #GetTagDT
+ TAG_DT_TTS:0 "O oª¯ Cªµª®ª÷¯" #GetTagDT
+ TAG_DT_LOT:0 "ˆo²apª°¥ªª" #GetTagDT
+ TAG_DT_PGA:0 "‰ep³¦¨e" #GetTagDT
+ ### 1.31
+ TAG_RD_BNE:0 "€o°ª" #GetTagRD
+ TAG_RD_BEU:0 "€epa³" #GetTagRD
+ TAG_RD_SMB:0 "Ca¯ ac" #GetTagRD
+ TAG_RD_BRS:0 "€ap³c" #GetTagRD
+ TAG_RD_DLI:0 "ƒe®ª" #GetTagRD
+ TAG_RD_JMB:0 "ƒ¨a¯ ª" #GetTagRD
+ TAG_RD_PAH:0 "‰axa°¥a" #GetTagRD
+ TAG_RD_KEL:0 "Ke®a°²a°a" #GetTagRD
+ TAG_RD_IND:0 "†°¦pa±³pº" #GetTagRD
+ TAG_RD_JAR:0 "…÷pa÷" #GetTagRD
+ TAG_RD_RHA:0 "Pa¦e" #GetTagRD
+ TAG_RD_KOH:0 "Koxo" #GetTagRD
+ TAG_RD_SIA:0 "Cªa¯a" #GetTagRD
+ TAG_RD_TIW:0 "Tª¢ª" #GetTagRD
+ TAG_RD_LAR:0 "ˆappa¬ªª" #GetTagRD
+ TAG_RD_YOL:0 "‡o®°¥³" #GetTagRD
+ TAG_RD_YNU:0 "×°¾¢a" #GetTagRD
+ TAG_RD_AWN:0 "A³°¥²ª¯" #GetTagRD
+ TAG_RD_GMI:0 "‚a¯ª®apa÷" #GetTagRD
+ TAG_RD_MIA:0 "Mªa°¦¨ª°" #GetTagRD
+ TAG_RD_EOR:0 "™opa" #GetTagRD
+ TAG_RD_KUL:0 "K³®ª°a" #GetTagRD
+ TAG_RD_KAU:0 "Ka³p°º" #GetTagRD
+ TAG_RD_PLW:0 "‰a®a¢a" #GetTagRD
+ TAG_RD_WRU:0 "B³p³°²»epª" #GetTagRD
+ TAG_RD_NOO:0 "H»¾°¥apa" #GetTagRD
+ TAG_RD_MLG:0 "Ma®a¥a°º" #GetTagRD
+ TAG_RD_AOT:0 "Ao²eapoa" #GetTagRD
+ TAG_RD_MAA:0 "H¥a²ª A¢a" #GetTagRD
+ TAG_RD_TAN:0 "Ta«°³ª" #GetTagRD
+ TAG_RD_TAK:0 "H¥a²ª Kax³¥³°³" #GetTagRD
+ TAG_RD_TNK:0 "H¥a²ª Toa" #GetTagRD
+ TAG_RD_TEA:0 "H¥a²ª Pa°¥ª°³ª" #GetTagRD
+ TAG_RD_TTT:0 "H¥a±³xª" #GetTagRD
+ TAG_RD_WAI:0 "Ba«²axa" #GetTagRD
+ TAG_RD_UHW:0 "O ¹e¦ª°ë°°ºx ‚a¢a«e¢" #GetTagRD
+ TAG_RD_HAW:0 "‚a¢a«e¢" #GetTagRD
+ TAG_RD_MAU:0 "Ma³ª" #GetTagRD
+ TAG_RD_OAH:0 "Oax³" #GetTagRD
+ TAG_RD_KAA:0 "Ka³aª" #GetTagRD
+ TAG_RD_TOG:0 "To°¥a" #GetTagRD
+ TAG_RD_SAM:0 "Ca¯oa" #GetTagRD
+ TAG_RD_VIT:0 "Bª²ª" #GetTagRD
+ TAG_RD_VIL:0 "Bª²ª-ˆe¢³" #GetTagRD
+ TAG_RD_VNL:0 "Ba°³a-ˆe¢³" #GetTagRD
+ TAG_RD_LAI:0 "ˆa³" #GetTagRD
+ TAG_RD_ALT:0 "A®²a¯axa" #GetTagRD
+ TAG_RD_ICH:0 "†¶ªcª" #GetTagRD
+ TAG_RD_COF:0 "Ko´ª²a¶e¬" #GetTagRD
+ TAG_RD_JOA:0 "„oapa" #GetTagRD
+ TAG_RD_ETO:0 "™²o¢a" #GetTagRD
+ TAG_RD_SAT:0 "Ca²a±o" #GetTagRD
+ TAG_RD_CIA:0 "“ªaxa" #GetTagRD
+ TAG_RD_COO:0 "K³ca" #GetTagRD
+ TAG_RD_ABI:0 "A ª¬a" #GetTagRD
+ TAG_RD_COW:0 "Ko¢e²a" #GetTagRD
+ TAG_RD_NTZ:0 "Ha²¶e©" #GetTagRD
+ TAG_RD_CAQ:0 "Kac¬ª" #GetTagRD
+ TAG_RD_PCH:0 "‰a¬axa" #GetTagRD
+ TAG_RD_QUI:0 "Kª©¬ª©o¢" #GetTagRD
+ TAG_RD_CCA:0 "“ªc¬a" #GetTagRD
+ TAG_RD_ATA:0 "A²axa¶ª" #GetTagRD
+ TAG_RD_KSI:0 "Kacªx²o¢" #GetTagRD
+ TAG_RD_OEO:0 "O°eo²a" #GetTagRD
+ TAG_RD_ANL:0 "A°ª®¬o" #GetTagRD
+ TAG_RD_NTC:0 "Ha¬ª²o·e«" #GetTagRD
+ TAG_RD_HNI:0 "Xacª°a«" #GetTagRD
+ TAG_RD_MOH:0 "Mo¥a¢¬o¢" #GetTagRD
+ TAG_RD_ONE:0 "O°a«¦a" #GetTagRD
+ TAG_RD_ONO:0 "O°o°¦a¥a" #GetTagRD
+ TAG_RD_CAY:0 "Ka«¾¥a" #GetTagRD
+ TAG_RD_SEN:0 "Ce°e¬a" #GetTagRD
+ TAG_RD_TAH:0 "Taxo°²a¼°pa²o¢" #GetTagRD
+ TAG_RD_ATT:0 "A²²ª°a¢a²a°o¢" #GetTagRD
+ TAG_RD_AGG:0 "A²²ª°¼°o°axa¬o¢" #GetTagRD
+ TAG_RD_ATW:0 "A²²ª¢a°¦apo°o¢" #GetTagRD
+ TAG_RD_ARN:0 "Ape°¦apo°o°o¢" #GetTagRD
+ TAG_RD_TIO:0 "Tªo°o°²a²e" #GetTagRD
+ TAG_RD_OSH:0 "O·e®a¥ª" #GetTagRD
+ TAG_RD_STA:0 "C²a¦a¬o°o¢" #GetTagRD
+ TAG_RD_ERI:0 "™pª" #GetTagRD
+ TAG_RD_WEN:0 "Be°po" #GetTagRD
+ TAG_RD_TSC:0 "T³c¬apopa" #GetTagRD
+ TAG_RD_OHK:0 "O¬e-O¢ª°¥e" #GetTagRD
+ TAG_RD_ISL:0 "A«®e²o¢" #GetTagRD
+ TAG_RD_ACO:0 "A¬o¯o¢" #GetTagRD
+ TAG_RD_CAO:0 "Kaxo¬ªª" #GetTagRD
+ TAG_RD_PEO:0 "‰eopªª" #GetTagRD
+ TAG_RD_KSK:0 "Kac¬ac¬ªª" #GetTagRD
+ TAG_RD_PEN:0 "‰e°o c¬o²o¢" #GetTagRD
+ TAG_RD_MLS:0 "Ma®ecª²o¢" #GetTagRD
+ TAG_RD_NEH:0 "Hex»¾" #GetTagRD
+ TAG_RD_NAK:0 "Ha¬a¢e" #GetTagRD
+ TAG_RD_HWK:0 "Xa²a¢e¬e®a" #GetTagRD
+ TAG_RD_CLG:0 "“a®a¥o²a" #GetTagRD
+ TAG_RD_KSP:0 "Kªc±o¬o" #GetTagRD
+ TAG_RD_MSG:0 "Mªccªcca¥ª" #GetTagRD
+ TAG_RD_WCY:0 "Bª¶ªe°a" #GetTagRD
+ TAG_RD_LAK:0 "ˆa¬o²a" #GetTagRD
+ TAG_RD_INN:0 "†°°³" #GetTagRD
+ TAG_RD_WAM:0 "Ba¯±a°oa¥ª" #GetTagRD
+ TAG_RD_AGQ:0 "A®¥o°¬ª°o¢" #GetTagRD
+ 
+ TAG_DT_BNE:0 "€o°ª" #GetTagDT
+ TAG_DT_BEU:0 "€epa³" #GetTagDT
+ TAG_DT_SMB:0 "Ca¯ ac" #GetTagDT
+ TAG_DT_BRS:0 "€ap³c" #GetTagDT
+ TAG_DT_DLI:0 "ƒe®ª" #GetTagDT
+ TAG_DT_JMB:0 "ƒ¨a¯ ª" #GetTagDT
+ TAG_DT_PAH:0 "‰axa°¥³" #GetTagDT
+ TAG_DT_KEL:0 "Ke®a°²a°³" #GetTagDT
+ TAG_DT_IND:0 "†°¦pa±³pe" #GetTagDT
+ TAG_DT_JAR:0 "…÷pa¾" #GetTagDT
+ TAG_DT_RHA:0 "Pa¦e" #GetTagDT
+ TAG_DT_KOH:0 "Koxo" #GetTagDT
+ TAG_DT_SIA:0 "Cªa¯³" #GetTagDT
+ TAG_DT_TIW:0 "Tª¢ª" #GetTagDT
+ TAG_DT_LAR:0 "ˆappa¬ªª" #GetTagDT
+ TAG_DT_YOL:0 "‡o®°¥³" #GetTagDT
+ TAG_DT_YNU:0 "×°¾¢a" #GetTagDT
+ TAG_DT_AWN:0 "A³°¥²ª¯" #GetTagDT
+ TAG_DT_GMI:0 "‚a¯ª®apae" #GetTagDT
+ TAG_DT_MIA:0 "Mªa°¦¨ª°" #GetTagDT
+ TAG_DT_EOR:0 "™opa" #GetTagDT
+ TAG_DT_KUL:0 "K³®ª°e" #GetTagDT
+ TAG_DT_KAU:0 "Ka³p°e" #GetTagDT
+ TAG_DT_PLW:0 "‰a®a¢a" #GetTagDT
+ TAG_DT_WRU:0 "B³p³°²»epª" #GetTagDT
+ TAG_DT_NOO:0 "H»¾°¥ape" #GetTagDT
+ TAG_DT_MLG:0 "Ma®a¥a°e" #GetTagDT
+ TAG_DT_AOT:0 "Ao²eapoa" #GetTagDT
+ TAG_DT_MAA:0 "H¥a²ª A¢a" #GetTagDT
+ TAG_DT_TAN:0 "Ta«°³ª" #GetTagDT
+ TAG_DT_TAK:0 "H¥a²ª Kax³¥³°³" #GetTagDT
+ TAG_DT_TNK:0 "H¥a²ª Toa" #GetTagDT
+ TAG_DT_TEA:0 "H¥a²ª Pa°¥ª°³ª" #GetTagDT
+ TAG_DT_TTT:0 "H¥a±³xª" #GetTagDT
+ TAG_DT_WAI:0 "Ba«²axa" #GetTagDT
+ TAG_DT_UHW:0 "O ¹e¦ª°ë°°º¯ ‚a¢a«÷¯" #GetTagDT
+ TAG_DT_HAW:0 "‚a¢a«÷¯" #GetTagDT
+ TAG_DT_MAU:0 "Ma³ª" #GetTagDT
+ TAG_DT_OAH:0 "Oax³" #GetTagDT
+ TAG_DT_KAA:0 "Ka³aª" #GetTagDT
+ TAG_DT_TOG:0 "To°¥a" #GetTagDT
+ TAG_DT_SAM:0 "Ca¯oa" #GetTagDT
+ TAG_DT_VIT:0 "Bª²ª" #GetTagDT
+ TAG_DT_VIL:0 "Bª²ª-ˆe¢³" #GetTagDT
+ TAG_DT_VNL:0 "Ba°³a-ˆe¢³" #GetTagDT
+ TAG_DT_LAI:0 "ˆa³" #GetTagDT
+ TAG_DT_ALT:0 "A®²a¯axa" #GetTagDT
+ TAG_DT_ICH:0 "†¶ªcª" #GetTagDT
+ TAG_DT_COF:0 "Ko´ª²a¶e¬" #GetTagDT
+ TAG_DT_JOA:0 "„oapa" #GetTagDT
+ TAG_DT_ETO:0 "™²o¢a" #GetTagDT
+ TAG_DT_SAT:0 "Ca²a±o" #GetTagDT
+ TAG_DT_CIA:0 "“ªaxa" #GetTagDT
+ TAG_DT_COO:0 "K³ca" #GetTagDT
+ TAG_DT_ABI:0 "A ª¬a" #GetTagDT
+ TAG_DT_COW:0 "Ko¢e²a" #GetTagDT
+ TAG_DT_NTZ:0 "Ha²¶e©" #GetTagDT
+ TAG_DT_CAQ:0 "Kac¬ª" #GetTagDT
+ TAG_DT_PCH:0 "‰a¬axa" #GetTagDT
+ TAG_DT_QUI:0 "Kª©¬ª©a¯" #GetTagDT
+ TAG_DT_CCA:0 "“ªc¬a" #GetTagDT
+ TAG_DT_ATA:0 "A²axa¶ª" #GetTagDT
+ TAG_DT_KSI:0 "Kacªx²a¯" #GetTagDT
+ TAG_DT_OEO:0 "O°eo²a" #GetTagDT
+ TAG_DT_ANL:0 "A°ª®¬o" #GetTagDT
+ TAG_DT_NTC:0 "Ha¬ª²o·a¯" #GetTagDT
+ TAG_DT_HNI:0 "Xacª°a«" #GetTagDT
+ TAG_DT_MOH:0 "Mo¥a¢¬a¯" #GetTagDT
+ TAG_DT_ONE:0 "O°a«¦a" #GetTagDT
+ TAG_DT_ONO:0 "O°o°¦a¥a" #GetTagDT
+ TAG_DT_CAY:0 "Ka«¾¥a" #GetTagDT
+ TAG_DT_SEN:0 "Ce°e¬a" #GetTagDT
+ TAG_DT_TAH:0 "Taxo°²a¼°pa²a¯" #GetTagDT
+ TAG_DT_ATT:0 "A²²ª°a¢a²a°a¯" #GetTagDT
+ TAG_DT_AGG:0 "A²²ª°¼°o°axa¬a¯" #GetTagDT
+ TAG_DT_ATW:0 "A²²ª¢a°¦apo°a¯" #GetTagDT
+ TAG_DT_ARN:0 "Ape°¦apo°o°a¯" #GetTagDT
+ TAG_DT_TIO:0 "Tªo°o°²a²e" #GetTagDT
+ TAG_DT_OSH:0 "O·e®a¥ª" #GetTagDT
+ TAG_DT_STA:0 "C²a¦a¬o°a¯" #GetTagDT
+ TAG_DT_ERI:0 "™pª" #GetTagDT
+ TAG_DT_WEN:0 "Be°po" #GetTagDT
+ TAG_DT_TSC:0 "T³c¬apopa" #GetTagDT
+ TAG_DT_OHK:0 "O¬e-O¢ª°¥e" #GetTagDT
+ TAG_DT_ISL:0 "A«®e²a¯" #GetTagDT
+ TAG_DT_ACO:0 "A¬o¯a¯" #GetTagDT
+ TAG_DT_CAO:0 "Kaxo¬ªª" #GetTagDT
+ TAG_DT_PEO:0 "‰eopªª" #GetTagDT
+ TAG_DT_KSK:0 "Kac¬ac¬ªª" #GetTagDT
+ TAG_DT_PEN:0 "‰e°o c¬o²a¯" #GetTagDT
+ TAG_DT_MLS:0 "Ma®ecª²a¯" #GetTagDT
+ TAG_DT_NEH:0 "Hex»¾" #GetTagDT
+ TAG_DT_NAK:0 "Ha¬a¢e" #GetTagDT
+ TAG_DT_HWK:0 "Xa²a¢e¬e®a" #GetTagDT
+ TAG_DT_CLG:0 "“a®a¥o²a" #GetTagDT
+ TAG_DT_KSP:0 "Kªc±o¬o" #GetTagDT
+ TAG_DT_MSG:0 "Mªccªcca¥ª" #GetTagDT
+ TAG_DT_WCY:0 "Bª¶ªe°a" #GetTagDT
+ TAG_DT_LAK:0 "ˆa¬o²a" #GetTagDT
+ TAG_DT_INN:0 "†°°³" #GetTagDT
+ TAG_DT_WAM:0 "Ba¯±a°oa¥ª" #GetTagDT
+ TAG_DT_AGQ:0 "A®¥o°¬ª°a¯" #GetTagDT
+ 
+ TAG_VN_BNE:0 "€o°ª" #GetTagVN
+ TAG_VN_BEU:0 "€epa³" #GetTagVN
+ TAG_VN_SMB:0 "Ca¯ ac" #GetTagVN
+ TAG_VN_BRS:0 "€ap³c" #GetTagVN
+ TAG_VN_DLI:0 "ƒe®ª" #GetTagVN
+ TAG_VN_JMB:0 "ƒ¨a¯ ª" #GetTagVN
+ TAG_VN_PAH:0 "‰axa°¥" #GetTagVN
+ TAG_VN_KEL:0 "Ke®a°²a°" #GetTagVN
+ TAG_VN_IND:0 "†°¦pa±³p³" #GetTagVN
+ TAG_VN_JAR:0 "…÷pa«" #GetTagVN
+ TAG_VN_RHA:0 "Pa¦e" #GetTagVN
+ TAG_VN_KOH:0 "Koxo" #GetTagVN
+ TAG_VN_SIA:0 "Cªa¯" #GetTagVN
+ TAG_VN_TIW:0 "Tª¢ª" #GetTagVN
+ TAG_VN_LAR:0 "ˆappa¬ª¾" #GetTagVN
+ TAG_VN_YOL:0 "‡o®°¥³" #GetTagVN
+ TAG_VN_YNU:0 "×°¾¢a" #GetTagVN
+ TAG_VN_AWN:0 "A³°¥²ª¯" #GetTagVN
+ TAG_VN_GMI:0 "‚a¯ª®apa«" #GetTagVN
+ TAG_VN_MIA:0 "Mªa°¦¨ª°" #GetTagVN
+ TAG_VN_EOR:0 "™opa" #GetTagVN
+ TAG_VN_KUL:0 "K³®ª°" #GetTagVN
+ TAG_VN_KAU:0 "Ka³p°³" #GetTagVN
+ TAG_VN_PLW:0 "‰a®a¢a" #GetTagVN
+ TAG_VN_WRU:0 "B³p³°²»epª" #GetTagVN
+ TAG_VN_NOO:0 "H»¾°¥ap" #GetTagVN
+ TAG_VN_MLG:0 "Ma®a¥a°³" #GetTagVN
+ TAG_VN_AOT:0 "Ao²eapoa" #GetTagVN
+ TAG_VN_MAA:0 "H¥a²ª A¢a" #GetTagVN
+ TAG_VN_TAN:0 "Ta«°³ª" #GetTagVN
+ TAG_VN_TAK:0 "H¥a²ª Kax³¥³°³" #GetTagVN
+ TAG_VN_TNK:0 "H¥a²ª Toa" #GetTagVN
+ TAG_VN_TEA:0 "H¥a²ª Pa°¥ª°³ª" #GetTagVN
+ TAG_VN_TTT:0 "H¥a±³xª" #GetTagVN
+ TAG_VN_WAI:0 "Ba«²axa" #GetTagVN
+ TAG_VN_UHW:0 "O ¹e¦ª°ë°°ºe ‚a¢a«ª" #GetTagVN
+ TAG_VN_HAW:0 "‚a¢a«ª" #GetTagVN
+ TAG_VN_MAU:0 "Ma³ª" #GetTagVN
+ TAG_VN_OAH:0 "Oax³" #GetTagVN
+ TAG_VN_KAA:0 "Ka³aª" #GetTagVN
+ TAG_VN_TOG:0 "To°¥a" #GetTagVN
+ TAG_VN_SAM:0 "Ca¯oa" #GetTagVN
+ TAG_VN_VIT:0 "Bª²ª" #GetTagVN
+ TAG_VN_VIL:0 "Bª²ª-ˆe¢³" #GetTagVN
+ TAG_VN_VNL:0 "Ba°³a-ˆe¢³" #GetTagVN
+ TAG_VN_LAI:0 "ˆa³" #GetTagVN
+ TAG_VN_ALT:0 "A®²a¯axa" #GetTagVN
+ TAG_VN_ICH:0 "†¶ªcª" #GetTagVN
+ TAG_VN_COF:0 "Ko´ª²a¶e¬" #GetTagVN
+ TAG_VN_JOA:0 "„oapa" #GetTagVN
+ TAG_VN_ETO:0 "™²o¢a" #GetTagVN
+ TAG_VN_SAT:0 "Ca²a±o" #GetTagVN
+ TAG_VN_CIA:0 "“ªaxa" #GetTagVN
+ TAG_VN_COO:0 "K³ca" #GetTagVN
+ TAG_VN_ABI:0 "A ª¬a" #GetTagVN
+ TAG_VN_COW:0 "Ko¢e²a" #GetTagVN
+ TAG_VN_NTZ:0 "Ha²¶e©" #GetTagVN
+ TAG_VN_CAQ:0 "Kac¬ª" #GetTagVN
+ TAG_VN_PCH:0 "‰a¬axa" #GetTagVN
+ TAG_VN_QUI:0 "Kª©¬ª©o¢" #GetTagVN
+ TAG_VN_CCA:0 "“ªc¬a" #GetTagVN
+ TAG_VN_ATA:0 "A²axa¶ª" #GetTagVN
+ TAG_VN_KSI:0 "Kacªx²o¢" #GetTagVN
+ TAG_VN_OEO:0 "O°eo²a" #GetTagVN
+ TAG_VN_ANL:0 "A°ª®¬o" #GetTagVN
+ TAG_VN_NTC:0 "Ha¬ª²o·e«" #GetTagVN
+ TAG_VN_HNI:0 "Xacª°a«" #GetTagVN
+ TAG_VN_MOH:0 "Mo¥a¢¬o¢" #GetTagVN
+ TAG_VN_ONE:0 "O°a«¦a" #GetTagVN
+ TAG_VN_ONO:0 "O°o°¦a¥a" #GetTagVN
+ TAG_VN_CAY:0 "Ka«¾¥a" #GetTagVN
+ TAG_VN_SEN:0 "Ce°e¬a" #GetTagVN
+ TAG_VN_TAH:0 "Taxo°²a¼°pa²o¢" #GetTagVN
+ TAG_VN_ATT:0 "A²²ª°a¢a²a°o¢" #GetTagVN
+ TAG_VN_AGG:0 "A²²ª°¼°o°axa¬o¢" #GetTagVN
+ TAG_VN_ATW:0 "A²²ª¢a°¦apo°o¢" #GetTagVN
+ TAG_VN_ARN:0 "Ape°¦apo°o°o¢" #GetTagVN
+ TAG_VN_TIO:0 "Tªo°o°²a²e" #GetTagVN
+ TAG_VN_OSH:0 "O·e®a¥ª" #GetTagVN
+ TAG_VN_STA:0 "C²a¦a¬o°o¢" #GetTagVN
+ TAG_VN_ERI:0 "™pª" #GetTagVN
+ TAG_VN_WEN:0 "Be°po" #GetTagVN
+ TAG_VN_TSC:0 "T³c¬apopa" #GetTagVN
+ TAG_VN_OHK:0 "O¬e-O¢ª°¥e" #GetTagVN
+ TAG_VN_ISL:0 "A«®e²o¢" #GetTagVN
+ TAG_VN_ACO:0 "A¬o¯o¢" #GetTagVN
+ TAG_VN_CAO:0 "Kaxo¬ª¾" #GetTagVN
+ TAG_VN_PEO:0 "‰eopª¾" #GetTagVN
+ TAG_VN_KSK:0 "Kac¬ac¬ª¾" #GetTagVN
+ TAG_VN_PEN:0 "‰e°o c¬o²o¢" #GetTagVN
+ TAG_VN_MLS:0 "Ma®ecª²o¢" #GetTagVN
+ TAG_VN_NEH:0 "Hex»¾" #GetTagVN
+ TAG_VN_NAK:0 "Ha¬a¢e" #GetTagVN
+ TAG_VN_HWK:0 "Xa²a¢e¬e®a" #GetTagVN
+ TAG_VN_CLG:0 "“a®a¥o²a" #GetTagVN
+ TAG_VN_KSP:0 "Kªc±o¬o" #GetTagVN
+ TAG_VN_MSG:0 "Mªccªcca¥ª" #GetTagVN
+ TAG_VN_WCY:0 "Bª¶ªe°a" #GetTagVN
+ TAG_VN_LAK:0 "ˆa¬o²a" #GetTagVN
+ TAG_VN_INN:0 "†°°³" #GetTagVN
+ TAG_VN_WAM:0 "Ba¯±a°oa¥ª" #GetTagVN
+ TAG_VN_AGQ:0 "A®¥o°¬ª°o¢" #GetTagVN
+ 
+ TAG_TV_BNE:0 "€o°ª" #GetTagTV
+ TAG_TV_BEU:0 "€epa³" #GetTagTV
+ TAG_TV_SMB:0 "Ca¯ ac" #GetTagTV
+ TAG_TV_BRS:0 "€ap³c" #GetTagTV
+ TAG_TV_DLI:0 "ƒe®ª" #GetTagTV
+ TAG_TV_JMB:0 "ƒ¨a¯ ª" #GetTagTV
+ TAG_TV_PAH:0 "‰axa°¥o¯" #GetTagTV
+ TAG_TV_KEL:0 "Ke®a°²a°o¯" #GetTagTV
+ TAG_TV_IND:0 "†°¦pa±³po«" #GetTagTV
+ TAG_TV_JAR:0 "…÷pae¯" #GetTagTV
+ TAG_TV_RHA:0 "Pa¦e" #GetTagTV
+ TAG_TV_KOH:0 "Koxo" #GetTagTV
+ TAG_TV_SIA:0 "Cªa¯o¯" #GetTagTV
+ TAG_TV_TIW:0 "Tª¢ª" #GetTagTV
+ TAG_TV_LAR:0 "ˆappa¬ªe«" #GetTagTV
+ TAG_TV_YOL:0 "‡o®°¥³" #GetTagTV
+ TAG_TV_YNU:0 "×°¾¢a" #GetTagTV
+ TAG_TV_AWN:0 "A³°¥²ª¯" #GetTagTV
+ TAG_TV_GMI:0 "‚a¯ª®apae¯" #GetTagTV
+ TAG_TV_MIA:0 "Mªa°¦¨ª°" #GetTagTV
+ TAG_TV_EOR:0 "™opa" #GetTagTV
+ TAG_TV_KUL:0 "K³®ª°o¯" #GetTagTV
+ TAG_TV_KAU:0 "Ka³p°o«" #GetTagTV
+ TAG_TV_PLW:0 "‰a®a¢a" #GetTagTV
+ TAG_TV_WRU:0 "B³p³°²»epª" #GetTagTV
+ TAG_TV_NOO:0 "H»¾°¥apo¯" #GetTagTV
+ TAG_TV_MLG:0 "Ma®a¥a°o«" #GetTagTV
+ TAG_TV_AOT:0 "Ao²eapoa" #GetTagTV
+ TAG_TV_MAA:0 "H¥a²ª A¢a" #GetTagTV
+ TAG_TV_TAN:0 "Ta«°³ª" #GetTagTV
+ TAG_TV_TAK:0 "H¥a²ª Kax³¥³°³" #GetTagTV
+ TAG_TV_TNK:0 "H¥a²ª Toa" #GetTagTV
+ TAG_TV_TEA:0 "H¥a²ª Pa°¥ª°³ª" #GetTagTV
+ TAG_TV_TTT:0 "H¥a±³xª" #GetTagTV
+ TAG_TV_WAI:0 "Ba«²axa" #GetTagTV
+ TAG_TV_UHW:0 "O ¹e¦ª°ë°°º¯ª ‚a¢a«÷¯ª" #GetTagTV
+ TAG_TV_HAW:0 "‚a¢a«÷¯ª" #GetTagTV
+ TAG_TV_MAU:0 "Ma³ª" #GetTagTV
+ TAG_TV_OAH:0 "Oax³" #GetTagTV
+ TAG_TV_KAA:0 "Ka³aª" #GetTagTV
+ TAG_TV_TOG:0 "To°¥a" #GetTagTV
+ TAG_TV_SAM:0 "Ca¯oa" #GetTagTV
+ TAG_TV_VIT:0 "Bª²ª" #GetTagTV
+ TAG_TV_VIL:0 "Bª²ª-ˆe¢³" #GetTagTV
+ TAG_TV_TVL:0 "Ba°³a-ˆe¢³" #GetTagTV
+ TAG_TV_LAI:0 "ˆa³" #GetTagTV
+ TAG_TV_ALT:0 "A®²a¯axa" #GetTagTV
+ TAG_TV_ICH:0 "†¶ªcª" #GetTagTV
+ TAG_TV_COF:0 "Ko´ª²a¶e¬" #GetTagTV
+ TAG_TV_JOA:0 "„oapa" #GetTagTV
+ TAG_TV_ETO:0 "™²o¢a" #GetTagTV
+ TAG_TV_SAT:0 "Ca²a±o" #GetTagTV
+ TAG_TV_CIA:0 "“ªaxa" #GetTagTV
+ TAG_TV_COO:0 "K³ca" #GetTagTV
+ TAG_TV_ABI:0 "A ª¬a" #GetTagTV
+ TAG_TV_COW:0 "Ko¢e²a" #GetTagTV
+ TAG_TV_NTZ:0 "Ha²¶e©" #GetTagTV
+ TAG_TV_CAQ:0 "Kac¬ª" #GetTagTV
+ TAG_TV_PCH:0 "‰a¬axa" #GetTagTV
+ TAG_TV_QUI:0 "Kª©¬ª©a¯ª" #GetTagTV
+ TAG_TV_CCA:0 "“ªc¬a" #GetTagTV
+ TAG_TV_ATA:0 "A²axa¶ª" #GetTagTV
+ TAG_TV_KSI:0 "Kacªx²a¯ª" #GetTagTV
+ TAG_TV_OEO:0 "O°eo²a" #GetTagTV
+ TAG_TV_ANL:0 "A°ª®¬o" #GetTagTV
+ TAG_TV_NTC:0 "Ha¬ª²o·a¯ª" #GetTagTV
+ TAG_TV_HNI:0 "Xacª°a«" #GetTagTV
+ TAG_TV_MOH:0 "Mo¥a¢¬a¯ª" #GetTagTV
+ TAG_TV_ONE:0 "O°a«¦a" #GetTagTV
+ TAG_TV_ONO:0 "O°o°¦a¥a" #GetTagTV
+ TAG_TV_CAY:0 "Ka«¾¥a" #GetTagTV
+ TAG_TV_SEN:0 "Ce°e¬a" #GetTagTV
+ TAG_TV_TAH:0 "Taxo°²a¼°pa²a¯ª" #GetTagTV
+ TAG_TV_ATT:0 "A²²ª°a¢a²a°a¯ª" #GetTagTV
+ TAG_TV_AGG:0 "A²²ª°¼°o°axa¬a¯ª" #GetTagTV
+ TAG_TV_ATW:0 "A²²ª¢a°¦apo°a¯ª" #GetTagTV
+ TAG_TV_ARN:0 "Ape°¦apo°o°a¯ª" #GetTagTV
+ TAG_TV_TIO:0 "Tªo°o°²a²e" #GetTagTV
+ TAG_TV_OSH:0 "O·e®a¥ª" #GetTagTV
+ TAG_TV_STA:0 "C²a¦a¬o°a¯ª" #GetTagTV
+ TAG_TV_ERI:0 "™pª" #GetTagTV
+ TAG_TV_WEN:0 "Be°po" #GetTagTV
+ TAG_TV_TSC:0 "T³c¬apopa" #GetTagTV
+ TAG_TV_OHK:0 "O¬e-O¢ª°¥e" #GetTagTV
+ TAG_TV_ISL:0 "A«®e²a¯ª" #GetTagTV
+ TAG_TV_ACO:0 "A¬o¯a¯ª" #GetTagTV
+ TAG_TV_CAO:0 "Kaxo¬ªe«" #GetTagTV
+ TAG_TV_PEO:0 "‰eopªe«" #GetTagTV
+ TAG_TV_KSK:0 "Kac¬ac¬ªe«" #GetTagTV
+ TAG_TV_PEN:0 "‰e°o c¬o²a¯ª" #GetTagTV
+ TAG_TV_MLS:0 "Ma®ecª²a¯ª" #GetTagTV
+ TAG_TV_NEH:0 "Hex»¾" #GetTagTV
+ TAG_TV_NAK:0 "Ha¬a¢e" #GetTagTV
+ TAG_TV_HWK:0 "Xa²a¢e¬e®a" #GetTagTV
+ TAG_TV_CLG:0 "“a®a¥o²a" #GetTagTV
+ TAG_TV_KSP:0 "Kªc±o¬o" #GetTagTV
+ TAG_TV_MSG:0 "Mªccªcca¥ª" #GetTagTV
+ TAG_TV_WCY:0 "Bª¶ªe°a" #GetTagTV
+ TAG_TV_LAK:0 "ˆa¬o²a" #GetTagTV
+ TAG_TV_INN:0 "†°°³" #GetTagTV
+ TAG_TV_WAM:0 "Ba¯±a°oa¥ª" #GetTagTV
+ TAG_TV_AGQ:0 "A®¥o°¬ª°a¯ª" #GetTagTV
+ 
+ TAG_PR_BNE:0 "€o°ª" #GetTagPR
+ TAG_PR_BEU:0 "€epa³" #GetTagPR
+ TAG_PR_SMB:0 "Ca¯ ac" #GetTagPR
+ TAG_PR_BRS:0 "€ap³c" #GetTagPR
+ TAG_PR_DLI:0 "ƒe®ª" #GetTagPR
+ TAG_PR_JMB:0 "ƒ¨a¯ ª" #GetTagPR
+ TAG_PR_PAH:0 "‰axa°¥e" #GetTagPR
+ TAG_PR_KEL:0 "Ke®a°²a°e" #GetTagPR
+ TAG_PR_IND:0 "†°¦pa±³pe" #GetTagPR
+ TAG_PR_JAR:0 "…÷pae" #GetTagPR
+ TAG_PR_RHA:0 "Pa¦e" #GetTagPR
+ TAG_PR_KOH:0 "Koxo" #GetTagPR
+ TAG_PR_SIA:0 "Cªa¯e" #GetTagPR
+ TAG_PR_TIW:0 "Tª¢ª" #GetTagPR
+ TAG_PR_LAR:0 "ˆappa¬ªª" #GetTagPR
+ TAG_PR_YOL:0 "‡o®°¥³" #GetTagPR
+ TAG_PR_YNU:0 "×°¾¢a" #GetTagPR
+ TAG_PR_AWN:0 "A³°¥²ª¯" #GetTagPR
+ TAG_PR_GMI:0 "‚a¯ª®apae" #GetTagPR
+ TAG_PR_MIA:0 "Mªa°¦¨ª°" #GetTagPR
+ TAG_PR_EOR:0 "™opa" #GetTagPR
+ TAG_PR_KUL:0 "K³®ª°e" #GetTagPR
+ TAG_PR_KAU:0 "Ka³p°e" #GetTagPR
+ TAG_PR_PLW:0 "‰a®a¢a" #GetTagPR
+ TAG_PR_WRU:0 "B³p³°²»epª" #GetTagPR
+ TAG_PR_NOO:0 "H»¾°¥ape" #GetTagPR
+ TAG_PR_MLG:0 "Ma®a¥a°e" #GetTagPR
+ TAG_PR_AOT:0 "Ao²eapoa" #GetTagPR
+ TAG_PR_MAA:0 "H¥a²ª A¢a" #GetTagPR
+ TAG_PR_TAN:0 "Ta«°³ª" #GetTagPR
+ TAG_PR_TAK:0 "H¥a²ª Kax³¥³°³" #GetTagPR
+ TAG_PR_TNK:0 "H¥a²ª Toa" #GetTagPR
+ TAG_PR_TEA:0 "H¥a²ª Pa°¥ª°³ª" #GetTagPR
+ TAG_PR_TTT:0 "H¥a±³xª" #GetTagPR
+ TAG_PR_WAI:0 "Ba«²axa" #GetTagPR
+ TAG_PR_UHW:0 "O ¹e¦ª°ë°°ºx ‚a¢a«÷x" #GetTagPR
+ TAG_PR_HAW:0 "‚a¢a«÷x" #GetTagPR
+ TAG_PR_MAU:0 "Ma³ª" #GetTagPR
+ TAG_PR_OAH:0 "Oax³" #GetTagPR
+ TAG_PR_KAA:0 "Ka³aª" #GetTagPR
+ TAG_PR_TOG:0 "To°¥a" #GetTagPR
+ TAG_PR_SAM:0 "Ca¯oa" #GetTagPR
+ TAG_PR_VIT:0 "Bª²ª" #GetTagPR
+ TAG_PR_VIL:0 "Bª²ª-ˆe¢³" #GetTagPR
+ TAG_PR_PRL:0 "Ba°³a-ˆe¢³" #GetTagPR
+ TAG_PR_LAI:0 "ˆa³" #GetTagPR
+ TAG_PR_ALT:0 "A®²a¯axa" #GetTagPR
+ TAG_PR_ICH:0 "†¶ªcª" #GetTagPR
+ TAG_PR_COF:0 "Ko´ª²a¶e¬" #GetTagPR
+ TAG_PR_JOA:0 "„oapa" #GetTagPR
+ TAG_PR_ETO:0 "™²o¢a" #GetTagPR
+ TAG_PR_SAT:0 "Ca²a±o" #GetTagPR
+ TAG_PR_CIA:0 "“ªaxa" #GetTagPR
+ TAG_PR_COO:0 "K³ca" #GetTagPR
+ TAG_PR_ABI:0 "A ª¬a" #GetTagPR
+ TAG_PR_COW:0 "Ko¢e²a" #GetTagPR
+ TAG_PR_NTZ:0 "Ha²¶e©" #GetTagPR
+ TAG_PR_CAQ:0 "Kac¬ª" #GetTagPR
+ TAG_PR_PCH:0 "‰a¬axa" #GetTagPR
+ TAG_PR_QUI:0 "Kª©¬ª©ax" #GetTagPR
+ TAG_PR_CCA:0 "“ªc¬a" #GetTagPR
+ TAG_PR_ATA:0 "A²axa¶ª" #GetTagPR
+ TAG_PR_KSI:0 "Kacªx²ax" #GetTagPR
+ TAG_PR_OEO:0 "O°eo²a" #GetTagPR
+ TAG_PR_ANL:0 "A°ª®¬o" #GetTagPR
+ TAG_PR_NTC:0 "Ha¬ª²o·ax" #GetTagPR
+ TAG_PR_HNI:0 "Xacª°a«" #GetTagPR
+ TAG_PR_MOH:0 "Mo¥a¢¬ax" #GetTagPR
+ TAG_PR_ONE:0 "O°a«¦a" #GetTagPR
+ TAG_PR_ONO:0 "O°o°¦a¥a" #GetTagPR
+ TAG_PR_CAY:0 "Ka«¾¥a" #GetTagPR
+ TAG_PR_SEN:0 "Ce°e¬a" #GetTagPR
+ TAG_PR_TAH:0 "Taxo°²a¼°pa²ax" #GetTagPR
+ TAG_PR_ATT:0 "A²²ª°a¢a²a°ax" #GetTagPR
+ TAG_PR_AGG:0 "A²²ª°¼°o°axa¬ax" #GetTagPR
+ TAG_PR_ATW:0 "A²²ª¢a°¦apo°ax" #GetTagPR
+ TAG_PR_ARN:0 "Ape°¦apo°o°ax" #GetTagPR
+ TAG_PR_TIO:0 "Tªo°o°²a²e" #GetTagPR
+ TAG_PR_OSH:0 "O·e®a¥ª" #GetTagPR
+ TAG_PR_STA:0 "C²a¦a¬o°ax" #GetTagPR
+ TAG_PR_ERI:0 "™pª" #GetTagPR
+ TAG_PR_WEN:0 "Be°po" #GetTagPR
+ TAG_PR_TSC:0 "T³c¬apopa" #GetTagPR
+ TAG_PR_OHK:0 "O¬e-O¢ª°¥e" #GetTagPR
+ TAG_PR_ISL:0 "A«®e²ax" #GetTagPR
+ TAG_PR_ACO:0 "A¬o¯ax" #GetTagPR
+ TAG_PR_CAO:0 "Kaxo¬ªª" #GetTagPR
+ TAG_PR_PEO:0 "‰eopªª" #GetTagPR
+ TAG_PR_KSK:0 "Kac¬ac¬ªª" #GetTagPR
+ TAG_PR_PEN:0 "‰e°o c¬o²ax" #GetTagPR
+ TAG_PR_MLS:0 "Ma®ecª²ax" #GetTagPR
+ TAG_PR_NEH:0 "Hex»¾" #GetTagPR
+ TAG_PR_NAK:0 "Ha¬a¢e" #GetTagPR
+ TAG_PR_HWK:0 "Xa²a¢e¬e®a" #GetTagPR
+ TAG_PR_CLG:0 "“a®a¥o²a" #GetTagPR
+ TAG_PR_KSP:0 "Kªc±o¬o" #GetTagPR
+ TAG_PR_MSG:0 "Mªccªcca¥ª" #GetTagPR
+ TAG_PR_WCY:0 "Bª¶ªe°a" #GetTagPR
+ TAG_PR_LAK:0 "ˆa¬o²a" #GetTagPR
+ TAG_PR_INN:0 "†°°³" #GetTagPR
+ TAG_PR_WAM:0 "Ba¯±a°oa¥ª" #GetTagPR
+ TAG_PR_AGQ:0 "A®¥o°¬ª°ax" #GetTagPR
+ 

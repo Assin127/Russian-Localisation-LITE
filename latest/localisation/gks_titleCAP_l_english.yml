@@ -1,0 +1,2788 @@
+﻿l_english:
+ ###на вопрос нет кого?
+ SPEAKER_RD_CAP:0 "C±ª¬epa" #GetTitleRD_CAP
+ CHANCELOR_RD_CAP:0 "Ka°µ®epa" #GetTitleRD_CAP
+ PRESIDENT_RD_CAP:0 "‰pe©ª¦e°²a" #GetTitleRD_CAP
+ DUKE_RD_CAP:0 "‚epµo¥a" #GetTitleRD_CAP
+ KING_RD_CAP:0 "Kopo®÷" #GetTitleRD_CAP
+ EMPEROR_RD_CAP:0 "†¯±epa²opa" #GetTitleRD_CAP
+ GRAND_PENSIONARY_RD_CAP:0 "Be®ª¬o¥o ±e°cªo°apª÷" #GetTitleRD_CAP
+ STADTHOLDER_RD_CAP:0 "C²a²xa³¦epa" #GetTitleRD_CAP
+ GREAT_STADTHOLDER_RD_CAP:0 "‚®a¢°o¥o c²a²xa³¦epa" #GetTitleRD_CAP
+ PRINCE_ELECTOR_RD_CAP:0 "K°÷©÷-¬³p´¾pc²a" #GetTitleRD_CAP
+ KING_ELECTOR_RD_CAP:0 "Kopo®÷-¬³p´¾pc²a" #GetTitleRD_CAP
+ EARL_RD_CAP:0 "™p®a" #GetTitleRD_CAP
+ HIGH_KING_RD_CAP:0 "Bepxo¢°o¥o ¬opo®÷" #GetTitleRD_CAP
+ LORD_RD_CAP:0 "ˆop¦a" #GetTitleRD_CAP
+ SHOGUN_RD_CAP:0 "Cë¥³°a" #GetTitleRD_CAP
+ ATABEG_RD_CAP:0 "A²a e¬a" #GetTitleRD_CAP
+ FAAMA_RD_CAP:0 "‘aa¯º" #GetTitleRD_CAP
+ GREAT_MANSA_RD_CAP:0 "Be®ª¬o¥o ¯a°cº" #GetTitleRD_CAP
+ JAM_RD_CAP:0 "ƒ¨a¯a" #GetTitleRD_CAP
+ GRAND_JAM_RD_CAP:0 "€o®»·o¥o ¦¨a¯a" #GetTitleRD_CAP
+ GREAT_JAM_RD_CAP:0 "Be®ª¬o¥o ¦¨a¯a" #GetTitleRD_CAP
+ GRAND_DUKE_RD_CAP:0 "Be®ª¬o¥o ¬°÷©÷" #GetTitleRD_CAP
+ ARCHDUKE_RD_CAP:0 "™pµ¥epµo¥a" #GetTitleRD_CAP
+ ARCHKING_RD_CAP:0 "™pµ¬opo®÷" #GetTitleRD_CAP
+ PRINCE_RD_CAP:0 "K°÷©÷" #GetTitleRD_CAP
+ BAN_TITLE_RD_CAP:0 "€a°a" #GetTitleRD_CAP
+ KRALJ_RD_CAP:0 "Kpa®÷" #GetTitleRD_CAP
+ CAR_RD_CAP:0 "’ap÷" #GetTitleRD_CAP
+ VOJVODA_RD_CAP:0 "Boe¢o¦º" #GetTitleRD_CAP
+ DESPOT_RD_CAP:0 "ƒec±o²a" #GetTitleRD_CAP
+ AUTOKRATOR_RD_CAP:0 "A¢²o¬pa²opa" #GetTitleRD_CAP
+ BASILEUS_RD_CAP:0 "€a©ª®e¢ca" #GetTitleRD_CAP
+ MBRET_RD_CAP:0 "M pe²a" #GetTitleRD_CAP
+ NOMARCH_RD_CAP:0 "Ho¯apxa" #GetTitleRD_CAP
+ PHARAOH_RD_CAP:0 "‘apao°a" #GetTitleRD_CAP
+ GREAT_PHARAOH_RD_CAP:0 "Be®ª¬o¥o ´apao°a" #GetTitleRD_CAP
+ TYRANT_RD_CAP:0 "Tªpa°a" #GetTitleRD_CAP
+ HEGEMON_RD_CAP:0 "‚e¥e¯o°a" #GetTitleRD_CAP
+ CHIEF_RD_CAP:0 "Bo¨¦÷" #GetTitleRD_CAP
+ REX_RD_CAP:0 "Pe¬ca" #GetTitleRD_CAP
+ IMPERATOR_RD_CAP:0 "†¯±epa²opa" #GetTitleRD_CAP
+ VOIVODE_RD_CAP:0 "Boe¢o¦º" #GetTitleRD_CAP
+ RAJA_RD_CAP:0 "Pa¦¨ª" #GetTitleRD_CAP
+ MAHARAJA_RD_CAP:0 "Maxapa¦¨ª" #GetTitleRD_CAP
+ CHHATRAPATI_RD_CAP:0 "“xa²pa±a²ª" #GetTitleRD_CAP
+ RANA_RD_CAP:0 "Pa°º" #GetTitleRD_CAP
+ MAHARANA_RD_CAP:0 "Maxapa°º" #GetTitleRD_CAP
+ PESHWA_RD_CAP:0 "‰e·¢º" #GetTitleRD_CAP
+ TATKISHO_RD_CAP:0 "Ta²¬ª·o" #GetTitleRD_CAP
+ TATO_RD_CAP:0 "Ta²o" #GetTitleRD_CAP
+ ATIO_RD_CAP:0 "A²ªo" #GetTitleRD_CAP
+ RAS_title_RD_CAP:0 "Pacº" #GetTitleRD_CAP
+ NEGUS_RD_CAP:0 "He¥³cº" #GetTitleRD_CAP
+ NEGUSA_NEGAST_RD_CAP:0 "He¥³ca °a¥ac²º" #GetTitleRD_CAP
+ MUGABE_RD_CAP:0 "M³¥a º" #GetTitleRD_CAP
+ GREAT_MUGABE_RD_CAP:0 "Be®ª¬o¥o ¯³¥a º" #GetTitleRD_CAP
+ OMUKAMA_RD_CAP:0 "O¯³¬a¯º" #GetTitleRD_CAP
+ GREAT_OMUKAMA_RD_CAP:0 "Be®ª¬o¥o o¯³¬a¯º" #GetTitleRD_CAP
+ BALOPWE_RD_CAP:0 "€a®o±¢º" #GetTitleRD_CAP
+ MULOPWE_RD_CAP:0 "M³®o±¢º" #GetTitleRD_CAP
+ GREAT_MULOPWE_RD_CAP:0 "Be®ª¬o¥o ¯³®o±¢º" #GetTitleRD_CAP
+ MWENEMUTAPA_RD_CAP:0 "M¢e°e¯³²a±º" #GetTitleRD_CAP
+ GREAT_MWENEMUTAPA_RD_CAP:0 "Be®ª¬o¥o ¯¢e°e¯³²a±º" #GetTitleRD_CAP
+ MAMBO_RD_CAP:0 "Ma¯ o" #GetTitleRD_CAP
+ GRAND_MAMBO_RD_CAP:0 "Be®ª¬o¥o ¯a¯ o" #GetTitleRD_CAP
+ GREAT_MAMBO_RD_CAP:0 "Bepxo¢°o¥o ¯a¯ o" #GetTitleRD_CAP
+ BAKUNGU_RD_CAP:0 "€a¬³°¥º" #GetTitleRD_CAP
+ MWAMI_RD_CAP:0 "M¢a°ª" #GetTitleRD_CAP
+ KABAKA_RD_CAP:0 "Ka a¬ª" #GetTitleRD_CAP
+ GREAT_KABAKA_RD_CAP:0 "Be®ª¬o¥o ¬a a¬ª" #GetTitleRD_CAP
+ ANDRIANONI_RD_CAP:0 "A°¦pªa°o°ª" #GetTitleRD_CAP
+ GRAND_ANDRIANONI_RD_CAP:0 "Be®ª¬o¥o a°¦pªa°o°ª" #GetTitleRD_CAP
+ GREAT_ANDRIANONI_RD_CAP:0 "Bepxo¢°o¥o a°¦pªa°o°ª" #GetTitleRD_CAP
+ FILOHANY_RD_CAP:0 "‘ª®oxa°º" #GetTitleRD_CAP
+ MPANJAKE_BE_RD_CAP:0 "M±a°¦¨a¬- e" #GetTitleRD_CAP
+ KURAKA_RD_CAP:0 "K³pa¬ª" #GetTitleRD_CAP
+ APU_RD_CAP:0 "A±³" #GetTitleRD_CAP
+ SAPA_INKA_RD_CAP:0 "Ca±a †°¬ª" #GetTitleRD_CAP
+ MARGRAVE_RD_CAP:0 "Map¬¥pa´a" #GetTitleRD_CAP
+ VICEROY_RD_CAP:0 "Bªµe-¬opo®÷" #GetTitleRD_CAP
+ IMAM_RD_CAP:0 "†¯a¯a" #GetTitleRD_CAP
+ GREAT_IMAM_RD_CAP:0 "Be®ª¬o¥o ª¯a¯a" #GetTitleRD_CAP
+ HIGH_IMAM_RD_CAP:0 "Bepxo¢°o¥o ª¯a¯a" #GetTitleRD_CAP
+ EMIR_RD_CAP:0 "™¯ªpa" #GetTitleRD_CAP
+ SULTAN_RD_CAP:0 "C³®²a°a" #GetTitleRD_CAP
+ GREAT_SULTAN_RD_CAP:0 "Be®ª¬o¥o c³®²a°a" #GetTitleRD_CAP
+ DAI_male_RD_CAP:0 "ƒaª" #GetTitleRD_CAP
+ PADISHAH_RD_CAP:0 "‰a¦ª·axa" #GetTitleRD_CAP
+ MALIK_RD_CAP:0 "Ma®ª¬a" #GetTitleRD_CAP
+ SHAH_RD_CAP:0 "”axa" #GetTitleRD_CAP
+ SHAHANSHAH_RD_CAP:0 "”axª°·axa" #GetTitleRD_CAP
+ SHEIKH_RD_CAP:0 "”e«xa" #GetTitleRD_CAP
+ GERAD_RD_CAP:0 "‚epa¦a" #GetTitleRD_CAP
+ BEY_RD_CAP:0 "€e«÷" #GetTitleRD_CAP
+ PRINC_RD_CAP:0 "K°÷©÷" #GetTitleRD_CAP
+ NAWAB_RD_CAP:0 "Ha¢a a" #GetTitleRD_CAP
+ NIZAM_RD_CAP:0 "Hª©a¯a" #GetTitleRD_CAP
+ KHEDIVE_RD_CAP:0 "Xe¦ª¢a" #GetTitleRD_CAP
+ SAOPHA_RD_CAP:0 "Cao´º" #GetTitleRD_CAP
+ KNIAZ_RD_CAP:0 "K°÷©÷" #GetTitleRD_CAP
+ GREAT_KNIAZ_RD_CAP:0 "Be®ª¬o¥o ¬°÷©÷" #GetTitleRD_CAP
+ TLATOANI_RD_CAP:0 "T®a²oa°ª" #GetTitleRD_CAP
+ HUEHUETLATOANI_RD_CAP:0 "X³¼« ²®a²oa°ª" #GetTitleRD_CAP
+ BISHOP_ELECTOR_RD_CAP:0 "E±ªc¬o±a-¬³p´¾pc²a" #GetTitleRD_CAP
+ ARCHBISHOP_ELECTOR_RD_CAP:0 "Apxªe±ªc¬o±a-¬³p´¾pc²a" #GetTitleRD_CAP
+ PATRIARCH_ELECTOR_RD_CAP:0 "‰a²pªapxa-¬³p´¾pc²a" #GetTitleRD_CAP
+ BISHOP_RD_CAP:0 "E±ªc¬o±a" #GetTitleRD_CAP
+ ARCHBISHOP_RD_CAP:0 "Apxªe±ªc¬o±a" #GetTitleRD_CAP
+ PATRIARCH_RD_CAP:0 "‰a²pªapxa" #GetTitleRD_CAP
+ PROTECTOR_RD_CAP:0 "‰po²e¬²opa" #GetTitleRD_CAP
+ LORD_PROTECTOR_RD_CAP:0 "ˆop¦a-±po²e¬²opa" #GetTitleRD_CAP
+ JINONG_RD_CAP:0 "ƒ¨ª°o°a" #GetTitleRD_CAP
+ KHAN_RD_CAP:0 "Xa°a" #GetTitleRD_CAP
+ KHAGAN_RD_CAP:0 "Ka¥a°a" #GetTitleRD_CAP
+ NUTSAL_RD_CAP:0 "H³µa®a" #GetTitleRD_CAP
+ BEILE_RD_CAP:0 "€¼ª®e" #GetTitleRD_CAP
+ JUNWANG_RD_CAP:0 "’©¾°»¢a°a" #GetTitleRD_CAP
+ HIGH_CHIEF_RD_CAP:0 "Bepxo¢°o¥o ¢o¨¦÷" #GetTitleRD_CAP
+ PARAMOUNT_CHIEF_RD_CAP:0 "‰ep¢o¥o ¢o¨¦÷" #GetTitleRD_CAP
+ ELDER_RD_CAP:0 "C²ape«·ª°º" #GetTitleRD_CAP
+ HIGH_ELDER_RD_CAP:0 "‚®a¢°o¥o c²ape«·ª°º" #GetTitleRD_CAP
+ PARAMOUNT_ELDER_RD_CAP:0 "Bepxo¢°o¥o c²ape«·ª°º" #GetTitleRD_CAP
+ AYATOLLAH_RD_CAP:0 "A÷²o®®º" #GetTitleRD_CAP
+ KHOJA_RD_CAP:0 "Xo¦¨ª" #GetTitleRD_CAP
+ GREAT_KHOJA_RD_CAP:0 "Be®ª¬o¥o xo¦¨ª" #GetTitleRD_CAP
+ GREAT_EMIR_RD_CAP:0 "Be®ª¬o¥o ¼¯ªpa" #GetTitleRD_CAP
+ PASHA_RD_CAP:0 "‰a·ª" #GetTitleRD_CAP
+ OLDERMAND_RD_CAP:0 "A®»¦ep¯a°a" #GetTitleRD_CAP
+ STORBONDE_RD_CAP:0 "C²³p o°¦a" #GetTitleRD_CAP
+ LANDSBONDE_RD_CAP:0 "ˆa°¦c o°¦a" #GetTitleRD_CAP
+ JATHEDAR_RD_CAP:0 "ƒ¨a²e¦apa" #GetTitleRD_CAP
+ MISLDAR_RD_CAP:0 "Mªca®»¦apa" #GetTitleRD_CAP
+ GREAT_MISLDAR_RD_CAP:0 "Be®ª¬o¥o ¯ªca®»¦apa" #GetTitleRD_CAP
+ RABBI_RD_CAP:0 "Pa¢¢ª°a" #GetTitleRD_CAP
+ GRAND_RABBI_RD_CAP:0 "Bºc·e¥o pa¢¢ª°a" #GetTitleRD_CAP
+ KOHEN_GADOL_RD_CAP:0 "Ko¼°-¥a¦o®÷" #GetTitleRD_CAP
+ HERBAD_RD_CAP:0 "Xªp a¦a" #GetTitleRD_CAP
+ MOBED_RD_CAP:0 "Mo e¦a" #GetTitleRD_CAP
+ MOABADAN_MOABAD_RD_CAP:0 "Moa a¦a° ¯oa a¦a" #GetTitleRD_CAP
+ PANDIT_RD_CAP:0 "‰a°¦ª²a" #GetTitleRD_CAP
+ PANDITRAO_RD_CAP:0 "‰a°¦ª²pao" #GetTitleRD_CAP
+ HIGH_GURU_RD_CAP:0 "Bºc·e¥o ¥³p³" #GetTitleRD_CAP
+ O_KANNUSHI_RD_CAP:0 "O'¬a°°³cª" #GetTitleRD_CAP
+ LAMA_RD_CAP:0 "ˆa¯º" #GetTitleRD_CAP
+ TULKU_RD_CAP:0 "T³®¬³" #GetTitleRD_CAP
+ GREAT_TULKU_RD_CAP:0 "Be®ª¬o¥o ²³®¬³" #GetTitleRD_CAP
+ SON_OF_HEAVEN_RD_CAP:0 "Cº°a He a" #GetTitleRD_CAP
+ MICHOQ_RD_CAP:0 "Mª¶o¬a" #GetTitleRD_CAP
+ HIGH_PRIEST_RD_CAP:0 "Bepxo¢°o¥o ¨peµa" #GetTitleRD_CAP
+ WILLAQ_UMU_RD_CAP:0 "Bª®a¬ ³¯³" #GetTitleRD_CAP
+ PRIEST_RD_CAP:0 "¨peµa" #GetTitleRD_CAP
+ PARAMOUNT_PRIEST_RD_CAP:0 "‰ep¢o¥o ¨peµa" #GetTitleRD_CAP
+ TSAR_RD_CAP:0 "’ap÷" #GetTitleRD_CAP
+ IMAME_RD_CAP:0 "†¯a¯a" #GetTitleRD_CAP
+ HOCHMEISTER_RD_CAP:0 "‚ox¯e«c²epa" #GetTitleRD_CAP
+ LANDMEISTER_RD_CAP:0 "ˆa°¦¯e«c²epa" #GetTitleRD_CAP
+ GROSSMEISTER_RD_CAP:0 "‚pocc¯e«c²epa" #GetTitleRD_CAP
+ GRAND_MASTER_RD_CAP:0 "Be®ª¬o¥o ¯a¥ªc²pa" #GetTitleRD_CAP
+ DOGE_RD_CAP:0 "ƒo¨a" #GetTitleRD_CAP
+ SERENE_DOGE_RD_CAP:0 "C¢e²®e«·e¥o ¦o¨a" #GetTitleRD_CAP
+ GREAT_DOGE_RD_CAP:0 "Be®ª¬o¥o ¦o¨a" #GetTitleRD_CAP
+ RECTOR_RD_CAP:0 "Pe¬²opa" #GetTitleRD_CAP
+ GRAND_RECTOR_RD_CAP:0 "‚®a¢°o¥o pe¬²opa" #GetTitleRD_CAP
+ GREAT_RECTOR_RD_CAP:0 "Be®ª¬o¥o pe¬²opa" #GetTitleRD_CAP
+ GRAND_KNIAZ_RD_CAP:0 "Be®ª¬o¥o ¬°÷©÷" #GetTitleRD_CAP
+ KEFALIJA_RD_CAP:0 "Ke´a®a" #GetTitleRD_CAP
+ DUZHD_RD_CAP:0 "ƒ³¨a" #GetTitleRD_CAP
+ GONFALONIERE_RD_CAP:0 "‚o°´a®o°»epa" #GetTitleRD_CAP
+ CONSUL_RD_CAP:0 "Ko°c³®a" #GetTitleRD_CAP
+ GRAND_CONSUL_RD_CAP:0 "‚®a¢°o¥o ¬o°c³®a" #GetTitleRD_CAP
+ GREAT_CONSUL_RD_CAP:0 "Be®ª¬o¥o ¬o°c³®a" #GetTitleRD_CAP
+ CAPTAIN_DEFENDER_RD_CAP:0 "Ka±ª²a°a-©a¸ª²°ª¬a" #GetTitleRD_CAP
+ SYNDIC_RD_CAP:0 "Cª°¦ª¬a" #GetTitleRD_CAP
+ GRAND_SYNDIC_RD_CAP:0 "Be®ª¬o¥o cª°¦ª¬a" #GetTitleRD_CAP
+ SADR_RD_CAP:0 "Ca¦pa" #GetTitleRD_CAP
+ PRATINIDHI_RD_CAP:0 "‰pa²ª°ª¦xª" #GetTitleRD_CAP
+ VIZIER_RD_CAP:0 "Bª©ªp÷" #GetTitleRD_CAP
+ GRANDVIZIER_RD_CAP:0 "Be®ª¬o¥o ¢ª©ªp÷" #GetTitleRD_CAP
+ COUNCILOR_RD_CAP:0 "Co¢e²°ª¬a" #GetTitleRD_CAP
+ GRAND_COUNCILOR_RD_CAP:0 "Be®ª¬o¥o co¢e²°ª¬a" #GetTitleRD_CAP
+ HIGH_COUNCILOR_RD_CAP:0 "Bepxo¢°o¥o co¢e²°ª¬a" #GetTitleRD_CAP
+ NACOM_RD_CAP:0 "Ha¬o¯a" #GetTitleRD_CAP
+ HALACH_UINIK_RD_CAP:0 "Xa®a¶-³ª°ª¬a" #GetTitleRD_CAP
+ K_UHUL_AJAW_RD_CAP:0 "K³x³®»-axa¢º" #GetTitleRD_CAP
+ POPE_RD_CAP:0 "‰a±º" #GetTitleRD_CAP
+ DIRECTOR_RD_CAP:0 "ƒªpe¬²opa" #GetTitleRD_CAP
+ GOVERNOR_RD_CAP:0 "‚³ ep°a²opa" #GetTitleRD_CAP
+ ATAMAN_RD_CAP:0 "A²a¯a°a" #GetTitleRD_CAP
+ HETMAN_RD_CAP:0 "‚e²¯a°a" #GetTitleRD_CAP
+ GREAT_HETMAN_RD_CAP:0 "Be®ª¬o¥o ¥e²¯a°a" #GetTitleRD_CAP
+ SHARIF_RD_CAP:0 "”apª´a" #GetTitleRD_CAP
+ GRAND_SHARIF_RD_CAP:0 "Be®ª¬o¥o ·apª´a" #GetTitleRD_CAP
+ GREAT_SHARIF_RD_CAP:0 "Bepxo¢°o¥o ·apª´a" #GetTitleRD_CAP
+ DATU_RD_CAP:0 "ƒa²³" #GetTitleRD_CAP
+ LAKAN_RD_CAP:0 "ˆa¬a°a" #GetTitleRD_CAP
+ GREAT_LAKAN_RD_CAP:0 "Be®ª¬o¥o ®a¬a°a" #GetTitleRD_CAP
+ BURGMEISTER_RD_CAP:0 "€³p¥o¯ªc²pa" #GetTitleRD_CAP
+ MAYOR_RD_CAP:0 "M¼pa" #GetTitleRD_CAP
+ ILKHAN_RD_CAP:0 "†®»xa°a" #GetTitleRD_CAP
+ SYNTH_RULER_RD_CAP:0 "†c±o®°ª²e®÷" #GetTitleRD_CAP
+ ###на вопрос дать кому?
+ SPEAKER_DT_CAP:0 "C±ª¬ep³" #GetTitleDT_CAP
+ CHANCELOR_DT_CAP:0 "Ka°µ®ep³" #GetTitleDT_CAP
+ PRESIDENT_DT_CAP:0 "‰pe©ª¦e°²³" #GetTitleDT_CAP
+ DUKE_DT_CAP:0 "‚epµo¥³" #GetTitleDT_CAP
+ KING_DT_CAP:0 "Kopo®¾" #GetTitleDT_CAP
+ EMPEROR_DT_CAP:0 "†¯±epa²op³" #GetTitleDT_CAP
+ GRAND_PENSIONARY_DT_CAP:0 "Be®ª¬o¯³ ±e°cªo°apª¾" #GetTitleDT_CAP
+ STADTHOLDER_DT_CAP:0 "C²a²xa³¦ep³" #GetTitleDT_CAP
+ GREAT_STADTHOLDER_DT_CAP:0 "‚®a¢°o¯³ c²a²xa³¦ep³" #GetTitleDT_CAP
+ PRINCE_ELECTOR_DT_CAP:0 "K°÷©¾-¬³p´¾pc²³" #GetTitleDT_CAP
+ KING_ELECTOR_DT_CAP:0 "Kopo®¾-¬³p´¾pc²³" #GetTitleDT_CAP
+ EARL_DT_CAP:0 "™p®³" #GetTitleDT_CAP
+ HIGH_KING_DT_CAP:0 "Bepxo¢°o¯³ ¬opo®¾" #GetTitleDT_CAP
+ LORD_DT_CAP:0 "ˆop¦³" #GetTitleDT_CAP
+ SHOGUN_DT_CAP:0 "Cë¥³°³" #GetTitleDT_CAP
+ ATABEG_DT_CAP:0 "A²a e¬³" #GetTitleDT_CAP
+ FAAMA_DT_CAP:0 "‘aa¯³" #GetTitleDT_CAP
+ GREAT_MANSA_DT_CAP:0 "Be®ª¬o¯³ ¯a°c³" #GetTitleDT_CAP
+ JAM_DT_CAP:0 "ƒ¨a¯³" #GetTitleDT_CAP
+ GRAND_JAM_DT_CAP:0 "€o®»·o¯³ ¦¨a¯³" #GetTitleDT_CAP
+ GREAT_JAM_DT_CAP:0 "Be®ª¬o¯³ ¦¨a¯³" #GetTitleDT_CAP
+ GRAND_DUKE_DT_CAP:0 "Be®ª¬o¯³ ¬°÷©¾" #GetTitleDT_CAP
+ ARCHDUKE_DT_CAP:0 "™pµ¥epµo¥³" #GetTitleDT_CAP
+ ARCHKING_DT_CAP:0 "™pµ¬opo®¾" #GetTitleDT_CAP
+ PRINCE_DT_CAP:0 "K°÷©¾" #GetTitleDT_CAP
+ BAN_TITLE_DT_CAP:0 "€a°³" #GetTitleDT_CAP
+ KRALJ_DT_CAP:0 "Kpa®¾" #GetTitleDT_CAP
+ CAR_DT_CAP:0 "’ap¾" #GetTitleDT_CAP
+ VOJVODA_DT_CAP:0 "Boe¢o¦e" #GetTitleDT_CAP
+ DESPOT_DT_CAP:0 "ƒec±o²³" #GetTitleDT_CAP
+ AUTOKRATOR_DT_CAP:0 "A¢²o¬pa²op³" #GetTitleDT_CAP
+ BASILEUS_DT_CAP:0 "€a©ª®e¢c³" #GetTitleDT_CAP
+ MBRET_DT_CAP:0 "M pe²³" #GetTitleDT_CAP
+ NOMARCH_DT_CAP:0 "Ho¯apx³" #GetTitleDT_CAP
+ PHARAOH_DT_CAP:0 "‘apao°³" #GetTitleDT_CAP
+ GREAT_PHARAOH_DT_CAP:0 "Be®ª¬o¯³ ´apao°³" #GetTitleDT_CAP
+ TYRANT_DT_CAP:0 "Tªpa°³" #GetTitleDT_CAP
+ HEGEMON_DT_CAP:0 "‚e¥e¯o°³" #GetTitleDT_CAP
+ CHIEF_DT_CAP:0 "Bo¨¦¾" #GetTitleDT_CAP
+ REX_DT_CAP:0 "Pe¬c³" #GetTitleDT_CAP
+ IMPERATOR_DT_CAP:0 "†¯±epa²op³" #GetTitleDT_CAP
+ VOIVODE_DT_CAP:0 "Boe¢o¦e" #GetTitleDT_CAP
+ RAJA_DT_CAP:0 "Pa¦¨e" #GetTitleDT_CAP
+ MAHARAJA_DT_CAP:0 "Maxapa¦¨e" #GetTitleDT_CAP
+ CHHATRAPATI_DT_CAP:0 "¶xa²pa±a²ª" #GetTitleDT_CAP
+ RANA_DT_CAP:0 "Pa°e" #GetTitleDT_CAP
+ MAHARANA_DT_CAP:0 "Maxapa°e" #GetTitleDT_CAP
+ PESHWA_DT_CAP:0 "‰e·¢e" #GetTitleDT_CAP
+ TATKISHO_DT_CAP:0 "Ta²¬ª·o" #GetTitleDT_CAP
+ TATO_DT_CAP:0 "Ta²o" #GetTitleDT_CAP
+ ATIO_DT_CAP:0 "A²ªo" #GetTitleDT_CAP
+ RAS_title_DT_CAP:0 "Pace" #GetTitleDT_CAP
+ NEGUS_DT_CAP:0 "He¥³ce" #GetTitleDT_CAP
+ NEGUSA_NEGAST_DT_CAP:0 "He¥³ca °a¥ac²e" #GetTitleDT_CAP
+ MUGABE_DT_CAP:0 "M³¥a e" #GetTitleDT_CAP
+ GREAT_MUGABE_DT_CAP:0 "Be®ª¬o¯³ ¯³¥a e" #GetTitleDT_CAP
+ OMUKAMA_DT_CAP:0 "O¯³¬a¯e" #GetTitleDT_CAP
+ GREAT_OMUKAMA_DT_CAP:0 "Be®ª¬o¯³ o¯³¬a¯e" #GetTitleDT_CAP
+ BALOPWE_DT_CAP:0 "€a®o±¢e" #GetTitleDT_CAP
+ MULOPWE_DT_CAP:0 "M³®o±¢e" #GetTitleDT_CAP
+ GREAT_MULOPWE_DT_CAP:0 "Be®ª¬o¯³ ¯³®o±¢e" #GetTitleDT_CAP
+ MWENEMUTAPA_DT_CAP:0 "M¢e°e¯³²a±e" #GetTitleDT_CAP
+ GREAT_MWENEMUTAPA_DT_CAP:0 "Be®ª¬o¯³ ¯¢e°e¯³²a±e" #GetTitleDT_CAP
+ MAMBO_DT_CAP:0 "Ma¯ o" #GetTitleDT_CAP
+ GRAND_MAMBO_DT_CAP:0 "Be®ª¬o¯³ ¯a¯ o" #GetTitleDT_CAP
+ GREAT_MAMBO_DT_CAP:0 "Bepxo¢°o¯³ ¯a¯ o" #GetTitleDT_CAP
+ BAKUNGU_DT_CAP:0 "€a¬³°¥e" #GetTitleDT_CAP
+ MWAMI_DT_CAP:0 "M¢a°ª" #GetTitleDT_CAP
+ KABAKA_DT_CAP:0 "Ka a¬e" #GetTitleDT_CAP
+ GREAT_KABAKA_DT_CAP:0 "Be®ª¬o¯³ ¬a a¬e" #GetTitleDT_CAP
+ ANDRIANONI_DT_CAP:0 "A°¦pªa°o°ª" #GetTitleDT_CAP
+ GRAND_ANDRIANONI_DT_CAP:0 "Be®ª¬o¯³ a°¦pªa°o°ª" #GetTitleDT_CAP
+ GREAT_ANDRIANONI_DT_CAP:0 "Bepxo¢°o¯³ a°¦pªa°o°ª" #GetTitleDT_CAP
+ FILOHANY_DT_CAP:0 "‘ª®oxa°e" #GetTitleDT_CAP
+ MPANJAKE_BE_DT_CAP:0 "M±a°¦¨a¬- e" #GetTitleDT_CAP
+ KURAKA_DT_CAP:0 "K³pa¬e" #GetTitleDT_CAP
+ APU_DT_CAP:0 "A±³" #GetTitleDT_CAP
+ SAPA_INKA_DT_CAP:0 "Ca±a †°¬e" #GetTitleDT_CAP
+ MARGRAVE_DT_CAP:0 "Map¬¥pa´³" #GetTitleDT_CAP
+ VICEROY_DT_CAP:0 "Bªµe-¬opo®¾" #GetTitleDT_CAP
+ IMAM_DT_CAP:0 "†¯a¯³" #GetTitleDT_CAP
+ GREAT_IMAM_DT_CAP:0 "Be®ª¬o¯³ ª¯a¯³" #GetTitleDT_CAP
+ HIGH_IMAM_DT_CAP:0 "Bepxo¢°o¯³ ª¯a¯³" #GetTitleDT_CAP
+ EMIR_DT_CAP:0 "™¯ªp³" #GetTitleDT_CAP
+ SULTAN_DT_CAP:0 "C³®²a°³" #GetTitleDT_CAP
+ GREAT_SULTAN_DT_CAP:0 "Be®ª¬o¯³ c³®²a°³" #GetTitleDT_CAP
+ DAI_male_DT_CAP:0 "ƒaª" #GetTitleDT_CAP
+ PADISHAH_DT_CAP:0 "‰a¦ª·ax³" #GetTitleDT_CAP
+ MALIK_DT_CAP:0 "Ma®ª¬³" #GetTitleDT_CAP
+ SHAH_DT_CAP:0 "”ax³" #GetTitleDT_CAP
+ SHAHANSHAH_DT_CAP:0 "”axª°·ax³" #GetTitleDT_CAP
+ SHEIKH_DT_CAP:0 "”e«x³" #GetTitleDT_CAP
+ GERAD_DT_CAP:0 "‚epa¦³" #GetTitleDT_CAP
+ BEY_DT_CAP:0 "€e«¾" #GetTitleDT_CAP
+ PRINC_DT_CAP:0 "K°÷©¾" #GetTitleDT_CAP
+ NAWAB_DT_CAP:0 "Ha¢a ³" #GetTitleDT_CAP
+ NIZAM_DT_CAP:0 "Hª©a¯³" #GetTitleDT_CAP
+ KHEDIVE_DT_CAP:0 "Xe¦ª¢³" #GetTitleDT_CAP
+ SAOPHA_DT_CAP:0 "Cao´³" #GetTitleDT_CAP
+ KNIAZ_DT_CAP:0 "K°÷©¾" #GetTitleDT_CAP
+ GREAT_KNIAZ_DT_CAP:0 "Be®ª¬o¯³ ¬°÷©¾" #GetTitleDT_CAP
+ TLATOANI_DT_CAP:0 "T®a²oa°ª" #GetTitleDT_CAP
+ HUEHUETLATOANI_DT_CAP:0 "X³¼« ²®a²oa°ª" #GetTitleDT_CAP
+ BISHOP_ELECTOR_DT_CAP:0 "E±ªc¬o±³-¬³p´¾pc²³" #GetTitleDT_CAP
+ ARCHBISHOP_ELECTOR_DT_CAP:0 "Apxªe±ªc¬o±³-¬³p´¾pc²³" #GetTitleDT_CAP
+ PATRIARCH_ELECTOR_DT_CAP:0 "‰a²pªapx³-¬³p´¾pc²³" #GetTitleDT_CAP
+ BISHOP_DT_CAP:0 "E±ªc¬o±³" #GetTitleDT_CAP
+ ARCHBISHOP_DT_CAP:0 "Apxªe±ªc¬o±³" #GetTitleDT_CAP
+ PATRIARCH_DT_CAP:0 "‰a²pªapx³" #GetTitleDT_CAP
+ PROTECTOR_DT_CAP:0 "‰po²e¬²op³" #GetTitleDT_CAP
+ LORD_PROTECTOR_DT_CAP:0 "ˆop¦³-±po²e¬²op³" #GetTitleDT_CAP
+ JINONG_DT_CAP:0 "ƒ¨ª°o°³" #GetTitleDT_CAP
+ KHAN_DT_CAP:0 "Xa°³" #GetTitleDT_CAP
+ KHAGAN_DT_CAP:0 "Ka¥a°³" #GetTitleDT_CAP
+ NUTSAL_DT_CAP:0 "H³µa®³" #GetTitleDT_CAP
+ BEILE_DT_CAP:0 "€¼ª®e" #GetTitleDT_CAP
+ JUNWANG_DT_CAP:0 "’©¾°»¢a°³" #GetTitleDT_CAP
+ HIGH_CHIEF_DT_CAP:0 "Bepxo¢°o¯³ ¢o¨¦¾" #GetTitleDT_CAP
+ PARAMOUNT_CHIEF_DT_CAP:0 "‰ep¢o¯³ ¢o¨¦¾" #GetTitleDT_CAP
+ ELDER_DT_CAP:0 "C²ape«·ª°e" #GetTitleDT_CAP
+ HIGH_ELDER_DT_CAP:0 "‚®a¢°o¯³ c²ape«·ª°e" #GetTitleDT_CAP
+ PARAMOUNT_ELDER_DT_CAP:0 "Bepxo¢°o¯³ c²ape«·ª°e" #GetTitleDT_CAP
+ AYATOLLAH_DT_CAP:0 "A÷²o®®e" #GetTitleDT_CAP
+ KHOJA_DT_CAP:0 "Xo¦¨e" #GetTitleDT_CAP
+ GREAT_KHOJA_DT_CAP:0 "Be®ª¬o¯³ xo¦¨e" #GetTitleDT_CAP
+ GREAT_EMIR_DT_CAP:0 "Be®ª¬o¯³ ¼¯ªp³" #GetTitleDT_CAP
+ PASHA_DT_CAP:0 "‰a·e" #GetTitleDT_CAP
+ OLDERMAND_DT_CAP:0 "A®»¦ep¯a°³" #GetTitleDT_CAP
+ STORBONDE_DT_CAP:0 "C²³p o°¦³" #GetTitleDT_CAP
+ LANDSBONDE_DT_CAP:0 "ˆa°¦c o°¦³" #GetTitleDT_CAP
+ JATHEDAR_DT_CAP:0 "ƒ¨a²e¦ap³" #GetTitleDT_CAP
+ MISLDAR_DT_CAP:0 "Mªca®»¦ap³" #GetTitleDT_CAP
+ GREAT_MISLDAR_DT_CAP:0 "Be®ª¬o¯³ ¯ªca®»¦ap³" #GetTitleDT_CAP
+ RABBI_DT_CAP:0 "Pa¢¢ª°³" #GetTitleDT_CAP
+ GRAND_RABBI_DT_CAP:0 "Bºc·e¯³ pa¢¢ª°³" #GetTitleDT_CAP
+ KOHEN_GADOL_DT_CAP:0 "Ko¼°-¥a¦o®¾" #GetTitleDT_CAP
+ HERBAD_DT_CAP:0 "Xªp a¦³" #GetTitleDT_CAP
+ MOBED_DT_CAP:0 "Mo e¦³" #GetTitleDT_CAP
+ MOABADAN_MOABAD_DT_CAP:0 "Moa a¦a° ¯oa a¦³" #GetTitleDT_CAP
+ PANDIT_DT_CAP:0 "‰a°¦ª²e" #GetTitleDT_CAP
+ PANDITRAO_DT_CAP:0 "‰a°¦ª²pao" #GetTitleDT_CAP
+ HIGH_GURU_DT_CAP:0 "Bºc·e¯³ ¥³p³" #GetTitleDT_CAP
+ O_KANNUSHI_DT_CAP:0 "O'¬a°°³cª" #GetTitleDT_CAP
+ LAMA_DT_CAP:0 "ˆa¯e" #GetTitleDT_CAP
+ TULKU_DT_CAP:0 "T³®¬³" #GetTitleDT_CAP
+ GREAT_TULKU_DT_CAP:0 "Be®ª¬o¯³ ²³®¬³" #GetTitleDT_CAP
+ SON_OF_HEAVEN_DT_CAP:0 "Cº°³ He a" #GetTitleDT_CAP
+ MICHOQ_DT_CAP:0 "Mª¶o¬³" #GetTitleDT_CAP
+ HIGH_PRIEST_DT_CAP:0 "Bepxo¢°o¯³ ¨peµ³" #GetTitleDT_CAP
+ WILLAQ_UMU_DT_CAP:0 "Bª®a¬ ³¯³" #GetTitleDT_CAP
+ PRIEST_DT_CAP:0 "¨peµ³" #GetTitleDT_CAP
+ PARAMOUNT_PRIEST_DT_CAP:0 "‰ep¢o¯³ ¨peµ³" #GetTitleDT_CAP
+ TSAR_DT_CAP:0 "’ap¾" #GetTitleDT_CAP
+ IMAME_DT_CAP:0 "†¯a¯³" #GetTitleDT_CAP
+ HOCHMEISTER_DT_CAP:0 "‚ox¯e«c²ep³" #GetTitleDT_CAP
+ LANDMEISTER_DT_CAP:0 "ˆa°¦¯e«c²ep³" #GetTitleDT_CAP
+ GROSSMEISTER_DT_CAP:0 "‚pocc¯e«c²ep³" #GetTitleDT_CAP
+ GRAND_MASTER_DT_CAP:0 "Be®ª¬o¯³ ¯a¥ªc²p³" #GetTitleDT_CAP
+ DOGE_DT_CAP:0 "ƒo¨³" #GetTitleDT_CAP
+ SERENE_DOGE_DT_CAP:0 "C¢e²®e«·e¯³ ¦o¨³" #GetTitleDT_CAP
+ GREAT_DOGE_DT_CAP:0 "Be®ª¬o¯³ ¦o¨³" #GetTitleDT_CAP
+ RECTOR_DT_CAP:0 "Pe¬²op³" #GetTitleDT_CAP
+ GRAND_RECTOR_DT_CAP:0 "‚®a¢°o¯³ pe¬²op³" #GetTitleDT_CAP
+ GREAT_RECTOR_DT_CAP:0 "Be®ª¬o¯³ pe¬²op³" #GetTitleDT_CAP
+ GRAND_KNIAZ_DT_CAP:0 "Be®ª¬o¯³ ¬°÷©¾" #GetTitleDT_CAP
+ KEFALIJA_DT_CAP:0 "Ke´a®³" #GetTitleDT_CAP
+ DUZHD_DT_CAP:0 "ƒ³¨³" #GetTitleDT_CAP
+ GONFALONIERE_DT_CAP:0 "‚o°´a®o°»ep³" #GetTitleDT_CAP
+ CONSUL_DT_CAP:0 "Ko°c³®³" #GetTitleDT_CAP
+ GRAND_CONSUL_DT_CAP:0 "‚®a¢°o¯³ ¬o°c³®³" #GetTitleDT_CAP
+ GREAT_CONSUL_DT_CAP:0 "Be®ª¬o¯³ ¬o°c³®³" #GetTitleDT_CAP
+ CAPTAIN_DEFENDER_DT_CAP:0 "Ka±ª²a°³-©a¸ª²°ª¬³" #GetTitleDT_CAP
+ SYNDIC_DT_CAP:0 "Cª°¦ª¬³" #GetTitleDT_CAP
+ GRAND_SYNDIC_DT_CAP:0 "Be®ª¬o¯³ cª°¦ª¬³" #GetTitleDT_CAP
+ SADR_DT_CAP:0 "Ca¦p³" #GetTitleDT_CAP
+ PRATINIDHI_DT_CAP:0 "‰pa²ª°ª¦xª" #GetTitleDT_CAP
+ VIZIER_DT_CAP:0 "Bª©ªp¾" #GetTitleDT_CAP
+ GRANDVIZIER_DT_CAP:0 "Be®ª¬o¯³ ¢ª©ªp¾" #GetTitleDT_CAP
+ COUNCILOR_DT_CAP:0 "Co¢e²°ª¬³" #GetTitleDT_CAP
+ GRAND_COUNCILOR_DT_CAP:0 "Be®ª¬o¯³ co¢e²°ª¬³" #GetTitleDT_CAP
+ HIGH_COUNCILOR_DT_CAP:0 "Bepxo¢°o¯³ co¢e²°ª¬³" #GetTitleDT_CAP
+ NACOM_DT_CAP:0 "Ha¬o¯³" #GetTitleDT_CAP
+ HALACH_UINIK_DT_CAP:0 "Xa®a¶-³ª°ª¬³" #GetTitleDT_CAP
+ K_UHUL_AJAW_DT_CAP:0 "K³x³®»-axa¢e" #GetTitleDT_CAP
+ POPE_DT_CAP:0 "‰a±e" #GetTitleDT_CAP
+ DIRECTOR_DT_CAP:0 "ƒªpe¬²op³" #GetTitleDT_CAP
+ GOVERNOR_DT_CAP:0 "‚³ ep°a²op³" #GetTitleDT_CAP
+ ATAMAN_DT_CAP:0 "A²a¯a°³" #GetTitleDT_CAP
+ HETMAN_DT_CAP:0 "‚e²¯a°³" #GetTitleDT_CAP
+ GREAT_HETMAN_DT_CAP:0 "Be®ª¬o¯³ ¥e²¯a°³" #GetTitleDT_CAP
+ SHARIF_DT_CAP:0 "”apª´³" #GetTitleDT_CAP
+ GRAND_SHARIF_DT_CAP:0 "Be®ª¬o¯³ ·apª´³" #GetTitleDT_CAP
+ GREAT_SHARIF_DT_CAP:0 "Bepxo¢°o¯³ ·apª´³" #GetTitleDT_CAP
+ DATU_DT_CAP:0 "ƒa²³" #GetTitleDT_CAP
+ LAKAN_DT_CAP:0 "ˆa¬a°³" #GetTitleDT_CAP
+ GREAT_LAKAN_DT_CAP:0 "Be®ª¬o¯³ ®a¬a°³" #GetTitleDT_CAP
+ BURGMEISTER_DT_CAP:0 "€³p¥o¯ªc²p³" #GetTitleDT_CAP
+ MAYOR_DT_CAP:0 "M¼p³" #GetTitleDT_CAP
+ ILKHAN_DT_CAP:0 "†®»xa°³" #GetTitleDT_CAP
+ SYNTH_RULER_DT_CAP:0 "†c±o®°ª²e®¾" #GetTitleDT_CAP
+ ###на вопрос исполнено кем?
+ SPEAKER_TV_CAP:0 "C±ª¬epo¯" #GetTitleTV_CAP
+ CHANCELOR_TV_CAP:0 "Ka°µ®epo¯" #GetTitleTV_CAP
+ PRESIDENT_TV_CAP:0 "‰pe©ª¦e°²o¯" #GetTitleTV_CAP
+ DUKE_TV_CAP:0 "‚epµo¥o¯" #GetTitleTV_CAP
+ KING_TV_CAP:0 "Kopo®ë¯" #GetTitleTV_CAP
+ EMPEROR_TV_CAP:0 "†¯±epa²opo¯" #GetTitleTV_CAP
+ GRAND_PENSIONARY_TV_CAP:0 "Be®ª¬ª¯ ±e°cªo°apªe¯" #GetTitleTV_CAP
+ STADTHOLDER_TV_CAP:0 "C²a²xa³¦epo¯" #GetTitleTV_CAP
+ GREAT_STADTHOLDER_TV_CAP:0 "‚®a¢°º¯ c²a²xa³¦epo¯" #GetTitleTV_CAP
+ PRINCE_ELECTOR_TV_CAP:0 "K°÷©e¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ KING_ELECTOR_TV_CAP:0 "Kopo®ë¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ EARL_TV_CAP:0 "™p®o¯" #GetTitleTV_CAP
+ HIGH_KING_TV_CAP:0 "Bepxo¢°º¯ ¬opo®ë¯" #GetTitleTV_CAP
+ LORD_TV_CAP:0 "ˆop¦o¯" #GetTitleTV_CAP
+ SHOGUN_TV_CAP:0 "Cë¥³°o¯" #GetTitleTV_CAP
+ ATABEG_TV_CAP:0 "A²a e¬o¯" #GetTitleTV_CAP
+ FAAMA_TV_CAP:0 "‘aa¯o¯" #GetTitleTV_CAP
+ GREAT_MANSA_TV_CAP:0 "Be®ª¬ª¯ ¯a°co«" #GetTitleTV_CAP
+ JAM_TV_CAP:0 "ƒ¨a¯o¯" #GetTitleTV_CAP
+ GRAND_JAM_TV_CAP:0 "€o®»·ª¯ ¦¨a¯o¯" #GetTitleTV_CAP
+ GREAT_JAM_TV_CAP:0 "Be®ª¬ª¯ ¦¨a¯o¯" #GetTitleTV_CAP
+ GRAND_DUKE_TV_CAP:0 "Be®ª¬ª¯ ¬°÷©e¯" #GetTitleTV_CAP
+ ARCHDUKE_TV_CAP:0 "™pµ¥epµo¥o¯" #GetTitleTV_CAP
+ ARCHKING_TV_CAP:0 "™pµ¬opo®ë¯" #GetTitleTV_CAP
+ PRINCE_TV_CAP:0 "K°÷©e¯" #GetTitleTV_CAP
+ BAN_TITLE_TV_CAP:0 "€a°o¯" #GetTitleTV_CAP
+ KRALJ_TV_CAP:0 "Kpa®ë¯" #GetTitleTV_CAP
+ CAR_TV_CAP:0 "’apë¯" #GetTitleTV_CAP
+ VOJVODA_TV_CAP:0 "Boe¢o¦o«" #GetTitleTV_CAP
+ DESPOT_TV_CAP:0 "ƒec±o²o¯" #GetTitleTV_CAP
+ AUTOKRATOR_TV_CAP:0 "A¢²o¬pa²opo¯" #GetTitleTV_CAP
+ BASILEUS_TV_CAP:0 "€a©ª®e¢co¯" #GetTitleTV_CAP
+ MBRET_TV_CAP:0 "M pe²o¯" #GetTitleTV_CAP
+ NOMARCH_TV_CAP:0 "Ho¯apxo¯" #GetTitleTV_CAP
+ PHARAOH_TV_CAP:0 "‘apao°o¯" #GetTitleTV_CAP
+ GREAT_PHARAOH_TV_CAP:0 "Be®ª¬ª¯ ´apao°o¯" #GetTitleTV_CAP
+ TYRANT_TV_CAP:0 "Tªpa°o¯" #GetTitleTV_CAP
+ HEGEMON_TV_CAP:0 "‚e¥e¯o°o¯" #GetTitleTV_CAP
+ CHIEF_TV_CAP:0 "Bo¨¦ë¯" #GetTitleTV_CAP
+ REX_TV_CAP:0 "Pe¬co¯" #GetTitleTV_CAP
+ IMPERATOR_TV_CAP:0 "†¯±epa²opo¯" #GetTitleTV_CAP
+ VOIVODE_TV_CAP:0 "Boe¢o¦o«" #GetTitleTV_CAP
+ RAJA_TV_CAP:0 "Pa¦¨o«" #GetTitleTV_CAP
+ MAHARAJA_TV_CAP:0 "Maxapa¦¨o«" #GetTitleTV_CAP
+ CHHATRAPATI_TV_CAP:0 "¶xa²pa±a²ª" #GetTitleTV_CAP
+ RANA_TV_CAP:0 "Pa°o«" #GetTitleTV_CAP
+ MAHARANA_TV_CAP:0 "Maxapa°o«" #GetTitleTV_CAP
+ PESHWA_TV_CAP:0 "‰e·¢o«" #GetTitleTV_CAP
+ TATKISHO_TV_CAP:0 "Ta²¬ª·o" #GetTitleTV_CAP
+ TATO_TV_CAP:0 "Ta²o" #GetTitleTV_CAP
+ ATIO_TV_CAP:0 "A²ªo" #GetTitleTV_CAP
+ RAS_title_TV_CAP:0 "Paco«" #GetTitleTV_CAP
+ NEGUS_TV_CAP:0 "He¥³co«" #GetTitleTV_CAP
+ NEGUSA_NEGAST_TV_CAP:0 "He¥³ca °a¥ac²o«" #GetTitleTV_CAP
+ MUGABE_TV_CAP:0 "M³¥a e" #GetTitleTV_CAP
+ GREAT_MUGABE_TV_CAP:0 "Be®ª¬ª¯ ¯³¥a e" #GetTitleTV_CAP
+ OMUKAMA_TV_CAP:0 "O¯³¬a¯e" #GetTitleTV_CAP
+ GREAT_OMUKAMA_TV_CAP:0 "Be®ª¬ª¯ o¯³¬a¯e" #GetTitleTV_CAP
+ BALOPWE_TV_CAP:0 "€a®o±¢e" #GetTitleTV_CAP
+ MULOPWE_TV_CAP:0 "M³®o±¢e" #GetTitleTV_CAP
+ GREAT_MULOPWE_TV_CAP:0 "Be®ª¬ª¯ ¯³®o±¢e" #GetTitleTV_CAP
+ MWENEMUTAPA_TV_CAP:0 "M¢e°e¯³²a±o¯" #GetTitleTV_CAP
+ GREAT_MWENEMUTAPA_TV_CAP:0 "Be®ª¬ª¯ ¯¢e°e¯³²a±o¯" #GetTitleTV_CAP
+ MAMBO_TV_CAP:0 "Ma¯ o" #GetTitleTV_CAP
+ GRAND_MAMBO_TV_CAP:0 "Be®ª¬ª¯ ¯a¯ o" #GetTitleTV_CAP
+ GREAT_MAMBO_TV_CAP:0 "Bepxo¢°º¯ ¯a¯ o" #GetTitleTV_CAP
+ BAKUNGU_TV_CAP:0 "€a¬³°¥o¯" #GetTitleTV_CAP
+ MWAMI_TV_CAP:0 "M¢a°ª" #GetTitleTV_CAP
+ KABAKA_TV_CAP:0 "Ka a¬o¯" #GetTitleTV_CAP
+ GREAT_KABAKA_TV_CAP:0 "Be®ª¬ª¯ ¬a a¬o¯" #GetTitleTV_CAP
+ ANDRIANONI_TV_CAP:0 "A°¦pªa°o°ª" #GetTitleTV_CAP
+ GRAND_ANDRIANONI_TV_CAP:0 "Be®ª¬ª¯ a°¦pªa°o°ª" #GetTitleTV_CAP
+ GREAT_ANDRIANONI_TV_CAP:0 "Bepxo¢°º¯ a°¦pªa°o°ª" #GetTitleTV_CAP
+ FILOHANY_TV_CAP:0 "‘ª®oxa°o¯" #GetTitleTV_CAP
+ MPANJAKE_BE_TV_CAP:0 "M±a°¦¨a¬- e" #GetTitleTV_CAP
+ KURAKA_TV_CAP:0 "K³pa¬o¯" #GetTitleTV_CAP
+ APU_TV_CAP:0 "A±³" #GetTitleTV_CAP
+ SAPA_INKA_TV_CAP:0 "Ca±a †°¬o«" #GetTitleTV_CAP
+ MARGRAVE_TV_CAP:0 "Map¬¥pa´o¯" #GetTitleTV_CAP
+ VICEROY_TV_CAP:0 "Bªµe-¬opo®ë¯" #GetTitleTV_CAP
+ IMAM_TV_CAP:0 "†¯a¯o¯" #GetTitleTV_CAP
+ GREAT_IMAM_TV_CAP:0 "Be®ª¬ª¯ ª¯a¯o¯" #GetTitleTV_CAP
+ HIGH_IMAM_TV_CAP:0 "Bepxo¢°º¯ ª¯a¯o¯" #GetTitleTV_CAP
+ EMIR_TV_CAP:0 "™¯ªpo¯" #GetTitleTV_CAP
+ SULTAN_TV_CAP:0 "C³®²a°o¯" #GetTitleTV_CAP
+ GREAT_SULTAN_TV_CAP:0 "Be®ª¬ª¯ c³®²a°o¯" #GetTitleTV_CAP
+ DAI_male_TV_CAP:0 "ƒaª" #GetTitleTV_CAP
+ PADISHAH_TV_CAP:0 "‰a¦ª·axo¯" #GetTitleTV_CAP
+ MALIK_TV_CAP:0 "Ma®ª¬o¯" #GetTitleTV_CAP
+ SHAH_TV_CAP:0 "”axo¯" #GetTitleTV_CAP
+ SHAHANSHAH_TV_CAP:0 "”axª°·axo¯" #GetTitleTV_CAP
+ SHEIKH_TV_CAP:0 "”e«xo¯" #GetTitleTV_CAP
+ GERAD_TV_CAP:0 "‚epa¦o¯" #GetTitleTV_CAP
+ BEY_TV_CAP:0 "€e«e¯" #GetTitleTV_CAP
+ PRINC_TV_CAP:0 "K°÷©e¯" #GetTitleTV_CAP
+ NAWAB_TV_CAP:0 "Ha¢a o¯" #GetTitleTV_CAP
+ NIZAM_TV_CAP:0 "Hª©a¯o¯" #GetTitleTV_CAP
+ KHEDIVE_TV_CAP:0 "Xe¦ª¢o¯" #GetTitleTV_CAP
+ SAOPHA_TV_CAP:0 "Cao´o¯" #GetTitleTV_CAP
+ KNIAZ_TV_CAP:0 "K°÷©e¯" #GetTitleTV_CAP
+ GREAT_KNIAZ_TV_CAP:0 "Be®ª¬ª¯ ¬°÷©e¯" #GetTitleTV_CAP
+ TLATOANI_TV_CAP:0 "T®a²oa°ª" #GetTitleTV_CAP
+ HUEHUETLATOANI_TV_CAP:0 "X³¼« ²®a²oa°ª" #GetTitleTV_CAP
+ BISHOP_ELECTOR_TV_CAP:0 "E±ªc¬o±o¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ ARCHBISHOP_ELECTOR_TV_CAP:0 "Apxªe±ªc¬o±o¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ PATRIARCH_ELECTOR_TV_CAP:0 "‰a²pªapxo¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ BISHOP_TV_CAP:0 "E±ªc¬o±o¯" #GetTitleTV_CAP
+ ARCHBISHOP_TV_CAP:0 "Apxªe±ªc¬o±o¯" #GetTitleTV_CAP
+ PATRIARCH_TV_CAP:0 "‰a²pªapxo¯" #GetTitleTV_CAP
+ PROTECTOR_TV_CAP:0 "‰po²e¬²opo¯" #GetTitleTV_CAP
+ LORD_PROTECTOR_TV_CAP:0 "ˆop¦o¯-±po²e¬²opo¯" #GetTitleTV_CAP
+ JINONG_TV_CAP:0 "ƒ¨ª°o°o¯" #GetTitleTV_CAP
+ KHAN_TV_CAP:0 "Xa°o¯" #GetTitleTV_CAP
+ KHAGAN_TV_CAP:0 "Ka¥a°o¯" #GetTitleTV_CAP
+ NUTSAL_TV_CAP:0 "H³µa®o¯" #GetTitleTV_CAP
+ BEILE_TV_CAP:0 "€¼ª®e" #GetTitleTV_CAP
+ JUNWANG_TV_CAP:0 "’©¾°»¢a°e¯" #GetTitleTV_CAP
+ HIGH_CHIEF_TV_CAP:0 "Bepxo¢°º¯ ¢o¨¦ë¯" #GetTitleTV_CAP
+ PARAMOUNT_CHIEF_TV_CAP:0 "‰ep¢º¯ ¢o¨¦ë¯" #GetTitleTV_CAP
+ ELDER_TV_CAP:0 "C²ape«·ª°o«" #GetTitleTV_CAP
+ HIGH_ELDER_TV_CAP:0 "‚®a¢°º¯ c²ape«·ª°o«" #GetTitleTV_CAP
+ PARAMOUNT_ELDER_TV_CAP:0 "Bepxo¢°º¯ c²ape«·ª°o«" #GetTitleTV_CAP
+ AYATOLLAH_TV_CAP:0 "A÷²o®®o«" #GetTitleTV_CAP
+ KHOJA_TV_CAP:0 "Xo¦¨e«" #GetTitleTV_CAP
+ GREAT_KHOJA_TV_CAP:0 "Be®ª¬ª¯ xo¦¨e«" #GetTitleTV_CAP
+ GREAT_EMIR_TV_CAP:0 "Be®ª¬ª¯ ¼¯ªpo¯" #GetTitleTV_CAP
+ PASHA_TV_CAP:0 "‰a·o«" #GetTitleTV_CAP
+ OLDERMAND_TV_CAP:0 "A®»¦ep¯a°o¯" #GetTitleTV_CAP
+ STORBONDE_TV_CAP:0 "C²³p o°¦o¯" #GetTitleTV_CAP
+ LANDSBONDE_TV_CAP:0 "ˆa°¦c o°¦o¯" #GetTitleTV_CAP
+ JATHEDAR_TV_CAP:0 "ƒ¨a²e¦apo¯" #GetTitleTV_CAP
+ MISLDAR_TV_CAP:0 "Mªca®»¦apo¯" #GetTitleTV_CAP
+ GREAT_MISLDAR_TV_CAP:0 "Be®ª¬ª¯ ¯ªca®»¦apo¯" #GetTitleTV_CAP
+ RABBI_TV_CAP:0 "Pa¢¢ª°o¯" #GetTitleTV_CAP
+ GRAND_RABBI_TV_CAP:0 "Bºc·ª¯ pa¢¢ª°o¯" #GetTitleTV_CAP
+ KOHEN_GADOL_TV_CAP:0 "Ko¼°-¥a¦o®e¯" #GetTitleTV_CAP
+ HERBAD_TV_CAP:0 "Xªp a¦o«" #GetTitleTV_CAP
+ MOBED_TV_CAP:0 "Mo e¦o«" #GetTitleTV_CAP
+ MOABADAN_MOABAD_TV_CAP:0 "Moa a¦a° ¯oa a¦o«" #GetTitleTV_CAP
+ PANDIT_TV_CAP:0 "‰a°¦ª²o¯" #GetTitleTV_CAP
+ PANDITRAO_TV_CAP:0 "‰a°¦ª²pao" #GetTitleTV_CAP
+ HIGH_GURU_TV_CAP:0 "Bºc·ª¯ ¥³p³" #GetTitleTV_CAP
+ O_KANNUSHI_TV_CAP:0 "O'¬a°°³cª" #GetTitleTV_CAP
+ LAMA_TV_CAP:0 "ˆa¯o«" #GetTitleTV_CAP
+ TULKU_TV_CAP:0 "T³®¬³" #GetTitleTV_CAP
+ GREAT_TULKU_TV_CAP:0 "Be®ª¬ª¯ ²³®¬³" #GetTitleTV_CAP
+ SON_OF_HEAVEN_TV_CAP:0 "Cº°o¯ He a" #GetTitleTV_CAP
+ MICHOQ_TV_CAP:0 "Mª¶o¬o¯" #GetTitleTV_CAP
+ HIGH_PRIEST_TV_CAP:0 "Bepxo¢°º¯ ¨peµo¯" #GetTitleTV_CAP
+ WILLAQ_UMU_TV_CAP:0 "Bª®a¬ ³¯³" #GetTitleTV_CAP
+ PRIEST_TV_CAP:0 "¨peµo¯" #GetTitleTV_CAP
+ PARAMOUNT_PRIEST_TV_CAP:0 "‰ep¢º¯ ¨peµo¯" #GetTitleTV_CAP
+ TSAR_TV_CAP:0 "’apë¯" #GetTitleTV_CAP
+ IMAME_TV_CAP:0 "†¯a¯o¯" #GetTitleTV_CAP
+ HOCHMEISTER_TV_CAP:0 "‚ox¯e«c²epo¯" #GetTitleTV_CAP
+ LANDMEISTER_TV_CAP:0 "ˆa°¦¯e«c²epo¯" #GetTitleTV_CAP
+ GROSSMEISTER_TV_CAP:0 "‚pocc¯e«c²epo¯" #GetTitleTV_CAP
+ GRAND_MASTER_TV_CAP:0 "Be®ª¬ª¯ ¯a¥ªc²po¯" #GetTitleTV_CAP
+ DOGE_TV_CAP:0 "ƒo¨e¯" #GetTitleTV_CAP
+ SERENE_DOGE_TV_CAP:0 "C¢e²®e«·ª¯ ¦o¨e¯" #GetTitleTV_CAP
+ GREAT_DOGE_TV_CAP:0 "Be®ª¬ª¯ ¦o¨e¯" #GetTitleTV_CAP
+ RECTOR_TV_CAP:0 "Pe¬²opo¯" #GetTitleTV_CAP
+ GRAND_RECTOR_TV_CAP:0 "‚®a¢°º¯ pe¬²opo¯" #GetTitleTV_CAP
+ GREAT_RECTOR_TV_CAP:0 "Be®ª¬ª¯ pe¬²opo¯" #GetTitleTV_CAP
+ GRAND_KNIAZ_TV_CAP:0 "Be®ª¬ª¯ ¬°÷©e¯" #GetTitleTV_CAP
+ KEFALIJA_TV_CAP:0 "Ke´a®o¯" #GetTitleTV_CAP
+ DUZHD_TV_CAP:0 "ƒ³¨e¯" #GetTitleTV_CAP
+ GONFALONIERE_TV_CAP:0 "‚o°´a®o°»epo¯" #GetTitleTV_CAP
+ CONSUL_TV_CAP:0 "Ko°c³®o¯" #GetTitleTV_CAP
+ GRAND_CONSUL_TV_CAP:0 "‚®a¢°º¯ ¬o°c³®o¯" #GetTitleTV_CAP
+ GREAT_CONSUL_TV_CAP:0 "Be®ª¬ª¯ ¬o°c³®o¯" #GetTitleTV_CAP
+ CAPTAIN_DEFENDER_TV_CAP:0 "Ka±ª²a°o¯-©a¸ª²°ª¬o¯" #GetTitleTV_CAP
+ SYNDIC_TV_CAP:0 "Cª°¦ª¬o¯" #GetTitleTV_CAP
+ GRAND_SYNDIC_TV_CAP:0 "Be®ª¬ª¯ cª°¦ª¬o¯" #GetTitleTV_CAP
+ SADR_TV_CAP:0 "Ca¦po«" #GetTitleTV_CAP
+ PRATINIDHI_TV_CAP:0 "‰pa²ª°ª¦xª" #GetTitleTV_CAP
+ VIZIER_TV_CAP:0 "Bª©ªpe¯" #GetTitleTV_CAP
+ GRANDVIZIER_TV_CAP:0 "Be®ª¬ª¯ ¢ª©ªpe¯" #GetTitleTV_CAP
+ COUNCILOR_TV_CAP:0 "Co¢e²°ª¬o¯" #GetTitleTV_CAP
+ GRAND_COUNCILOR_TV_CAP:0 "Be®ª¬ª¯ co¢e²°ª¬o¯" #GetTitleTV_CAP
+ HIGH_COUNCILOR_TV_CAP:0 "Bepxo¢°º¯ co¢e²°ª¬o¯" #GetTitleTV_CAP
+ NACOM_TV_CAP:0 "Ha¬o¯o¯" #GetTitleTV_CAP
+ HALACH_UINIK_TV_CAP:0 "Xa®a¶-³ª°ª¬o¯" #GetTitleTV_CAP
+ K_UHUL_AJAW_TV_CAP:0 "K³x³®»-axa¢o¯" #GetTitleTV_CAP
+ POPE_TV_CAP:0 "‰a±o«" #GetTitleTV_CAP
+ DIRECTOR_TV_CAP:0 "ƒªpe¬²opo¯" #GetTitleTV_CAP
+ GOVERNOR_TV_CAP:0 "‚³ ep°a²opo¯" #GetTitleTV_CAP
+ ATAMAN_TV_CAP:0 "A²a¯a°o¯" #GetTitleTV_CAP
+ HETMAN_TV_CAP:0 "‚e²¯a°o¯" #GetTitleTV_CAP
+ GREAT_HETMAN_TV_CAP:0 "Be®ª¬ª¯ ¥e²¯a°o¯" #GetTitleTV_CAP
+ SHARIF_TV_CAP:0 "”apª´o¯" #GetTitleTV_CAP
+ GRAND_SHARIF_TV_CAP:0 "Be®ª¬ª¯ ·apª´o¯" #GetTitleTV_CAP
+ GREAT_SHARIF_TV_CAP:0 "Bepxo¢°º¯ ·apª´o¯" #GetTitleTV_CAP
+ DATU_TV_CAP:0 "ƒa²³" #GetTitleTV_CAP
+ LAKAN_TV_CAP:0 "ˆa¬a°o¯" #GetTitleTV_CAP
+ GREAT_LAKAN_TV_CAP:0 "Be®ª¬º¯ ®a¬a°o¯" #GetTitleTV_CAP
+ BURGMEISTER_TV_CAP:0 "€³p¥o¯ªc²pe¯" #GetTitleTV_CAP
+ MAYOR_TV_CAP:0 "M¼po¯" #GetTitleTV_CAP
+ ILKHAN_TV_CAP:0 "†®»xa°o¯" #GetTitleTV_CAP
+ SYNTH_RULER_TV_CAP:0 "†c±o®°ª²e®e¯" #GetTitleTV_CAP
+ ###на вопрос это кто?
+ SPEAKER_IM_CAP:0 "C±ª¬ep" #GetTitleIM_CAP
+ CHANCELOR_IM_CAP:0 "Ka°µ®ep" #GetTitleIM_CAP
+ PRESIDENT_IM_CAP:0 "‰pe©ª¦e°²" #GetTitleIM_CAP
+ DUKE_IM_CAP:0 "‚epµo¥" #GetTitleIM_CAP
+ KING_IM_CAP:0 "Kopo®»" #GetTitleIM_CAP
+ EMPEROR_IM_CAP:0 "†¯±epa²op" #GetTitleIM_CAP
+ GRAND_PENSIONARY_IM_CAP:0 "Be®ª¬ª« ±e°cªo°apª«" #GetTitleIM_CAP
+ STADTHOLDER_IM_CAP:0 "C²a²xa³¦ep" #GetTitleIM_CAP
+ GREAT_STADTHOLDER_IM_CAP:0 "‚®a¢°º« c²a²xa³¦ep" #GetTitleIM_CAP
+ PRINCE_ELECTOR_IM_CAP:0 "K°÷©»-¬³p´¾pc²" #GetTitleIM_CAP
+ KING_ELECTOR_IM_CAP:0 "Kopo®»-¬³p´¾pc²" #GetTitleIM_CAP
+ EARL_IM_CAP:0 "™p®" #GetTitleIM_CAP
+ HIGH_KING_IM_CAP:0 "Bepxo¢°º« ¬opo®»" #GetTitleIM_CAP
+ LORD_IM_CAP:0 "ˆop¦" #GetTitleIM_CAP
+ SHOGUN_IM_CAP:0 "Cë¥³°" #GetTitleIM_CAP
+ ATABEG_IM_CAP:0 "A²a e¬" #GetTitleIM_CAP
+ FAAMA_IM_CAP:0 "‘aa¯" #GetTitleIM_CAP
+ GREAT_MANSA_IM_CAP:0 "Be®ª¬ª« ¯a°ca" #GetTitleIM_CAP
+ JAM_IM_CAP:0 "ƒ¨a¯" #GetTitleIM_CAP
+ GRAND_JAM_IM_CAP:0 "€o®»·ª« ¦¨a¯" #GetTitleIM_CAP
+ GREAT_JAM_IM_CAP:0 "Be®ª¬ª« ¦¨a¯" #GetTitleIM_CAP
+ GRAND_DUKE_IM_CAP:0 "Be®ª¬ª« ¬°÷©»" #GetTitleIM_CAP
+ ARCHDUKE_IM_CAP:0 "™pµ¥epµo¥" #GetTitleIM_CAP
+ ARCHKING_IM_CAP:0 "™pµ¬opo®»" #GetTitleIM_CAP
+ PRINCE_IM_CAP:0 "K°÷©»" #GetTitleIM_CAP
+ BAN_TITLE_IM_CAP:0 "€a°" #GetTitleIM_CAP
+ KRALJ_IM_CAP:0 "Kpa®»" #GetTitleIM_CAP
+ CAR_IM_CAP:0 "’ap»" #GetTitleIM_CAP
+ VOJVODA_IM_CAP:0 "Boe¢o¦a" #GetTitleIM_CAP
+ DESPOT_IM_CAP:0 "ƒec±o²" #GetTitleIM_CAP
+ AUTOKRATOR_IM_CAP:0 "A¢²o¬pa²op" #GetTitleIM_CAP
+ BASILEUS_IM_CAP:0 "€a©ª®e¢c" #GetTitleIM_CAP
+ MBRET_IM_CAP:0 "M pe²" #GetTitleIM_CAP
+ NOMARCH_IM_CAP:0 "Ho¯apx" #GetTitleIM_CAP
+ PHARAOH_IM_CAP:0 "‘apao°" #GetTitleIM_CAP
+ GREAT_PHARAOH_IM_CAP:0 "Be®ª¬ª« ´apao°" #GetTitleIM_CAP
+ TYRANT_IM_CAP:0 "Tªpa°" #GetTitleIM_CAP
+ HEGEMON_IM_CAP:0 "‚e¥e¯o°" #GetTitleIM_CAP
+ CHIEF_IM_CAP:0 "Bo¨¦»" #GetTitleIM_CAP
+ REX_IM_CAP:0 "Pe¬c" #GetTitleIM_CAP
+ IMPERATOR_IM_CAP:0 "†¯±epa²op" #GetTitleIM_CAP
+ VOIVODE_IM_CAP:0 "Boe¢o¦a" #GetTitleIM_CAP
+ RAJA_IM_CAP:0 "Pa¦¨a" #GetTitleIM_CAP
+ MAHARAJA_IM_CAP:0 "Maxapa¦¨a" #GetTitleIM_CAP
+ CHHATRAPATI_IM_CAP:0 "¶xa²pa±a²ª" #GetTitleIM_CAP
+ RANA_IM_CAP:0 "Pa°a" #GetTitleIM_CAP
+ MAHARANA_IM_CAP:0 "Maxapa°a" #GetTitleIM_CAP
+ PESHWA_IM_CAP:0 "‰e·¢a" #GetTitleIM_CAP
+ TATKISHO_IM_CAP:0 "Ta²¬ª·o" #GetTitleIM_CAP
+ TATO_IM_CAP:0 "Ta²o" #GetTitleIM_CAP
+ ATIO_IM_CAP:0 "A²ªo" #GetTitleIM_CAP
+ RAS_title_IM_CAP:0 "Paca" #GetTitleIM_CAP
+ NEGUS_IM_CAP:0 "He¥³ca" #GetTitleIM_CAP
+ NEGUSA_NEGAST_IM_CAP:0 "He¥³ca °a¥ac²a" #GetTitleIM_CAP
+ MUGABE_IM_CAP:0 "M³¥a e" #GetTitleIM_CAP
+ GREAT_MUGABE_IM_CAP:0 "Be®ª¬ª« ¯³¥a e" #GetTitleIM_CAP
+ OMUKAMA_IM_CAP:0 "O¯³¬a¯e" #GetTitleIM_CAP
+ GREAT_OMUKAMA_IM_CAP:0 "Be®ª¬ª« o¯³¬a¯e" #GetTitleIM_CAP
+ BALOPWE_IM_CAP:0 "€a®o±¢e" #GetTitleIM_CAP
+ MULOPWE_IM_CAP:0 "M³®o±¢e" #GetTitleIM_CAP
+ GREAT_MULOPWE_IM_CAP:0 "Be®ª¬ª« ¯³®o±¢e" #GetTitleIM_CAP
+ MWENEMUTAPA_IM_CAP:0 "M¢e°e¯³²a±a" #GetTitleIM_CAP
+ GREAT_MWENEMUTAPA_IM_CAP:0 "Be®ª¬ª« ¯¢e°e¯³²a±a" #GetTitleIM_CAP
+ MAMBO_IM_CAP:0 "Ma¯ o" #GetTitleIM_CAP
+ GRAND_MAMBO_IM_CAP:0 "Be®ª¬ª« ¯a¯ o" #GetTitleIM_CAP
+ GREAT_MAMBO_IM_CAP:0 "Bepxo¢°º« ¯a¯ o" #GetTitleIM_CAP
+ BAKUNGU_IM_CAP:0 "€a¬³°¥³" #GetTitleIM_CAP
+ MWAMI_IM_CAP:0 "M¢a°ª" #GetTitleIM_CAP
+ KABAKA_IM_CAP:0 "Ka a¬a" #GetTitleIM_CAP
+ GREAT_KABAKA_IM_CAP:0 "Be®ª¬ª« ¬a a¬a" #GetTitleIM_CAP
+ ANDRIANONI_IM_CAP:0 "A°¦pªa°o°ª" #GetTitleIM_CAP
+ GRAND_ANDRIANONI_IM_CAP:0 "Be®ª¬ª« a°¦pªa°o°ª" #GetTitleIM_CAP
+ GREAT_ANDRIANONI_IM_CAP:0 "Bepxo¢°º« a°¦pªa°o°ª" #GetTitleIM_CAP
+ FILOHANY_IM_CAP:0 "‘ª®oxa°" #GetTitleIM_CAP
+ MPANJAKE_BE_IM_CAP:0 "M±a°¦¨a¬- e" #GetTitleIM_CAP
+ KURAKA_IM_CAP:0 "K³pa¬a" #GetTitleIM_CAP
+ APU_IM_CAP:0 "A±³" #GetTitleIM_CAP
+ SAPA_INKA_IM_CAP:0 "Ca±a †°¬a" #GetTitleIM_CAP
+ MARGRAVE_IM_CAP:0 "Map¬¥pa´" #GetTitleIM_CAP
+ VICEROY_IM_CAP:0 "Bªµe-¬opo®»" #GetTitleIM_CAP
+ IMAM_IM_CAP:0 "†¯a¯" #GetTitleIM_CAP
+ GREAT_IMAM_IM_CAP:0 "Be®ª¬ª« ª¯a¯" #GetTitleIM_CAP
+ HIGH_IMAM_IM_CAP:0 "Bepxo¢°º« ª¯a¯" #GetTitleIM_CAP
+ EMIR_IM_CAP:0 "™¯ªp" #GetTitleIM_CAP
+ SULTAN_IM_CAP:0 "C³®²a°" #GetTitleIM_CAP
+ GREAT_SULTAN_IM_CAP:0 "Be®ª¬ª« c³®²a°" #GetTitleIM_CAP
+ DAI_male_IM_CAP:0 "ƒaª" #GetTitleIM_CAP
+ PADISHAH_IM_CAP:0 "‰a¦ª·ax" #GetTitleIM_CAP
+ MALIK_IM_CAP:0 "Ma®ª¬" #GetTitleIM_CAP
+ SHAH_IM_CAP:0 "”ax" #GetTitleIM_CAP
+ SHAHANSHAH_IM_CAP:0 "”axª°·ax" #GetTitleIM_CAP
+ SHEIKH_IM_CAP:0 "”e«x" #GetTitleIM_CAP
+ GERAD_IM_CAP:0 "‚epa¦" #GetTitleIM_CAP
+ BEY_IM_CAP:0 "€e«" #GetTitleIM_CAP
+ PRINC_IM_CAP:0 "K°÷©»" #GetTitleIM_CAP
+ NAWAB_IM_CAP:0 "Ha¢a " #GetTitleIM_CAP
+ NIZAM_IM_CAP:0 "Hª©a¯" #GetTitleIM_CAP
+ KHEDIVE_IM_CAP:0 "Xe¦ª¢" #GetTitleIM_CAP
+ SAOPHA_IM_CAP:0 "Cao´a" #GetTitleIM_CAP
+ KNIAZ_IM_CAP:0 "K°÷©»" #GetTitleIM_CAP
+ GREAT_KNIAZ_IM_CAP:0 "Be®ª¬ª« ¬°÷©»" #GetTitleIM_CAP
+ TLATOANI_IM_CAP:0 "T®a²oa°ª" #GetTitleIM_CAP
+ HUEHUETLATOANI_IM_CAP:0 "X³¼« ²®a²oa°ª" #GetTitleIM_CAP
+ BISHOP_ELECTOR_IM_CAP:0 "E±ªc¬o±-¬³p´¾pc²" #GetTitleIM_CAP
+ ARCHBISHOP_ELECTOR_IM_CAP:0 "Apxªe±ªc¬o±-¬³p´¾pc²" #GetTitleIM_CAP
+ PATRIARCH_ELECTOR_IM_CAP:0 "‰a²pªapx-¬³p´¾pc²" #GetTitleIM_CAP
+ BISHOP_IM_CAP:0 "E±ªc¬o±" #GetTitleIM_CAP
+ ARCHBISHOP_IM_CAP:0 "Apxªe±ªc¬o±" #GetTitleIM_CAP
+ PATRIARCH_IM_CAP:0 "‰a²pªapx" #GetTitleIM_CAP
+ PROTECTOR_IM_CAP:0 "‰po²e¬²op" #GetTitleIM_CAP
+ LORD_PROTECTOR_IM_CAP:0 "ˆop¦-±po²e¬²op" #GetTitleIM_CAP
+ JINONG_IM_CAP:0 "ƒ¨ª°o°" #GetTitleIM_CAP
+ KHAN_IM_CAP:0 "Xa°" #GetTitleIM_CAP
+ KHAGAN_IM_CAP:0 "Ka¥a°" #GetTitleIM_CAP
+ NUTSAL_IM_CAP:0 "H³µa®" #GetTitleIM_CAP
+ BEILE_IM_CAP:0 "€¼ª®e" #GetTitleIM_CAP
+ JUNWANG_IM_CAP:0 "’©¾°»¢a°" #GetTitleIM_CAP
+ HIGH_CHIEF_IM_CAP:0 "Bepxo¢°º« ¢o¨¦»" #GetTitleIM_CAP
+ PARAMOUNT_CHIEF_IM_CAP:0 "‰ep¢º« ¢o¨¦»" #GetTitleIM_CAP
+ ELDER_IM_CAP:0 "C²ape«·ª°a" #GetTitleIM_CAP
+ HIGH_ELDER_IM_CAP:0 "‚®a¢°º« c²ape«·ª°a" #GetTitleIM_CAP
+ PARAMOUNT_ELDER_IM_CAP:0 "Bepxo¢°º« c²ape«·ª°a" #GetTitleIM_CAP
+ AYATOLLAH_IM_CAP:0 "A÷²o®®a" #GetTitleIM_CAP
+ KHOJA_IM_CAP:0 "Xo¦¨a" #GetTitleIM_CAP
+ GREAT_KHOJA_IM_CAP:0 "Be®ª¬ª« xo¦¨a" #GetTitleIM_CAP
+ GREAT_EMIR_IM_CAP:0 "Be®ª¬ª« ¼¯ªp" #GetTitleIM_CAP
+ PASHA_IM_CAP:0 "‰a·a" #GetTitleIM_CAP
+ OLDERMAND_IM_CAP:0 "A®»¦ep¯a°" #GetTitleIM_CAP
+ STORBONDE_IM_CAP:0 "C²³p o°¦" #GetTitleIM_CAP
+ LANDSBONDE_IM_CAP:0 "ˆa°¦c o°¦" #GetTitleIM_CAP
+ JATHEDAR_IM_CAP:0 "ƒ¨a²e¦ap" #GetTitleIM_CAP
+ MISLDAR_IM_CAP:0 "Mªca®»¦ap" #GetTitleIM_CAP
+ GREAT_MISLDAR_IM_CAP:0 "Be®ª¬ª« ¯ªca®»¦ap" #GetTitleIM_CAP
+ RABBI_IM_CAP:0 "Pa¢¢ª°" #GetTitleIM_CAP
+ GRAND_RABBI_IM_CAP:0 "Bºc·ª« pa¢¢ª°" #GetTitleIM_CAP
+ KOHEN_GADOL_IM_CAP:0 "Ko¼°-¥a¦o®»" #GetTitleIM_CAP
+ HERBAD_IM_CAP:0 "Xªp a¦" #GetTitleIM_CAP
+ MOBED_IM_CAP:0 "Mo e¦" #GetTitleIM_CAP
+ MOABADAN_MOABAD_IM_CAP:0 "Moa a¦a° ¯oa a¦" #GetTitleIM_CAP
+ PANDIT_IM_CAP:0 "‰a°¦ª²" #GetTitleIM_CAP
+ PANDITRAO_IM_CAP:0 "‰a°¦ª²pao" #GetTitleIM_CAP
+ HIGH_GURU_IM_CAP:0 "Bºc·ª« ¥³p³" #GetTitleIM_CAP
+ O_KANNUSHI_IM_CAP:0 "O'¬a°°³cª" #GetTitleIM_CAP
+ LAMA_IM_CAP:0 "ˆa¯a" #GetTitleIM_CAP
+ TULKU_IM_CAP:0 "T³®¬³" #GetTitleIM_CAP
+ GREAT_TULKU_IM_CAP:0 "Be®ª¬ª« ²³®¬³" #GetTitleIM_CAP
+ SON_OF_HEAVEN_IM_CAP:0 "Cº° He a" #GetTitleIM_CAP
+ MICHOQ_IM_CAP:0 "Mª¶o¬" #GetTitleIM_CAP
+ HIGH_PRIEST_IM_CAP:0 "Bepxo¢°º« ¨peµ" #GetTitleIM_CAP
+ WILLAQ_UMU_IM_CAP:0 "Bª®a¬ ³¯³" #GetTitleIM_CAP
+ PRIEST_IM_CAP:0 "¨peµ" #GetTitleIM_CAP
+ PARAMOUNT_PRIEST_IM_CAP:0 "‰ep¢º« ¨peµ" #GetTitleIM_CAP
+ TSAR_IM_CAP:0 "’ap»" #GetTitleIM_CAP
+ IMAME_IM_CAP:0 "†¯a¯" #GetTitleIM_CAP
+ HOCHMEISTER_IM_CAP:0 "‚ox¯e«c²ep" #GetTitleIM_CAP
+ LANDMEISTER_IM_CAP:0 "ˆa°¦¯e«c²ep" #GetTitleIM_CAP
+ GROSSMEISTER_IM_CAP:0 "‚pocc¯e«c²ep" #GetTitleIM_CAP
+ GRAND_MASTER_IM_CAP:0 "Be®ª¬ª« ¯a¥ªc²p" #GetTitleIM_CAP
+ DOGE_IM_CAP:0 "ƒo¨" #GetTitleIM_CAP
+ SERENE_DOGE_IM_CAP:0 "C¢e²®e«·ª« ¦o¨" #GetTitleIM_CAP
+ GREAT_DOGE_IM_CAP:0 "Be®ª¬ª« ¦o¨" #GetTitleIM_CAP
+ RECTOR_IM_CAP:0 "Pe¬²op" #GetTitleIM_CAP
+ GRAND_RECTOR_IM_CAP:0 "‚®a¢°º« pe¬²op" #GetTitleIM_CAP
+ GREAT_RECTOR_IM_CAP:0 "Be®ª¬ª« pe¬²op" #GetTitleIM_CAP
+ GRAND_KNIAZ_IM_CAP:0 "Be®ª¬ª« ¬°÷©»" #GetTitleIM_CAP
+ KEFALIJA_IM_CAP:0 "Ke´a®" #GetTitleIM_CAP
+ DUZHD_IM_CAP:0 "ƒ³¨" #GetTitleIM_CAP
+ GONFALONIERE_IM_CAP:0 "‚o°´a®o°»ep" #GetTitleIM_CAP
+ CONSUL_IM_CAP:0 "Ko°c³®" #GetTitleIM_CAP
+ GRAND_CONSUL_IM_CAP:0 "‚®a¢°º« ¬o°c³®" #GetTitleIM_CAP
+ GREAT_CONSUL_IM_CAP:0 "Be®ª¬ª« ¬o°c³®" #GetTitleIM_CAP
+ CAPTAIN_DEFENDER_IM_CAP:0 "Ka±ª²a°-©a¸ª²°ª¬" #GetTitleIM_CAP
+ SYNDIC_IM_CAP:0 "Cª°¦ª¬" #GetTitleIM_CAP
+ GRAND_SYNDIC_IM_CAP:0 "Be®ª¬ª« cª°¦ª¬" #GetTitleIM_CAP
+ SADR_IM_CAP:0 "Ca¦pa" #GetTitleIM_CAP
+ PRATINIDHI_IM_CAP:0 "‰pa²ª°ª¦xª" #GetTitleIM_CAP
+ VIZIER_IM_CAP:0 "Bª©ªp»" #GetTitleIM_CAP
+ GRANDVIZIER_IM_CAP:0 "Be®ª¬ª« ¢ª©ªp»" #GetTitleIM_CAP
+ COUNCILOR_IM_CAP:0 "Co¢e²°ª¬" #GetTitleIM_CAP
+ GRAND_COUNCILOR_IM_CAP:0 "Be®ª¬ª« co¢e²°ª¬" #GetTitleIM_CAP
+ HIGH_COUNCILOR_IM_CAP:0 "Bepxo¢°º« co¢e²°ª¬" #GetTitleIM_CAP
+ NACOM_IM_CAP:0 "Ha¬o¯" #GetTitleIM_CAP
+ HALACH_UINIK_IM_CAP:0 "Xa®a¶-³ª°ª¬" #GetTitleIM_CAP
+ K_UHUL_AJAW_IM_CAP:0 "K³x³®»-axa¢" #GetTitleIM_CAP
+ POPE_IM_CAP:0 "‰a±a" #GetTitleIM_CAP
+ DIRECTOR_IM_CAP:0 "ƒªpe¬²op" #GetTitleIM_CAP
+ GOVERNOR_IM_CAP:0 "‚³ ep°a²op" #GetTitleIM_CAP
+ ATAMAN_IM_CAP:0 "A²a¯a°" #GetTitleIM_CAP
+ HETMAN_IM_CAP:0 "‚e²¯a°" #GetTitleIM_CAP
+ GREAT_HETMAN_IM_CAP:0 "Be®ª¬ª« ¥e²¯a°" #GetTitleIM_CAP
+ SHARIF_IM_CAP:0 "”apª´" #GetTitleIM_CAP
+ GRAND_SHARIF_IM_CAP:0 "Be®ª¬ª« ·apª´" #GetTitleIM_CAP
+ GREAT_SHARIF_IM_CAP:0 "Bepxo¢°º« ·apª´" #GetTitleIM_CAP
+ DATU_IM_CAP:0 "ƒa²³" #GetTitleIM_CAP
+ LAKAN_IM_CAP:0 "ˆa¬a°" #GetTitleIM_CAP
+ GREAT_LAKAN_IM_CAP:0 "Be®ª¬ª« ®a¬a°" #GetTitleIM_CAP
+ BURGMEISTER_IM_CAP:0 "€³p¥o¯ªc²p" #GetTitleIM_CAP
+ MAYOR_IM_CAP:0 "M¼p" #GetTitleIM_CAP
+ ILKHAN_IM_CAP:0 "†®»xa°" #GetTitleIM_CAP
+ SYNTH_RULER_IM_CAP:0 "†c±o®°ª²e®»" #GetTitleIM_CAP
+ ###на вопрос о ком?
+ SPEAKER_PR_CAP:0 "C±ª¬epe" #GetTitlePR_CAP
+ CHANCELOR_PR_CAP:0 "Ka°µ®epe" #GetTitlePR_CAP
+ PRESIDENT_PR_CAP:0 "‰pe©ª¦e°²e" #GetTitlePR_CAP
+ DUKE_PR_CAP:0 "‚epµo¥e" #GetTitlePR_CAP
+ KING_PR_CAP:0 "Kopo®e" #GetTitlePR_CAP
+ EMPEROR_PR_CAP:0 "†¯±epa²ope" #GetTitlePR_CAP
+ GRAND_PENSIONARY_PR_CAP:0 "Be®ª¬o¯ ±e°cªo°apªe" #GetTitlePR_CAP
+ STADTHOLDER_PR_CAP:0 "C²a²xa³¦epe" #GetTitlePR_CAP
+ GREAT_STADTHOLDER_PR_CAP:0 "‚®a¢°o¯ c²a²xa³¦epe" #GetTitlePR_CAP
+ PRINCE_ELECTOR_PR_CAP:0 "K°÷©e-¬³p´¾pc²e" #GetTitlePR_CAP
+ KING_ELECTOR_PR_CAP:0 "Kopo®e-¬³p´¾pc²e" #GetTitlePR_CAP
+ EARL_PR_CAP:0 "™p®e" #GetTitlePR_CAP
+ HIGH_KING_PR_CAP:0 "Bepxo¢°o¯ ¬opo®e" #GetTitlePR_CAP
+ LORD_PR_CAP:0 "ˆop¦e" #GetTitlePR_CAP
+ SHOGUN_PR_CAP:0 "Cë¥³°e" #GetTitlePR_CAP
+ ATABEG_PR_CAP:0 "A²a e¬e" #GetTitlePR_CAP
+ FAAMA_PR_CAP:0 "‘aa¯e" #GetTitlePR_CAP
+ GREAT_MANSA_PR_CAP:0 "Be®ª¬o¯ ¯a°ce" #GetTitlePR_CAP
+ JAM_PR_CAP:0 "ƒ¨a¯e" #GetTitlePR_CAP
+ GRAND_JAM_PR_CAP:0 "€o®»·o¯ ¦¨a¯e" #GetTitlePR_CAP
+ GREAT_JAM_PR_CAP:0 "Be®ª¬o¯ ¦¨a¯e" #GetTitlePR_CAP
+ GRAND_DUKE_PR_CAP:0 "Be®ª¬o¯ ¬°÷©e" #GetTitlePR_CAP
+ ARCHDUKE_PR_CAP:0 "™pµ¥epµo¥e" #GetTitlePR_CAP
+ ARCHKING_PR_CAP:0 "™pµ¬opo®e" #GetTitlePR_CAP
+ PRINCE_PR_CAP:0 "K°÷©e" #GetTitlePR_CAP
+ BAN_TITLE_PR_CAP:0 "€a°e" #GetTitlePR_CAP
+ KRALJ_PR_CAP:0 "Kpa®e" #GetTitlePR_CAP
+ CAR_PR_CAP:0 "’ape" #GetTitlePR_CAP
+ VOJVODA_PR_CAP:0 "Boe¢o¦e" #GetTitlePR_CAP
+ DESPOT_PR_CAP:0 "ƒec±o²e" #GetTitlePR_CAP
+ AUTOKRATOR_PR_CAP:0 "A¢²o¬pa²ope" #GetTitlePR_CAP
+ BASILEUS_PR_CAP:0 "€a©ª®e¢ce" #GetTitlePR_CAP
+ MBRET_PR_CAP:0 "M pe²e" #GetTitlePR_CAP
+ NOMARCH_PR_CAP:0 "Ho¯apxe" #GetTitlePR_CAP
+ PHARAOH_PR_CAP:0 "‘apao°e" #GetTitlePR_CAP
+ GREAT_PHARAOH_PR_CAP:0 "Be®ª¬o¯ ´apao°e" #GetTitlePR_CAP
+ TYRANT_PR_CAP:0 "Tªpa°e" #GetTitlePR_CAP
+ HEGEMON_PR_CAP:0 "‚e¥e¯o°e" #GetTitlePR_CAP
+ CHIEF_PR_CAP:0 "Bo¨¦e" #GetTitlePR_CAP
+ REX_PR_CAP:0 "Pe¬ce" #GetTitlePR_CAP
+ IMPERATOR_PR_CAP:0 "†¯±epa²ope" #GetTitlePR_CAP
+ VOIVODE_PR_CAP:0 "Boe¢o¦e" #GetTitlePR_CAP
+ RAJA_PR_CAP:0 "Pa¦¨e" #GetTitlePR_CAP
+ MAHARAJA_PR_CAP:0 "Maxapa¦¨e" #GetTitlePR_CAP
+ CHHATRAPATI_PR_CAP:0 "¶xa²pa±a²ª" #GetTitlePR_CAP
+ RANA_PR_CAP:0 "Pa°e" #GetTitlePR_CAP
+ MAHARANA_PR_CAP:0 "Maxapa°e" #GetTitlePR_CAP
+ PESHWA_PR_CAP:0 "‰e·¢e" #GetTitlePR_CAP
+ TATKISHO_PR_CAP:0 "Ta²¬ª·o" #GetTitlePR_CAP
+ TATO_PR_CAP:0 "Ta²o" #GetTitlePR_CAP
+ ATIO_PR_CAP:0 "A²ªo" #GetTitlePR_CAP
+ RAS_title_PR_CAP:0 "Pace" #GetTitlePR_CAP
+ NEGUS_PR_CAP:0 "He¥³ce" #GetTitlePR_CAP
+ NEGUSA_NEGAST_PR_CAP:0 "He¥³ca °a¥ac²e" #GetTitlePR_CAP
+ MUGABE_PR_CAP:0 "M³¥a e" #GetTitlePR_CAP
+ GREAT_MUGABE_PR_CAP:0 "Be®ª¬o¯ ¯³¥a e" #GetTitlePR_CAP
+ OMUKAMA_PR_CAP:0 "O¯³¬a¯e" #GetTitlePR_CAP
+ GREAT_OMUKAMA_PR_CAP:0 "Be®ª¬o¯ o¯³¬a¯e" #GetTitlePR_CAP
+ BALOPWE_PR_CAP:0 "€a®o±¢e" #GetTitlePR_CAP
+ MULOPWE_PR_CAP:0 "M³®o±¢e" #GetTitlePR_CAP
+ GREAT_MULOPWE_PR_CAP:0 "Be®ª¬o¯ ¯³®o±¢e" #GetTitlePR_CAP
+ MWENEMUTAPA_PR_CAP:0 "M¢e°e¯³²a±e" #GetTitlePR_CAP
+ GREAT_MWENEMUTAPA_PR_CAP:0 "Be®ª¬o¯ ¯¢e°e¯³²a±e" #GetTitlePR_CAP
+ MAMBO_PR_CAP:0 "Ma¯ o" #GetTitlePR_CAP
+ GRAND_MAMBO_PR_CAP:0 "Be®ª¬o¯ ¯a¯ o" #GetTitlePR_CAP
+ GREAT_MAMBO_PR_CAP:0 "Bepxo¢°o¯ ¯a¯ o" #GetTitlePR_CAP
+ BAKUNGU_PR_CAP:0 "€a¬³°¥e" #GetTitlePR_CAP
+ MWAMI_PR_CAP:0 "M¢a°ª" #GetTitlePR_CAP
+ KABAKA_PR_CAP:0 "Ka a¬e" #GetTitlePR_CAP
+ GREAT_KABAKA_PR_CAP:0 "Be®ª¬o¯ ¬a a¬e" #GetTitlePR_CAP
+ ANDRIANONI_PR_CAP:0 "A°¦pªa°o°ª" #GetTitlePR_CAP
+ GRAND_ANDRIANONI_PR_CAP:0 "Be®ª¬o¯ a°¦pªa°o°ª" #GetTitlePR_CAP
+ GREAT_ANDRIANONI_PR_CAP:0 "Bepxo¢°o¯ a°¦pªa°o°ª" #GetTitlePR_CAP
+ FILOHANY_PR_CAP:0 "‘ª®oxa°e" #GetTitlePR_CAP
+ MPANJAKE_BE_PR_CAP:0 "M±a°¦¨a¬- e" #GetTitlePR_CAP
+ KURAKA_PR_CAP:0 "K³pa¬e" #GetTitlePR_CAP
+ APU_PR_CAP:0 "A±³" #GetTitlePR_CAP
+ SAPA_INKA_PR_CAP:0 "Ca±a †°¬e" #GetTitlePR_CAP
+ MARGRAVE_PR_CAP:0 "Map¬¥pa´e" #GetTitlePR_CAP
+ VICEROY_PR_CAP:0 "Bªµe-¬opo®e" #GetTitlePR_CAP
+ IMAM_PR_CAP:0 "†¯a¯e" #GetTitlePR_CAP
+ GREAT_IMAM_PR_CAP:0 "Be®ª¬o¯ ª¯a¯e" #GetTitlePR_CAP
+ HIGH_IMAM_PR_CAP:0 "Bepxo¢°o¯ ª¯a¯e" #GetTitlePR_CAP
+ EMIR_PR_CAP:0 "™¯ªpe" #GetTitlePR_CAP
+ SULTAN_PR_CAP:0 "C³®²a°e" #GetTitlePR_CAP
+ GREAT_SULTAN_PR_CAP:0 "Be®ª¬o¯ c³®²a°e" #GetTitlePR_CAP
+ DAI_male_PR_CAP:0 "ƒaª" #GetTitlePR_CAP
+ PADISHAH_PR_CAP:0 "‰a¦ª·axe" #GetTitlePR_CAP
+ MALIK_PR_CAP:0 "Ma®ª¬e" #GetTitlePR_CAP
+ SHAH_PR_CAP:0 "”axe" #GetTitlePR_CAP
+ SHAHANSHAH_PR_CAP:0 "”axª°·axe" #GetTitlePR_CAP
+ SHEIKH_PR_CAP:0 "”e«xe" #GetTitlePR_CAP
+ GERAD_PR_CAP:0 "‚epa¦e" #GetTitlePR_CAP
+ BEY_PR_CAP:0 "€e«e" #GetTitlePR_CAP
+ PRINC_PR_CAP:0 "K°÷©e" #GetTitlePR_CAP
+ NAWAB_PR_CAP:0 "Ha¢a e" #GetTitlePR_CAP
+ NIZAM_PR_CAP:0 "Hª©a¯e" #GetTitlePR_CAP
+ KHEDIVE_PR_CAP:0 "Xe¦ª¢e" #GetTitlePR_CAP
+ SAOPHA_PR_CAP:0 "Cao´e" #GetTitlePR_CAP
+ KNIAZ_PR_CAP:0 "K°÷©e" #GetTitlePR_CAP
+ GREAT_KNIAZ_PR_CAP:0 "Be®ª¬o¯ ¬°÷©e" #GetTitlePR_CAP
+ TLATOANI_PR_CAP:0 "T®a²oa°ª" #GetTitlePR_CAP
+ HUEHUETLATOANI_PR_CAP:0 "X³¼« ²®a²oa°ª" #GetTitlePR_CAP
+ BISHOP_ELECTOR_PR_CAP:0 "E±ªc¬o±e-¬³p´¾pc²e" #GetTitlePR_CAP
+ ARCHBISHOP_ELECTOR_PR_CAP:0 "Apxªe±ªc¬o±e-¬³p´¾pc²e" #GetTitlePR_CAP
+ PATRIARCH_ELECTOR_PR_CAP:0 "‰a²pªapxe-¬³p´¾pc²e" #GetTitlePR_CAP
+ BISHOP_PR_CAP:0 "E±ªc¬o±e" #GetTitlePR_CAP
+ ARCHBISHOP_PR_CAP:0 "Apxªe±ªc¬o±e" #GetTitlePR_CAP
+ PATRIARCH_PR_CAP:0 "‰a²pªapxe" #GetTitlePR_CAP
+ PROTECTOR_PR_CAP:0 "‰po²e¬²ope" #GetTitlePR_CAP
+ LORD_PROTECTOR_PR_CAP:0 "ˆop¦e-±po²e¬²ope" #GetTitlePR_CAP
+ JINONG_PR_CAP:0 "ƒ¨ª°o°e" #GetTitlePR_CAP
+ KHAN_PR_CAP:0 "Xa°e" #GetTitlePR_CAP
+ KHAGAN_PR_CAP:0 "Ka¥a°e" #GetTitlePR_CAP
+ NUTSAL_PR_CAP:0 "H³µa®e" #GetTitlePR_CAP
+ BEILE_PR_CAP:0 "€¼ª®e" #GetTitlePR_CAP
+ JUNWANG_PR_CAP:0 "’©¾°»¢a°e" #GetTitlePR_CAP
+ HIGH_CHIEF_PR_CAP:0 "Bepxo¢°o¯ ¢o¨¦e" #GetTitlePR_CAP
+ PARAMOUNT_CHIEF_PR_CAP:0 "‰ep¢o¯ ¢o¨¦e" #GetTitlePR_CAP
+ ELDER_PR_CAP:0 "C²ape«·ª°e" #GetTitlePR_CAP
+ HIGH_ELDER_PR_CAP:0 "‚®a¢°o¯ c²ape«·ª°e" #GetTitlePR_CAP
+ PARAMOUNT_ELDER_PR_CAP:0 "Bepxo¢°o¯ c²ape«·ª°e" #GetTitlePR_CAP
+ AYATOLLAH_PR_CAP:0 "A÷²o®®e" #GetTitlePR_CAP
+ KHOJA_PR_CAP:0 "Xo¦¨e" #GetTitlePR_CAP
+ GREAT_KHOJA_PR_CAP:0 "Be®ª¬o¯ xo¦¨e" #GetTitlePR_CAP
+ GREAT_EMIR_PR_CAP:0 "Be®ª¬o¯ ¼¯ªpe" #GetTitlePR_CAP
+ PASHA_PR_CAP:0 "‰a·e" #GetTitlePR_CAP
+ OLDERMAND_PR_CAP:0 "A®»¦ep¯a°e" #GetTitlePR_CAP
+ STORBONDE_PR_CAP:0 "C²³p o°¦e" #GetTitlePR_CAP
+ LANDSBONDE_PR_CAP:0 "ˆa°¦c o°¦e" #GetTitlePR_CAP
+ JATHEDAR_PR_CAP:0 "ƒ¨a²e¦ape" #GetTitlePR_CAP
+ MISLDAR_PR_CAP:0 "Mªca®»¦ape" #GetTitlePR_CAP
+ GREAT_MISLDAR_PR_CAP:0 "Be®ª¬o¯ ¯ªca®»¦ape" #GetTitlePR_CAP
+ RABBI_PR_CAP:0 "Pa¢¢ª°e" #GetTitlePR_CAP
+ GRAND_RABBI_PR_CAP:0 "Bºc·e¯ pa¢¢ª°e" #GetTitlePR_CAP
+ KOHEN_GADOL_PR_CAP:0 "Ko¼°-¥a¦o®e" #GetTitlePR_CAP
+ HERBAD_PR_CAP:0 "Xªp a¦e" #GetTitlePR_CAP
+ MOBED_PR_CAP:0 "Mo e¦e" #GetTitlePR_CAP
+ MOABADAN_MOABAD_PR_CAP:0 "Moa a¦a° ¯oa a¦e" #GetTitlePR_CAP
+ PANDIT_PR_CAP:0 "‰a°¦ª²e" #GetTitlePR_CAP
+ PANDITRAO_PR_CAP:0 "‰a°¦ª²pao" #GetTitlePR_CAP
+ HIGH_GURU_PR_CAP:0 "Bºc·e¯ ¥³p³" #GetTitlePR_CAP
+ O_KANNUSHI_PR_CAP:0 "O'¬a°°³cª" #GetTitlePR_CAP
+ LAMA_PR_CAP:0 "ˆa¯e" #GetTitlePR_CAP
+ TULKU_PR_CAP:0 "T³®¬³" #GetTitlePR_CAP
+ GREAT_TULKU_PR_CAP:0 "Be®ª¬o¯ ²³®¬³" #GetTitlePR_CAP
+ SON_OF_HEAVEN_PR_CAP:0 "Cº°e He a" #GetTitlePR_CAP
+ MICHOQ_PR_CAP:0 "Mª¶o¬e" #GetTitlePR_CAP
+ HIGH_PRIEST_PR_CAP:0 "Bepxo¢°o¯ ¨peµe" #GetTitlePR_CAP
+ WILLAQ_UMU_PR_CAP:0 "Bª®a¬ ³¯³" #GetTitlePR_CAP
+ PRIEST_PR_CAP:0 "¨peµe" #GetTitlePR_CAP
+ PARAMOUNT_PRIEST_PR_CAP:0 "‰ep¢o¯ ¨peµe" #GetTitlePR_CAP
+ TSAR_PR_CAP:0 "’ape" #GetTitlePR_CAP
+ IMAME_PR_CAP:0 "†¯a¯e" #GetTitlePR_CAP
+ HOCHMEISTER_PR_CAP:0 "‚ox¯e«c²epe" #GetTitlePR_CAP
+ LANDMEISTER_PR_CAP:0 "ˆa°¦¯e«c²epe" #GetTitlePR_CAP
+ GROSSMEISTER_PR_CAP:0 "‚pocc¯e«c²epe" #GetTitlePR_CAP
+ GRAND_MASTER_PR_CAP:0 "Be®ª¬o¯ ¯a¥ªc²pe" #GetTitlePR_CAP
+ DOGE_PR_CAP:0 "ƒo¨e" #GetTitlePR_CAP
+ SERENE_DOGE_PR_CAP:0 "C¢e²®e«·e¯ ¦o¨e" #GetTitlePR_CAP
+ GREAT_DOGE_PR_CAP:0 "Be®ª¬o¯ ¦o¨e" #GetTitlePR_CAP
+ RECTOR_PR_CAP:0 "Pe¬²ope" #GetTitlePR_CAP
+ GRAND_RECTOR_PR_CAP:0 "‚®a¢°o¯ pe¬²ope" #GetTitlePR_CAP
+ GREAT_RECTOR_PR_CAP:0 "Be®ª¬o¯ pe¬²ope" #GetTitlePR_CAP
+ GRAND_KNIAZ_PR_CAP:0 "Be®ª¬o¯ ¬°÷©e" #GetTitlePR_CAP
+ KEFALIJA_PR_CAP:0 "Ke´a®e" #GetTitlePR_CAP
+ DUZHD_PR_CAP:0 "ƒ³¨e" #GetTitlePR_CAP
+ GONFALONIERE_PR_CAP:0 "‚o°´a®o°»epe" #GetTitlePR_CAP
+ CONSUL_PR_CAP:0 "Ko°c³®e" #GetTitlePR_CAP
+ GRAND_CONSUL_PR_CAP:0 "‚®a¢°o¯ ¬o°c³®e" #GetTitlePR_CAP
+ GREAT_CONSUL_PR_CAP:0 "Be®ª¬o¯ ¬o°c³®e" #GetTitlePR_CAP
+ CAPTAIN_DEFENDER_PR_CAP:0 "Ka±ª²a°e-©a¸ª²°ª¬e" #GetTitlePR_CAP
+ SYNDIC_PR_CAP:0 "Cª°¦ª¬e" #GetTitlePR_CAP
+ GRAND_SYNDIC_PR_CAP:0 "Be®ª¬o¯ cª°¦ª¬e" #GetTitlePR_CAP
+ SADR_PR_CAP:0 "Ca¦pe" #GetTitlePR_CAP
+ PRATINIDHI_PR_CAP:0 "‰pa²ª°ª¦xª" #GetTitlePR_CAP
+ VIZIER_PR_CAP:0 "Bª©ªpe" #GetTitlePR_CAP
+ GRANDVIZIER_PR_CAP:0 "Be®ª¬o¯ ¢ª©ªpe" #GetTitlePR_CAP
+ COUNCILOR_PR_CAP:0 "Co¢e²°ª¬e" #GetTitlePR_CAP
+ GRAND_COUNCILOR_PR_CAP:0 "Be®ª¬o¯ co¢e²°ª¬e" #GetTitlePR_CAP
+ HIGH_COUNCILOR_PR_CAP:0 "Bepxo¢°o¯ co¢e²°ª¬e" #GetTitlePR_CAP
+ NACOM_PR_CAP:0 "Ha¬o¯e" #GetTitlePR_CAP
+ HALACH_UINIK_PR_CAP:0 "Xa®a¶-³ª°ª¬e" #GetTitlePR_CAP
+ K_UHUL_AJAW_PR_CAP:0 "K³x³®»-axa¢e" #GetTitlePR_CAP
+ POPE_PR_CAP:0 "‰a±e" #GetTitlePR_CAP
+ DIRECTOR_PR_CAP:0 "ƒªpe¬²ope" #GetTitlePR_CAP
+ GOVERNOR_PR_CAP:0 "‚³ ep°a²ope" #GetTitlePR_CAP
+ ATAMAN_PR_CAP:0 "A²a¯a°e" #GetTitlePR_CAP
+ HETMAN_PR_CAP:0 "‚e²¯a°e" #GetTitlePR_CAP
+ GREAT_HETMAN_PR_CAP:0 "Be®ª¬o¯ ¥e²¯a°e" #GetTitlePR_CAP
+ SHARIF_PR_CAP:0 "”apª´e" #GetTitlePR_CAP
+ GRAND_SHARIF_PR_CAP:0 "Be®ª¬o¯ ·apª´e" #GetTitlePR_CAP
+ GREAT_SHARIF_PR_CAP:0 "Bepxo¢°o¯ ·apª´e" #GetTitlePR_CAP
+ DATU_PR_CAP:0 "ƒa²³" #GetTitlePR_CAP
+ LAKAN_PR_CAP:0 "ˆa¬a°e" #GetTitlePR_CAP
+ GREAT_LAKAN_PR_CAP:0 "Be®ª¬o¯ ®a¬a°" #GetTitlePR_CAP
+ BURGMEISTER_PR_CAP:0 "€³p¥o¯ªc²pe" #GetTitlePR_CAP
+ MAYOR_PR_CAP:0 "M¼pe" #GetTitlePR_CAP
+ ILKHAN_PR_CAP:0 "†®»xa°e" #GetTitlePR_CAP
+ SYNTH_RULER_PR_CAP:0 "†c±o®°ª²e®e" #GetTitlePR_CAP
+ ###на вопрос вижу кого?
+ SPEAKER_VN_CAP:0 "C±ª¬epa" #GetTitleVN_CAP
+ CHANCELOR_VN_CAP:0 "Ka°µ®epa" #GetTitleVN_CAP
+ PRESIDENT_VN_CAP:0 "‰pe©ª¦e°²a" #GetTitleVN_CAP
+ DUKE_VN_CAP:0 "‚epµo¥a" #GetTitleVN_CAP
+ KING_VN_CAP:0 "Kopo®÷" #GetTitleVN_CAP
+ EMPEROR_VN_CAP:0 "†¯±epa²opa" #GetTitleVN_CAP
+ GRAND_PENSIONARY_VN_CAP:0 "Be®ª¬o¥o ±e°cªo°apª÷" #GetTitleVN_CAP
+ STADTHOLDER_VN_CAP:0 "C²a²xa³¦epa" #GetTitleVN_CAP
+ GREAT_STADTHOLDER_VN_CAP:0 "‚®a¢°o¥o c²a²xa³¦epa" #GetTitleVN_CAP
+ PRINCE_ELECTOR_VN_CAP:0 "K°÷©÷-¬³p´¾pc²a" #GetTitleVN_CAP
+ KING_ELECTOR_VN_CAP:0 "Kopo®÷-¬³p´¾pc²a" #GetTitleVN_CAP
+ EARL_VN_CAP:0 "™p®a" #GetTitleVN_CAP
+ HIGH_KING_VN_CAP:0 "Bepxo¢°o¥o ¬opo®÷" #GetTitleVN_CAP
+ LORD_VN_CAP:0 "ˆop¦a" #GetTitleVN_CAP
+ SHOGUN_VN_CAP:0 "Cë¥³°a" #GetTitleVN_CAP
+ ATABEG_VN_CAP:0 "A²a e¬a" #GetTitleVN_CAP
+ FAAMA_VN_CAP:0 "‘aa¯º" #GetTitleVN_CAP
+ GREAT_MANSA_VN_CAP:0 "Be®ª¬o¥o ¯a°c³" #GetTitleVN_CAP
+ JAM_VN_CAP:0 "ƒ¨a¯³" #GetTitleVN_CAP
+ GRAND_JAM_VN_CAP:0 "€o®»·o¥o ¦¨a¯³" #GetTitleVN_CAP
+ GREAT_JAM_VN_CAP:0 "Be®ª¬o¥o ¦¨a¯³" #GetTitleVN_CAP
+ GRAND_DUKE_VN_CAP:0 "Be®ª¬o¥o ¬°÷©÷" #GetTitleVN_CAP
+ ARCHDUKE_VN_CAP:0 "™pµ¥epµo¥a" #GetTitleVN_CAP
+ ARCHKING_VN_CAP:0 "™pµ¬opo®÷" #GetTitleVN_CAP
+ PRINCE_VN_CAP:0 "K°÷©÷" #GetTitleVN_CAP
+ BAN_TITLE_VN_CAP:0 "€a°a" #GetTitleVN_CAP
+ KRALJ_VN_CAP:0 "Kpa®÷" #GetTitleVN_CAP
+ CAR_VN_CAP:0 "’ap÷" #GetTitleVN_CAP
+ VOJVODA_VN_CAP:0 "Boe¢o¦³" #GetTitleVN_CAP
+ DESPOT_VN_CAP:0 "ƒec±o²a" #GetTitleVN_CAP
+ AUTOKRATOR_VN_CAP:0 "A¢²o¬pa²opa" #GetTitleVN_CAP
+ BASILEUS_VN_CAP:0 "€a©ª®e¢ca" #GetTitleVN_CAP
+ MBRET_VN_CAP:0 "M pe²a" #GetTitleVN_CAP
+ NOMARCH_VN_CAP:0 "Ho¯apxa" #GetTitleVN_CAP
+ PHARAOH_VN_CAP:0 "‘apao°a" #GetTitleVN_CAP
+ GREAT_PHARAOH_VN_CAP:0 "Be®ª¬o¥o ´apao°a" #GetTitleVN_CAP
+ TYRANT_VN_CAP:0 "Tªpa°a" #GetTitleVN_CAP
+ HEGEMON_VN_CAP:0 "‚e¥e¯o°a" #GetTitleVN_CAP
+ CHIEF_VN_CAP:0 "Bo¨¦÷" #GetTitleVN_CAP
+ REX_VN_CAP:0 "Pe¬ca" #GetTitleVN_CAP
+ IMPERATOR_VN_CAP:0 "†¯±epa²opa" #GetTitleVN_CAP
+ VOIVODE_VN_CAP:0 "Boe¢o¦³" #GetTitleVN_CAP
+ RAJA_VN_CAP:0 "Pa¦¨³" #GetTitleVN_CAP
+ MAHARAJA_VN_CAP:0 "Maxapa¦¨³" #GetTitleVN_CAP
+ CHHATRAPATI_VN_CAP:0 "¶xa²pa±a²ª" #GetTitleVN_CAP
+ RANA_VN_CAP:0 "Pa°³" #GetTitleVN_CAP
+ MAHARANA_VN_CAP:0 "Maxapa°³" #GetTitleVN_CAP
+ PESHWA_VN_CAP:0 "‰e·¢³" #GetTitleVN_CAP
+ TATKISHO_VN_CAP:0 "Ta²¬ª·o" #GetTitleVN_CAP
+ TATO_VN_CAP:0 "Ta²o" #GetTitleVN_CAP
+ ATIO_VN_CAP:0 "A²ªo" #GetTitleVN_CAP
+ RAS_title_VN_CAP:0 "Pac³" #GetTitleVN_CAP
+ NEGUS_VN_CAP:0 "He¥³c³" #GetTitleVN_CAP
+ NEGUSA_NEGAST_VN_CAP:0 "He¥³ca °a¥ac²³" #GetTitleVN_CAP
+ MUGABE_VN_CAP:0 "M³¥a ³" #GetTitleVN_CAP
+ GREAT_MUGABE_VN_CAP:0 "Be®ª¬o¥o ¯³¥a ³" #GetTitleVN_CAP
+ OMUKAMA_VN_CAP:0 "O¯³¬a¯³" #GetTitleVN_CAP
+ GREAT_OMUKAMA_VN_CAP:0 "Be®ª¬o¥o o¯³¬a¯³" #GetTitleVN_CAP
+ BALOPWE_VN_CAP:0 "€a®o±¢³" #GetTitleVN_CAP
+ MULOPWE_VN_CAP:0 "M³®o±¢³" #GetTitleVN_CAP
+ GREAT_MULOPWE_VN_CAP:0 "Be®ª¬o¥o ¯³®o±¢³" #GetTitleVN_CAP
+ MWENEMUTAPA_VN_CAP:0 "M¢e°e¯³²a±³" #GetTitleVN_CAP
+ GREAT_MWENEMUTAPA_VN_CAP:0 "Be®ª¬o¥o ¯¢e°e¯³²a±³" #GetTitleVN_CAP
+ MAMBO_VN_CAP:0 "Ma¯ o" #GetTitleVN_CAP
+ GRAND_MAMBO_VN_CAP:0 "Be®ª¬o¥o ¯a¯ o" #GetTitleVN_CAP
+ GREAT_MAMBO_VN_CAP:0 "Bepxo¢°o¥o ¯a¯ o" #GetTitleVN_CAP
+ BAKUNGU_VN_CAP:0 "€a¬³°¥³" #GetTitleVN_CAP
+ MWAMI_VN_CAP:0 "M¢a°ª" #GetTitleVN_CAP
+ KABAKA_VN_CAP:0 "Ka a¬ª" #GetTitleVN_CAP
+ GREAT_KABAKA_VN_CAP:0 "Be®ª¬o¥o ¬a a¬ª" #GetTitleVN_CAP
+ ANDRIANONI_VN_CAP:0 "A°¦pªa°o°ª" #GetTitleVN_CAP
+ GRAND_ANDRIANONI_VN_CAP:0 "Be®ª¬o¥o a°¦pªa°o°ª" #GetTitleVN_CAP
+ GREAT_ANDRIANONI_VN_CAP:0 "Bepxo¢°o¥o a°¦pªa°o°ª" #GetTitleVN_CAP
+ FILOHANY_VN_CAP:0 "‘ª®oxa°º" #GetTitleVN_CAP
+ MPANJAKE_BE_VN_CAP:0 "M±a°¦¨a¬- e" #GetTitleVN_CAP
+ KURAKA_VN_CAP:0 "K³pa¬ª" #GetTitleVN_CAP
+ APU_VN_CAP:0 "A±³" #GetTitleVN_CAP
+ SAPA_INKA_VN_CAP:0 "Ca±a †°¬³" #GetTitleVN_CAP
+ MARGRAVE_VN_CAP:0 "Map¬¥pa´a" #GetTitleVN_CAP
+ VICEROY_VN_CAP:0 "Bªµe-¬opo®÷" #GetTitleVN_CAP
+ IMAM_VN_CAP:0 "†¯a¯a" #GetTitleVN_CAP
+ GREAT_IMAM_VN_CAP:0 "Be®ª¬o¥o ª¯a¯a" #GetTitleVN_CAP
+ HIGH_IMAM_VN_CAP:0 "Bepxo¢°o¥o ª¯a¯a" #GetTitleVN_CAP
+ EMIR_VN_CAP:0 "™¯ªpa" #GetTitleVN_CAP
+ SULTAN_VN_CAP:0 "C³®²a°a" #GetTitleVN_CAP
+ GREAT_SULTAN_VN_CAP:0 "Be®ª¬o¥o c³®²a°a" #GetTitleVN_CAP
+ DAI_male_VN_CAP:0 "ƒaª" #GetTitleVN_CAP
+ PADISHAH_VN_CAP:0 "‰a¦ª·axa" #GetTitleVN_CAP
+ MALIK_VN_CAP:0 "Ma®ª¬a" #GetTitleVN_CAP
+ SHAH_VN_CAP:0 "”axa" #GetTitleVN_CAP
+ SHAHANSHAH_VN_CAP:0 "”axª°·axa" #GetTitleVN_CAP
+ SHEIKH_VN_CAP:0 "”e«xa" #GetTitleVN_CAP
+ GERAD_VN_CAP:0 "‚epa¦a" #GetTitleVN_CAP
+ BEY_VN_CAP:0 "€e«÷" #GetTitleVN_CAP
+ PRINC_VN_CAP:0 "K°÷©÷" #GetTitleVN_CAP
+ NAWAB_VN_CAP:0 "Ha¢a a" #GetTitleVN_CAP
+ NIZAM_VN_CAP:0 "Hª©a¯a" #GetTitleVN_CAP
+ KHEDIVE_VN_CAP:0 "Xe¦ª¢a" #GetTitleVN_CAP
+ SAOPHA_VN_CAP:0 "Cao´³" #GetTitleVN_CAP
+ KNIAZ_VN_CAP:0 "K°÷©÷" #GetTitleVN_CAP
+ GREAT_KNIAZ_VN_CAP:0 "Be®ª¬o¥o ¬°÷©÷" #GetTitleVN_CAP
+ TLATOANI_VN_CAP:0 "T®a²oa°ª" #GetTitleVN_CAP
+ HUEHUETLATOANI_VN_CAP:0 "X³¼« ²®a²oa°ª" #GetTitleVN_CAP
+ BISHOP_ELECTOR_VN_CAP:0 "E±ªc¬o±a-¬³p´¾pc²a" #GetTitleVN_CAP
+ ARCHBISHOP_ELECTOR_VN_CAP:0 "Apxªe±ªc¬o±a-¬³p´¾pc²a" #GetTitleVN_CAP
+ PATRIARCH_ELECTOR_VN_CAP:0 "‰a²pªapxa-¬³p´¾pc²a" #GetTitleVN_CAP
+ BISHOP_VN_CAP:0 "E±ªc¬o±a" #GetTitleVN_CAP
+ ARCHBISHOP_VN_CAP:0 "Apxªe±ªc¬o±a" #GetTitleVN_CAP
+ PATRIARCH_VN_CAP:0 "‰a²pªapxa" #GetTitleVN_CAP
+ PROTECTOR_VN_CAP:0 "‰po²e¬²opa" #GetTitleVN_CAP
+ LORD_PROTECTOR_VN_CAP:0 "ˆop¦a-±po²e¬²opa" #GetTitleVN_CAP
+ JINONG_VN_CAP:0 "ƒ¨ª°o°a" #GetTitleVN_CAP
+ KHAN_VN_CAP:0 "Xa°a" #GetTitleVN_CAP
+ KHAGAN_VN_CAP:0 "Ka¥a°a" #GetTitleVN_CAP
+ NUTSAL_VN_CAP:0 "H³µa®a" #GetTitleVN_CAP
+ BEILE_VN_CAP:0 "€¼ª®e" #GetTitleVN_CAP
+ JUNWANG_VN_CAP:0 "’©¾°»¢a°a" #GetTitleVN_CAP
+ HIGH_CHIEF_VN_CAP:0 "Bepxo¢°o¥o ¢o¨¦÷" #GetTitleVN_CAP
+ PARAMOUNT_CHIEF_VN_CAP:0 "‰ep¢o¥o ¢o¨¦÷" #GetTitleVN_CAP
+ ELDER_VN_CAP:0 "C²ape«·ª°³" #GetTitleVN_CAP
+ HIGH_ELDER_VN_CAP:0 "‚®a¢°o¥o c²ape«·ª°³" #GetTitleVN_CAP
+ PARAMOUNT_ELDER_VN_CAP:0 "Bepxo¢°o¥o c²ape«·ª°³" #GetTitleVN_CAP
+ AYATOLLAH_VN_CAP:0 "A÷²o®®³" #GetTitleVN_CAP
+ KHOJA_VN_CAP:0 "Xo¦¨³" #GetTitleVN_CAP
+ GREAT_KHOJA_VN_CAP:0 "Be®ª¬o¥o xo¦¨³" #GetTitleVN_CAP
+ GREAT_EMIR_VN_CAP:0 "Be®ª¬o¥o ¼¯ªpa" #GetTitleVN_CAP
+ PASHA_VN_CAP:0 "‰a·³" #GetTitleVN_CAP
+ OLDERMAND_VN_CAP:0 "A®»¦ep¯a°a" #GetTitleVN_CAP
+ STORBONDE_VN_CAP:0 "C²³p o°¦a" #GetTitleVN_CAP
+ LANDSBONDE_VN_CAP:0 "ˆa°¦c o°¦a" #GetTitleVN_CAP
+ JATHEDAR_VN_CAP:0 "ƒ¨a²e¦apa" #GetTitleVN_CAP
+ MISLDAR_VN_CAP:0 "Mªca®»¦apa" #GetTitleVN_CAP
+ GREAT_MISLDAR_VN_CAP:0 "Be®ª¬o¥o ¯ªca®»¦apa" #GetTitleVN_CAP
+ RABBI_VN_CAP:0 "Pa¢¢ª°a" #GetTitleVN_CAP
+ GRAND_RABBI_VN_CAP:0 "Bºc·e¥o pa¢¢ª°a" #GetTitleVN_CAP
+ KOHEN_GADOL_VN_CAP:0 "Ko¼°-¥a¦o®÷" #GetTitleVN_CAP
+ HERBAD_VN_CAP:0 "Xªp a¦a" #GetTitleVN_CAP
+ MOBED_VN_CAP:0 "Mo e¦a" #GetTitleVN_CAP
+ MOABADAN_MOABAD_VN_CAP:0 "Moa a¦a° ¯oa a¦a" #GetTitleVN_CAP
+ PANDIT_VN_CAP:0 "‰a°¦ª²a" #GetTitleVN_CAP
+ PANDITRAO_VN_CAP:0 "‰a°¦ª²pao" #GetTitleVN_CAP
+ HIGH_GURU_VN_CAP:0 "Bºc·e¥o ¥³p³" #GetTitleVN_CAP
+ O_KANNUSHI_VN_CAP:0 "O'¬a°°³cª" #GetTitleVN_CAP
+ LAMA_VN_CAP:0 "ˆa¯³" #GetTitleVN_CAP
+ TULKU_VN_CAP:0 "T³®¬³" #GetTitleVN_CAP
+ GREAT_TULKU_VN_CAP:0 "Be®ª¬o¥o ²³®¬³" #GetTitleVN_CAP
+ SON_OF_HEAVEN_VN_CAP:0 "Cº°a He a" #GetTitleVN_CAP
+ MICHOQ_VN_CAP:0 "Mª¶o¬a" #GetTitleVN_CAP
+ HIGH_PRIEST_VN_CAP:0 "Bepxo¢°o¥o ¨peµa" #GetTitleVN_CAP
+ WILLAQ_UMU_VN_CAP:0 "Bª®a¬ ³¯³" #GetTitleVN_CAP
+ PRIEST_VN_CAP:0 "¨peµa" #GetTitleVN_CAP
+ PARAMOUNT_PRIEST_VN_CAP:0 "‰ep¢o¥o ¨peµa" #GetTitleVN_CAP
+ TSAR_VN_CAP:0 "’ap÷" #GetTitleVN_CAP
+ IMAME_VN_CAP:0 "†¯a¯a" #GetTitleVN_CAP
+ HOCHMEISTER_VN_CAP:0 "‚ox¯e«c²epa" #GetTitleVN_CAP
+ LANDMEISTER_VN_CAP:0 "ˆa°¦¯e«c²epa" #GetTitleVN_CAP
+ GROSSMEISTER_VN_CAP:0 "‚pocc¯e«c²epa" #GetTitleVN_CAP
+ GRAND_MASTER_VN_CAP:0 "Be®ª¬o¥o ¯a¥ªc²pa" #GetTitleVN_CAP
+ DOGE_VN_CAP:0 "ƒo¨a" #GetTitleVN_CAP
+ SERENE_DOGE_VN_CAP:0 "C¢e²®e«·e¥o ¦o¨a" #GetTitleVN_CAP
+ GREAT_DOGE_VN_CAP:0 "Be®ª¬o¥o ¦o¨a" #GetTitleVN_CAP
+ RECTOR_VN_CAP:0 "Pe¬²opa" #GetTitleVN_CAP
+ GRAND_RECTOR_VN_CAP:0 "‚®a¢°o¥o pe¬²opa" #GetTitleVN_CAP
+ GREAT_RECTOR_VN_CAP:0 "Be®ª¬o¥o pe¬²opa" #GetTitleVN_CAP
+ GRAND_KNIAZ_VN_CAP:0 "Be®ª¬o¥o ¬°÷©÷" #GetTitleVN_CAP
+ KEFALIJA_VN_CAP:0 "Ke´a®a" #GetTitleVN_CAP
+ DUZHD_VN_CAP:0 "ƒ³¨a" #GetTitleVN_CAP
+ GONFALONIERE_VN_CAP:0 "‚o°´a®o°»epa" #GetTitleVN_CAP
+ CONSUL_VN_CAP:0 "Ko°c³®a" #GetTitleVN_CAP
+ GRAND_CONSUL_VN_CAP:0 "‚®a¢°o¥o ¬o°c³®a" #GetTitleVN_CAP
+ GREAT_CONSUL_VN_CAP:0 "Be®ª¬o¥o ¬o°c³®a" #GetTitleVN_CAP
+ CAPTAIN_DEFENDER_VN_CAP:0 "Ka±ª²a°a-©a¸ª²°ª¬a" #GetTitleVN_CAP
+ SYNDIC_VN_CAP:0 "Cª°¦ª¬a" #GetTitleVN_CAP
+ GRAND_SYNDIC_VN_CAP:0 "Be®ª¬o¥o cª°¦ª¬a" #GetTitleVN_CAP
+ SADR_VN_CAP:0 "Ca¦pa" #GetTitleVN_CAP
+ PRATINIDHI_VN_CAP:0 "‰pa²ª°ª¦xª" #GetTitleVN_CAP
+ VIZIER_VN_CAP:0 "Bª©ªp÷" #GetTitleVN_CAP
+ GRANDVIZIER_VN_CAP:0 "Be®ª¬o¥o ¢ª©ªp÷" #GetTitleVN_CAP
+ COUNCILOR_VN_CAP:0 "Co¢e²°ª¬a" #GetTitleVN_CAP
+ GRAND_COUNCILOR_VN_CAP:0 "Be®ª¬o¥o co¢e²°ª¬a" #GetTitleVN_CAP
+ HIGH_COUNCILOR_VN_CAP:0 "Bepxo¢°o¥o co¢e²°ª¬a" #GetTitleVN_CAP
+ NACOM_VN_CAP:0 "Ha¬o¯a" #GetTitleVN_CAP
+ HALACH_UINIK_VN_CAP:0 "Xa®a¶-³ª°ª¬a" #GetTitleVN_CAP
+ K_UHUL_AJAW_VN_CAP:0 "K³x³®»-axa¢³" #GetTitleVN_CAP
+ POPE_VN_CAP:0 "‰a±³" #GetTitleVN_CAP
+ DIRECTOR_VN_CAP:0 "ƒªpe¬²opa" #GetTitleVN_CAP
+ GOVERNOR_VN_CAP:0 "‚³ ep°a²opa" #GetTitleVN_CAP
+ ATAMAN_VN_CAP:0 "A²a¯a°a" #GetTitleVN_CAP
+ HETMAN_VN_CAP:0 "‚e²¯a°a" #GetTitleVN_CAP
+ GREAT_HETMAN_VN_CAP:0 "Be®ª¬o¥o ¥e²¯a°a" #GetTitleVN_CAP
+ SHARIF_VN_CAP:0 "”apª´a" #GetTitleVN_CAP
+ GRAND_SHARIF_VN_CAP:0 "Be®ª¬o¥o ·apª´a" #GetTitleVN_CAP
+ GREAT_SHARIF_VN_CAP:0 "Bepxo¢°o¥o ·apª´a" #GetTitleVN_CAP
+ DATU_VN_CAP:0 "ƒa²³" #GetTitleVN_CAP
+ LAKAN_VN_CAP:0 "ˆa¬a°a" #GetTitleVN_CAP
+ GREAT_LAKAN_VN_CAP:0 "Be®ª¬o¥o ®a¬a°a" #GetTitleVN_CAP
+ BURGMEISTER_VN_CAP:0 "€³p¥o¯ªc²pa" #GetTitleVN_CAP
+ MAYOR_VN_CAP:0 "M¼pa" #GetTitleVN_CAP
+ ILKHAN_VN_CAP:0 "†®»xa°a" #GetTitleVN_CAP
+ SYNTH_RULER_VN_CAP:0 "†c±o®°ª²e®÷" #GetTitleVN_CAP
+ ########Женские варианты########
+ ###На вопрос это кто?
+ DUCHESS_IM_CAP:0 "‚epµo¥ª°÷" #GetTitleIM_CAP
+ QUEEN_IM_CAP:0 "Kopo®e¢a" #GetTitleIM_CAP
+ EMPRESS_IM_CAP:0 "†¯±epa²pªµa" #GetTitleIM_CAP
+ GRAND_PENSIONARY_fem_IM_CAP:0 "Be®ª¬ª« ±e°cªo°apª«" #GetTitleIM_CAP
+ STADTHOLDERESS_IM_CAP:0 "C²a²xa³¦²pecca" #GetTitleIM_CAP
+ GREAT_STADTHOLDERESS_IM_CAP:0 "‚®a¢°a÷ c²a²xa³¦²pecca" #GetTitleIM_CAP
+ PRINCESS_ELECTOR_IM_CAP:0 "‚epµo¥ª°÷-¬³p´¾pc²" #GetTitleIM_CAP
+ QUEEN_ELECTOR_IM_CAP:0 "Kopo®e¢a-¬³p´¾pc²" #GetTitleIM_CAP
+ COUNTESS_IM_CAP:0 "‚pa´ª°÷" #GetTitleIM_CAP
+ HIGH_QUEEN_IM_CAP:0 "Bepxo¢°a÷ ¬opo®e¢a" #GetTitleIM_CAP
+ SHOGUNESS_IM_CAP:0 "Cë¥³°" #GetTitleIM_CAP
+ LADY_IM_CAP:0 "ˆe¦ª" #GetTitleIM_CAP		
+ ATABEG_fem_IM_CAP:0 "A²a e¬" #GetTitleIM_CAP
+ GREAT_MANSA_fem_IM_CAP:0 "Be®ª¬a÷ ¯a°ca" #GetTitleIM_CAP
+ JAM_fem_IM_CAP:0 "ƒ¨a¯" #GetTitleIM_CAP
+ GRAND_JAM_fem_IM_CAP:0 "€o®»·a÷ ¦¨a¯" #GetTitleIM_CAP
+ GREAT_JAM_fem_IM_CAP:0 "Be®ª¬a÷ ¦¨a¯" #GetTitleIM_CAP
+ GRAND_DUCHESS_IM_CAP:0 "Be®ª¬a÷ ¬°÷¥ª°÷" #GetTitleIM_CAP
+ ARCHDUCHESS_IM_CAP:0 "™pµ¥epµo¥ª°÷" #GetTitleIM_CAP
+ PRINCESS_IM_CAP:0 "K°÷¥ª°÷" #GetTitleIM_CAP
+ KRALJICA_IM_CAP:0 "Kpa®»ªµa" #GetTitleIM_CAP
+ CARICA_IM_CAP:0 "’apªµa" #GetTitleIM_CAP
+ VOJVODKINJA_IM_CAP:0 "Boe¢o¦¬ª°a" #GetTitleIM_CAP
+ DESPOTISSA_IM_CAP:0 "ƒec±o²ªcca" #GetTitleIM_CAP
+ AUTOKRATEIRA_IM_CAP:0 "A¢²o¬pa²e«pa" #GetTitleIM_CAP
+ BASILISSA_IM_CAP:0 "€a©ª®ªcca" #GetTitleIM_CAP
+ PHARAOH_fem_IM_CAP:0 "‘apao°" #GetTitleIM_CAP
+ GREAT_PHARAOH_fem_IM_CAP:0 "Be®ª¬ª« ´apao°" #GetTitleIM_CAP
+ TYRANT_fem_IM_CAP:0 "Tªpa°" #GetTitleIM_CAP
+ HEGEMON_fem_IM_CAP:0 "‚e¥e¯o°" #GetTitleIM_CAP
+ CHIEFTESS_IM_CAP:0 "Bo¨¦»" #GetTitleIM_CAP
+ REGINA_IM_CAP:0 "Pe¥ª°a" #GetTitleIM_CAP
+ IMPERATRIX_IM_CAP:0 "†¯±epa²pªµa" #GetTitleIM_CAP
+ RANI_IM_CAP:0 "Pa°ª" #GetTitleIM_CAP
+ MAHARANI_IM_CAP:0 "Maxapa°ª" #GetTitleIM_CAP
+ TATKISHO_FEM_IM_CAP:0 "Ta²¬ª·o" #GetTitleIM_CAP
+ TATO_FEM_IM_CAP:0 "Ta²o" #GetTitleIM_CAP
+ ATIO_FEM_IM_CAP:0 "A²ªo" #GetTitleIM_CAP
+ LE_ELT_IM_CAP:0 "ˆe'¼®»²" #GetTitleIM_CAP
+ NIGIST_IM_CAP:0 "Hª¥ªc²" #GetTitleIM_CAP
+ NIGISTE_NIGIST_IM_CAP:0 "Hª¥ªc²a °ª¥ªc²" #GetTitleIM_CAP
+ MUGO_IM_CAP:0 "M³¥o" #GetTitleIM_CAP
+ GREAT_MUGO_IM_CAP:0 "Be®ª¬ª« ¯³¥o" #GetTitleIM_CAP
+ BALOPWE_fem_IM_CAP:0 "Be®ª¬ª« ¯³¥o" #GetTitleIM_CAP
+ MULOPWE_fem_IM_CAP:0 "M³®o±¢e" #GetTitleIM_CAP
+ GREAT_MULOPWE_fem_IM_CAP:0 "Be®ª¬a÷ ¯³®o±¢e" #GetTitleIM_CAP
+ MWENEMUTAPA_fem_IM_CAP:0 "M¢e°e¯³²a±a" #GetTitleIM_CAP
+ GREAT_MWENEMUTAPA_fem_IM_CAP:0 "Be®ª¬a÷ ¯¢e°e¯³²a±a" #GetTitleIM_CAP
+ UMUGABEKAZI_IM_CAP:0 "³¯³¥a e¬a©ª" #GetTitleIM_CAP
+ NNABAGEREKA_IM_CAP:0 "Ha a¥epe¬a" #GetTitleIM_CAP
+ GREAT_NNABAGEREKA_IM_CAP:0 "Be®ª¬ª« °a a¥epe¬a" #GetTitleIM_CAP
+ MARGRAVINE_IM_CAP:0 "Map¬¥pa´ª°÷" #GetTitleIM_CAP
+ VICEREINE_IM_CAP:0 "Bªµe-¬opo®e¢a" #GetTitleIM_CAP
+ EMIRA_IM_CAP:0 "™¯ªpa" #GetTitleIM_CAP
+ SULTANA_IM_CAP:0 "C³®²a°a" #GetTitleIM_CAP
+ GREAT_SULTANA_IM_CAP:0 "Be®ª¬a÷ c³®²a°a" #GetTitleIM_CAP
+ DAI_female_IM_CAP:0 "ƒaª" #GetTitleIM_CAP
+ MALIKAH_IM_CAP:0 "Ma®ª¬a" #GetTitleIM_CAP
+ SHEIKHA_IM_CAP:0 "”e«xa" #GetTitleIM_CAP
+ HATUN_IM_CAP:0 "Xa²³°" #GetTitleIM_CAP
+ PRINCEZA_IM_CAP:0 "K°÷¥ª°÷" #GetTitleIM_CAP
+ NAWAB_BEGUM_IM_CAP:0 "Ha¢a - e¥³¯" #GetTitleIM_CAP
+ NIZAM_BEGUM_IM_CAP:0 "Hª©a¯- e¥³¯" #GetTitleIM_CAP
+ KNIAGINIA_IM_CAP:0 "K°÷¥ª°÷" #GetTitleIM_CAP
+ GREAT_KNIAGINIA_IM_CAP:0 "Be®ª¬a÷ ¬°÷¥ª°÷" #GetTitleIM_CAP
+ BISHOP_ELECTOR_fem_IM_CAP:0 "E±ªc¬o±-¬³p´¾pc²" #GetTitleIM_CAP
+ ARCHBISHOP_ELECTOR_fem_IM_CAP:0 "Apxªe±ªc¬o±-¬³p´¾pc²" #GetTitleIM_CAP
+ MATRIARCH_ELECTOR_IM_CAP:0 "Ma²pªapx-¬³p´¾pc²" #GetTitleIM_CAP
+ BISHOP_fem_IM_CAP:0 "E±ªc¬o±" #GetTitleIM_CAP
+ ARCHBISHOP_fem_IM_CAP:0 "Apxªe±ªc¬o±" #GetTitleIM_CAP
+ MATRIARCH_IM_CAP:0 "Ma²pªapx" #GetTitleIM_CAP
+ PROTECTOR_fem_IM_CAP:0 "‰po²e¬²op" #GetTitleIM_CAP
+ LADY_PROTECTOR_IM_CAP:0 "ˆe¦ª-±po²e¬²op" #GetTitleIM_CAP
+ PRESIDENT_fem_IM_CAP:0 "‰pe©ª¦e°²" #GetTitleIM_CAP
+ KHATUN_IM_CAP:0 "Xa²³°" #GetTitleIM_CAP
+ GREAT_KHATUN_IM_CAP:0 "Be®ª¬a÷ xa²³°" #GetTitleIM_CAP
+ NUTSAL_fem_IM_CAP:0 "H³µa®" #GetTitleIM_CAP
+ GEGE_IM_CAP:0 "‚¼¥¼" #GetTitleIM_CAP
+ HIGH_CHIEFTESS_IM_CAP:0 "Bepxo¢°º« ¢o¨¦»" #GetTitleIM_CAP
+ PARAMOUNT_CHIEFTESS_IM_CAP:0 "‰ep¢º« ¢o¨¦»" #GetTitleIM_CAP
+ ELDER_fem_IM_CAP:0 "C²ape«·ª°a" #GetTitleIM_CAP
+ HIGH_ELDER_fem_IM_CAP:0 "‚®a¢°a÷ c²ape«·ª°a" #GetTitleIM_CAP
+ PARAMOUNT_ELDER_fem_IM_CAP:0 "Bepxo¢°a÷ c²ape«·ª°a" #GetTitleIM_CAP
+ OLDERMAND_fem_IM_CAP:0 "A®»¦ep¬¢ª°¦e" #GetTitleIM_CAP
+ STORBONDE_fem_IM_CAP:0 "C²³p o°¦a" #GetTitleIM_CAP
+ LANDSBONDE_fem_IM_CAP:0 "ˆa°¦c o°¦a" #GetTitleIM_CAP
+ MOBEDYAR_IM_CAP:0 "Mo e¦¹÷p" #GetTitleIM_CAP
+ DAUGHTER_OF_HEAVEN_IM_CAP:0 "ƒo¶» He a" #GetTitleIM_CAP
+ HIGH_PRIESTESS_IM_CAP:0 "Bepxo¢°a÷ ¨pªµa" #GetTitleIM_CAP
+ PARAMOUNT_PRIESTESS_IM_CAP:0 "‰ep¢a÷ ¨pªµa" #GetTitleIM_CAP
+ PRIESTESS_IM_CAP:0 "¨pªµa" #GetTitleIM_CAP
+ TSARITSA_IM_CAP:0 "’apªµa" #GetTitleIM_CAP
+ GREAT_PRINCESS_IM_CAP:0 "Be®ª¬a÷ ¬°÷¥ª°÷" #GetTitleIM_CAP
+ DOGARESSA_IM_CAP:0 "ƒo¥apecca" #GetTitleIM_CAP
+ SERENE_DOGARESSA_IM_CAP:0 "C¢e²®e«·a÷ ¦o¥apecca" #GetTitleIM_CAP
+ GREAT_DOGARESSA_IM_CAP:0 "Be®ª¬a÷ ¦o¥apecca" #GetTitleIM_CAP
+ RECTORA_IM_CAP:0 "Pe¬²op" #GetTitleIM_CAP
+ GRAND_RECTORA_IM_CAP:0 "‚®a¢°º« pe¬²op" #GetTitleIM_CAP
+ GREAT_RECTORA_IM_CAP:0 "Be®ª¬ª« pe¬²op" #GetTitleIM_CAP
+ GRAND_KNIAGINIA_IM_CAP:0 "Be®ª¬a÷ ¬°÷¥ª°÷" #GetTitleIM_CAP
+ PRINCEZA_IM_CAP:0 "K°÷¥ª°÷" #GetTitleIM_CAP
+ GONFALONIERE_fem_IM_CAP:0 "‚o°´a®o°»ep" #GetTitleIM_CAP
+ GRAND_CONSULESS_IM_CAP:0 "‚®a¢°º« ¬o°c³®" #GetTitleIM_CAP
+ GREAT_CONSULESS_IM_CAP:0 "Be®ª¬ª« ¬o°c³®" #GetTitleIM_CAP
+ CAPTAIN_DEFENDER_fem_IM_CAP:0 "Ka±ª²a°-©a¸ª²°ªµa" #GetTitleIM_CAP
+ SYNDIC_fem_IM_CAP:0 "Cª°¦ª¬" #GetTitleIM_CAP
+ GRAND_SYNDIC_fem_IM_CAP:0 "Be®ª¬ª« cª°¦ª¬" #GetTitleIM_CAP
+ COUNCILOR_fem_IM_CAP:0 "Co¢e²°ª¬" #GetTitleIM_CAP
+ GRAND_COUNCILOR_fem_IM_CAP:0 "Be®ª¬ª« co¢e²°ª¬" #GetTitleIM_CAP
+ HIGH_COUNCILOR_fem_IM_CAP:0 "Bepxo¢°º« co¢e²°ª¬" #GetTitleIM_CAP
+ CHANCELOR_fem_IM_CAP:0 "Ka°µ®ep" #GetTitleIM_CAP
+ POPETTE_IM_CAP:0 "‰a±ecca" #GetTitleIM_CAP
+ GOVERNESS_IM_CAP:0 "‚³ ep°a²op" #GetTitleIM_CAP
+ DIRECTORESS_IM_CAP:0 "ƒªpe¬²pªca" #GetTitleIM_CAP
+ ATAMAN_fem_IM_CAP:0 "A²a¯a°" #GetTitleIM_CAP
+ HETMAN_fem_IM_CAP:0 "‚e²¯a°" #GetTitleIM_CAP
+ GREAT_HETMAN_fem_IM_CAP:0 "Be®ª¬ª« ¥e²¯a°" #GetTitleIM_CAP
+ SHARIFA_IM_CAP:0 "”apª´a" #GetTitleIM_CAP
+ GRAND_SHARIFA_IM_CAP:0 "Be®ª¬a÷ ·apª´a" #GetTitleIM_CAP
+ GREAT_SHARIFA_IM_CAP:0 "Bepxo¢°a÷ ·apª´a" #GetTitleIM_CAP
+ MAYORESS_IM_CAP:0 "M¼p" #GetTitleIM_CAP
+ ILKHATUN_IM_CAP:0 "†®»xa²³°" #GetTitleIM_CAP
+ ###На вопрос нет кого?
+ DUCHESS_RD_CAP:0 "‚epµo¥ª°ª" #GetTitleRD_CAP
+ QUEEN_RD_CAP:0 "Kopo®e¢º" #GetTitleRD_CAP
+ EMPRESS_RD_CAP:0 "†¯±epa²pªµº" #GetTitleRD_CAP
+ GRAND_PENSIONARY_fem_RD_CAP:0 "Be®ª¬o« ±e°cªo°apªª" #GetTitleRD_CAP
+ STADTHOLDERESS_RD_CAP:0 "C²a²xa³¦²peccº" #GetTitleRD_CAP
+ GREAT_STADTHOLDERESS_RD_CAP:0 "‚®a¢°o« c²a²xa³¦²peccº" #GetTitleRD_CAP
+ PRINCESS_ELECTOR_RD_CAP:0 "‚epµo¥ª°ª-¬³p´¾pc²a" #GetTitleRD_CAP
+ QUEEN_ELECTOR_RD_CAP:0 "Kopo®e¢º-¬³p´¾pc²a" #GetTitleRD_CAP
+ COUNTESS_RD_CAP:0 "‚pa´ª°ª" #GetTitleRD_CAP
+ HIGH_QUEEN_RD_CAP:0 "Bepxo¢°o« ¬opo®e¢º" #GetTitleRD_CAP
+ SHOGUNESS_RD_CAP:0 "Cë¥³°a" #GetTitleRD_CAP
+ LADY_RD_CAP:0 "ˆe¦ª" #GetTitleRD_CAP		
+ ATABEG_fem_RD_CAP:0 "A²a e¬ª" #GetTitleRD_CAP
+ GREAT_MANSA_fem_RD_CAP:0 "Be®ª¬o« ¯a°cº" #GetTitleRD_CAP
+ JAM_fem_RD_CAP:0 "ƒ¨a¯º" #GetTitleRD_CAP
+ GRAND_JAM_fem_RD_CAP:0 "€o®»·o« ¦¨a¯º" #GetTitleRD_CAP
+ GREAT_JAM_fem_RD_CAP:0 "Be®ª¬o« ¦¨a¯º" #GetTitleRD_CAP
+ GRAND_DUCHESS_RD_CAP:0 "Be®ª¬o« ¬°÷¥ª°ª" #GetTitleRD_CAP
+ ARCHDUCHESS_RD_CAP:0 "™pµ¥epµo¥ª°ª" #GetTitleRD_CAP
+ PRINCESS_RD_CAP:0 "K°÷¥ª°ª" #GetTitleRD_CAP
+ KRALJICA_RD_CAP:0 "Kpa®»ªµº" #GetTitleRD_CAP
+ CARICA_RD_CAP:0 "’apªµº" #GetTitleRD_CAP
+ VOJVODKINJA_RD_CAP:0 "Boe¢o¦¬ª°º" #GetTitleRD_CAP
+ DESPOTISSA_RD_CAP:0 "ƒec±o²ªccº" #GetTitleRD_CAP
+ AUTOKRATEIRA_RD_CAP:0 "A¢²o¬pa²e«pº" #GetTitleRD_CAP
+ BASILISSA_RD_CAP:0 "€a©ª®ªccº" #GetTitleRD_CAP
+ PHARAOH_fem_RD_CAP:0 "‘apao°a" #GetTitleRD_CAP
+ GREAT_PHARAOH_fem_RD_CAP:0 "Be®ª¬o¥o ´apao°a" #GetTitleRD_CAP
+ TYRANT_fem_RD_CAP:0 "Tªpa°a" #GetTitleRD_CAP
+ HEGEMON_fem_RD_CAP:0 "‚e¥e¯o°a" #GetTitleRD_CAP
+ CHIEFTESS_RD_CAP:0 "Bo¨¦÷" #GetTitleRD_CAP
+ REGINA_RD_CAP:0 "Pe¥ª°º" #GetTitleRD_CAP
+ IMPERATRIX_RD_CAP:0 "†¯±epa²pªµº" #GetTitleRD_CAP
+ RANI_RD_CAP:0 "Pa°ª" #GetTitleRD_CAP
+ MAHARANI_RD_CAP:0 "Maxapa°ª" #GetTitleRD_CAP
+ TATKISHO_FEM_RD_CAP:0 "Ta²¬ª·o" #GetTitleRD_CAP
+ TATO_FEM_RD_CAP:0 "Ta²o" #GetTitleRD_CAP
+ ATIO_FEM_RD_CAP:0 "A²ªo" #GetTitleRD_CAP
+ LE_ELT_RD_CAP:0 "ˆe'¼®»²º" #GetTitleRD_CAP
+ NIGIST_RD_CAP:0 "Hª¥ªc²º" #GetTitleRD_CAP
+ NIGISTE_NIGIST_RD_CAP:0 "Hª¥ªc²a °ª¥ªc²º" #GetTitleRD_CAP
+ MUGO_RD_CAP:0 "M³¥o" #GetTitleRD_CAP
+ GREAT_MUGO_RD_CAP:0 "Be®ª¬o« ¯³¥o" #GetTitleRD_CAP
+ BALOPWE_fem_RD_CAP:0 "Be®ª¬o« ¯³¥o" #GetTitleRD_CAP
+ MULOPWE_fem_RD_CAP:0 "M³®o±¢e" #GetTitleRD_CAP
+ GREAT_MULOPWE_fem_RD_CAP:0 "Be®ª¬o« ¯³®o±¢e" #GetTitleRD_CAP
+ MWENEMUTAPA_fem_RD_CAP:0 "M¢e°e¯³²a±º" #GetTitleRD_CAP
+ GREAT_MWENEMUTAPA_fem_RD_CAP:0 "Be®ª¬o« ¯¢e°e¯³²a±º" #GetTitleRD_CAP
+ UMUGABEKAZI_RD_CAP:0 "³¯³¥a e¬a©ª" #GetTitleRD_CAP
+ NNABAGEREKA_RD_CAP:0 "Ha a¥epe¬ª" #GetTitleRD_CAP
+ GREAT_NNABAGEREKA_RD_CAP:0 "Be®ª¬o« °a a¥epe¬ª" #GetTitleRD_CAP
+ MARGRAVINE_RD_CAP:0 "Map¬¥pa´ª°ª" #GetTitleRD_CAP
+ VICEREINE_RD_CAP:0 "Bªµe-¬opo®e¢º" #GetTitleRD_CAP
+ EMIRA_RD_CAP:0 "™¯ªpº" #GetTitleRD_CAP
+ SULTANA_RD_CAP:0 "C³®²a°º" #GetTitleRD_CAP
+ GREAT_SULTANA_RD_CAP:0 "Be®ª¬o« c³®²a°º" #GetTitleRD_CAP
+ DAI_female_RD_CAP:0 "ƒaª" #GetTitleRD_CAP
+ MALIKAH_RD_CAP:0 "Ma®ª¬ª" #GetTitleRD_CAP
+ SHEIKHA_RD_CAP:0 "”e«xª" #GetTitleRD_CAP
+ HATUN_RD_CAP:0 "Xa²³°" #GetTitleRD_CAP
+ PRINCEZA_RD_CAP:0 "K°÷¥ª°ª" #GetTitleRD_CAP
+ NAWAB_BEGUM_RD_CAP:0 "Ha¢a - e¥³¯" #GetTitleRD_CAP
+ NIZAM_BEGUM_RD_CAP:0 "Hª©a¯- e¥³¯" #GetTitleRD_CAP
+ KNIAGINIA_RD_CAP:0 "K°÷¥ª°ª" #GetTitleRD_CAP
+ GREAT_KNIAGINIA_RD_CAP:0 "Be®ª¬o« ¬°÷¥ª°ª" #GetTitleRD_CAP
+ BISHOP_ELECTOR_fem_RD_CAP:0 "E±ªc¬o±a-¬³p´¾pc²a" #GetTitleRD_CAP
+ ARCHBISHOP_ELECTOR_fem_RD_CAP:0 "Apxªe±ªc¬o±a-¬³p´¾pc²a" #GetTitleRD_CAP
+ MATRIARCH_ELECTOR_RD_CAP:0 "Ma²pªapxa-¬³p´¾pc²a" #GetTitleRD_CAP
+ BISHOP_fem_RD_CAP:0 "E±ªc¬o±a" #GetTitleRD_CAP
+ ARCHBISHOP_fem_RD_CAP:0 "Apxªe±ªc¬o±a" #GetTitleRD_CAP
+ MATRIARCH_RD_CAP:0 "Ma²pªapxa" #GetTitleRD_CAP
+ PROTECTOR_fem_RD_CAP:0 "‰po²e¬²opa" #GetTitleRD_CAP
+ LADY_PROTECTOR_RD_CAP:0 "ˆe¦ª-±po²e¬²opa" #GetTitleRD_CAP
+ PRESIDENT_fem_RD_CAP:0 "‰pe©ª¦e°²a" #GetTitleRD_CAP
+ KHATUN_RD_CAP:0 "Xa²³°" #GetTitleRD_CAP
+ GREAT_KHATUN_RD_CAP:0 "Be®ª¬o« xa²³°" #GetTitleRD_CAP
+ NUTSAL_fem_RD_CAP:0 "H³µa®º" #GetTitleRD_CAP
+ GEGE_RD_CAP:0 "‚¼¥¼" #GetTitleRD_CAP
+ HIGH_CHIEFTESS_RD_CAP:0 "Bepxo¢°o¥o ¢o¨¦÷" #GetTitleRD_CAP
+ PARAMOUNT_CHIEFTESS_RD_CAP:0 "‰ep¢o¥o ¢o¨¦÷" #GetTitleRD_CAP
+ ELDER_fem_RD_CAP:0 "C²ape«·ª°º" #GetTitleRD_CAP
+ HIGH_ELDER_fem_RD_CAP:0 "‚®a¢°o« c²ape«·ª°º" #GetTitleRD_CAP
+ PARAMOUNT_ELDER_fem_RD_CAP:0 "Bepxo¢°o« c²ape«·ª°º" #GetTitleRD_CAP
+ OLDERMAND_fem_RD_CAP:0 "A®»¦ep¬¢ª°¦º" #GetTitleRD_CAP
+ STORBONDE_fem_RD_CAP:0 "C²³p o°¦º" #GetTitleRD_CAP
+ LANDSBONDE_fem_RD_CAP:0 "ˆa°¦c o°¦º" #GetTitleRD_CAP
+ MOBEDYAR_RD_CAP:0 "Mo e¦¹÷pº" #GetTitleRD_CAP
+ DAUGHTER_OF_HEAVEN_RD_CAP:0 "ƒo¶epª He a" #GetTitleRD_CAP
+ HIGH_PRIESTESS_RD_CAP:0 "Bepxo¢°o« ¨pªµº" #GetTitleRD_CAP
+ PARAMOUNT_PRIESTESS_RD_CAP:0 "‰ep¢o« ¨pªµº" #GetTitleRD_CAP
+ PRIESTESS_RD_CAP:0 "¨pªµº" #GetTitleRD_CAP
+ TSARITSA_RD_CAP:0 "’apªµº" #GetTitleRD_CAP
+ GREAT_PRINCESS_RD_CAP:0 "Be®ª¬o« ¬°÷¥ª°ª" #GetTitleRD_CAP
+ DOGARESSA_RD_CAP:0 "ƒo¥apeccº" #GetTitleRD_CAP
+ SERENE_DOGARESSA_RD_CAP:0 "C¢e²®e«·e« ¦o¥apeccº" #GetTitleRD_CAP
+ GREAT_DOGARESSA_RD_CAP:0 "Be®ª¬o« ¦o¥apeccº" #GetTitleRD_CAP
+ RECTORA_RD_CAP:0 "Pe¬²opa" #GetTitleRD_CAP
+ GRAND_RECTORA_RD_CAP:0 "‚®a¢°o¥o pe¬²opa" #GetTitleRD_CAP
+ GREAT_RECTORA_RD_CAP:0 "Be®ª¬o¥o pe¬²opa" #GetTitleRD_CAP
+ GRAND_KNIAGINIA_RD_CAP:0 "Be®ª¬o« ¬°÷¥ª°ª" #GetTitleRD_CAP
+ PRINCEZA_RD_CAP:0 "K°÷¥ª°ª" #GetTitleRD_CAP
+ GONFALONIERE_fem_RD_CAP:0 "‚o°´a®o°»epº" #GetTitleRD_CAP
+ GRAND_CONSULESS_RD_CAP:0 "‚®a¢°o¥o ¬o°c³®a" #GetTitleRD_CAP
+ GREAT_CONSULESS_RD_CAP:0 "Be®ª¬o¥o ¬o°c³®a" #GetTitleRD_CAP
+ CAPTAIN_DEFENDER_fem_RD_CAP:0 "Ka±ª²a°a-©a¸ª²°ªµº" #GetTitleRD_CAP
+ SYNDIC_fem_RD_CAP:0 "Cª°¦ª¬a" #GetTitleRD_CAP
+ GRAND_SYNDIC_fem_RD_CAP:0 "Be®ª¬o¥o cª°¦ª¬a" #GetTitleRD_CAP
+ COUNCILOR_fem_RD_CAP:0 "Co¢e²°ª¬a" #GetTitleRD_CAP
+ GRAND_COUNCILOR_fem_RD_CAP:0 "Be®ª¬o¥o co¢e²°ª¬a" #GetTitleRD_CAP
+ HIGH_COUNCILOR_fem_RD_CAP:0 "Bepxo¢°o¥o co¢e²°ª¬a" #GetTitleRD_CAP
+ CHANCELOR_fem_RD_CAP:0 "Ka°µ®epa" #GetTitleRD_CAP
+ POPETTE_RD_CAP:0 "‰a±eccº" #GetTitleRD_CAP
+ GOVERNESS_RD_CAP:0 "‚³ ep°a²opa" #GetTitleRD_CAP
+ DIRECTORESS_RD_CAP:0 "ƒªpe¬²pªcº" #GetTitleRD_CAP
+ ATAMAN_fem_RD_CAP:0 "A²a¯a°a" #GetTitleRD_CAP
+ HETMAN_fem_RD_CAP:0 "‚e²¯a°a" #GetTitleRD_CAP
+ GREAT_HETMAN_fem_RD_CAP:0 "Be®ª¬o¥o ¥e²¯a°a" #GetTitleRD_CAP
+ SHARIFA_RD_CAP:0 "”apª´º" #GetTitleRD_CAP
+ GRAND_SHARIFA_RD_CAP:0 "Be®ª¬o« ·apª´º" #GetTitleRD_CAP
+ GREAT_SHARIFA_RD_CAP:0 "Bepxo¢°o« ·apª´º" #GetTitleRD_CAP
+ MAYORESS_RD_CAP:0 "M¼pa" #GetTitleRD_CAP
+ ILKHATUN_RD_CAP:0 "†®»xa²³°" #GetTitleRD_CAP
+ ###На вопрос дать кому?
+ DUCHESS_DT_CAP:0 "‚epµo¥ª°e" #GetTitleDT_CAP
+ QUEEN_DT_CAP:0 "Kopo®e¢e" #GetTitleDT_CAP
+ EMPRESS_DT_CAP:0 "†¯±epa²pªµe" #GetTitleDT_CAP
+ GRAND_PENSIONARY_fem_DT_CAP:0 "Be®ª¬o¯³ ±e°cªo°apª¾" #GetTitleDT_CAP
+ STADTHOLDERESS_DT_CAP:0 "C²a²xa³¦²pecce" #GetTitleDT_CAP
+ GREAT_STADTHOLDERESS_DT_CAP:0 "‚®a¢°o« c²a²xa³¦²pecce" #GetTitleDT_CAP
+ PRINCESS_ELECTOR_DT_CAP:0 "‚epµo¥ª°e-¬³p´¾pc²³" #GetTitleDT_CAP
+ QUEEN_ELECTOR_DT_CAP:0 "Kopo®e¢e-¬³p´¾pc²³" #GetTitleDT_CAP
+ COUNTESS_DT_CAP:0 "‚pa´ª°e" #GetTitleDT_CAP
+ HIGH_QUEEN_DT_CAP:0 "Bepxo¢°o« ¬opo®e¢e" #GetTitleDT_CAP
+ SHOGUNESS_DT_CAP:0 "Cë¥³°³" #GetTitleDT_CAP
+ LADY_DT_CAP:0 "ˆe¦ª" #GetTitleDT_CAP		
+ ATABEG_fem_DT_CAP:0 "A²a e¬e" #GetTitleDT_CAP
+ GREAT_MANSA_fem_DT_CAP:0 "Be®ª¬o« ¯a°ce" #GetTitleDT_CAP
+ JAM_fem_DT_CAP:0 "ƒ¨a¯e" #GetTitleDT_CAP
+ GRAND_JAM_fem_DT_CAP:0 "€o®»·o« ¦¨a¯e" #GetTitleDT_CAP
+ GREAT_JAM_fem_DT_CAP:0 "Be®ª¬o« ¦¨a¯e" #GetTitleDT_CAP
+ GRAND_DUCHESS_DT_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitleDT_CAP
+ ARCHDUCHESS_DT_CAP:0 "™pµ¥epµo¥ª°e" #GetTitleDT_CAP
+ PRINCESS_DT_CAP:0 "K°÷¥ª°e" #GetTitleDT_CAP
+ KRALJICA_DT_CAP:0 "Kpa®»ªµe" #GetTitleDT_CAP
+ CARICA_DT_CAP:0 "’apªµe" #GetTitleDT_CAP
+ VOJVODKINJA_DT_CAP:0 "Boe¢o¦¬ª°e" #GetTitleDT_CAP
+ DESPOTISSA_DT_CAP:0 "ƒec±o²ªcce" #GetTitleDT_CAP
+ AUTOKRATEIRA_DT_CAP:0 "A¢²o¬pa²e«pe" #GetTitleDT_CAP
+ BASILISSA_DT_CAP:0 "€a©ª®ªcce" #GetTitleDT_CAP
+ PHARAOH_fem_DT_CAP:0 "‘apao°³" #GetTitleDT_CAP
+ GREAT_PHARAOH_fem_DT_CAP:0 "Be®ª¬o¯³ ´apao°³" #GetTitleDT_CAP
+ TYRANT_fem_DT_CAP:0 "Tªpa°e" #GetTitleDT_CAP
+ HEGEMON_fem_DT_CAP:0 "‚e¥e¯o°³" #GetTitleDT_CAP
+ CHIEFTESS_DT_CAP:0 "Bo¨¦¾" #GetTitleDT_CAP
+ REGINA_DT_CAP:0 "Pe¥ª°e" #GetTitleDT_CAP
+ IMPERATRIX_DT_CAP:0 "†¯±epa²pªµe" #GetTitleDT_CAP
+ RANI_DT_CAP:0 "Pa°ª" #GetTitleDT_CAP
+ MAHARANI_DT_CAP:0 "Maxapa°ª" #GetTitleDT_CAP
+ TATKISHO_FEM_DT_CAP:0 "Ta²¬ª·o" #GetTitleDT_CAP
+ TATO_FEM_DT_CAP:0 "Ta²o" #GetTitleDT_CAP
+ ATIO_FEM_DT_CAP:0 "A²ªo" #GetTitleDT_CAP
+ LE_ELT_DT_CAP:0 "ˆe'¼®»²e" #GetTitleDT_CAP
+ NIGIST_DT_CAP:0 "Hª¥ªc²e" #GetTitleDT_CAP
+ NIGISTE_NIGIST_DT_CAP:0 "Hª¥ªc²a °ª¥ªc²e" #GetTitleDT_CAP
+ MUGO_DT_CAP:0 "M³¥o" #GetTitleDT_CAP
+ GREAT_MUGO_DT_CAP:0 "Be®ª¬o« ¯³¥o" #GetTitleDT_CAP
+ BALOPWE_fem_DT_CAP:0 "Be®ª¬o« ¯³¥o" #GetTitleDT_CAP
+ MULOPWE_fem_DT_CAP:0 "M³®o±¢e" #GetTitleDT_CAP
+ GREAT_MULOPWE_fem_DT_CAP:0 "Be®ª¬o« ¯³®o±¢e" #GetTitleDT_CAP
+ MWENEMUTAPA_fem_DT_CAP:0 "M¢e°e¯³²a±e" #GetTitleDT_CAP
+ GREAT_MWENEMUTAPA_fem_DT_CAP:0 "Be®ª¬o« ¯¢e°e¯³²a±e" #GetTitleDT_CAP
+ UMUGABEKAZI_DT_CAP:0 "³¯³¥a e¬a©ª" #GetTitleDT_CAP
+ NNABAGEREKA_DT_CAP:0 "Ha a¥epe¬e" #GetTitleDT_CAP
+ GREAT_NNABAGEREKA_DT_CAP:0 "Be®ª¬o« °a a¥epe¬e" #GetTitleDT_CAP
+ MARGRAVINE_DT_CAP:0 "Map¬¥pa´ª°e" #GetTitleDT_CAP
+ VICEREINE_DT_CAP:0 "Bªµe-¬opo®e¢e" #GetTitleDT_CAP
+ EMIRA_DT_CAP:0 "™¯ªpe" #GetTitleDT_CAP
+ SULTANA_DT_CAP:0 "C³®²a°³" #GetTitleDT_CAP
+ GREAT_SULTANA_DT_CAP:0 "Be®ª¬o¯³ c³®²a°³" #GetTitleDT_CAP
+ DAI_female_DT_CAP:0 "ƒaª" #GetTitleDT_CAP
+ MALIKAH_DT_CAP:0 "Ma®ª¬e" #GetTitleDT_CAP
+ SHEIKHA_DT_CAP:0 "”e«xe" #GetTitleDT_CAP
+ HATUN_DT_CAP:0 "Xa²³°" #GetTitleDT_CAP
+ PRINCEZA_DT_CAP:0 "K°÷¥ª°e" #GetTitleDT_CAP
+ NAWAB_BEGUM_DT_CAP:0 "Ha¢a - e¥³¯" #GetTitleDT_CAP
+ NIZAM_BEGUM_DT_CAP:0 "Hª©a¯- e¥³¯" #GetTitleDT_CAP
+ KNIAGINIA_DT_CAP:0 "K°÷¥ª°e" #GetTitleDT_CAP
+ GREAT_KNIAGINIA_DT_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitleDT_CAP
+ BISHOP_ELECTOR_fem_DT_CAP:0 "E±ªc¬o±³-¬³p´¾pc²³" #GetTitleDT_CAP
+ ARCHBISHOP_ELECTOR_fem_DT_CAP:0 "Apxªe±ªc¬o±³-¬³p´¾pc²³" #GetTitleDT_CAP
+ MATRIARCH_ELECTOR_DT_CAP:0 "Ma²pªapx³-¬³p´¾pc²³" #GetTitleDT_CAP
+ BISHOP_fem_DT_CAP:0 "E±ªc¬o±³" #GetTitleDT_CAP
+ ARCHBISHOP_fem_DT_CAP:0 "Apxªe±ªc¬o±³" #GetTitleDT_CAP
+ MATRIARCH_DT_CAP:0 "Ma²pªapx³" #GetTitleDT_CAP
+ PROTECTOR_fem_DT_CAP:0 "‰po²e¬²op³" #GetTitleDT_CAP
+ LADY_PROTECTOR_DT_CAP:0 "ˆe¦ª-±po²e¬²op³" #GetTitleDT_CAP
+ PRESIDENT_fem_DT_CAP:0 "‰pe©ª¦e°²³" #GetTitleDT_CAP
+ KHATUN_DT_CAP:0 "Xa²³°" #GetTitleDT_CAP
+ GREAT_KHATUN_DT_CAP:0 "Be®ª¬o« xa²³°" #GetTitleDT_CAP
+ NUTSAL_fem_DT_CAP:0 "H³µa®³" #GetTitleDT_CAP
+ GEGE_DT_CAP:0 "‚¼¥¼" #GetTitleDT_CAP
+ HIGH_CHIEFTESS_DT_CAP:0 "Bepxo¢°o¯³ ¢o¨¦¾" #GetTitleDT_CAP
+ PARAMOUNT_CHIEFTESS_DT_CAP:0 "‰ep¢o¯³ ¢o¨¦¾" #GetTitleDT_CAP
+ ELDER_fem_DT_CAP:0 "C²ape«·ª°e" #GetTitleDT_CAP
+ HIGH_ELDER_fem_DT_CAP:0 "‚®a¢°o« c²ape«·ª°e" #GetTitleDT_CAP
+ PARAMOUNT_ELDER_fem_DT_CAP:0 "Bepxo¢°o« c²ape«·ª°e" #GetTitleDT_CAP
+ OLDERMAND_fem_DT_CAP:0 "A®»¦ep¬¢ª°¦e" #GetTitleDT_CAP
+ STORBONDE_fem_DT_CAP:0 "C²³p o°¦e" #GetTitleDT_CAP
+ LANDSBONDE_fem_DT_CAP:0 "ˆa°¦c o°¦e" #GetTitleDT_CAP
+ MOBEDYAR_DT_CAP:0 "Mo e¦¹÷pe" #GetTitleDT_CAP
+ DAUGHTER_OF_HEAVEN_DT_CAP:0 "ƒo¶epª He a" #GetTitleDT_CAP
+ HIGH_PRIESTESS_DT_CAP:0 "Bepxo¢°o« ¨pªµe" #GetTitleDT_CAP
+ PARAMOUNT_PRIESTESS_DT_CAP:0 "‰ep¢o« ¨pªµe" #GetTitleDT_CAP
+ PRIESTESS_DT_CAP:0 "¨pªµe" #GetTitleDT_CAP
+ TSARITSA_DT_CAP:0 "’apªµe" #GetTitleDT_CAP
+ GREAT_PRINCESS_DT_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitleDT_CAP
+ DOGARESSA_DT_CAP:0 "ƒo¥apecce" #GetTitleDT_CAP
+ SERENE_DOGARESSA_DT_CAP:0 "C¢e²®e«·e« ¦o¥apecce" #GetTitleDT_CAP
+ GREAT_DOGARESSA_DT_CAP:0 "Be®ª¬o« ¦o¥apecce" #GetTitleDT_CAP
+ RECTORA_DT_CAP:0 "Pe¬²op³" #GetTitleDT_CAP
+ GRAND_RECTORA_DT_CAP:0 "‚®a¢°o¯³ pe¬²op³" #GetTitleDT_CAP
+ GREAT_RECTORA_DT_CAP:0 "Be®ª¬o¯³ pe¬²op³" #GetTitleDT_CAP
+ GRAND_KNIAGINIA_DT_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitleDT_CAP
+ PRINCEZA_DT_CAP:0 "K°÷¥ª°e" #GetTitleDT_CAP
+ GONFALONIERE_fem_DT_CAP:0 "‚o°´a®o°»epe" #GetTitleDT_CAP
+ GRAND_CONSULESS_DT_CAP:0 "‚®a¢°o¯³ ¬o°c³®³" #GetTitleDT_CAP
+ GREAT_CONSULESS_DT_CAP:0 "Be®ª¬o¯³ ¬o°c³®³" #GetTitleDT_CAP
+ CAPTAIN_DEFENDER_fem_DT_CAP:0 "Ka±ª²a°³-©a¸ª²°ªµe" #GetTitleDT_CAP
+ SYNDIC_fem_DT_CAP:0 "Cª°¦ª¬³" #GetTitleDT_CAP
+ GRAND_SYNDIC_fem_DT_CAP:0 "Be®ª¬o¯³ cª°¦ª¬³" #GetTitleDT_CAP
+ COUNCILOR_fem_DT_CAP:0 "Co¢e²°ª¬³" #GetTitleDT_CAP
+ GRAND_COUNCILOR_fem_DT_CAP:0 "Be®ª¬o¯³ co¢e²°ª¬³" #GetTitleDT_CAP
+ HIGH_COUNCILOR_fem_DT_CAP:0 "Bepxo¢°o¯³ co¢e²°ª¬³" #GetTitleDT_CAP
+ CHANCELOR_fem_DT_CAP:0 "Ka°µ®ep³" #GetTitleDT_CAP
+ POPETTE_DT_CAP:0 "‰a±ecce" #GetTitleDT_CAP
+ GOVERNESS_DT_CAP:0 "‚³ ep°a²op³" #GetTitleDT_CAP
+ DIRECTORESS_DT_CAP:0 "ƒªpe¬²pªce" #GetTitleDT_CAP
+ ATAMAN_fem_DT_CAP:0 "A²a¯a°³" #GetTitleDT_CAP
+ HETMAN_fem_DT_CAP:0 "‚e²¯a°³" #GetTitleDT_CAP
+ GREAT_HETMAN_fem_DT_CAP:0 "Be®ª¬o¯³ ¥e²¯a°³" #GetTitleDT_CAP
+ SHARIFA_DT_CAP:0 "”apª´e" #GetTitleDT_CAP
+ GRAND_SHARIFA_DT_CAP:0 "Be®ª¬o« ·apª´e" #GetTitleDT_CAP
+ GREAT_SHARIFA_DT_CAP:0 "Bepxo¢°o« ·apª´e" #GetTitleDT_CAP
+ MAYORESS_DT_CAP:0 "M¼p³" #GetTitleDT_CAP
+ ILKHATUN_DT_CAP:0 "†®»xa²³°" #GetTitleDT_CAP
+ ###На вопрос сделано кем?
+ DUCHESS_TV_CAP:0 "‚epµo¥ª°e«" #GetTitleTV_CAP
+ QUEEN_TV_CAP:0 "Kopo®e¢o«" #GetTitleTV_CAP
+ EMPRESS_TV_CAP:0 "†¯±epa²pªµo«" #GetTitleTV_CAP
+ GRAND_PENSIONARY_fem_TV_CAP:0 "Be®ª¬ª¯ ±e°cªo°apªe¯" #GetTitleTV_CAP
+ STADTHOLDERESS_TV_CAP:0 "C²a²xa³¦²pecco«" #GetTitleTV_CAP
+ GREAT_STADTHOLDERESS_TV_CAP:0 "‚®a¢°o« c²a²xa³¦²pecco«" #GetTitleTV_CAP
+ PRINCESS_ELECTOR_TV_CAP:0 "‚epµo¥ª°e«-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ QUEEN_ELECTOR_TV_CAP:0 "Kopo®e¢o«-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ COUNTESS_TV_CAP:0 "‚pa´ª°e«" #GetTitleTV_CAP
+ HIGH_QUEEN_TV_CAP:0 "Bepxo¢°o« ¬opo®e¢o«" #GetTitleTV_CAP
+ SHOGUNESS_TV_CAP:0 "Cë¥³°o¯" #GetTitleTV_CAP
+ LADY_TV_CAP:0 "ˆe¦ª" #GetTitleTV_CAP		
+ ATABEG_fem_TV_CAP:0 "A²a e¬o«" #GetTitleTV_CAP
+ GREAT_MANSA_fem_TV_CAP:0 "Be®ª¬o« ¯a°co«" #GetTitleTV_CAP
+ JAM_fem_TV_CAP:0 "ƒ¨a¯o«" #GetTitleTV_CAP
+ GRAND_JAM_fem_TV_CAP:0 "€o®»·o« ¦¨a¯o«" #GetTitleTV_CAP
+ GREAT_JAM_fem_TV_CAP:0 "Be®ª¬o« ¦¨a¯o«" #GetTitleTV_CAP
+ GRAND_DUCHESS_TV_CAP:0 "Be®ª¬o« ¬°÷¥ª°e«" #GetTitleTV_CAP
+ ARCHDUCHESS_TV_CAP:0 "™pµ¥epµo¥ª°e«" #GetTitleTV_CAP
+ PRINCESS_TV_CAP:0 "K°÷¥ª°e«" #GetTitleTV_CAP
+ KRALJICA_TV_CAP:0 "Kpa®»ªµe«" #GetTitleTV_CAP
+ CARICA_TV_CAP:0 "’apªµe«" #GetTitleTV_CAP
+ VOJVODKINJA_TV_CAP:0 "Boe¢o¦¬ª°o«" #GetTitleTV_CAP
+ DESPOTISSA_TV_CAP:0 "ƒec±o²ªcco«" #GetTitleTV_CAP
+ AUTOKRATEIRA_TV_CAP:0 "A¢²o¬pa²e«po«" #GetTitleTV_CAP
+ BASILISSA_TV_CAP:0 "€a©ª®ªcco«" #GetTitleTV_CAP
+ PHARAOH_fem_TV_CAP:0 "‘apao°o¯" #GetTitleTV_CAP
+ GREAT_PHARAOH_fem_TV_CAP:0 "Be®ª¬ª¯ ´apao°o¯" #GetTitleTV_CAP
+ TYRANT_fem_TV_CAP:0 "Tªpa°o¯" #GetTitleTV_CAP
+ HEGEMON_fem_TV_CAP:0 "‚e¥e¯o°o¯" #GetTitleTV_CAP
+ CHIEFTESS_TV_CAP:0 "Bo¨¦ë¯" #GetTitleTV_CAP
+ REGINA_TV_CAP:0 "Pe¥ª°o«" #GetTitleTV_CAP
+ IMPERATRIX_TV_CAP:0 "†¯±epa²pªµo«" #GetTitleTV_CAP
+ RANI_TV_CAP:0 "Pa°ª" #GetTitleTV_CAP
+ MAHARANI_TV_CAP:0 "Maxapa°ª" #GetTitleTV_CAP
+ TATKISHO_FEM_TV_CAP:0 "Ta²¬ª·o" #GetTitleTV_CAP
+ TATO_FEM_TV_CAP:0 "Ta²o" #GetTitleTV_CAP
+ ATIO_FEM_TV_CAP:0 "A²ªo" #GetTitleTV_CAP
+ LE_ELT_TV_CAP:0 "ˆe'¼®»²o«" #GetTitleTV_CAP
+ NIGIST_TV_CAP:0 "Hª¥ªc²o«" #GetTitleTV_CAP
+ NIGISTE_NIGIST_TV_CAP:0 "Hª¥ªc²a °ª¥ªc²o«" #GetTitleTV_CAP
+ MUGO_TV_CAP:0 "M³¥o" #GetTitleTV_CAP
+ GREAT_MUGO_TV_CAP:0 "Be®ª¬o« ¯³¥o" #GetTitleTV_CAP
+ BALOPWE_fem_TV_CAP:0 "Be®ª¬o« ¯³¥o" #GetTitleTV_CAP
+ MULOPWE_fem_TV_CAP:0 "M³®o±¢e" #GetTitleTV_CAP
+ GREAT_MULOPWE_fem_TV_CAP:0 "Be®ª¬o« ¯³®o±¢e" #GetTitleTV_CAP
+ MWENEMUTAPA_fem_TV_CAP:0 "M¢e°e¯³²a±o«" #GetTitleTV_CAP
+ GREAT_MWENEMUTAPA_fem_TV_CAP:0 "Be®ª¬o« ¯¢e°e¯³²a±o«" #GetTitleTV_CAP
+ UMUGABEKAZI_TV_CAP:0 "³¯³¥a e¬a©ª" #GetTitleTV_CAP
+ NNABAGEREKA_TV_CAP:0 "Ha a¥epe¬o«" #GetTitleTV_CAP
+ GREAT_NNABAGEREKA_TV_CAP:0 "Be®ª¬o« °a a¥epe¬o«" #GetTitleTV_CAP
+ MARGRAVINE_TV_CAP:0 "Map¬¥pa´ª°e«" #GetTitleTV_CAP
+ VICEREINE_TV_CAP:0 "Bªµe-¬opo®e¢o«" #GetTitleTV_CAP
+ EMIRA_TV_CAP:0 "™¯ªpo«" #GetTitleTV_CAP
+ SULTANA_TV_CAP:0 "C³®²a°o«" #GetTitleTV_CAP
+ GREAT_SULTANA_TV_CAP:0 "Be®ª¬o« c³®²a°o«" #GetTitleTV_CAP
+ DAI_female_TV_CAP:0 "ƒaª" #GetTitleTV_CAP
+ MALIKAH_TV_CAP:0 "Ma®ª¬o«" #GetTitleTV_CAP
+ SHEIKHA_TV_CAP:0 "”e«xe«" #GetTitleTV_CAP
+ HATUN_TV_CAP:0 "Xa²³°" #GetTitleTV_CAP
+ PRINCEZA_TV_CAP:0 "K°÷¥ª°e«" #GetTitleTV_CAP
+ NAWAB_BEGUM_TV_CAP:0 "Ha¢a - e¥³¯" #GetTitleTV_CAP
+ NIZAM_BEGUM_TV_CAP:0 "Hª©a¯- e¥³¯" #GetTitleTV_CAP
+ KNIAGINIA_TV_CAP:0 "K°÷¥ª°e«" #GetTitleTV_CAP
+ GREAT_KNIAGINIA_TV_CAP:0 "Be®ª¬o« ¬°÷¥ª°e«" #GetTitleTV_CAP
+ BISHOP_ELECTOR_fem_TV_CAP:0 "E±ªc¬o±o¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ ARCHBISHOP_ELECTOR_fem_TV_CAP:0 "Apxªe±ªc¬o±o¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ MATRIARCH_ELECTOR_TV_CAP:0 "Ma²pªapxo¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ BISHOP_fem_TV_CAP:0 "E±ªc¬o±o¯" #GetTitleTV_CAP
+ ARCHBISHOP_fem_TV_CAP:0 "Apxªe±ªc¬o±o¯" #GetTitleTV_CAP
+ MATRIARCH_TV_CAP:0 "Ma²pªapxo¯" #GetTitleTV_CAP
+ PROTECTOR_fem_TV_CAP:0 "‰po²e¬²opo¯" #GetTitleTV_CAP
+ LADY_PROTECTOR_TV_CAP:0 "ˆe¦ª-±po²e¬²opo¯" #GetTitleTV_CAP
+ PRESIDENT_fem_TV_CAP:0 "‰pe©ª¦e°²o¯" #GetTitleTV_CAP
+ KHATUN_TV_CAP:0 "Xa²³°" #GetTitleTV_CAP
+ GREAT_KHATUN_TV_CAP:0 "Be®ª¬o« xa²³°" #GetTitleTV_CAP
+ NUTSAL_fem_TV_CAP:0 "H³µa®o«" #GetTitleTV_CAP
+ GEGE_TV_CAP:0 "‚¼¥¼" #GetTitleTV_CAP
+ HIGH_CHIEFTESS_TV_CAP:0 "Bepxo¢°º¯ ¢o¨¦ë¯" #GetTitleTV_CAP
+ PARAMOUNT_CHIEFTESS_TV_CAP:0 "‰ep¢º¯ ¢o¨¦ë¯" #GetTitleTV_CAP
+ ELDER_fem_TV_CAP:0 "C²ape«·ª°o«" #GetTitleTV_CAP
+ HIGH_ELDER_fem_TV_CAP:0 "‚®a¢°o« c²ape«·ª°o«" #GetTitleTV_CAP
+ PARAMOUNT_ELDER_fem_TV_CAP:0 "Bepxo¢°o« c²ape«·ª°o«" #GetTitleTV_CAP
+ OLDERMAND_fem_TV_CAP:0 "A®»¦ep¬¢ª°¦o«" #GetTitleTV_CAP
+ STORBONDE_fem_TV_CAP:0 "C²³p o°¦o«" #GetTitleTV_CAP
+ LANDSBONDE_fem_TV_CAP:0 "ˆa°¦c o°¦o«" #GetTitleTV_CAP
+ MOBEDYAR_TV_CAP:0 "Mo e¦¹÷po«" #GetTitleTV_CAP
+ DAUGHTER_OF_HEAVEN_TV_CAP:0 "ƒo¶ep»¾ He a" #GetTitleTV_CAP
+ HIGH_PRIESTESS_TV_CAP:0 "Bepxo¢°o« ¨pªµe«" #GetTitleTV_CAP
+ PARAMOUNT_PRIESTESS_TV_CAP:0 "‰ep¢o« ¨pªµe«" #GetTitleTV_CAP
+ PRIESTESS_TV_CAP:0 "¨pªµe«" #GetTitleTV_CAP
+ TSARITSA_TV_CAP:0 "’apªµe«" #GetTitleTV_CAP
+ GREAT_PRINCESS_TV_CAP:0 "Be®ª¬o« ¬°÷¥ª°e«" #GetTitleTV_CAP
+ DOGARESSA_TV_CAP:0 "ƒo¥apecco«" #GetTitleTV_CAP
+ SERENE_DOGARESSA_TV_CAP:0 "C¢e²®e«·e« ¦o¥apecco«" #GetTitleTV_CAP
+ GREAT_DOGARESSA_TV_CAP:0 "Be®ª¬o« ¦o¥apecco«" #GetTitleTV_CAP
+ RECTORA_TV_CAP:0 "Pe¬²opo¯" #GetTitleTV_CAP
+ GRAND_RECTORA_TV_CAP:0 "‚®a¢°º¯ pe¬²opo¯" #GetTitleTV_CAP
+ GREAT_RECTORA_TV_CAP:0 "Be®ª¬ª¯ pe¬²opo¯" #GetTitleTV_CAP
+ GRAND_KNIAGINIA_TV_CAP:0 "Be®ª¬o« ¬°÷¥ª°e«" #GetTitleTV_CAP
+ PRINCEZA_TV_CAP:0 "K°÷¥ª°e«" #GetTitleTV_CAP
+ GONFALONIERE_fem_TV_CAP:0 "‚o°´a®o°»epo«" #GetTitleTV_CAP
+ GRAND_CONSULESS_TV_CAP:0 "‚®a¢°º¯ ¬o°c³®o¯" #GetTitleTV_CAP
+ GREAT_CONSULESS_TV_CAP:0 "Be®ª¬ª¯ ¬o°c³®o¯" #GetTitleTV_CAP
+ CAPTAIN_DEFENDER_fem_TV_CAP:0 "Ka±ª²a°o¯-©a¸ª²°ªµe«" #GetTitleTV_CAP
+ SYNDIC_fem_TV_CAP:0 "Cª°¦ª¬o¯" #GetTitleTV_CAP
+ GRAND_SYNDIC_fem_TV_CAP:0 "Be®ª¬ª¯ cª°¦ª¬o¯" #GetTitleTV_CAP
+ COUNCILOR_fem_TV_CAP:0 "Co¢e²°ª¬o¯" #GetTitleTV_CAP
+ GRAND_COUNCILOR_fem_TV_CAP:0 "Be®ª¬ª¯ co¢e²°ª¬o¯" #GetTitleTV_CAP
+ HIGH_COUNCILOR_fem_TV_CAP:0 "Bepxo¢°º¯ co¢e²°ª¬o¯" #GetTitleTV_CAP
+ CHANCELOR_fem_TV_CAP:0 "Ka°µ®epo¯" #GetTitleTV_CAP
+ POPETTE_TV_CAP:0 "‰a±ecco«" #GetTitleTV_CAP
+ GOVERNESS_TV_CAP:0 "‚³ ep°a²opo¯" #GetTitleTV_CAP
+ DIRECTORESS_TV_CAP:0 "ƒªpe¬²pªco«" #GetTitleTV_CAP
+ ATAMAN_fem_TV_CAP:0 "A²a¯a°o¯" #GetTitleTV_CAP
+ HETMAN_fem_TV_CAP:0 "‚e²¯a°o¯" #GetTitleTV_CAP
+ GREAT_HETMAN_fem_TV_CAP:0 "Be®ª¬ª¯ ¥e²¯a°o¯" #GetTitleTV_CAP
+ SHARIFA_TV_CAP:0 "”apª´o«" #GetTitleTV_CAP
+ GRAND_SHARIFA_TV_CAP:0 "Be®ª¬o« ·apª´o«" #GetTitleTV_CAP
+ GREAT_SHARIFA_TV_CAP:0 "Bepxo¢°o« ·apª´o«" #GetTitleTV_CAP
+ MAYORESS_TV_CAP:0 "M¼po¯" #GetTitleTV_CAP
+ ILKHATUN_TV_CAP:0 "†®»xa²³°" #GetTitleTV_CAP
+ ###На вопрос о ком?
+ DUCHESS_PR_CAP:0 "‚epµo¥ª°e" #GetTitlePR_CAP
+ QUEEN_PR_CAP:0 "Kopo®e¢e" #GetTitlePR_CAP
+ EMPRESS_PR_CAP:0 "†¯±epa²pªµe" #GetTitlePR_CAP
+ GRAND_PENSIONARY_fem_PR_CAP:0 "Be®ª¬o¯ ±e°cªo°apªª" #GetTitlePR_CAP
+ STADTHOLDERESS_PR_CAP:0 "C²a²xa³¦²pecce" #GetTitlePR_CAP
+ GREAT_STADTHOLDERESS_PR_CAP:0 "‚®a¢°o« c²a²xa³¦²pecce" #GetTitlePR_CAP
+ PRINCESS_ELECTOR_PR_CAP:0 "‚epµo¥ª°e-¬³p´¾pc²e" #GetTitlePR_CAP
+ QUEEN_ELECTOR_PR_CAP:0 "Kopo®e¢e-¬³p´¾pc²e" #GetTitlePR_CAP
+ COUNTESS_PR_CAP:0 "‚pa´ª°e" #GetTitlePR_CAP
+ HIGH_QUEEN_PR_CAP:0 "Bepxo¢°o« ¬opo®e¢e" #GetTitlePR_CAP
+ SHOGUNESS_PR_CAP:0 "Cë¥³°³" #GetTitlePR_CAP
+ LADY_PR_CAP:0 "ˆe¦ª" #GetTitlePR_CAP		
+ ATABEG_fem_PR_CAP:0 "A²a e¬e" #GetTitlePR_CAP
+ GREAT_MANSA_fem_PR_CAP:0 "Be®ª¬o« ¯a°ce" #GetTitlePR_CAP
+ JAM_fem_PR_CAP:0 "ƒ¨a¯e" #GetTitlePR_CAP
+ GRAND_JAM_fem_PR_CAP:0 "€o®»·o« ¦¨a¯e" #GetTitlePR_CAP
+ GREAT_JAM_fem_PR_CAP:0 "Be®ª¬o« ¦¨a¯e" #GetTitlePR_CAP
+ GRAND_DUCHESS_PR_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitlePR_CAP
+ ARCHDUCHESS_PR_CAP:0 "™pµ¥epµo¥ª°e" #GetTitlePR_CAP
+ PRINCESS_PR_CAP:0 "K°÷¥ª°e" #GetTitlePR_CAP
+ KRALJICA_PR_CAP:0 "Kpa®»ªµe" #GetTitlePR_CAP
+ CARICA_PR_CAP:0 "’apªµe" #GetTitlePR_CAP
+ VOJVODKINJA_PR_CAP:0 "Boe¢o¦¬ª°e" #GetTitlePR_CAP
+ DESPOTISSA_PR_CAP:0 "ƒec±o²ªcce" #GetTitlePR_CAP
+ AUTOKRATEIRA_PR_CAP:0 "A¢²o¬pa²e«pe" #GetTitlePR_CAP
+ BASILISSA_PR_CAP:0 "€a©ª®ªcce" #GetTitlePR_CAP
+ PHARAOH_fem_PR_CAP:0 "‘apao°³" #GetTitlePR_CAP
+ GREAT_PHARAOH_fem_PR_CAP:0 "Be®ª¬o¯³ ´apao°³" #GetTitlePR_CAP
+ TYRANT_fem_PR_CAP:0 "Tªpa°³" #GetTitlePR_CAP
+ HEGEMON_fem_PR_CAP:0 "‚e¥e¯o°³" #GetTitlePR_CAP
+ CHIEFTESS_PR_CAP:0 "Bo¨¦¾" #GetTitlePR_CAP
+ REGINA_PR_CAP:0 "Pe¥ª°e" #GetTitlePR_CAP
+ IMPERATRIX_PR_CAP:0 "†¯±epa²pªµe" #GetTitlePR_CAP
+ RANI_PR_CAP:0 "Pa°ª" #GetTitlePR_CAP
+ MAHARANI_PR_CAP:0 "Maxapa°ª" #GetTitlePR_CAP
+ TATKISHO_FEM_PR_CAP:0 "Ta²¬ª·o" #GetTitlePR_CAP
+ TATO_FEM_PR_CAP:0 "Ta²o" #GetTitlePR_CAP
+ ATIO_FEM_PR_CAP:0 "A²ªo" #GetTitlePR_CAP
+ LE_ELT_PR_CAP:0 "ˆe'¼®»²e" #GetTitlePR_CAP
+ NIGIST_PR_CAP:0 "Hª¥ªc²e" #GetTitlePR_CAP
+ NIGISTE_NIGIST_PR_CAP:0 "Hª¥ªc²a °ª¥ªc²e" #GetTitlePR_CAP
+ MUGO_PR_CAP:0 "M³¥o" #GetTitlePR_CAP
+ GREAT_MUGO_PR_CAP:0 "Be®ª¬o« ¯³¥o" #GetTitlePR_CAP
+ BALOPWE_fem_PR_CAP:0 "Be®ª¬o« ¯³¥o" #GetTitlePR_CAP
+ MULOPWE_fem_PR_CAP:0 "M³®o±¢e" #GetTitlePR_CAP
+ GREAT_MULOPWE_fem_PR_CAP:0 "Be®ª¬o« ¯³®o±¢e" #GetTitlePR_CAP
+ MWENEMUTAPA_fem_PR_CAP:0 "M¢e°e¯³²a±e" #GetTitlePR_CAP
+ GREAT_MWENEMUTAPA_fem_PR_CAP:0 "Be®ª¬o« ¯¢e°e¯³²a±e" #GetTitlePR_CAP
+ UMUGABEKAZI_PR_CAP:0 "³¯³¥a e¬a©ª" #GetTitlePR_CAP
+ NNABAGEREKA_PR_CAP:0 "Ha a¥epe¬e" #GetTitlePR_CAP
+ GREAT_NNABAGEREKA_PR_CAP:0 "Be®ª¬o« °a a¥epe¬e" #GetTitlePR_CAP
+ MARGRAVINE_PR_CAP:0 "Map¬¥pa´ª°e" #GetTitlePR_CAP
+ VICEREINE_PR_CAP:0 "Bªµe-¬opo®e¢e" #GetTitlePR_CAP
+ EMIRA_PR_CAP:0 "™¯ªpe" #GetTitlePR_CAP
+ SULTANA_PR_CAP:0 "C³®²a°e" #GetTitlePR_CAP
+ GREAT_SULTANA_PR_CAP:0 "Be®ª¬o« c³®²a°e" #GetTitlePR_CAP
+ DAI_female_PR_CAP:0 "ƒaª" #GetTitlePR_CAP
+ MALIKAH_PR_CAP:0 "Ma®ª¬e" #GetTitlePR_CAP
+ SHEIKHA_PR_CAP:0 "”e«xe" #GetTitlePR_CAP
+ HATUN_PR_CAP:0 "Xa²³°" #GetTitlePR_CAP
+ PRINCEZA_PR_CAP:0 "K°÷¥ª°e" #GetTitlePR_CAP
+ NAWAB_BEGUM_PR_CAP:0 "Ha¢a - e¥³¯" #GetTitlePR_CAP
+ NIZAM_BEGUM_PR_CAP:0 "Hª©a¯- e¥³¯" #GetTitlePR_CAP
+ KNIAGINIA_PR_CAP:0 "K°÷¥ª°e" #GetTitlePR_CAP
+ GREAT_KNIAGINIA_PR_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitlePR_CAP
+ BISHOP_ELECTOR_fem_PR_CAP:0 "E±ªc¬o±e-¬³p´¾pc²e" #GetTitlePR_CAP
+ ARCHBISHOP_ELECTOR_fem_PR_CAP:0 "Apxªe±ªc¬o±e-¬³p´¾pc²e" #GetTitlePR_CAP
+ MATRIARCH_ELECTOR_PR_CAP:0 "Ma²pªapxe-¬³p´¾pc²e" #GetTitlePR_CAP
+ BISHOP_fem_PR_CAP:0 "E±ªc¬o±e" #GetTitlePR_CAP
+ ARCHBISHOP_fem_PR_CAP:0 "Apxªe±ªc¬o±e" #GetTitlePR_CAP
+ MATRIARCH_PR_CAP:0 "Ma²pªapxe" #GetTitlePR_CAP
+ PROTECTOR_fem_PR_CAP:0 "‰po²e¬²ope" #GetTitlePR_CAP
+ LADY_PROTECTOR_PR_CAP:0 "ˆe¦ª-±po²e¬²ope" #GetTitlePR_CAP
+ PRESIDENT_fem_PR_CAP:0 "‰pe©ª¦e°²e" #GetTitlePR_CAP
+ KHATUN_PR_CAP:0 "Xa²³°" #GetTitlePR_CAP
+ GREAT_KHATUN_PR_CAP:0 "Be®ª¬o« xa²³°" #GetTitlePR_CAP
+ NUTSAL_fem_PR_CAP:0 "H³µa®e" #GetTitlePR_CAP
+ GEGE_PR_CAP:0 "‚¼¥¼" #GetTitlePR_CAP
+ HIGH_CHIEFTESS_PR_CAP:0 "Bepxo¢°o¯ ¢o¨¦e" #GetTitlePR_CAP
+ PARAMOUNT_CHIEFTESS_PR_CAP:0 "‰ep¢o¯ ¢o¨¦e" #GetTitlePR_CAP
+ ELDER_fem_PR_CAP:0 "C²ape«·ª°e" #GetTitlePR_CAP
+ HIGH_ELDER_fem_PR_CAP:0 "‚®a¢°o« c²ape«·ª°e" #GetTitlePR_CAP
+ PARAMOUNT_ELDER_fem_PR_CAP:0 "Bepxo¢°o« c²ape«·ª°e" #GetTitlePR_CAP
+ OLDERMAND_fem_PR_CAP:0 "A®»¦ep¬¢ª°¦e" #GetTitlePR_CAP
+ STORBONDE_fem_PR_CAP:0 "C²³p o°¦e" #GetTitlePR_CAP
+ LANDSBONDE_fem_PR_CAP:0 "ˆa°¦c o°¦e" #GetTitlePR_CAP
+ MOBEDYAR_PR_CAP:0 "Mo e¦¹÷pe" #GetTitlePR_CAP
+ DAUGHTER_OF_HEAVEN_PR_CAP:0 "ƒo¶epª He a" #GetTitlePR_CAP
+ HIGH_PRIESTESS_PR_CAP:0 "Bepxo¢°o« ¨pªµe" #GetTitlePR_CAP
+ PARAMOUNT_PRIESTESS_PR_CAP:0 "‰ep¢o« ¨pªµe" #GetTitlePR_CAP
+ PRIESTESS_PR_CAP:0 "¨pªµe" #GetTitlePR_CAP
+ TSARITSA_PR_CAP:0 "’apªµe" #GetTitlePR_CAP
+ GREAT_PRINCESS_PR_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitlePR_CAP
+ DOGARESSA_PR_CAP:0 "ƒo¥apecce" #GetTitlePR_CAP
+ SERENE_DOGARESSA_PR_CAP:0 "C¢e²®e«·e« ¦o¥apecce" #GetTitlePR_CAP
+ GREAT_DOGARESSA_PR_CAP:0 "Be®ª¬o« ¦o¥apecce" #GetTitlePR_CAP
+ RECTORA_PR_CAP:0 "Pe¬²ope" #GetTitlePR_CAP
+ GRAND_RECTORA_PR_CAP:0 "‚®a¢°o¯ pe¬²ope" #GetTitlePR_CAP
+ GREAT_RECTORA_PR_CAP:0 "Be®ª¬o¯ pe¬²ope" #GetTitlePR_CAP
+ GRAND_KNIAGINIA_PR_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitlePR_CAP
+ PRINCEZA_PR_CAP:0 "K°÷¥ª°e" #GetTitlePR_CAP
+ GONFALONIERE_fem_PR_CAP:0 "‚o°´a®o°»epe" #GetTitlePR_CAP
+ GRAND_CONSULESS_PR_CAP:0 "‚®a¢°o¯ ¬o°c³®e" #GetTitlePR_CAP
+ GREAT_CONSULESS_PR_CAP:0 "Be®ª¬o¯ ¬o°c³®e" #GetTitlePR_CAP
+ CAPTAIN_DEFENDER_fem_PR_CAP:0 "Ka±ª²a°e-©a¸ª²°ªµe" #GetTitlePR_CAP
+ SYNDIC_fem_PR_CAP:0 "Cª°¦ª¬e" #GetTitlePR_CAP
+ GRAND_SYNDIC_fem_PR_CAP:0 "Be®ª¬o¯ cª°¦ª¬e" #GetTitlePR_CAP
+ COUNCILOR_fem_PR_CAP:0 "Co¢e²°ª¬e" #GetTitlePR_CAP
+ GRAND_COUNCILOR_fem_PR_CAP:0 "Be®ª¬o¯ co¢e²°ª¬e" #GetTitlePR_CAP
+ HIGH_COUNCILOR_fem_PR_CAP:0 "Bepxo¢°o¯ co¢e²°ª¬e" #GetTitlePR_CAP
+ CHANCELOR_fem_PR_CAP:0 "Ka°µ®epe" #GetTitlePR_CAP
+ POPETTE_PR_CAP:0 "‰a±ecce" #GetTitlePR_CAP
+ GOVERNESS_PR_CAP:0 "‚³ ep°a²ope" #GetTitlePR_CAP
+ DIRECTORESS_PR_CAP:0 "ƒªpe¬²pªce" #GetTitlePR_CAP
+ ATAMAN_fem_PR_CAP:0 "A²a¯a°e" #GetTitlePR_CAP
+ HETMAN_fem_PR_CAP:0 "‚e²¯a°e" #GetTitlePR_CAP
+ GREAT_HETMAN_fem_PR_CAP:0 "Be®ª¬o¯ ¥e²¯a°o¯e" #GetTitlePR_CAP
+ SHARIFA_PR_CAP:0 "”apª´oe" #GetTitlePR_CAP
+ GRAND_SHARIFA_PR_CAP:0 "Be®ª¬o« ·apª´e" #GetTitlePR_CAP
+ GREAT_SHARIFA_PR_CAP:0 "Bepxo¢°o« ·apª´e" #GetTitlePR_CAP
+ MAYORESS_PR_CAP:0 "M¼pe" #GetTitlePR_CAP
+ ILKHATUN_PR_CAP:0 "†®»xa²³°" #GetTitlePR_CAP
+ ###На вопрос вижу кого?
+ DUCHESS_VN_CAP:0 "‚epµo¥ª°¾" #GetTitleVN_CAP
+ QUEEN_VN_CAP:0 "Kopo®e¢³" #GetTitleVN_CAP
+ EMPRESS_VN_CAP:0 "†¯±epa²pªµ³" #GetTitleVN_CAP
+ GRAND_PENSIONARY_fem_VN_CAP:0 "Be®ª¬³¾ ±e°cªo°apª¾" #GetTitleVN_CAP
+ STADTHOLDERESS_VN_CAP:0 "C²a²xa³¦²pecc³" #GetTitleVN_CAP
+ GREAT_STADTHOLDERESS_VN_CAP:0 "‚®a¢°³¾ c²a²xa³¦²pecc³" #GetTitleVN_CAP
+ PRINCESS_ELECTOR_VN_CAP:0 "‚epµo¥ª°¾-¬³p´¾pc²a" #GetTitleVN_CAP
+ QUEEN_ELECTOR_VN_CAP:0 "Kopo®e¢³-¬³p´¾pc²a" #GetTitleVN_CAP
+ COUNTESS_VN_CAP:0 "‚pa´ª°¾" #GetTitleVN_CAP
+ HIGH_QUEEN_VN_CAP:0 "Bepxo¢°³¾ ¬opo®e¢³" #GetTitleVN_CAP
+ SHOGUNESS_VN_CAP:0 "Cë¥³°a" #GetTitleVN_CAP
+ LADY_VN_CAP:0 "ˆe¦ª" #GetTitleVN_CAP		
+ ATABEG_fem_VN_CAP:0 "A²a e¬³" #GetTitleVN_CAP
+ GREAT_MANSA_fem_VN_CAP:0 "Be®ª¬³¾ ¯a°c³" #GetTitleVN_CAP
+ JAM_fem_VN_CAP:0 "ƒ¨a¯" #GetTitleVN_CAP
+ GRAND_JAM_fem_VN_CAP:0 "€o®»·³¾ ¦¨a¯" #GetTitleVN_CAP
+ GREAT_JAM_fem_VN_CAP:0 "Be®ª¬³¾ ¦¨a¯" #GetTitleVN_CAP
+ GRAND_DUCHESS_VN_CAP:0 "Be®ª¬³¾ ¬°÷¥ª°¾" #GetTitleVN_CAP
+ ARCHDUCHESS_VN_CAP:0 "™pµ¥epµo¥ª°¾" #GetTitleVN_CAP
+ PRINCESS_VN_CAP:0 "K°÷¥ª°¾" #GetTitleVN_CAP
+ KRALJICA_VN_CAP:0 "Kpa®»ªµ³" #GetTitleVN_CAP
+ CARICA_VN_CAP:0 "’apªµ³" #GetTitleVN_CAP
+ VOJVODKINJA_VN_CAP:0 "Boe¢o¦¬ª°³" #GetTitleVN_CAP
+ DESPOTISSA_VN_CAP:0 "ƒec±o²ªcc³" #GetTitleVN_CAP
+ AUTOKRATEIRA_VN_CAP:0 "A¢²o¬pa²e«p³" #GetTitleVN_CAP
+ BASILISSA_VN_CAP:0 "€a©ª®ªcc³" #GetTitleVN_CAP
+ PHARAOH_fem_VN_CAP:0 "‘apao°a" #GetTitleVN_CAP
+ GREAT_PHARAOH_fem_VN_CAP:0 "Be®ª¬o¥o ´apao°a" #GetTitleVN_CAP
+ TYRANT_fem_VN_CAP:0 "Tªpa°a" #GetTitleVN_CAP
+ HEGEMON_fem_VN_CAP:0 "‚e¥e¯o°a" #GetTitleVN_CAP
+ CHIEFTESS_VN_CAP:0 "Bo¨¦÷" #GetTitleVN_CAP
+ REGINA_VN_CAP:0 "Pe¥ª°³" #GetTitleVN_CAP
+ IMPERATRIX_VN_CAP:0 "†¯±epa²pªµ³" #GetTitleVN_CAP
+ RANI_VN_CAP:0 "Pa°ª" #GetTitleVN_CAP
+ MAHARANI_VN_CAP:0 "Maxapa°ª" #GetTitleVN_CAP
+ TATKISHO_FEM_VN_CAP:0 "Ta²¬ª·o" #GetTitleVN_CAP
+ TATO_FEM_VN_CAP:0 "Ta²o" #GetTitleVN_CAP
+ ATIO_FEM_VN_CAP:0 "A²ªo" #GetTitleVN_CAP
+ LE_ELT_VN_CAP:0 "ˆe'¼®»²" #GetTitleVN_CAP
+ NIGIST_VN_CAP:0 "Hª¥ªc²" #GetTitleVN_CAP
+ NIGISTE_NIGIST_VN_CAP:0 "Hª¥ªc²a °ª¥ªc²" #GetTitleVN_CAP
+ MUGO_VN_CAP:0 "M³¥o" #GetTitleVN_CAP
+ GREAT_MUGO_VN_CAP:0 "Be®ª¬³¾ ¯³¥o" #GetTitleVN_CAP
+ BALOPWE_fem_VN_CAP:0 "Be®ª¬³¾ ¯³¥o" #GetTitleVN_CAP
+ MULOPWE_fem_VN_CAP:0 "M³®o±¢e" #GetTitleVN_CAP
+ GREAT_MULOPWE_fem_VN_CAP:0 "Be®ª¬³¾ ¯³®o±¢e" #GetTitleVN_CAP
+ MWENEMUTAPA_fem_VN_CAP:0 "M¢e°e¯³²a±³" #GetTitleVN_CAP
+ GREAT_MWENEMUTAPA_fem_VN_CAP:0 "Be®ª¬³¾ ¯¢e°e¯³²a±³" #GetTitleVN_CAP
+ UMUGABEKAZI_VN_CAP:0 "³¯³¥a e¬a©ª" #GetTitleVN_CAP
+ NNABAGEREKA_VN_CAP:0 "Ha a¥epe¬³" #GetTitleVN_CAP
+ GREAT_NNABAGEREKA_VN_CAP:0 "Be®ª¬³¾ °a a¥epe¬³" #GetTitleVN_CAP
+ MARGRAVINE_VN_CAP:0 "Map¬¥pa´ª°¾" #GetTitleVN_CAP
+ VICEREINE_VN_CAP:0 "Bªµe-¬opo®e¢³" #GetTitleVN_CAP
+ EMIRA_VN_CAP:0 "™¯ªp³" #GetTitleVN_CAP
+ SULTANA_VN_CAP:0 "C³®²a°³" #GetTitleVN_CAP
+ GREAT_SULTANA_VN_CAP:0 "Be®ª¬³¾ c³®²a°³" #GetTitleVN_CAP
+ DAI_female_VN_CAP:0 "ƒaª" #GetTitleVN_CAP
+ MALIKAH_VN_CAP:0 "Ma®ª¬³" #GetTitleVN_CAP
+ SHEIKHA_VN_CAP:0 "”e«x³" #GetTitleVN_CAP
+ HATUN_VN_CAP:0 "Xa²³°" #GetTitleVN_CAP
+ PRINCEZA_VN_CAP:0 "K°÷¥ª°¾" #GetTitleVN_CAP
+ NAWAB_BEGUM_VN_CAP:0 "Ha¢a - e¥³¯" #GetTitleVN_CAP
+ NIZAM_BEGUM_VN_CAP:0 "Hª©a¯- e¥³¯" #GetTitleVN_CAP
+ KNIAGINIA_VN_CAP:0 "K°÷¥ª°¾" #GetTitleVN_CAP
+ GREAT_KNIAGINIA_VN_CAP:0 "Be®ª¬³¾ ¬°÷¥ª°¾" #GetTitleVN_CAP
+ BISHOP_ELECTOR_fem_VN_CAP:0 "E±ªc¬o±a-¬³p´¾pc²a" #GetTitleVN_CAP
+ ARCHBISHOP_ELECTOR_fem_VN_CAP:0 "Apxªe±ªc¬o±a-¬³p´¾pc²a" #GetTitleVN_CAP
+ MATRIARCH_ELECTOR_VN_CAP:0 "Ma²pªapxa-¬³p´¾pc²a" #GetTitleVN_CAP
+ BISHOP_fem_VN_CAP:0 "E±ªc¬o±a" #GetTitleVN_CAP
+ ARCHBISHOP_fem_VN_CAP:0 "Apxªe±ªc¬o±a" #GetTitleVN_CAP
+ MATRIARCH_VN_CAP:0 "Ma²pªapxa" #GetTitleVN_CAP
+ PROTECTOR_fem_VN_CAP:0 "‰po²e¬²opa" #GetTitleVN_CAP
+ LADY_PROTECTOR_VN_CAP:0 "ˆe¦ª-±po²e¬²opa" #GetTitleVN_CAP
+ PRESIDENT_fem_VN_CAP:0 "‰pe©ª¦e°²a" #GetTitleVN_CAP
+ KHATUN_VN_CAP:0 "Xa²³°" #GetTitleVN_CAP
+ GREAT_KHATUN_VN_CAP:0 "Be®ª¬³¾ xa²³°" #GetTitleVN_CAP
+ NUTSAL_fem_VN_CAP:0 "H³µa®³" #GetTitleVN_CAP
+ GEGE_VN_CAP:0 "‚¼¥¼" #GetTitleVN_CAP
+ HIGH_CHIEFTESS_VN_CAP:0 "Bepxo¢°o¥o ¢o¨¦÷" #GetTitleVN_CAP
+ PARAMOUNT_CHIEFTESS_VN_CAP:0 "‰ep¢o¥o ¢o¨¦÷" #GetTitleVN_CAP
+ ELDER_fem_VN_CAP:0 "C²ape«·ª°³" #GetTitleVN_CAP
+ HIGH_ELDER_fem_VN_CAP:0 "‚®a¢°³¾ c²ape«·ª°³" #GetTitleVN_CAP
+ PARAMOUNT_ELDER_fem_VN_CAP:0 "Bepxo¢°³¾ c²ape«·ª°³" #GetTitleVN_CAP
+ OLDERMAND_fem_VN_CAP:0 "A®»¦ep¬¢ª°¦³" #GetTitleVN_CAP
+ STORBONDE_fem_VN_CAP:0 "C²³p o°¦³" #GetTitleVN_CAP
+ LANDSBONDE_fem_VN_CAP:0 "ˆa°¦c o°¦³" #GetTitleVN_CAP
+ MOBEDYAR_VN_CAP:0 "Mo e¦¹÷p³" #GetTitleVN_CAP
+ DAUGHTER_OF_HEAVEN_VN_CAP:0 "ƒo¶» He a" #GetTitleVN_CAP
+ HIGH_PRIESTESS_VN_CAP:0 "Bepxo¢°³¾ ¨pªµ³" #GetTitleVN_CAP
+ PARAMOUNT_PRIESTESS_VN_CAP:0 "‰ep¢³¾ ¨pªµ³" #GetTitleVN_CAP
+ PRIESTESS_VN_CAP:0 "¨pªµ³" #GetTitleVN_CAP
+ TSARITSA_VN_CAP:0 "’apªµ³" #GetTitleVN_CAP
+ GREAT_PRINCESS_VN_CAP:0 "Be®ª¬³¾ ¬°÷¥ª°¾" #GetTitleVN_CAP
+ DOGARESSA_VN_CAP:0 "ƒo¥apecc³" #GetTitleVN_CAP
+ SERENE_DOGARESSA_VN_CAP:0 "C¢e²®e«·³¾ ¦o¥apecc³" #GetTitleVN_CAP
+ GREAT_DOGARESSA_VN_CAP:0 "Be®ª¬³¾ ¦o¥apecc³" #GetTitleVN_CAP
+ RECTORA_VN_CAP:0 "Pe¬²opa" #GetTitleVN_CAP
+ GRAND_RECTORA_VN_CAP:0 "‚®a¢°o¥o pe¬²opa" #GetTitleVN_CAP
+ GREAT_RECTORA_VN_CAP:0 "Be®ª¬o¥o pe¬²opa" #GetTitleVN_CAP
+ GRAND_KNIAGINIA_VN_CAP:0 "Be®ª¬³¾ ¬°÷¥ª°¾" #GetTitleVN_CAP
+ PRINCEZA_VN_CAP:0 "K°÷¥ª°¾" #GetTitleVN_CAP
+ GONFALONIERE_fem_VN_CAP:0 "‚o°´a®o°»epa" #GetTitleVN_CAP
+ GRAND_CONSULESS_VN_CAP:0 "‚®a¢°o¥o ¬o°c³®a" #GetTitleVN_CAP
+ GREAT_CONSULESS_VN_CAP:0 "Be®ª¬o¥o ¬o°c³®a" #GetTitleVN_CAP
+ CAPTAIN_DEFENDER_fem_VN_CAP:0 "Ka±ª²a°a-©a¸ª²°ªµ³" #GetTitleVN_CAP
+ SYNDIC_fem_VN_CAP:0 "Cª°¦ª¬a" #GetTitleVN_CAP
+ GRAND_SYNDIC_fem_VN_CAP:0 "Be®ª¬o¥o cª°¦ª¬a" #GetTitleVN_CAP
+ COUNCILOR_fem_VN_CAP:0 "Co¢e²°ª¬a" #GetTitleVN_CAP
+ GRAND_COUNCILOR_fem_VN_CAP:0 "Be®ª¬o¥o co¢e²°ª¬a" #GetTitleVN_CAP
+ HIGH_COUNCILOR_fem_VN_CAP:0 "Bepxo¢°o¥o co¢e²°ª¬a" #GetTitleVN_CAP
+ CHANCELOR_fem_VN_CAP:0 "Ka°µ®epa" #GetTitleVN_CAP
+ POPETTE_VN_CAP:0 "‰a±ecc³" #GetTitleVN_CAP
+ GOVERNESS_VN_CAP:0 "‚³ ep°a²opa" #GetTitleVN_CAP
+ DIRECTORESS_VN_CAP:0 "ƒªpe¬²pªc³" #GetTitleVN_CAP
+ ATAMAN_fem_VN_CAP:0 "A²a¯a°a" #GetTitleVN_CAP
+ HETMAN_fem_VN_CAP:0 "‚e²¯a°a" #GetTitleVN_CAP
+ GREAT_HETMAN_fem_VN_CAP:0 "Be®ª¬o¥o ¥e²¯a°a" #GetTitleVN_CAP
+ SHARIFA_VN_CAP:0 "”apª´º" #GetTitleVN_CAP
+ GRAND_SHARIFA_VN_CAP:0 "Be®ª¬³¾ ·apª´³" #GetTitleVN_CAP
+ GREAT_SHARIFA_VN_CAP:0 "Bepxo¢°³¾ ·apª´³" #GetTitleVN_CAP
+ MAYORESS_VN_CAP:0 "M¼pa" #GetTitleVN_CAP
+ ILKHATUN_VN_CAP:0 "†®»xa²³°" #GetTitleVN_CAP
+ ########Варианты наследника########
+ ###На вопрос это кто?
+ HEIR_IM_CAP:0 "Hac®e¦°ª¬" #GetTitleHeirIM_CAP
+ KHANZADEH_IM_CAP:0 "Xa°©a¦e" #GetTitleHeirIM_CAP
+ KHANUM_IM_CAP:0 "Xa°³¯" #GetTitleHeirIM_CAP
+ PASHAZADE_IM_CAP:0 "‰a·a©a¦e" #GetTitleHeirIM_CAP
+ BEYSADE_IM_CAP:0 "€e«©a¦e" #GetTitleHeirIM_CAP
+ BEYSADI_IM_CAP:0 "€e«ca¦ª" #GetTitleHeirIM_CAP
+ DAUPHIN_IM_CAP:0 "ƒo´ª°" #GetTitleHeirIM_CAP
+ DAUPHINE_IM_CAP:0 "ƒo´ª°ecca" #GetTitleHeirIM_CAP
+ AMIRZADE_IM_CAP:0 "A¯ªp©a¦e" #GetTitleHeirIM_CAP
+ SHAHZADE_IM_CAP:0 "”ax©a¦e" #GetTitleHeirIM_CAP
+ MIRZA_IM_CAP:0 "M³p©a" #GetTitleHeirIM_CAP
+ SHAHDOKHT_IM_CAP:0 "”ax¦ox²" #GetTitleHeirIM_CAP
+ AMIR_IM_CAP:0 "A¯ªp" #GetTitleHeirIM_CAP
+ AMIRAD_IM_CAP:0 "A¯ªpa¦" #GetTitleHeirIM_CAP
+ VALI_AHAD_IM_CAP:0 "Ba®ª-axa¦" #GetTitleHeirIM_CAP
+ NAWABZADA_IM_CAP:0 "Ha o ©a¦a" #GetTitleHeirIM_CAP
+ NIZAMZADA_IM_CAP:0 "Hª©a¯©a¦a" #GetTitleHeirIM_CAP
+ RAJKUMAR_IM_CAP:0 "Pa¦¨¬³¯ap" #GetTitleHeirIM_CAP
+ RAJKUMARI_IM_CAP:0 "Pa¦¨¬³¯apª" #GetTitleHeirIM_CAP
+ ABETO_IM_CAP:0 "A e²o" #GetTitleHeirIM_CAP
+ ###На вопрос нет кого?
+ HEIR_RD_CAP:0 "Hac®e¦°ª¬a" #GetTitleHeirRD_CAP
+ KHANZADEH_RD_CAP:0 "Xa°©a¦e" #GetTitleHeirRD_CAP
+ KHANUM_RD_CAP:0 "Xa°³¯" #GetTitleHeirRD_CAP
+ PASHAZADE_RD_CAP:0 "‰a·a©a¦e" #GetTitleHeirRD_CAP
+ BEYSADE_RD_CAP:0 "€e«©a¦e" #GetTitleHeirRD_CAP
+ BEYSADI_RD_CAP:0 "€e«ca¦ª" #GetTitleHeirRD_CAP
+ DAUPHIN_RD_CAP:0 "ƒo´ª°a" #GetTitleHeirRD_CAP
+ DAUPHINE_RD_CAP:0 "ƒo´ª°eccº" #GetTitleHeirRD_CAP
+ AMIRZADE_RD_CAP:0 "A¯ªp©a¦e" #GetTitleHeirRD_CAP
+ SHAHZADE_RD_CAP:0 "”ax©a¦e" #GetTitleHeirRD_CAP
+ MIRZA_RD_CAP:0 "M³p©º" #GetTitleHeirRD_CAP
+ SHAHDOKHT_RD_CAP:0 "”ax¦ox²" #GetTitleHeirRD_CAP
+ AMIR_RD_CAP:0 "A¯ªpa" #GetTitleHeirRD_CAP
+ AMIRAD_RD_CAP:0 "A¯ªpa¦º" #GetTitleHeirRD_CAP
+ VALI_AHAD_RD_CAP:0 "Ba®ª-axa¦a" #GetTitleHeirRD_CAP
+ NAWABZADA_RD_CAP:0 "Ha o ©a¦º" #GetTitleHeirRD_CAP
+ NIZAMZADA_RD_CAP:0 "Hª©a¯©a¦º" #GetTitleHeirRD_CAP
+ RAJKUMAR_RD_CAP:0 "Pa¦¨¬³¯apa" #GetTitleHeirRD_CAP
+ RAJKUMARI_RD_CAP:0 "Pa¦¨¬³¯apª" #GetTitleHeirRD_CAP
+ ABETO_RD_CAP:0 "A e²o" #GetTitleHeirRD_CAP
+ ###На вопрос дать кому?
+ HEIR_DT_CAP:0 "Hac®e¦°ª¬³" #GetTitleHeirDT_CAP
+ KHANZADEH_DT_CAP:0 "Xa°©a¦e" #GetTitleHeirDT_CAP
+ KHANUM_DT_CAP:0 "Xa°³¯" #GetTitleHeirDT_CAP
+ PASHAZADE_DT_CAP:0 "‰a·a©a¦e" #GetTitleHeirDT_CAP
+ BEYSADE_DT_CAP:0 "€e«©a¦e" #GetTitleHeirDT_CAP
+ BEYSADI_DT_CAP:0 "€e«ca¦ª" #GetTitleHeirDT_CAP
+ DAUPHIN_DT_CAP:0 "ƒo´ª°³" #GetTitleHeirDT_CAP
+ DAUPHINE_DT_CAP:0 "ƒo´ª°ecce" #GetTitleHeirDT_CAP
+ AMIRZADE_DT_CAP:0 "A¯ªp©a¦e" #GetTitleHeirDT_CAP
+ SHAHZADE_DT_CAP:0 "”ax©a¦e" #GetTitleHeirDT_CAP
+ MIRZA_DT_CAP:0 "M³p©e" #GetTitleHeirDT_CAP
+ SHAHDOKHT_DT_CAP:0 "”ax¦ox²" #GetTitleHeirDT_CAP
+ AMIR_DT_CAP:0 "A¯ªp³" #GetTitleHeirDT_CAP
+ AMIRAD_DT_CAP:0 "A¯ªpa¦e" #GetTitleHeirDT_CAP
+ VALI_AHAD_DT_CAP:0 "Ba®ª-axa¦³" #GetTitleHeirDT_CAP
+ NAWABZADA_DT_CAP:0 "Ha o ©a¦³" #GetTitleHeirDT_CAP
+ NIZAMZADA_DT_CAP:0 "Hª©a¯©a¦³" #GetTitleHeirDT_CAP
+ RAJKUMAR_DT_CAP:0 "Pa¦¨¬³¯ap³" #GetTitleHeirDT_CAP
+ RAJKUMARI_DT_CAP:0 "Pa¦¨¬³¯apª" #GetTitleHeirDT_CAP
+ ABETO_DT_CAP:0 "A e²o" #GetTitleHeirDT_CAP
+ ###На вопрос сделано кем?
+ HEIR_TV_CAP:0 "Hac®e¦°ª¬o¯" #GetTitleHeirTV_CAP
+ KHANZADEH_TV_CAP:0 "Xa°©a¦e" #GetTitleHeirTV_CAP
+ KHANUM_TV_CAP:0 "Xa°³¯" #GetTitleHeirTV_CAP
+ PASHAZADE_TV_CAP:0 "‰a·a©a¦e" #GetTitleHeirTV_CAP
+ BEYSADE_TV_CAP:0 "€e«©a¦e" #GetTitleHeirTV_CAP
+ BEYSADI_TV_CAP:0 "€e«ca¦ª" #GetTitleHeirTV_CAP
+ DAUPHIN_TV_CAP:0 "ƒo´ª°o¯" #GetTitleHeirTV_CAP
+ DAUPHINE_TV_CAP:0 "ƒo´ª°ecco«" #GetTitleHeirTV_CAP
+ AMIRZADE_TV_CAP:0 "A¯ªp©a¦e" #GetTitleHeirTV_CAP
+ SHAHZADE_TV_CAP:0 "”ax©a¦e" #GetTitleHeirTV_CAP
+ MIRZA_TV_CAP:0 "M³p©o«" #GetTitleHeirTV_CAP
+ SHAHDOKHT_TV_CAP:0 "”ax¦ox²" #GetTitleHeirTV_CAP
+ AMIR_TV_CAP:0 "A¯ªpo¯" #GetTitleHeirTV_CAP
+ AMIRAD_TV_CAP:0 "A¯ªpa¦e" #GetTitleHeirTV_CAP
+ VALI_AHAD_TV_CAP:0 "Ba®ª-axa¦o¯" #GetTitleHeirTV_CAP
+ NAWABZADA_TV_CAP:0 "Ha o ©a¦o¯" #GetTitleHeirTV_CAP
+ NIZAMZADA_TV_CAP:0 "Hª©a¯©a¦o¯" #GetTitleHeirTV_CAP
+ RAJKUMAR_TV_CAP:0 "Pa¦¨¬³¯apo¯" #GetTitleHeirTV_CAP
+ RAJKUMARI_TV_CAP:0 "Pa¦¨¬³¯apª" #GetTitleHeirTV_CAP
+ ABETO_TV_CAP:0 "A e²o" #GetTitleHeirTV_CAP
+ ###На вопрос о ком?
+ HEIR_PR_CAP:0 "Hac®e¦°ª¬e" #GetTitleHeirPR_CAP
+ KHANZADEH_PR_CAP:0 "Xa°©a¦e" #GetTitleHeirPR_CAP
+ KHANUM_PR_CAP:0 "Xa°³¯" #GetTitleHeirPR_CAP
+ PASHAZADE_PR_CAP:0 "‰a·a©a¦e" #GetTitleHeirPR_CAP
+ BEYSADE_PR_CAP:0 "€e«©a¦e" #GetTitleHeirPR_CAP
+ BEYSADI_PR_CAP:0 "€e«ca¦ª" #GetTitleHeirPR_CAP
+ DAUPHIN_PR_CAP:0 "ƒo´ª°e" #GetTitleHeirPR_CAP
+ DAUPHINE_PR_CAP:0 "ƒo´ª°ecce" #GetTitleHeirPR_CAP
+ AMIRZADE_PR_CAP:0 "A¯ªp©a¦e" #GetTitleHeirPR_CAP
+ SHAHZADE_PR_CAP:0 "”ax©a¦e" #GetTitleHeirPR_CAP
+ MIRZA_PR_CAP:0 "M³p©e" #GetTitleHeirPR_CAP
+ SHAHDOKHT_PR_CAP:0 "”ax¦ox²" #GetTitleHeirPR_CAP
+ AMIR_PR_CAP:0 "A¯ªpe" #GetTitleHeirPR_CAP
+ AMIRAD_PR_CAP:0 "A¯ªpa¦e" #GetTitleHeirPR_CAP
+ VALI_AHAD_PR_CAP:0 "Ba®ª-axa¦e" #GetTitleHeirPR_CAP
+ NAWABZADA_PR_CAP:0 "Ha o ©a¦e" #GetTitleHeirPR_CAP
+ NIZAMZADA_PR_CAP:0 "Hª©a¯©a¦e" #GetTitleHeirPR_CAP
+ RAJKUMAR_PR_CAP:0 "Pa¦¨¬³¯ape" #GetTitleHeirPR_CAP
+ RAJKUMARI_PR_CAP:0 "Pa¦¨¬³¯apª" #GetTitleHeirPR_CAP
+ ABETO_PR_CAP:0 "A e²o" #GetTitleHeirPR_CAP
+ ###На вопрос вижу кого?
+ HEIR_VN_CAP:0 "Hac®e¦°ª¬a" #GetTitleHeirVN_CAP
+ KHANZADEH_VN_CAP:0 "Xa°©a¦e" #GetTitleHeirVN_CAP
+ KHANUM_VN_CAP:0 "Xa°³¯" #GetTitleHeirVN_CAP
+ PASHAZADE_VN_CAP:0 "‰a·a©a¦e" #GetTitleHeirVN_CAP
+ BEYSADE_VN_CAP:0 "€e«©a¦e" #GetTitleHeirVN_CAP
+ BEYSADI_VN_CAP:0 "€e«ca¦ª" #GetTitleHeirVN_CAP
+ DAUPHIN_VN_CAP:0 "ƒo´ª°a" #GetTitleHeirVN_CAP
+ DAUPHINE_VN_CAP:0 "ƒo´ª°ecc³" #GetTitleHeirVN_CAP
+ AMIRZADE_VN_CAP:0 "A¯ªp©a¦e" #GetTitleHeirVN_CAP
+ SHAHZADE_VN_CAP:0 "”ax©a¦e" #GetTitleHeirVN_CAP
+ MIRZA_VN_CAP:0 "M³p©³" #GetTitleHeirVN_CAP
+ SHAHDOKHT_VN_CAP:0 "”ax¦ox²" #GetTitleHeirVN_CAP
+ AMIR_VN_CAP:0 "A¯ªpa" #GetTitleHeirVN_CAP
+ AMIRAD_VN_CAP:0 "A¯ªpa¦e" #GetTitleHeirVN_CAP
+ VALI_AHAD_VN_CAP:0 "Ba®ª-axa¦e" #GetTitleHeirVN_CAP
+ NAWABZADA_VN_CAP:0 "Ha o ©a¦e" #GetTitleHeirVN_CAP
+ NIZAMZADA_VN_CAP:0 "Hª©a¯©a¦e" #GetTitleHeirVN_CAP
+ RAJKUMAR_VN_CAP:0 "Pa¦¨¬³¯apa" #GetTitleHeirVN_CAP
+ RAJKUMARI_VN_CAP:0 "Pa¦¨¬³¯apª" #GetTitleHeirVN_CAP
+ ABETO_VN_CAP:0 "A e²o" #GetTitleHeirVN_CAP
+ ########Варианты консортов########
+ ###На вопрос это кто?
+ YEKHE_KHAGAN_IM_CAP:0 "†x xaa°" #GetTitleConsortIM_CAP
+ YEKHE_KHANUM_IM_CAP:0 "†x xaa°³¯" #GetTitleConsortIM_CAP
+ PRINCE_CONSORT_IM_CAP:0 "‰pª°µ-¬o°cop²" #GetTitleConsortIM_CAP
+ QUEEN_CONSORT_IM_CAP:0 "Kopo®e¢a-¬o°cop²" #GetTitleConsortIM_CAP
+ EMPRESS_CONSORT_IM_CAP:0 "†¯±epa²pªµa-¬o°cop²" #GetTitleConsortIM_CAP
+ MARGRAVE_CONSORT_IM_CAP:0 "Map¬¥pa´-¬o°cop²" #GetTitleConsortIM_CAP
+ VICEROY_CONSORT_IM_CAP:0 "Bªµe-¬opo®»-¬o°cop²" #GetTitleConsortIM_CAP
+ EMPEROR_CONSORT_IM_CAP:0 "†¯±epa²op-¬o°cop²" #GetTitleConsortIM_CAP
+ ELECTOR_IM_CAP:0 "K³p´¾pc²" #GetTitleConsortIM_CAP
+ ELECTRESS_IM_CAP:0 "K³p´¾pc²ª°a" #GetTitleConsortIM_CAP
+ SHAH_CONSORT_IM_CAP:0 "”ax-¬o°cop²" #GetTitleConsortIM_CAP
+ BOQOR_IM_CAP:0 "€o¬op" #GetTitleConsortIM_CAP
+ BOQORAD_IM_CAP:0 "€o¬opa²" #GetTitleConsortIM_CAP
+ ARCHDUKE_CONSORT_IM_CAP:0 "™pµ¥epµo¥-¬o°cop²" #GetTitleConsortIM_CAP
+ KING_CONSORT_IM_CAP:0 "Kopo®»-¬o°cop²" #GetTitleConsortIM_CAP
+ HASEKI_SULTAN_IM_CAP:0 "Xace¬ª-c³®²a°" #GetTitleConsortIM_CAP
+ GRAND_DUKE_CONSORT_IM_CAP:0 "Be®ª¬ª« ¬°÷©»-¬o°cop²" #GetTitleConsortIM_CAP
+ PADISHAH_BEGUM_IM_CAP:0 "‰a¦ª·ax- e¥³¯" #GetTitleConsortIM_CAP
+ SULTANA_BEGUM_IM_CAP:0 "C³®²a°a- e¥³¯" #GetTitleConsortIM_CAP
+ PESHWIN_IM_CAP:0 "‰e·¢ª°" #GetTitleConsortIM_CAP
+ JANHOY_IM_CAP:0 "ƒ¨axo«" #GetTitleConsortIM_CAP
+ ITEGE_IM_CAP:0 "†²e¥e" #GetTitleConsortIM_CAP
+ CONSORT_IM_CAP:0 "Ko°cop²" #GetTitleConsortIM_CAP
+ EMIR_CONSORT_IM_CAP:0 "™¯ªp-¬o°cop²" #GetTitleConsortIM_CAP
+ SULTAN_CONSORT_IM_CAP:0 "C³®²a°-¬o°cop²" #GetTitleConsortIM_CAP
+ PADISHAH_CONSORT_IM_CAP:0 "‰a¦ª·ax-¬o°cop²" #GetTitleConsortIM_CAP
+ ###На вопрос нет кого?
+ YEKHE_KHAGAN_RD_CAP:0 "†x xaa°a" #GetTitleConsortRD_CAP
+ YEKHE_KHANUM_RD_CAP:0 "†x xaa°³¯" #GetTitleConsortRD_CAP
+ PRINCE_CONSORT_RD_CAP:0 "‰pª°µa-¬o°cop²a" #GetTitleConsortRD_CAP
+ QUEEN_CONSORT_RD_CAP:0 "Kopo®e¢º-¬o°cop²a" #GetTitleConsortRD_CAP
+ EMPRESS_CONSORT_RD_CAP:0 "†¯±epa²pªµº-¬o°cop²a" #GetTitleConsortRD_CAP
+ MARGRAVE_CONSORT_RD_CAP:0 "Map¬¥pa´a-¬o°cop²a" #GetTitleConsortRD_CAP
+ VICEROY_CONSORT_RD_CAP:0 "Bªµe-¬opo®÷-¬o°cop²a" #GetTitleConsortRD_CAP
+ EMPEROR_CONSORT_RD_CAP:0 "†¯±epa²opa-¬o°cop²a" #GetTitleConsortRD_CAP
+ ELECTOR_RD_CAP:0 "K³p´¾pc²a" #GetTitleConsortRD_CAP
+ ELECTRESS_RD_CAP:0 "K³p´¾pc²ª°º" #GetTitleConsortRD_CAP
+ SHAH_CONSORT_RD_CAP:0 "”axa-¬o°cop²a" #GetTitleConsortRD_CAP
+ BOQOR_RD_CAP:0 "€o¬opa" #GetTitleConsortRD_CAP
+ BOQORAD_RD_CAP:0 "€o¬opa²º" #GetTitleConsortRD_CAP
+ ARCHDUKE_CONSORT_RD_CAP:0 "™pµ¥epµo¥a-¬o°cop²a" #GetTitleConsortRD_CAP
+ KING_CONSORT_RD_CAP:0 "Kopo®÷-¬o°cop²a" #GetTitleConsortRD_CAP
+ HASEKI_SULTAN_RD_CAP:0 "Xace¬ª-c³®²a°" #GetTitleConsortRD_CAP
+ GRAND_DUKE_CONSORT_RD_CAP:0 "Be®ª¬o¥o ¬°÷©÷-¬o°cop²a" #GetTitleConsortRD_CAP
+ PADISHAH_BEGUM_RD_CAP:0 "‰a¦ª·ax- e¥³¯" #GetTitleConsortRD_CAP
+ SULTANA_BEGUM_RD_CAP:0 "C³®²a°º- e¥³¯" #GetTitleConsortRD_CAP
+ PESHWIN_RD_CAP:0 "‰e·¢ª°" #GetTitleConsortRD_CAP
+ JANHOY_RD_CAP:0 "ƒ¨axo÷" #GetTitleConsortRD_CAP
+ ITEGE_RD_CAP:0 "†²e¥e" #GetTitleConsortRD_CAP
+ CONSORT_RD_CAP:0 "Ko°cop²a" #GetTitleConsortRD_CAP
+ EMIR_CONSORT_RD_CAP:0 "™¯ªpa-¬o°cop²a" #GetTitleConsortRD_CAP
+ SULTAN_CONSORT_RD_CAP:0 "C³®²a°a-¬o°cop²a" #GetTitleConsortRD_CAP
+ PADISHAH_CONSORT_RD_CAP:0 "‰a¦ª·axa-¬o°cop²a" #GetTitleConsortRD_CAP
+ ###На вопрос дать кому?
+ YEKHE_KHAGAN_DT_CAP:0 "†x xaa°³" #GetTitleConsortDT_CAP
+ YEKHE_KHANUM_DT_CAP:0 "†x xaa°³¯" #GetTitleConsortDT_CAP
+ PRINCE_CONSORT_DT_CAP:0 "‰pª°µ³-¬o°cop²³" #GetTitleConsortDT_CAP
+ QUEEN_CONSORT_DT_CAP:0 "Kopo®e¢e-¬o°cop²³" #GetTitleConsortDT_CAP
+ EMPRESS_CONSORT_DT_CAP:0 "†¯±epa²pªµe-¬o°cop²³" #GetTitleConsortDT_CAP
+ MARGRAVE_CONSORT_DT_CAP:0 "Map¬¥pa´³-¬o°cop²³" #GetTitleConsortDT_CAP
+ VICEROY_CONSORT_DT_CAP:0 "Bªµe-¬opo®¾-¬o°cop²³" #GetTitleConsortDT_CAP
+ EMPEROR_CONSORT_DT_CAP:0 "†¯±epa²op³-¬o°cop²³" #GetTitleConsortDT_CAP
+ ELECTOR_DT_CAP:0 "K³p´¾pc²³" #GetTitleConsortDT_CAP
+ ELECTRESS_DT_CAP:0 "K³p´¾pc²ª°e" #GetTitleConsortDT_CAP
+ SHAH_CONSORT_DT_CAP:0 "”ax³-¬o°cop²³" #GetTitleConsortDT_CAP
+ BOQOR_DT_CAP:0 "€o¬op³" #GetTitleConsortDT_CAP
+ BOQORAD_DT_CAP:0 "€o¬opa²e" #GetTitleConsortDT_CAP
+ ARCHDUKE_CONSORT_DT_CAP:0 "™pµ¥epµo¥³-¬o°cop²³" #GetTitleConsortDT_CAP
+ KING_CONSORT_DT_CAP:0 "Kopo®¾-¬o°cop²³" #GetTitleConsortDT_CAP
+ HASEKI_SULTAN_DT_CAP:0 "Xace¬ª-c³®²a°e" #GetTitleConsortDT_CAP
+ GRAND_DUKE_CONSORT_DT_CAP:0 "Be®ª¬o¯³ ¬°÷©¾-¬o°cop²³" #GetTitleConsortDT_CAP
+ PADISHAH_BEGUM_DT_CAP:0 "‰a¦ª·ax- e¥³¯" #GetTitleConsortDT_CAP
+ SULTANA_BEGUM_DT_CAP:0 "C³®²a°e- e¥³¯" #GetTitleConsortDT_CAP
+ PESHWIN_DT_CAP:0 "‰e·¢ª°" #GetTitleConsortDT_CAP
+ JANHOY_DT_CAP:0 "ƒ¨axo¾" #GetTitleConsortDT_CAP
+ ITEGE_DT_CAP:0 "†²e¥e" #GetTitleConsortDT_CAP
+ CONSORT_DT_CAP:0 "Ko°cop²³" #GetTitleConsortDT_CAP
+ EMIR_CONSORT_DT_CAP:0 "™¯ªp³-¬o°cop²³" #GetTitleConsortDT_CAP
+ SULTAN_CONSORT_DT_CAP:0 "C³®²a°³-¬o°cop²³" #GetTitleConsortDT_CAP
+ PADISHAH_CONSORT_DT_CAP:0 "‰a¦ª·ax³-¬o°cop²³" #GetTitleConsortDT_CAP
+ ###На вопрос приказано кем?
+ YEKHE_KHAGAN_TV_CAP:0 "†x xaa°o¯" #GetTitleConsortTV_CAP
+ YEKHE_KHANUM_TV_CAP:0 "†x xaa°³¯" #GetTitleConsortTV_CAP
+ PRINCE_CONSORT_TV_CAP:0 "‰pª°µe¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ QUEEN_CONSORT_TV_CAP:0 "Kopo®e¢o«-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ EMPRESS_CONSORT_TV_CAP:0 "†¯±epa²pªµe«-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ MARGRAVE_CONSORT_TV_CAP:0 "Map¬¥pa´o¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ VICEROY_CONSORT_TV_CAP:0 "Bªµe-¬opo®ë¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ EMPEROR_CONSORT_TV_CAP:0 "†¯±epa²opo¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ ELECTOR_TV_CAP:0 "K³p´¾pc²o¯" #GetTitleConsortTV_CAP
+ ELECTRESS_TV_CAP:0 "K³p´¾pc²ª°o«" #GetTitleConsortTV_CAP
+ SHAH_CONSORT_TV_CAP:0 "”axo¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ BOQOR_TV_CAP:0 "€o¬opo¯" #GetTitleConsortTV_CAP
+ BOQORAD_TV_CAP:0 "€o¬opa²o«" #GetTitleConsortTV_CAP
+ ARCHDUKE_CONSORT_TV_CAP:0 "™pµ¥epµo¥o¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ KING_CONSORT_TV_CAP:0 "Kopo®ë¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ HASEKI_SULTAN_TV_CAP:0 "Xace¬ª-c³®²a°o«" #GetTitleConsortTV_CAP
+ GRAND_DUKE_CONSORT_TV_CAP:0 "Be®ª¬ª¯ ¬°÷©e¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ PADISHAH_BEGUM_TV_CAP:0 "‰a¦ª·ax- e¥³¯" #GetTitleConsortTV_CAP
+ SULTANA_BEGUM_TV_CAP:0 "C³®²a°o«- e¥³¯" #GetTitleConsortTV_CAP
+ PESHWIN_TV_CAP:0 "‰e·¢ª°" #GetTitleConsortTV_CAP
+ JANHOY_TV_CAP:0 "ƒ¨axoe¯" #GetTitleConsortTV_CAP
+ ITEGE_TV_CAP:0 "†²e¥e" #GetTitleConsortTV_CAP
+ CONSORT_TV_CAP:0 "Ko°cop²o¯" #GetTitleConsortTV_CAP
+ EMIR_CONSORT_TV_CAP:0 "™¯ªpo¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ SULTAN_CONSORT_TV_CAP:0 "C³®²a°o¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ PADISHAH_CONSORT_TV_CAP:0 "‰a¦ª·axo¯-¬o°cop²o¯" #GetTitleConsortTV_CAP
+ ###На вопрос о ком?
+ YEKHE_KHAGAN_PR_CAP:0 "†x xaa°e" #GetTitleConsortPR_CAP
+ YEKHE_KHANUM_PR_CAP:0 "†x xaa°³¯" #GetTitleConsortPR_CAP
+ PRINCE_CONSORT_PR_CAP:0 "‰pª°µe-¬o°cop²e" #GetTitleConsortPR_CAP
+ QUEEN_CONSORT_PR_CAP:0 "Kopo®e¢e-¬o°cop²e" #GetTitleConsortPR_CAP
+ EMPRESS_CONSORT_PR_CAP:0 "†¯±epa²pªµe-¬o°cop²e" #GetTitleConsortPR_CAP
+ MARGRAVE_CONSORT_PR_CAP:0 "Map¬¥pa´e-¬o°cop²e" #GetTitleConsortPR_CAP
+ VICEROY_CONSORT_PR_CAP:0 "Bªµe-¬opo®e-¬o°cop²e" #GetTitleConsortPR_CAP
+ EMPEROR_CONSORT_PR_CAP:0 "†¯±epa²ope-¬o°cop²e" #GetTitleConsortPR_CAP
+ ELECTOR_PR_CAP:0 "K³p´¾pc²e" #GetTitleConsortPR_CAP
+ ELECTRESS_PR_CAP:0 "K³p´¾pc²ª°e" #GetTitleConsortPR_CAP
+ SHAH_CONSORT_PR_CAP:0 "”axe-¬o°cop²e" #GetTitleConsortPR_CAP
+ BOQOR_PR_CAP:0 "€o¬ope" #GetTitleConsortPR_CAP
+ BOQORAD_PR_CAP:0 "€o¬opa²e" #GetTitleConsortPR_CAP
+ ARCHDUKE_CONSORT_PR_CAP:0 "™pµ¥epµo¥e-¬o°cop²e" #GetTitleConsortPR_CAP
+ KING_CONSORT_PR_CAP:0 "Kopo®e-¬o°cop²e" #GetTitleConsortPR_CAP
+ HASEKI_SULTAN_PR_CAP:0 "Xace¬ª-c³®²a°" #GetTitleConsortPR_CAP
+ GRAND_DUKE_CONSORT_PR_CAP:0 "Be®ª¬o¯ ¬°÷©e-¬o°cop²e" #GetTitleConsortPR_CAP
+ PADISHAH_BEGUM_PR_CAP:0 "‰a¦ª·ax- e¥³¯" #GetTitleConsortPR_CAP
+ SULTANA_BEGUM_PR_CAP:0 "C³®²a°- e¥³¯" #GetTitleConsortPR_CAP
+ PESHWIN_PR_CAP:0 "‰e·¢ª°" #GetTitleConsortPR_CAP
+ JANHOY_PR_CAP:0 "ƒ¨axoe" #GetTitleConsortPR_CAP
+ ITEGE_PR_CAP:0 "†²e¥e" #GetTitleConsortPR_CAP
+ CONSORT_PR_CAP:0 "Ko°cop²e" #GetTitleConsortPR_CAP
+ EMIR_CONSORT_PR_CAP:0 "™¯ªpe-¬o°cop²e" #GetTitleConsortPR_CAP
+ SULTAN_CONSORT_PR_CAP:0 "C³®²a°e-¬o°cop²e" #GetTitleConsortPR_CAP
+ PADISHAH_CONSORT_PR_CAP:0 "‰a¦ª·axe-¬o°cop²e" #GetTitleConsortPR_CAP
+ ###На вопрос вижу кого?
+ YEKHE_KHAGAN_VN_CAP:0 "†x xaa°a" #GetTitleConsortVN_CAP
+ YEKHE_KHANUM_VN_CAP:0 "†x xaa°³¯" #GetTitleConsortVN_CAP
+ PRINCE_CONSORT_VN_CAP:0 "‰pª°µa-¬o°cop²a" #GetTitleConsortVN_CAP
+ QUEEN_CONSORT_VN_CAP:0 "Kopo®e¢³-¬o°cop²a" #GetTitleConsortVN_CAP
+ EMPRESS_CONSORT_VN_CAP:0 "†¯±epa²pªµ³-¬o°cop²a" #GetTitleConsortVN_CAP
+ MARGRAVE_CONSORT_VN_CAP:0 "Map¬¥pa´a-¬o°cop²a" #GetTitleConsortVN_CAP
+ VICEROY_CONSORT_VN_CAP:0 "Bªµe-¬opo®÷-¬o°cop²a" #GetTitleConsortVN_CAP
+ EMPEROR_CONSORT_VN_CAP:0 "†¯±epa²opa-¬o°cop²a" #GetTitleConsortVN_CAP
+ ELECTOR_VN_CAP:0 "K³p´¾pc²a" #GetTitleConsortVN_CAP
+ ELECTRESS_VN_CAP:0 "K³p´¾pc²ª°³" #GetTitleConsortVN_CAP
+ SHAH_CONSORT_VN_CAP:0 "”axa-¬o°cop²a" #GetTitleConsortVN_CAP
+ BOQOR_VN_CAP:0 "€o¬opa" #GetTitleConsortVN_CAP
+ BOQORAD_VN_CAP:0 "€o¬opa²³" #GetTitleConsortVN_CAP
+ ARCHDUKE_CONSORT_VN_CAP:0 "™pµ¥epµo¥a-¬o°cop²a" #GetTitleConsortVN_CAP
+ KING_CONSORT_VN_CAP:0 "Kopo®÷-¬o°cop²a" #GetTitleConsortVN_CAP
+ HASEKI_SULTAN_VN_CAP:0 "Xace¬ª-c³®²a°" #GetTitleConsortVN_CAP
+ GRAND_DUKE_CONSORT_VN_CAP:0 "Be®ª¬o¥o ¬°÷©÷-¬o°cop²a" #GetTitleConsortVN_CAP
+ PADISHAH_BEGUM_VN_CAP:0 "‰a¦ª·ax- e¥³¯" #GetTitleConsortVN_CAP
+ SULTANA_BEGUM_VN_CAP:0 "C³®²a°³- e¥³¯" #GetTitleConsortVN_CAP
+ PESHWIN_VN_CAP:0 "‰e·¢ª°³" #GetTitleConsortVN_CAP
+ JANHOY_VN_CAP:0 "ƒ¨axo«" #GetTitleConsortVN_CAP
+ ITEGE_VN_CAP:0 "†²e¥e" #GetTitleConsortVN_CAP
+ CONSORT_VN_CAP:0 "Ko°cop²a" #GetTitleConsortVN_CAP
+ EMIR_CONSORT_VN_CAP:0 "™¯ªpa-¬o°cop²a" #GetTitleConsortVN_CAP
+ SULTAN_CONSORT_VN_CAP:0 "C³®²a°a-¬o°cop²a" #GetTitleConsortVN_CAP
+ PADISHAH_CONSORT_VN_CAP:0 "‰a¦ª·axa-¬o°cop²a" #GetTitleConsortVN_CAP
+ ###Версия 1.28
+ CAPTAIN_RD_CAP:0 "Ka±ª²a°a" #GetTitleRD_CAP
+ GRAND_CAPTAIN_RD_CAP:0 "‚pa°¦-¬a±ª²a°a" #GetTitleRD_CAP
+ GRAND_ADMIRAL_RD_CAP:0 "‚pa°¦-a¦¯ªpa®a" #GetTitleRD_CAP
+ CAPTAIN_DT_CAP:0 "Ka±ª²a°³" #GetTitleDT_CAP
+ GRAND_CAPTAIN_DT_CAP:0 "‚pa°¦-¬a±ª²a°³" #GetTitleDT_CAP
+ GRAND_ADMIRAL_DT_CAP:0 "‚pa°¦-a¦¯ªpa®³" #GetTitleDT_CAP
+ CAPTAIN_TV_CAP:0 "Ka±ª²a°o¯" #GetTitleTV_CAP
+ GRAND_CAPTAIN_TV_CAP:0 "‚pa°¦-¬a±ª²a°o¯" #GetTitleTV_CAP
+ GRAND_ADMIRAL_TV_CAP:0 "‚pa°¦-a¦¯ªpa®o¯" #GetTitleTV_CAP
+ CAPTAIN_IM_CAP:0 "Ka±ª²a°" #GetTitleIM_CAP
+ GRAND_CAPTAIN_IM_CAP:0 "‚pa°¦-¬a±ª²a°" #GetTitleIM_CAP
+ GRAND_ADMIRAL_IM_CAP:0 "‚pa°¦-a¦¯ªpa®" #GetTitleIM_CAP
+ CAPTAIN_PR_CAP:0 "Ka±ª²a°e" #GetTitlePR_CAP
+ GRAND_CAPTAIN_PR_CAP:0 "‚pa°¦-¬a±ª²a°e" #GetTitlePR_CAP
+ GRAND_ADMIRAL_PR_CAP:0 "‚pa°¦-a¦¯ªpa®e" #GetTitlePR_CAP
+ CAPTAIN_VN_CAP:0 "Ka±ª²a°a" #GetTitleVN_CAP
+ GRAND_CAPTAIN_VN_CAP:0 "‚pa°¦-¬a±ª²a°a" #GetTitleVN_CAP
+ GRAND_ADMIRAL_VN_CAP:0 "‚pa°¦-a¦¯ªpa®a" #GetTitleVN_CAP
+ PIRATE_PRINCE_RD_CAP:0 "‰pª°µa ±ªpa²o¢" #GetTitleRD_CAP
+ PIRATE_KING_RD_CAP:0 "Kopo®÷ ±ªpa²o¢" #GetTitleRD_CAP
+ PIRATE_EMPEROR_RD_CAP:0 "†¯±epa²opa ±ªpa²o¢" #GetTitleRD_CAP
+ PIRATE_PRINCESS_RD_CAP:0 "‰pª°µeccº ±ªpa²o¢" #GetTitleRD_CAP
+ PIRATE_QUEEN_RD_CAP:0 "Kopo®e¢º ±ªpa²o¢" #GetTitleRD_CAP
+ PIRATE_EMPRESS_RD_CAP:0 "†¯±epa²pªµº ±ªpa²o¢" #GetTitleRD_CAP
+ PIRATE_PRINCE_DT_CAP:0 "‰pª°µ³ ±ªpa²o¢" #GetTitleDT_CAP
+ PIRATE_KING_DT_CAP:0 "Kopo®¾ ±ªpa²o¢" #GetTitleDT_CAP
+ PIRATE_EMPEROR_DT_CAP:0 "†¯±epa²op³ ±ªpa²o¢" #GetTitleDT_CAP
+ PIRATE_PRINCESS_DT_CAP:0 "‰pª°µecce ±ªpa²o¢" #GetTitleDT_CAP
+ PIRATE_QUEEN_DT_CAP:0 "Kopo®e¢e ±ªpa²o¢" #GetTitleDT_CAP
+ PIRATE_EMPRESS_DT_CAP:0 "†¯±epa²pªµe ±ªpa²o¢" #GetTitleDT_CAP
+ PIRATE_PRINCE_TV_CAP:0 "‰pª°µe¯ ±ªpa²o¢" #GetTitleTV_CAP
+ PIRATE_KING_TV_CAP:0 "Kopo®ë¯ ±ªpa²o¢" #GetTitleTV_CAP
+ PIRATE_EMPEROR_TV_CAP:0 "†¯±epa²opo¯ ±ªpa²o¢" #GetTitleTV_CAP
+ PIRATE_PRINCESS_TV_CAP:0 "‰pª°µecco« ±ªpa²o¢" #GetTitleTV_CAP
+ PIRATE_QUEEN_TV_CAP:0 "Kopo®e¢o« ±ªpa²o¢" #GetTitleTV_CAP
+ PIRATE_EMPRESS_TV_CAP:0 "†¯±epa²pªµe« ±ªpa²o¢" #GetTitleTV_CAP
+ PIRATE_PRINCE_IM_CAP:0 "‰pª°µ ±ªpa²o¢" #GetTitleIM_CAP
+ PIRATE_KING_IM_CAP:0 "Kopo®» ±ªpa²o¢" #GetTitleIM_CAP
+ PIRATE_EMPEROR_IM_CAP:0 "†¯±epa²op ±ªpa²o¢" #GetTitleIM_CAP
+ PIRATE_PRINCESS_IM_CAP:0 "‰pª°µecca ±ªpa²o¢" #GetTitleIM_CAP
+ PIRATE_QUEEN_IM_CAP:0 "Kopo®e¢a ±ªpa²o¢" #GetTitleIM_CAP
+ PIRATE_EMPRESS_IM_CAP:0 "†¯±epa²pªµa ±ªpa²o¢" #GetTitleIM_CAP
+ PIRATE_PRINCE_PR_CAP:0 "‰pª°µe ±ªpa²o¢" #GetTitlePR_CAP
+ PIRATE_KING_PR_CAP:0 "Kopo®e ±ªpa²o¢" #GetTitlePR_CAP
+ PIRATE_EMPEROR_PR_CAP:0 "†¯±epa²ope ±ªpa²o¢" #GetTitlePR_CAP
+ PIRATE_PRINCESS_PR_CAP:0 "‰pª°µecce ±ªpa²o¢" #GetTitlePR_CAP
+ PIRATE_QUEEN_PR_CAP:0 "Kopo®e¢e ±ªpa²o¢" #GetTitlePR_CAP
+ PIRATE_EMPRESS_PR_CAP:0 "†¯±epa²pªµe ±ªpa²o¢" #GetTitlePR_CAP
+ PIRATE_PRINCE_VN_CAP:0 "‰pª°µa ±ªpa²o¢" #GetTitleVN_CAP
+ PIRATE_KING_VN_CAP:0 "Kopo®÷ ±ªpa²o¢" #GetTitleVN_CAP
+ PIRATE_EMPEROR_VN_CAP:0 "†¯±epa²opa ±ªpa²o¢" #GetTitleVN_CAP
+ PIRATE_PRINCESS_VN_CAP:0 "‰pª°µecc³ ±ªpa²o¢" #GetTitleVN_CAP
+ PIRATE_QUEEN_VN_CAP:0 "Kopo®e¢³ ±ªpa²o¢" #GetTitleVN_CAP
+ PIRATE_EMPRESS_VN_CAP:0 "†¯±epa²pªµ³ ±ªpa²o¢" #GetTitleVN_CAP
+ ###Версия 1.29-1.30
+ BROTHER_RD_CAP:0 "€pa²a" #GetTitleRD_CAP
+ BROTHER_IM_CAP:0 "€pa²" #GetTitleIM_CAP
+ BROTHER_DT_CAP:0 "€pa²³" #GetTitleDT_CAP
+ BROTHER_TV_CAP:0 "€pa²o¯" #GetTitleTV_CAP
+ BROTHER_PR_CAP:0 "€pa²e" #GetTitlePR_CAP
+ BROTHER_VN_CAP:0 "€pa²a" #GetTitleVN_CAP
+ 
+ MARSHAL_RD_CAP:0 "Map·a®a" #GetTitleRD_CAP
+ MARSHAL_IM_CAP:0 "Map·a®" #GetTitleIM_CAP
+ MARSHAL_DT_CAP:0 "Map·a®³" #GetTitleDT_CAP
+ MARSHAL_TV_CAP:0 "Map·a®o¯" #GetTitleTV_CAP
+ MARSHAL_PR_CAP:0 "Map·a®e" #GetTitlePR_CAP
+ MARSHAL_VN_CAP:0 "Map·a®a" #GetTitleVN_CAP
+ 
+ SERENE_MARSHAL_RD_CAP:0 "C¢e²®e«·e¥o ¯ap·a®a" #GetTitleRD_CAP
+ SERENE_MARSHAL_IM_CAP:0 "C¢e²®e«·ª« ¯ap·a®" #GetTitleIM_CAP
+ SERENE_MARSHAL_DT_CAP:0 "C¢e²®e«·e¯³ ¯ap·a®³" #GetTitleDT_CAP
+ SERENE_MARSHAL_TV_CAP:0 "C¢e²®e«·ª¯ ¯ap·a®o¯" #GetTitleTV_CAP
+ SERENE_MARSHAL_PR_CAP:0 "C¢e²®e«·e¯ ¯ap·a®e" #GetTitlePR_CAP
+ SERENE_MARSHAL_VN_CAP:0 "C¢e²®e«·e¥o ¯ap·a®a" #GetTitleVN_CAP
+ 
+ MOST_SERENE_MARSHAL_RD_CAP:0 "C¢e²®e«·e¥o ¯ap·a®a" #GetTitleRD_CAP
+ MOST_SERENE_MARSHAL_IM_CAP:0 "C¢e²®e«·ª« ¯ap·a®" #GetTitleIM_CAP
+ MOST_SERENE_MARSHAL_DT_CAP:0 "C¢e²®e«·e¯³ ¯ap·a®³" #GetTitleDT_CAP
+ MOST_SERENE_MARSHAL_TV_CAP:0 "C¢e²®e«·ª¯ ¯ap·a®o¯" #GetTitleTV_CAP
+ MOST_SERENE_MARSHAL_PR_CAP:0 "C¢e²®e«·e¯ ¯ap·a®e" #GetTitlePR_CAP
+ MOST_SERENE_MARSHAL_VN_CAP:0 "C¢e²®e«·e¥o ¯ap·a®a" #GetTitleVN_CAP
+ 
+ TRIBAL_LEADER_IM_CAP:0 "‰®e¯e°°o« ®ª¦ep" #GetTitleIM_CAP
+ TRIBAL_LEADER_RD_CAP:0 "‰®e¯e°°o¥o ®ª¦epa" #GetTitleRD_CAP
+ TRIBAL_LEADER_DT_CAP:0 "‰®e¯e°°o¯³ ®ª¦ep³" #GetTitleDT_CAP
+ TRIBAL_LEADER_VN_CAP:0 "‰®e¯e°°o¥o ®ª¦epa" #GetTitleVN_CAP
+ TRIBAL_LEADER_TV_CAP:0 "‰®e¯e°°º¯ ®ª¦epo¯" #GetTitleTV_CAP
+ TRIBAL_LEADER_PR_CAP:0 "‰®e¯e°°o¯ ®ª¦epe" #GetTitlePR_CAP
+ 
+ CALIPH_IM_CAP:0 "Xa®ª´" #GetTitleIM_CAP
+ CALIPH_RD_CAP:0 "Xa®ª´a" #GetTitleRD_CAP
+ CALIPH_DT_CAP:0 "Xa®ª´³" #GetTitleDT_CAP
+ CALIPH_VN_CAP:0 "Xa®ª´a" #GetTitleVN_CAP
+ CALIPH_TV_CAP:0 "Xa®ª´o¯" #GetTitleTV_CAP
+ CALIPH_PR_CAP:0 "Xa®ª´e" #GetTitlePR_CAP
+ 
+ CALIPHA_IM_CAP:0 "Xa®ª´" #GetTitleIM_CAP
+ CALIPHA_RD_CAP:0 "Xa®ª´a" #GetTitleRD_CAP
+ CALIPHA_DT_CAP:0 "Xa®ª´³" #GetTitleDT_CAP
+ CALIPHA_VN_CAP:0 "Xa®ª´a" #GetTitleVN_CAP
+ CALIPHA_TV_CAP:0 "Xa®ª´o¯" #GetTitleTV_CAP
+ CALIPHA_PR_CAP:0 "Xa®ª´e" #GetTitlePR_CAP
+ 
+ FIRST_LAWSPEAKER_IM_CAP:0 "Bºc·ª« ©a¬o°o¥o¢opª²e®»" #GetTitleIM_CAP
+ FIRST_LAWSPEAKER_RD_CAP:0 "Bºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleRD_CAP
+ FIRST_LAWSPEAKER_DT_CAP:0 "Bºc·e¯³ ©a¬o°o¥o¢opª²e®¾" #GetTitleDT_CAP
+ FIRST_LAWSPEAKER_VN_CAP:0 "Bºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleVN_CAP
+ FIRST_LAWSPEAKER_TV_CAP:0 "Bºc·ª¯ ©a¬o°o¥o¢opª²e®e¯" #GetTitleTV_CAP
+ FIRST_LAWSPEAKER_PR_CAP:0 "Bºc·e¯ ©a¬o°o¥o¢opª²e®e" #GetTitlePR_CAP
+ 
+ FIRST_LAWSPEAKER_fem_IM_CAP:0 "Bºc·ª« ©a¬o°o¥o¢opª²e®»" #GetTitleIM_CAP
+ FIRST_LAWSPEAKER_fem_RD_CAP:0 "Bºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleRD_CAP
+ FIRST_LAWSPEAKER_fem_DT_CAP:0 "Bºc·e¯³ ©a¬o°o¥o¢opª²e®¾" #GetTitleDT_CAP
+ FIRST_LAWSPEAKER_fem_VN_CAP:0 "Bºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleVN_CAP
+ FIRST_LAWSPEAKER_fem_TV_CAP:0 "Bºc·ª¯ ©a¬o°o¥o¢opª²e®e¯" #GetTitleTV_CAP
+ FIRST_LAWSPEAKER_fem_PR_CAP:0 "Bºc·e¯ ©a¬o°o¥o¢opª²e®e" #GetTitlePR_CAP
+ 
+ SUPREME_VIZIER_IM_CAP:0 "Bepxo¢°º« ¢ª©ªp»" #GetTitleIM_CAP
+ SUPREME_VIZIER_RD_CAP:0 "Bepxo¢°o¥o ¢ª©ªp÷" #GetTitleRD_CAP
+ SUPREME_VIZIER_DT_CAP:0 "Bepxo¢°o¯³ ¢ª©ªp¾" #GetTitleDT_CAP
+ SUPREME_VIZIER_VN_CAP:0 "Bepxo¢°o¥o ¢ª©ªp÷" #GetTitleVN_CAP
+ SUPREME_VIZIER_TV_CAP:0 "Bepxo¢°º¯ ¢ª©ªpe¯" #GetTitleTV_CAP
+ SUPREME_VIZIER_PR_CAP:0 "Bepxo¢°o¯ ¢ª©ªpe" #GetTitlePR_CAP
+ 
+ SUPREME_VIZIER_fem_IM_CAP:0 "Bepxo¢°º« ¢ª©ªp»" #GetTitleIM_CAP
+ SUPREME_VIZIER_fem_RD_CAP:0 "Bepxo¢°o¥o ¢ª©ªp÷" #GetTitleRD_CAP
+ SUPREME_VIZIER_fem_DT_CAP:0 "Bepxo¢°o¯³ ¢ª©ªp¾" #GetTitleDT_CAP
+ SUPREME_VIZIER_fem_VN_CAP:0 "Bepxo¢°o¥o ¢ª©ªp÷" #GetTitleVN_CAP
+ SUPREME_VIZIER_fem_TV_CAP:0 "Bepxo¢°º¯ ¢ª©ªpe¯" #GetTitleTV_CAP
+ SUPREME_VIZIER_fem_PR_CAP:0 "Bepxo¢°o¯ ¢ª©ªpe" #GetTitlePR_CAP
+ 
+ CHAIRMAN_IM_CAP:0 "‰pe¦ce¦a²e®»" #GetTitleIM_CAP
+ CHAIRMAN_RD_CAP:0 "‰pe¦ce¦a²e®÷" #GetTitleRD_CAP
+ CHAIRMAN_DT_CAP:0 "‰pe¦ce¦a²e®¾" #GetTitleDT_CAP
+ CHAIRMAN_VN_CAP:0 "‰pe¦ce¦a²e®÷" #GetTitleVN_CAP
+ CHAIRMAN_TV_CAP:0 "‰pe¦ce¦a²e®e¯" #GetTitleTV_CAP
+ CHAIRMAN_PR_CAP:0 "‰pe¦ce¦a²e®e" #GetTitlePR_CAP
+ 
+ CHAIRMAN_fem_IM_CAP:0 "‰pe¦ce¦a²e®»" #GetTitleIM_CAP
+ CHAIRMAN_fem_RD_CAP:0 "‰pe¦ce¦a²e®÷" #GetTitleRD_CAP
+ CHAIRMAN_fem_DT_CAP:0 "‰pe¦ce¦a²e®¾" #GetTitleDT_CAP
+ CHAIRMAN_fem_VN_CAP:0 "‰pe¦ce¦a²e®÷" #GetTitleVN_CAP
+ CHAIRMAN_fem_TV_CAP:0 "‰pe¦ce¦a²e®e¯" #GetTitleTV_CAP
+ CHAIRMAN_fem_PR_CAP:0 "‰pe¦ce¦a²e®e" #GetTitlePR_CAP
+ 
+ CONSULESS_IM_CAP:0 "Ko°c³®" #GetTitleIM_CAP
+ CONSULESS_RD_CAP:0 "Ko°c³®a" #GetTitleRD_CAP
+ CONSULESS_DT_CAP:0 "Ko°c³®³" #GetTitleDT_CAP
+ CONSULESS_VN_CAP:0 "Ko°c³®a" #GetTitleVN_CAP
+ CONSULESS_TV_CAP:0 "Ko°c³®o¯" #GetTitleTV_CAP
+ CONSULESS_PR_CAP:0 "Ko°c³®e" #GetTitlePR_CAP
+ 
+ KAISER_IM_CAP:0 "Ka«©ep" #GetTitleIM_CAP
+ KAISER_RD_CAP:0 "Ka«©epa" #GetTitleRD_CAP
+ KAISER_DT_CAP:0 "Ka«©ep³" #GetTitleDT_CAP
+ KAISER_VN_CAP:0 "Ka«©epa" #GetTitleVN_CAP
+ KAISER_TV_CAP:0 "Ka«©epo¯" #GetTitleTV_CAP
+ KAISER_PR_CAP:0 "Ka«©epe" #GetTitlePR_CAP
+ 
+ KAISERIN_IM_CAP:0 "Ka«©epª°" #GetTitleIM_CAP
+ KAISERIN_RD_CAP:0 "Ka«©epª°º" #GetTitleRD_CAP
+ KAISERIN_DT_CAP:0 "Ka«©epª°e" #GetTitleDT_CAP
+ KAISERIN_VN_CAP:0 "Ka«©epª°³" #GetTitleVN_CAP
+ KAISERIN_TV_CAP:0 "Ka«©epª°o«" #GetTitleTV_CAP
+ KAISERIN_PR_CAP:0 "Ka«©epª°e" #GetTitlePR_CAP
+ 
+ FIELD_MARSHAL_IM_CAP:0 "‘e®»¦¯ap·a®" #GetTitleIM_CAP
+ FIELD_MARSHAL_RD_CAP:0 "‘e®»¦¯ap·a®a" #GetTitleRD_CAP
+ FIELD_MARSHAL_DT_CAP:0 "‘e®»¦¯ap·a®³" #GetTitleDT_CAP
+ FIELD_MARSHAL_VN_CAP:0 "‘e®»¦¯ap·a®a" #GetTitleVN_CAP
+ FIELD_MARSHAL_TV_CAP:0 "‘e®»¦¯ap·a®o¯" #GetTitleTV_CAP
+ FIELD_MARSHAL_PR_CAP:0 "‘e®»¦¯ap·a®e" #GetTitlePR_CAP
+ 
+ LORD_HIGH_ADMIRAL_IM_CAP:0 "ˆop¦ ¢ºc·ª« a¦¯ªpa®" #GetTitleIM_CAP
+ LORD_HIGH_ADMIRAL_RD_CAP:0 "ˆop¦a ¢ºc·e¥o a¦¯ªpa®a" #GetTitleRD_CAP
+ LORD_HIGH_ADMIRAL_DT_CAP:0 "ˆop¦³ ¢ºc·e¯³ a¦¯ªpa®³" #GetTitleDT_CAP
+ LORD_HIGH_ADMIRAL_VN_CAP:0 "ˆop¦a ¢ºc·e¥o a¦¯ªpa®a" #GetTitleVN_CAP
+ LORD_HIGH_ADMIRAL_TV_CAP:0 "ˆop¦o¯ ¢ºc·ª¯ a¦¯ªpa®o¯" #GetTitleTV_CAP
+ LORD_HIGH_ADMIRAL_PR_CAP:0 "ˆop¦e ¢ºc·e¯ a¦¯ªpa®e" #GetTitlePR_CAP
+ 
+ SUPREME_ADMIRAL_IM_CAP:0 "Bepxo¢°º« a¦¯ªpa®" #GetTitleIM_CAP
+ SUPREME_ADMIRAL_RD_CAP:0 "Bepxo¢°o¥o a¦¯ªpa®a" #GetTitleRD_CAP
+ SUPREME_ADMIRAL_DT_CAP:0 "Bepxo¢°o¯³ a¦¯ªpa®³" #GetTitleDT_CAP
+ SUPREME_ADMIRAL_VN_CAP:0 "Bepxo¢°o¥o a¦¯ªpa®a" #GetTitleVN_CAP
+ SUPREME_ADMIRAL_TV_CAP:0 "Bepxo¢°º¯ a¦¯ªpa®o¯" #GetTitleTV_CAP
+ SUPREME_ADMIRAL_PR_CAP:0 "Bepxo¢°o¯ a¦¯ªpa®e" #GetTitlePR_CAP
+ 
+ CAPTAIN_GENERAL_IM_CAP:0 "‚e°epa®-¬a±ª²a°" #GetTitleIM_CAP
+ CAPTAIN_GENERAL_RD_CAP:0 "‚e°epa®-¬a±ª²a°a" #GetTitleRD_CAP
+ CAPTAIN_GENERAL_DT_CAP:0 "‚e°epa®-¬a±ª²a°³" #GetTitleDT_CAP
+ CAPTAIN_GENERAL_VN_CAP:0 "‚e°epa®-¬a±ª²a°a" #GetTitleVN_CAP
+ CAPTAIN_GENERAL_TV_CAP:0 "‚e°epa®-¬a±ª²a°o¯" #GetTitleTV_CAP
+ CAPTAIN_GENERAL_PR_CAP:0 "‚e°epa®-¬a±ª²a°e" #GetTitlePR_CAP
+ 
+ ARCHPIRATE_IM_CAP:0 "Apxª±ªpa²" #GetTitleIM_CAP
+ ARCHPIRATE_RD_CAP:0 "Apxª±ªpa²a" #GetTitleRD_CAP
+ ARCHPIRATE_DT_CAP:0 "Apxª±ªpa²³" #GetTitleDT_CAP
+ ARCHPIRATE_VN_CAP:0 "Apxª±ªpa²a" #GetTitleVN_CAP
+ ARCHPIRATE_TV_CAP:0 "Apxª±ªpa²o¯" #GetTitleTV_CAP
+ ARCHPIRATE_PR_CAP:0 "Apxª±ªpa²e" #GetTitlePR_CAP
+ 
+ PIRATE_DAIMYO_IM_CAP:0 "ƒa«¯ë-±ªpa²" #GetTitleIM_CAP
+ PIRATE_DAIMYO_RD_CAP:0 "ƒa«¯ë-±ªpa²a" #GetTitleRD_CAP
+ PIRATE_DAIMYO_DT_CAP:0 "ƒa«¯ë-±ªpa²³" #GetTitleDT_CAP
+ PIRATE_DAIMYO_VN_CAP:0 "ƒa«¯ë-±ªpa²a" #GetTitleVN_CAP
+ PIRATE_DAIMYO_TV_CAP:0 "ƒa«¯ë-±ªpa²o¯" #GetTitleTV_CAP
+ PIRATE_DAIMYO_PR_CAP:0 "ƒa«¯ë-±ªpa²e" #GetTitlePR_CAP
+ 
+ CAPTAIN_fem_IM_CAP:0 "Ka±ª²a°" #GetTitleIM_CAP
+ CAPTAIN_fem_RD_CAP:0 "Ka±ª²a°a" #GetTitleRD_CAP
+ CAPTAIN_fem_DT_CAP:0 "Ka±ª²a°³" #GetTitleDT_CAP
+ CAPTAIN_fem_VN_CAP:0 "Ka±ª²a°a" #GetTitleVN_CAP
+ CAPTAIN_fem_TV_CAP:0 "Ka±ª²a°o¯" #GetTitleTV_CAP
+ CAPTAIN_fem_PR_CAP:0 "Ka±ª²a°e" #GetTitlePR_CAP
+ 
+ GRAND_CAPTAIN_fem_IM_CAP:0 "‚pa°¦-¬a±ª²a°" #GetTitleIM_CAP
+ GRAND_CAPTAIN_fem_RD_CAP:0 "‚pa°¦-¬a±ª²a°a" #GetTitleRD_CAP
+ GRAND_CAPTAIN_fem_DT_CAP:0 "‚pa°¦-¬a±ª²a°³" #GetTitleDT_CAP
+ GRAND_CAPTAIN_fem_VN_CAP:0 "‚pa°¦-¬a±ª²a°a" #GetTitleVN_CAP
+ GRAND_CAPTAIN_fem_TV_CAP:0 "‚pa°¦-¬a±ª²a°o¯" #GetTitleTV_CAP
+ GRAND_CAPTAIN_fem_PR_CAP:0 "‚pa°¦-¬a±ª²a°e" #GetTitlePR_CAP
+ 
+ ADMIRAL_fem_IM_CAP:0 "‚pa°¦-a¦¯ªpa®" #GetTitleIM_CAP
+ ADMIRAL_fem_RD_CAP:0 "‚pa°¦-a¦¯ªpa®a" #GetTitleRD_CAP
+ ADMIRAL_fem_DT_CAP:0 "‚pa°¦-a¦¯ªpa®³" #GetTitleDT_CAP
+ ADMIRAL_fem_VN_CAP:0 "‚pa°¦-a¦¯ªpa®a" #GetTitleVN_CAP
+ ADMIRAL_fem_TV_CAP:0 "‚pa°¦-a¦¯ªpa®o¯" #GetTitleTV_CAP
+ ADMIRAL_fem_PR_CAP:0 "‚pa°¦-a¦¯ªpa®e" #GetTitlePR_CAP
+ 
+ POPE_ELECTOR_IM_CAP:0 "‰a±a-¬³p´¾pc²" #GetTitleIM_CAP
+ POPE_ELECTOR_RD_CAP:0 "‰a±º-¬³p´¾pc²a" #GetTitleRD_CAP
+ POPE_ELECTOR_DT_CAP:0 "‰a±e-¬³p´¾pc²³" #GetTitleDT_CAP
+ POPE_ELECTOR_VN_CAP:0 "‰a±³-¬³p´¾pc²a" #GetTitleVN_CAP
+ POPE_ELECTOR_TV_CAP:0 "‰a±o«-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ POPE_ELECTOR_PR_CAP:0 "‰a±e-¬³p´¾pc²e" #GetTitlePR_CAP
+ 
+ POPETTE_ELECTOR_IM_CAP:0 "‰a±ecca-¬³p´¾pc²" #GetTitleIM_CAP
+ POPETTE_ELECTOR_RD_CAP:0 "‰a±eccº-¬³p´¾pc²a" #GetTitleRD_CAP
+ POPETTE_ELECTOR_DT_CAP:0 "‰a±ecce-¬³p´¾pc²³" #GetTitleDT_CAP
+ POPETTE_ELECTOR_VN_CAP:0 "‰a±ecc³-¬³p´¾pc²a" #GetTitleVN_CAP
+ POPETTE_ELECTOR_TV_CAP:0 "‰a±ecco«-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ POPETTE_ELECTOR_PR_CAP:0 "‰a±ecce-¬³p´¾pc²e" #GetTitlePR_CAP
+ 
+ ELECTOR_PALATINE_IM_CAP:0 "Bº op°º« ±´a®»µ¥pa´" #GetTitleIM_CAP
+ ELECTOR_PALATINE_RD_CAP:0 "Bº op°o¥o ±´a®»µ¥pa´a" #GetTitleRD_CAP
+ ELECTOR_PALATINE_DT_CAP:0 "Bº op°o¯³ ±´a®»µ¥pa´³" #GetTitleDT_CAP
+ ELECTOR_PALATINE_VN_CAP:0 "Bº op°o¥o ±´a®»µ¥pa´a" #GetTitleVN_CAP
+ ELECTOR_PALATINE_TV_CAP:0 "Bº op°º¯ ±´a®»µ¥pa´o¯" #GetTitleTV_CAP
+ ELECTOR_PALATINE_PR_CAP:0 "Bº op°o¯ ±´a®»µ¥pa´e" #GetTitlePR_CAP
+ 
+ ELECTRESS_PALATINE_IM_CAP:0 "Bº op°a÷ ±´a®»µ¥pa´ª°÷" #GetTitleIM_CAP
+ ELECTRESS_PALATINE_RD_CAP:0 "Bº op°o« ±´a®»µ¥pa´ª°ª" #GetTitleRD_CAP
+ ELECTRESS_PALATINE_DT_CAP:0 "Bº op°o« ±´a®»µ¥pa´ª°e" #GetTitleDT_CAP
+ ELECTRESS_PALATINE_VN_CAP:0 "Bº op°³¾ ±´a®»µ¥pa´ª°¾" #GetTitleVN_CAP
+ ELECTRESS_PALATINE_TV_CAP:0 "Bº op°o« ±´a®»µ¥pa´ª°e«" #GetTitleTV_CAP
+ ELECTRESS_PALATINE_PR_CAP:0 "Bº op°o« ±´a®»µ¥pa´ª°e" #GetTitlePR_CAP
+ 
+ COUNT_PALATINE_IM_CAP:0 "‰´a®»µ¥pa´" #GetTitleIM_CAP
+ COUNT_PALATINE_RD_CAP:0 "‰´a®»µ¥pa´a" #GetTitleRD_CAP
+ COUNT_PALATINE_DT_CAP:0 "‰´a®»µ¥pa´³" #GetTitleDT_CAP
+ COUNT_PALATINE_VN_CAP:0 "‰´a®»µ¥pa´a" #GetTitleVN_CAP
+ COUNT_PALATINE_TV_CAP:0 "‰´a®»µ¥pa´o¯" #GetTitleTV_CAP
+ COUNT_PALATINE_PR_CAP:0 "‰´a®»µ¥pa´e" #GetTitlePR_CAP
+ 
+ KING_PALATINE_IM_CAP:0 "‰´a®»µ¬a«©ep" #GetTitleIM_CAP
+ KING_PALATINE_RD_CAP:0 "‰´a®»µ¬a«©epa" #GetTitleRD_CAP
+ KING_PALATINE_DT_CAP:0 "‰´a®»µ¬a«©ep³" #GetTitleDT_CAP
+ KING_PALATINE_VN_CAP:0 "‰´a®»µ¬a«©epa" #GetTitleVN_CAP
+ KING_PALATINE_TV_CAP:0 "‰´a®»µ¬a«©epo¯" #GetTitleTV_CAP
+ KING_PALATINE_PR_CAP:0 "‰´a®»µ¬a«©epe" #GetTitlePR_CAP
+ 
+ COUNTESS_PALATINE_IM_CAP:0 "‰´a®»µ¥pa´ª°÷" #GetTitleIM_CAP
+ COUNTESS_PALATINE_RD_CAP:0 "‰´a®»µ¥pa´ª°ª" #GetTitleRD_CAP
+ COUNTESS_PALATINE_DT_CAP:0 "‰´a®»µ¥pa´ª°e" #GetTitleDT_CAP
+ COUNTESS_PALATINE_VN_CAP:0 "‰´a®»µ¥pa´ª°¾" #GetTitleVN_CAP
+ COUNTESS_PALATINE_TV_CAP:0 "‰´a®»µ¥pa´ª°e«" #GetTitleTV_CAP
+ COUNTESS_PALATINE_PR_CAP:0 "‰´a®»µ¥pa´ª°e" #GetTitlePR_CAP
+ 
+ QUEEN_PALATINE_IM_CAP:0 "‰´a®»µ¬ë°ª¥ª°" #GetTitleIM_CAP
+ QUEEN_PALATINE_RD_CAP:0 "‰´a®»µ¬ë°ª¥ª°ª" #GetTitleRD_CAP
+ QUEEN_PALATINE_DT_CAP:0 "‰´a®»µ¬ë°ª¥ª°e" #GetTitleDT_CAP
+ QUEEN_PALATINE_VN_CAP:0 "‰´a®»µ¬ë°ª¥ª°¾" #GetTitleVN_CAP
+ QUEEN_PALATINE_TV_CAP:0 "‰´a®»µ¬ë°ª¥ª°e«" #GetTitleTV_CAP
+ QUEEN_PALATINE_PR_CAP:0 "‰´a®»µ¬ë°ª¥ª°e" #GetTitlePR_CAP
+ 
+ HERCEG_IM_CAP:0 "K°÷©»" #GetTitleIM_CAP
+ HERCEG_RD_CAP:0 "K°÷©÷" #GetTitleRD_CAP
+ HERCEG_DT_CAP:0 "K°÷©¾" #GetTitleDT_CAP
+ HERCEG_VN_CAP:0 "K°÷©÷" #GetTitleVN_CAP
+ HERCEG_TV_CAP:0 "K°÷©e¯" #GetTitleTV_CAP
+ HERCEG_PR_CAP:0 "K°÷©e" #GetTitlePR_CAP
+ 
+ PRINCE_HERCEG_IM_CAP:0 "Be®ª¬ª« ¬°÷©»" #GetTitleIM_CAP
+ PRINCE_HERCEG_RD_CAP:0 "Be®ª¬o¥o ¬°÷©÷" #GetTitleRD_CAP
+ PRINCE_HERCEG_DT_CAP:0 "Be®ª¬o¯³ ¬°÷©¾" #GetTitleDT_CAP
+ PRINCE_HERCEG_VN_CAP:0 "Be®ª¬o¥o ¬°÷©÷" #GetTitleVN_CAP
+ PRINCE_HERCEG_TV_CAP:0 "Be®ª¬ª¯ ¬°÷©e¯" #GetTitleTV_CAP
+ PRINCE_HERCEG_PR_CAP:0 "Be®ª¬o¯ ¬°÷©e" #GetTitlePR_CAP
+ 
+ HERCEGI_IM_CAP:0 "K°÷¥ª°÷" #GetTitleIM_CAP
+ HERCEGI_RD_CAP:0 "K°÷¥ª°ª" #GetTitleRD_CAP
+ HERCEGI_DT_CAP:0 "K°÷¥ª°e" #GetTitleDT_CAP
+ HERCEGI_VN_CAP:0 "K°÷¥ª°¾" #GetTitleVN_CAP
+ HERCEGI_TV_CAP:0 "K°÷¥ª°e«" #GetTitleTV_CAP
+ HERCEGI_PR_CAP:0 "K°÷¥ª°e" #GetTitlePR_CAP
+ 
+ PRINCESS_HERCEGI_IM_CAP:0 "Be®ª¬a÷ ¬°÷¥ª°÷" #GetTitleIM_CAP
+ PRINCESS_HERCEGI_RD_CAP:0 "Be®ª¬o« ¬°÷¥ª°ª" #GetTitleRD_CAP
+ PRINCESS_HERCEGI_DT_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitleDT_CAP
+ PRINCESS_HERCEGI_VN_CAP:0 "Be®ª¬³¾ ¬°÷¥ª°¾" #GetTitleVN_CAP
+ PRINCESS_HERCEGI_TV_CAP:0 "Be®ª¬o« ¬°÷¥ª°e«" #GetTitleTV_CAP
+ PRINCESS_HERCEGI_PR_CAP:0 "Be®ª¬o« ¬°÷¥ª°e" #GetTitlePR_CAP
+ 
+ CONSUL_ELECTOR_IM_CAP:0 "Ko°c³®-¬³p´¾pc²" #GetTitleIM_CAP
+ CONSUL_ELECTOR_RD_CAP:0 "Ko°c³®a-¬³p´¾pc²a" #GetTitleRD_CAP
+ CONSUL_ELECTOR_DT_CAP:0 "Ko°c³®³-¬³p´¾pc²³" #GetTitleDT_CAP
+ CONSUL_ELECTOR_VN_CAP:0 "Ko°c³®a-¬³p´¾pc²a" #GetTitleVN_CAP
+ CONSUL_ELECTOR_TV_CAP:0 "Ko°c³®o¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ CONSUL_ELECTOR_PR_CAP:0 "Ko°c³®e-¬³p´¾pc²e" #GetTitlePR_CAP
+ 
+ GRAND_CONSUL_ELECTOR_IM_CAP:0 "Be®ª¬ª« ¬o°c³®-¬³p´¾pc²" #GetTitleIM_CAP
+ GRAND_CONSUL_ELECTOR_RD_CAP:0 "Be®ª¬o¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleRD_CAP
+ GRAND_CONSUL_ELECTOR_DT_CAP:0 "Be®ª¬o¯³ ¬o°c³®³-¬³p´¾pc²³" #GetTitleDT_CAP
+ GRAND_CONSUL_ELECTOR_VN_CAP:0 "Be®ª¬o¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleVN_CAP
+ GRAND_CONSUL_ELECTOR_TV_CAP:0 "Be®ª¬ª¯ ¬o°c³®o¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ GRAND_CONSUL_ELECTOR_PR_CAP:0 "Be®ª¬o¯ ¬o°c³®e-¬³p´¾pc²e" #GetTitlePR_CAP
+ 
+ GREAT_CONSUL_ELECTOR_IM_CAP:0 "Be®ª¶a«·ª« ¬o°c³®-¬³p´¾pc²" #GetTitleIM_CAP
+ GREAT_CONSUL_ELECTOR_RD_CAP:0 "Be®ª¶a«·e¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleRD_CAP
+ GREAT_CONSUL_ELECTOR_DT_CAP:0 "Be®ª¶a«·e¯³ ¬o°c³®³-¬³p´¾pc²³" #GetTitleDT_CAP
+ GREAT_CONSUL_ELECTOR_VN_CAP:0 "Be®ª¶a«·e¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleVN_CAP
+ GREAT_CONSUL_ELECTOR_TV_CAP:0 "Be®ª¶a«·ª¯ ¬o°c³®o¯-¬³p´¾pc²o¯" #GetTitleTV_CAP
+ GREAT_CONSUL_ELECTOR_PR_CAP:0 "Be®ª¶a«·e¯ ¬o°c³®e-¬³p´¾pc²e" #GetTitlePR_CAP
+ 
+ CONSULESS_ELECTOR_IM_CAP:0 "Ko°c³®-¬³p´¾pc²ª°a" #GetTitleIM_CAP
+ CONSULESS_ELECTOR_RD_CAP:0 "Ko°c³®a-¬³p´¾pc²ª°º" #GetTitleRD_CAP
+ CONSULESS_ELECTOR_DT_CAP:0 "Ko°c³®³-¬³p´¾pc²ª°e" #GetTitleDT_CAP
+ CONSULESS_ELECTOR_VN_CAP:0 "Ko°c³®a-¬³p´¾pc²ª°³" #GetTitleVN_CAP
+ CONSULESS_ELECTOR_TV_CAP:0 "Ko°c³®o¯-¬³p´¾pc²ª°o«" #GetTitleTV_CAP
+ CONSULESS_ELECTOR_PR_CAP:0 "Ko°c³®e-¬³p´¾pc²ª°e" #GetTitlePR_CAP
+ 
+ GRAND_CONSULESS_ELECTOR_IM_CAP:0 "Be®ª¬a÷ ¬o°c³®-¬³p´¾pc²ª°a" #GetTitleIM_CAP
+ GRAND_CONSULESS_ELECTOR_RD_CAP:0 "Be®ª¬o« ¬o°c³®-¬³p´¾pc²ª°º" #GetTitleRD_CAP
+ GRAND_CONSULESS_ELECTOR_DT_CAP:0 "Be®ª¬o« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitleDT_CAP
+ GRAND_CONSULESS_ELECTOR_VN_CAP:0 "Be®ª¬³¾ ¬o°c³®-¬³p´¾pc²ª°³" #GetTitleVN_CAP
+ GRAND_CONSULESS_ELECTOR_TV_CAP:0 "Be®ª¬o« ¬o°c³®-¬³p´¾pc²ª°o«" #GetTitleTV_CAP
+ GRAND_CONSULESS_ELECTOR_PR_CAP:0 "Be®ª¬o« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitlePR_CAP
+ 
+ GREAT_CONSULESS_ELECTOR_IM_CAP:0 "Be®ª¶a«·a÷ ¬o°c³®-¬³p´¾pc²ª°a" #GetTitleIM_CAP
+ GREAT_CONSULESS_ELECTOR_RD_CAP:0 "Be®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°º" #GetTitleRD_CAP
+ GREAT_CONSULESS_ELECTOR_DT_CAP:0 "Be®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitleDT_CAP
+ GREAT_CONSULESS_ELECTOR_VN_CAP:0 "Be®ª¶a«·³¾ ¬o°c³®-¬³p´¾pc²ª°³" #GetTitleVN_CAP
+ GREAT_CONSULESS_ELECTOR_TV_CAP:0 "Be®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°o«" #GetTitleTV_CAP
+ GREAT_CONSULESS_ELECTOR_PR_CAP:0 "Be®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitlePR_CAP
+ 
+ regent_IM_CAP:0 "Pe¥e°²" #GetTitleIM_CAP
+ regent_RD_CAP:0 "Pe¥e°²a" #GetTitleRD_CAP
+ regent_DT_CAP:0 "Pe¥e°²³" #GetTitleDT_CAP
+ regent_VN_CAP:0 "Pe¥e°²a" #GetTitleVN_CAP
+ regent_TV_CAP:0 "Pe¥e°²o¯" #GetTitleTV_CAP
+ regent_PR_CAP:0 "Pe¥e°²e" #GetTitlePR_CAP
+ 
+ COUNT_IM_CAP:0 "‚pa´" #GetTitleIM_CAP
+ COUNT_RD_CAP:0 "‚pa´a" #GetTitleRD_CAP
+ COUNT_DT_CAP:0 "‚pa´³" #GetTitleDT_CAP
+ COUNT_VN_CAP:0 "‚pa´a" #GetTitleVN_CAP
+ COUNT_TV_CAP:0 "‚pa´o¯" #GetTitleTV_CAP
+ COUNT_PR_CAP:0 "‚pa´e" #GetTitlePR_CAP
+ 
+ COUNT_PALATINE_IM_CAP:0 "‰´a®»µ¥pa´" #GetTitleIM_CAP
+ COUNT_PALATINE_RD_CAP:0 "‰´a®»µ¥pa´a" #GetTitleRD_CAP
+ COUNT_PALATINE_DT_CAP:0 "‰´a®»µ¥pa´³" #GetTitleDT_CAP
+ COUNT_PALATINE_VN_CAP:0 "‰´a®»µ¥pa´a" #GetTitleVN_CAP
+ COUNT_PALATINE_TV_CAP:0 "‰´a®»µ¥pa´o¯" #GetTitleTV_CAP
+ COUNT_PALATINE_PR_CAP:0 "‰´a®»µ¥pa´e" #GetTitlePR_CAP
+ 
+ KING_PALATINE_IM_CAP:0 "‰´a®»µ¬a«©ep" #GetTitleIM_CAP
+ KING_PALATINE_RD_CAP:0 "‰´a®»µ¬a«©epa" #GetTitleRD_CAP
+ KING_PALATINE_DT_CAP:0 "‰´a®»µ¬a«©ep³" #GetTitleDT_CAP
+ KING_PALATINE_VN_CAP:0 "‰´a®»µ¬a«©epa" #GetTitleVN_CAP
+ KING_PALATINE_TV_CAP:0 "‰´a®»µ¬a«©epo¯" #GetTitleTV_CAP
+ KING_PALATINE_PR_CAP:0 "‰´a®»µ¬a«©epe" #GetTitlePR_CAP
+ 
+ COUNTESS_PALATINE_IM_CAP:0 "‰´a®»µ¥pa´ª°÷" #GetTitleIM_CAP
+ COUNTESS_PALATINE_RD_CAP:0 "‰´a®»µ¥pa´ª°ª" #GetTitleRD_CAP
+ COUNTESS_PALATINE_DT_CAP:0 "‰´a®»µ¥pa´ª°e" #GetTitleDT_CAP
+ COUNTESS_PALATINE_VN_CAP:0 "‰´a®»µ¥pa´ª°¾" #GetTitleVN_CAP
+ COUNTESS_PALATINE_TV_CAP:0 "‰´a®»µ¥pa´ª°e«" #GetTitleTV_CAP
+ COUNTESS_PALATINE_PR_CAP:0 "‰´a®»µ¥pa´ª°e" #GetTitlePR_CAP
+ 
+ QUEEN_PALATINE_IM_CAP:0 "‰´a®»µ¬ë°ª¥ª°" #GetTitleIM_CAP
+ QUEEN_PALATINE_RD_CAP:0 "‰´a®»µ¬ë°ª¥ª°ª" #GetTitleRD_CAP
+ QUEEN_PALATINE_DT_CAP:0 "‰´a®»µ¬ë°ª¥ª°e" #GetTitleDT_CAP
+ QUEEN_PALATINE_VN_CAP:0 "‰´a®»µ¬ë°ª¥ª°¾" #GetTitleVN_CAP
+ QUEEN_PALATINE_TV_CAP:0 "‰´a®»µ¬ë°ª¥ª°e«" #GetTitleTV_CAP
+ QUEEN_PALATINE_PR_CAP:0 "‰´a®»µ¬ë°ª¥ª°e" #GetTitlePR_CAP
+ 
+ MONSHU_IM_CAP:0 "Mo°·³" #GetTitleIM_CAP
+ MONSHU_RD_CAP:0 "Mo°·³" #GetTitleRD_CAP
+ MONSHU_DT_CAP:0 "Mo°·³" #GetTitleDT_CAP
+ MONSHU_VN_CAP:0 "Mo°·³" #GetTitleVN_CAP
+ MONSHU_TV_CAP:0 "Mo°·³" #GetTitleTV_CAP
+ MONSHU_PR_CAP:0 "Mo°·³" #GetTitlePR_CAP
+ 
+ HIGH_MONSHU_IM_CAP:0 "Mo°·³-cë¥³°" #GetTitleIM_CAP
+ HIGH_MONSHU_RD_CAP:0 "Mo°·³-cë¥³°a" #GetTitleRD_CAP
+ HIGH_MONSHU_DT_CAP:0 "Mo°·³-cë¥³°³" #GetTitleDT_CAP
+ HIGH_MONSHU_VN_CAP:0 "Mo°·³-cë¥³°a" #GetTitleVN_CAP
+ HIGH_MONSHU_TV_CAP:0 "Mo°·³-cë¥³°o¯" #GetTitleTV_CAP
+ HIGH_MONSHU_PR_CAP:0 "Mo°·³-cë¥³°e" #GetTitlePR_CAP
+ 
+ HIGH_MONSHUESS_IM_CAP:0 "Mo°·³-cë¥³°ecca" #GetTitleIM_CAP
+ HIGH_MONSHUESS_RD_CAP:0 "Mo°·³-cë¥³°eccº" #GetTitleRD_CAP
+ HIGH_MONSHUESS_DT_CAP:0 "Mo°·³-cë¥³°ecce" #GetTitleDT_CAP
+ HIGH_MONSHUESS_VN_CAP:0 "Mo°·³-cë¥³°ecc³" #GetTitleVN_CAP
+ HIGH_MONSHUESS_TV_CAP:0 "Mo°·³-cë¥³°ecco«" #GetTitleTV_CAP
+ HIGH_MONSHUESS_PR_CAP:0 "Mo°·³-cë¥³°ecce" #GetTitlePR_CAP
+ 
+ SHINRAN_IM_CAP:0 "Cª°pa°" #GetTitleIM_CAP
+ SHINRAN_RD_CAP:0 "Cª°pa°a" #GetTitleRD_CAP
+ SHINRAN_DT_CAP:0 "Cª°pa°³" #GetTitleDT_CAP
+ SHINRAN_VN_CAP:0 "Cª°pa°a" #GetTitleVN_CAP
+ SHINRAN_TV_CAP:0 "Cª°pa°o¯" #GetTitleTV_CAP
+ SHINRAN_PR_CAP:0 "Cª°pa°e" #GetTitlePR_CAP
+ 
+ FIRST_RANGER_IM_CAP:0 "ˆop¦-pe«°¦¨ep" #GetTitleIM_CAP
+ FIRST_RANGER_RD_CAP:0 "ˆop¦a-pe«°¦¨epa" #GetTitleRD_CAP
+ FIRST_RANGER_DT_CAP:0 "ˆop¦³-pe«°¦¨ep³" #GetTitleDT_CAP
+ FIRST_RANGER_VN_CAP:0 "ˆop¦a-pe«°¦¨epa" #GetTitleVN_CAP
+ FIRST_RANGER_TV_CAP:0 "ˆop¦o¯-pe«°¦¨epo¯" #GetTitleTV_CAP
+ FIRST_RANGER_PR_CAP:0 "ˆop¦e-pe«°¦¨epe" #GetTitlePR_CAP
+ 
+ KNIGHT_KING_IM_CAP:0 "Pºµapc¬ª« ¬opo®»" #GetTitleIM_CAP
+ KNIGHT_KING_RD_CAP:0 "Pºµapc¬o¥o ¬opo®÷" #GetTitleRD_CAP
+ KNIGHT_KING_DT_CAP:0 "Pºµapc¬o¯³ ¬opo®¾" #GetTitleDT_CAP
+ KNIGHT_KING_VN_CAP:0 "Pºµapc¬o¥o ¬opo®÷" #GetTitleVN_CAP
+ KNIGHT_KING_TV_CAP:0 "Pºµapc¬ª¯ ¬opo®ë¯" #GetTitleTV_CAP
+ KNIGHT_KING_PR_CAP:0 "Pºµapc¬o¯ ¬opo®e" #GetTitlePR_CAP
+ 
+ KNIGHT_QUEEN_IM_CAP:0 "Pºµapc¬a÷ ¬opo®e¢a" #GetTitleIM_CAP
+ KNIGHT_QUEEN_RD_CAP:0 "Pºµapc¬o« ¬opo®e¢º" #GetTitleRD_CAP
+ KNIGHT_QUEEN_DT_CAP:0 "Pºµapc¬o« ¬opo®e¢e" #GetTitleDT_CAP
+ KNIGHT_QUEEN_VN_CAP:0 "Pºµapc¬³¾ ¬opo®e¢³" #GetTitleVN_CAP
+ KNIGHT_QUEEN_TV_CAP:0 "Pºµapc¬o« ¬opo®e¢o«" #GetTitleTV_CAP
+ KNIGHT_QUEEN_PR_CAP:0 "Pºµapc¬o« ¬opo®e¢e" #GetTitlePR_CAP
+ 
+ LORD_COMMANDER_IM_CAP:0 "ˆop¦-¬o¯a°¦³¾¸ª«" #GetTitleIM_CAP
+ LORD_COMMANDER_RD_CAP:0 "ˆop¦a-¬o¯a°¦³¾¸e¥o" #GetTitleRD_CAP
+ LORD_COMMANDER_DT_CAP:0 "ˆop¦³-¬o¯a°¦³¾¸e¯³" #GetTitleDT_CAP
+ LORD_COMMANDER_VN_CAP:0 "ˆop¦a-¬o¯a°¦³¾¸e¥o" #GetTitleVN_CAP
+ LORD_COMMANDER_TV_CAP:0 "ˆop¦o¯-¬o¯a°¦³¾¸ª¯" #GetTitleTV_CAP
+ LORD_COMMANDER_PR_CAP:0 "ˆop¦e-¬o¯a°¦³¾¸ª¯" #GetTitlePR_CAP
+ 
+ LADY_COMMANDER_IM_CAP:0 "ˆe¦ª-¬o¯a°¦³¾¸a÷" #GetTitleIM_CAP
+ LADY_COMMANDER_RD_CAP:0 "ˆe¦ª-¬o¯a°¦³¾¸e«" #GetTitleRD_CAP
+ LADY_COMMANDER_DT_CAP:0 "ˆe¦ª-¬o¯a°¦³¾¸e«" #GetTitleDT_CAP
+ LADY_COMMANDER_VN_CAP:0 "ˆe¦ª-¬o¯a°¦³¾¸³¾" #GetTitleVN_CAP
+ LADY_COMMANDER_TV_CAP:0 "ˆe¦ª-¬o¯a°¦³¾¸e«" #GetTitleTV_CAP
+ LADY_COMMANDER_PR_CAP:0 "ˆe¦ª-¬o¯a°¦³¾¸e«" #GetTitlePR_CAP
+ 
+ MAGISTER_HOCHMEISTER_IM_CAP:0 "Be®ª¬ª« ¯a¥ªc²p" #GetTitleIM_CAP
+ MAGISTER_HOCHMEISTER_RD_CAP:0 "Be®ª¬o¥o ¯a¥ªc²pa" #GetTitleRD_CAP
+ MAGISTER_HOCHMEISTER_DT_CAP:0 "Be®ª¬o¯³ ¯a¥ªc²p³" #GetTitleDT_CAP
+ MAGISTER_HOCHMEISTER_VN_CAP:0 "Be®ª¬o¥o ¯a¥ªc²pa" #GetTitleVN_CAP
+ MAGISTER_HOCHMEISTER_TV_CAP:0 "Be®ª¬ª¯ ¯a¥ªc²po¯" #GetTitleTV_CAP
+ MAGISTER_HOCHMEISTER_PR_CAP:0 "Be®ª¬o¯ ¯a¥ªc²pe" #GetTitlePR_CAP
+ 
+ DEUTSCHMEISTER_IM_CAP:0 "‚ep¯a°c¬ª« ¯a¥ªc²p" #GetTitleIM_CAP
+ DEUTSCHMEISTER_RD_CAP:0 "‚ep¯a°c¬o¥o ¯a¥ªc²pa" #GetTitleRD_CAP
+ DEUTSCHMEISTER_DT_CAP:0 "‚ep¯a°c¬o¯³ ¯a¥ªc²p³" #GetTitleDT_CAP
+ DEUTSCHMEISTER_VN_CAP:0 "‚ep¯a°c¬o¥o ¯a¥ªc²pa" #GetTitleVN_CAP
+ DEUTSCHMEISTER_TV_CAP:0 "‚ep¯a°c¬ª¯ ¯a¥ªc²po¯" #GetTitleTV_CAP
+ DEUTSCHMEISTER_PR_CAP:0 "‚ep¯a°c¬o¯ ¯a¥ªc²pe" #GetTitlePR_CAP
+ 
+ TRAPPIST_IM_CAP:0 "Tpa±±ªc²" #GetTitleIM_CAP
+ TRAPPIST_RD_CAP:0 "Tpa±±ªc²a" #GetTitleRD_CAP
+ TRAPPIST_DT_CAP:0 "Tpa±±ªc²³" #GetTitleDT_CAP
+ TRAPPIST_VN_CAP:0 "Tpa±±ªc²a" #GetTitleVN_CAP
+ TRAPPIST_TV_CAP:0 "Tpa±±ªc²o¯" #GetTitleTV_CAP
+ TRAPPIST_PR_CAP:0 "Tpa±±ªc²e" #GetTitlePR_CAP
+ 
+ TRAPPISTINE_IM_CAP:0 "Tpa±±ªc²ª°a" #GetTitleIM_CAP
+ TRAPPISTINE_RD_CAP:0 "Tpa±±ªc²ª°º" #GetTitleRD_CAP
+ TRAPPISTINE_DT_CAP:0 "Tpa±±ªc²ª°e" #GetTitleDT_CAP
+ TRAPPISTINE_VN_CAP:0 "Tpa±±ªc²ª°³" #GetTitleVN_CAP
+ TRAPPISTINE_TV_CAP:0 "Tpa±±ªc²ª°o«" #GetTitleTV_CAP
+ TRAPPISTINE_PR_CAP:0 "Tpa±±ªc²ª°e" #GetTitlePR_CAP
+ 
+ ARCH_TRAPPIST_IM_CAP:0 "Apxª²pa±±ªc²" #GetTitleIM_CAP
+ ARCH_TRAPPIST_RD_CAP:0 "Apxª²pa±±ªc²a" #GetTitleRD_CAP
+ ARCH_TRAPPIST_DT_CAP:0 "Apxª²pa±±ªc²³" #GetTitleDT_CAP
+ ARCH_TRAPPIST_VN_CAP:0 "Apxª²pa±±ªc²a" #GetTitleVN_CAP
+ ARCH_TRAPPIST_TV_CAP:0 "Apxª²pa±±ªc²o¯" #GetTitleTV_CAP
+ ARCH_TRAPPIST_PR_CAP:0 "Apxª²pa±±ªc²e" #GetTitlePR_CAP
+ 
+ ARCH_TRAPPISTINE_IM_CAP:0 "Apxª²pa±±ªc²ª°a" #GetTitleIM_CAP
+ ARCH_TRAPPISTINE_RD_CAP:0 "Apxª²pa±±ªc²ª°º" #GetTitleRD_CAP
+ ARCH_TRAPPISTINE_DT_CAP:0 "Apxª²pa±±ªc²ª°e" #GetTitleDT_CAP
+ ARCH_TRAPPISTINE_VN_CAP:0 "Apxª²pa±±ªc²ª°³" #GetTitleVN_CAP
+ ARCH_TRAPPISTINE_TV_CAP:0 "Apxª²pa±±ªc²ª°o«" #GetTitleTV_CAP
+ ARCH_TRAPPISTINE_PR_CAP:0 "Apxª²pa±±ªc²ª°e" #GetTitlePR_CAP
+ 
+ BREWMASTER_IM_CAP:0 "Bepxo¢°º« ±ª¢o¢ap" #GetTitleIM_CAP
+ BREWMASTER_RD_CAP:0 "Bepxo¢°o¥o ±ª¢o¢apa" #GetTitleRD_CAP
+ BREWMASTER_DT_CAP:0 "Bepxo¢°o¯³ ±ª¢o¢ap³" #GetTitleDT_CAP
+ BREWMASTER_VN_CAP:0 "Bepxo¢°o¥o ±ª¢o¢apa" #GetTitleVN_CAP
+ BREWMASTER_TV_CAP:0 "Bepxo¢°º¯ ±ª¢o¢apo¯" #GetTitleTV_CAP
+ BREWMASTER_PR_CAP:0 "Bepxo¢°o¯ ±ª¢o¢ape" #GetTitlePR_CAP
+ 
+ BREWMISTRESS_IM_CAP:0 "Bepxo¢°a÷ ±ª¢o¢ap¬a" #GetTitleIM_CAP
+ BREWMISTRESS_RD_CAP:0 "Bepxo¢°o« ±ª¢o¢ap¬ª" #GetTitleRD_CAP
+ BREWMISTRESS_DT_CAP:0 "Bepxo¢°o« ±ª¢o¢ap¬e" #GetTitleDT_CAP
+ BREWMISTRESS_VN_CAP:0 "Bepxo¢°³¾ ±ª¢o¢ap¬³" #GetTitleVN_CAP
+ BREWMISTRESS_TV_CAP:0 "Bepxo¢°o« ±ª¢o¢ap¬o«" #GetTitleTV_CAP
+ BREWMISTRESS_PR_CAP:0 "Bepxo¢°o« ±ª¢o¢ap¬e" #GetTitlePR_CAP
+ 
+ COMMANDER_EMPEROR_IM_CAP:0 "†¯±epc¬ª« ¬o¯a°¦³¾¸ª«" #GetTitleIM_CAP
+ COMMANDER_EMPEROR_RD_CAP:0 "†¯±epc¬o¥o ¬o¯a°¦³¾¸e¥o" #GetTitleRD_CAP
+ COMMANDER_EMPEROR_DT_CAP:0 "†¯±epc¬o¯³ ¬o¯a°¦³¾¸e¯³" #GetTitleDT_CAP
+ COMMANDER_EMPEROR_VN_CAP:0 "†¯±epc¬o¥o ¬o¯a°¦³¾¸e¥o" #GetTitleVN_CAP
+ COMMANDER_EMPEROR_TV_CAP:0 "†¯±epc¬ª¯ ¬o¯a°¦³¾¸ª¯" #GetTitleTV_CAP
+ COMMANDER_EMPEROR_PR_CAP:0 "†¯±epc¬o¯ ¬o¯a°¦³¾¸e¯" #GetTitlePR_CAP
+ 
+ GRAND_MISTRESS_IM_CAP:0 "Be®ª¬ª« ¯a¥ªc²p" #GetTitleIM_CAP
+ GRAND_MISTRESS_RD_CAP:0 "Be®ª¬o¥o ¯a¥ªc²pa" #GetTitleRD_CAP
+ GRAND_MISTRESS_DT_CAP:0 "Be®ª¬o¯³ ¯a¥ªc²p³" #GetTitleDT_CAP
+ GRAND_MISTRESS_VN_CAP:0 "Be®ª¬o¥o ¯a¥ªc²pa" #GetTitleVN_CAP
+ GRAND_MISTRESS_TV_CAP:0 "Be®ª¬ª¯ ¯a¥ªc²po¯" #GetTitleTV_CAP
+ GRAND_MISTRESS_PR_CAP:0 "Be®ª¬o¯ ¯a¥ªc²pe" #GetTitlePR_CAP
+ 
+ ABBESS_IM_CAP:0 "†¥³¯e°»÷" #GetTitleIM_CAP
+ ABBESS_RD_CAP:0 "†¥³¯e°»ª" #GetTitleRD_CAP
+ ABBESS_DT_CAP:0 "†¥³¯e°»ª" #GetTitleDT_CAP
+ ABBESS_VN_CAP:0 "†¥³¯e°»¾" #GetTitleVN_CAP
+ ABBESS_TV_CAP:0 "†¥³¯e°»e«" #GetTitleTV_CAP
+ ABBESS_PR_CAP:0 "†¥³¯e°»e" #GetTitlePR_CAP
+ 
+ MOTHER_SUPERIOR_IM_CAP:0 "Hac²o÷²e®»°ªµa" #GetTitleIM_CAP
+ MOTHER_SUPERIOR_RD_CAP:0 "Hac²o÷²e®»°ªµº" #GetTitleRD_CAP
+ MOTHER_SUPERIOR_DT_CAP:0 "Hac²o÷²e®»°ªµe" #GetTitleDT_CAP
+ MOTHER_SUPERIOR_VN_CAP:0 "Hac²o÷²e®»°ªµ³" #GetTitleVN_CAP
+ MOTHER_SUPERIOR_TV_CAP:0 "Hac²o÷²e®»°ªµe«" #GetTitleTV_CAP
+ MOTHER_SUPERIOR_PR_CAP:0 "Hac²o÷²e®»°ªµe" #GetTitlePR_CAP
+ 
+ HEIR_fem_IM_CAP:0 "Hac®e¦°ªµa" #GetTitleIM_CAP
+ HEIR_fem_RD_CAP:0 "Hac®e¦°ªµº" #GetTitleRD_CAP
+ HEIR_fem_DT_CAP:0 "Hac®e¦°ªµe" #GetTitleDT_CAP
+ HEIR_fem_VN_CAP:0 "Hac®e¦°ªµ³" #GetTitleVN_CAP
+ HEIR_fem_TV_CAP:0 "Hac®e¦°ªµe«" #GetTitleTV_CAP
+ HEIR_fem_PR_CAP:0 "Hac®e¦°ªµe" #GetTitlePR_CAP

@@ -1,0 +1,760 @@
+﻿l_english:
+ ###На вопрос в чем?
+ UNITED_PROVINCES_PR:0 "coe¦ª°ë°°ºx ±po¢ª°µª÷x" #GetGovernmentPR
+ FEDERAL_KINGDOM_PR:0 "´e¦epa®»°o¯ ¬opo®e¢c²¢e" #GetGovernmentPR
+ FEDERAL_EMPIRE_PR:0 "´e¦epa®»°o« ª¯±epªª" #GetGovernmentPR
+ REPUBLIC_PR:0 "pec±³ ®ª¬e" #GetGovernmentPR
+ GREAT_REPUBLIC_PR:0 "¢e®ª¬o« pec±³ ®ª¬e" #GetGovernmentPR
+ DUCHY_PR:0 "¥epµo¥c²¢e" #GetGovernmentPR
+ KINGDOM_PR:0 "¬opo®e¢c²¢e" #GetGovernmentPR
+ EMPIRE_PR:0 "ª¯±epªª" #GetGovernmentPR
+ EARLDOM_PR:0 "¼p®c²¢e" #GetGovernmentPR
+ DAIMYO_PR:0 "¦a«¯ë" #GetGovernmentPR
+ KHANATE_PR:0 "xa°c²¢e" #GetGovernmentPR
+ PRINCEDOM_PR:0 "¬°÷¨ec²¢e" #GetGovernmentPR
+ GRAND_DUCHY_PR:0 "¢e®ª¬o¯ ¬°÷¨ec²¢e" #GetGovernmentPR
+ ARCHDUCHY_PR:0 "¼pµ¥epµo¥c²¢e" #GetGovernmentPR
+ LORDSHIP_PR:0 "¢®a¦e°ªª" #GetGovernmentPR
+ MARCH_PR:0 "¯ap¬e" #GetGovernmentPR
+ VICEROYALTY_PR:0 "¢ªµe-¬opo®e¢c²¢e" #GetGovernmentPR
+ IMAMATE_PR:0 "ª¯a¯a²e" #GetGovernmentPR
+ GREAT_IMAMATE_PR:0 "¢e®ª¬o¯ ª¯a¯a²e" #GetGovernmentPR
+ EMIRATE_PR:0 "¼¯ªpa²e" #GetGovernmentPR
+ SULTANATE_PR:0 "c³®²a°a²e" #GetGovernmentPR
+ MALIKATE_PR:0 "¯a®ª¬a²e" #GetGovernmentPR
+ SHEIKHDOM_PR:0 "·e«xc²¢e" #GetGovernmentPR
+ SHAHDOM_PR:0 "·axc²¢e" #GetGovernmentPR
+ BEYLIK_PR:0 " e«®ª¬e" #GetGovernmentPR
+ DESPOTATE_PR:0 "¦ec±o²a²e" #GetGovernmentPR
+ NAWABATE_PR:0 "°a¢a a²e" #GetGovernmentPR
+ NIZAMATE_PR:0 "°ª©a¯a²e" #GetGovernmentPR
+ MONG_PR:0 "¯o°¥e" #GetGovernmentPR
+ PRINCIPALITY_PR:0 "¬°÷¨ec²¢e" #GetGovernmentPR
+ GRAND_PRINCIPALITY_PR:0 "¢e®ª¬o¯ ¬°÷¨ec²¢e" #GetGovernmentPR
+ ALTEPETL_PR:0 "a®»²e±e²®e" #GetGovernmentPR
+ ALTEPETL_FEDERATION_PR:0 "a®»²e±e²®»c¬o« ´e¦epaµªª" #GetGovernmentPR
+ BISHOPRIC_PR:0 "e±ªc¬o±c²¢e" #GetGovernmentPR
+ ARCHBISHOPRIC_PR:0 "apxªe±ªc¬o±c²¢e" #GetGovernmentPR
+ PATRIARCHATE_PR:0 "±a²pªapxa²e" #GetGovernmentPR
+ DESPOTISM_PR:0 "¦ec±o²ªª" #GetGovernmentPR
+ DICTATORSHIP_PR:0 "¦ª¬²a²³pe" #GetGovernmentPR
+ PRESIDENTIAL_DICTATORSHIP_PR:0 "±pe©ª¦e°²c¬o« ¦ª¬²a²³pe" #GetGovernmentPR
+ METROPOLIS_PR:0 "¯ª²po±o®ªª" #GetGovernmentPR
+ GREAT_METROPOLIS_PR:0 "¢e®ª¬o« ¯ª²po±o®ªª" #GetGovernmentPR
+ HORDE_PR:0 "op¦e" #GetGovernmentPR
+ KHAGANATE_PR:0 "¬a¥a°a²e" #GetGovernmentPR
+ CHIEFDOM_PR:0 "¢o¨¦ec²¢e" #GetGovernmentPR
+ TRIBAL_KINGDOM_PR:0 "±®e¯e°°o¯ ¬opo®e¢c²¢e" #GetGovernmentPR
+ TRIBAL_EMPIRE_PR:0 "±®e¯e°°o« ª¯±epªª" #GetGovernmentPR
+ GRAND_CHIEFDOM_PR:0 "¢epxo¢°o¯ ¢o¨¦ec²¢e" #GetGovernmentPR
+ GREAT_CHIEFDOM_PR:0 "¢e®ª¬o¯ ¢o¨¦ec²¢e" #GetGovernmentPR
+ HOLY_STATE_PR:0 "µep¬o¢°o¯ ¥oc³¦apc²¢e" #GetGovernmentPR
+ HIGH_IMAMATE_PR:0 "¢epxo¢°o¯ ª¯a¯a²e" #GetGovernmentPR
+ HOLY_EMPIRE_PR:0 "²eo¬pa²ª¶ec¬o« ª¯±epªª" #GetGovernmentPR
+ GREAT_EMIRATE_PR:0 "¢e®ª¬o¯ ¼¯ªpa²e" #GetGovernmentPR
+ PASHALIK_PR:0 "¼÷®e²e" #GetGovernmentPR
+ SOGN_PR:0 "co¥°e" #GetGovernmentPR
+ HERRED_PR:0 "co²°e" #GetGovernmentPR
+ BONDEVALDE_PR:0 " o°¦e¢e®»¦e" #GetGovernmentPR
+ MISL_PR:0 "¯ªca®e" #GetGovernmentPR
+ CONFEDERATION_PR:0 "¬o°´e¦epaµªª" #GetGovernmentPR
+ TRIBE_PR:0 "±®e¯e°ª" #GetGovernmentPR
+ HOLY_PRINCIPALITY_PR:0 "µep¬o¢°o¯ ¬°÷¨ec²¢e" #GetGovernmentPR
+ TSARDOM_PR:0 "µapc²¢e" #GetGovernmentPR
+ GRAND_PRINCEDOM_PR:0 "¢e®ª¬o¯ ¬°÷¨ec²¢e" #GetGovernmentPR
+ GREAT_PRINCEDOM_PR:0 "c¢e²®e«·e¯ ¬°÷¨ec²¢e" #GetGovernmentPR
+ MONASTIC_ORDER_PR:0 "¢oe°°o-¯o°a·ec¬o¯ op¦e°e" #GetGovernmentPR
+ GRAND_REPUBLIC_PR:0 "¢e®ª¬o« pec±³ ®ª¬e" #GetGovernmentPR
+ FEDERAL_REPUBLIC_PR:0 "´e¦epa®»°o« pec±³ ®ª¬e" #GetGovernmentPR
+ CAH_PR:0 "¬axe" #GetGovernmentPR
+ KUCHKABAL_PR:0 "¬³¶¬a a®e" #GetGovernmentPR
+ GREAT_LEAGUE_PR:0 "¢e®ª¬o« ®ª¥e" #GetGovernmentPR
+ PAPACY_PR:0 "±a±c²¢e" #GetGovernmentPR
+ COLONY_PR:0 "¬o®o°ªª" #GetGovernmentPR
+ SHOGUNATE_PR:0 "cë¥³°a²e" #GetGovernmentPR
+ INDEP_DAIMYO_PR:0 "°e©a¢ªcª¯o¯ ¦a«¯ë" #GetGovernmentPR
+ GRAND_INDEP_DAIMYO_PR:0 "¥®a¢°o¯ ¦a«¯ë" #GetGovernmentPR
+ GREAT_INDEP_DAIMYO_PR:0 "¢e®ª¬o¯ ¦a«¯ë" #GetGovernmentPR
+ HETMANATE_PR:0 "¥e²¯a°¸ª°e" #GetGovernmentPR
+ GRAND_HETMANATE_PR:0 " o®»·o« ¥e²¯a°¸ª°e" #GetGovernmentPR
+ GREAT_HETMANATE_PR:0 "¢e®ª¬o¯ ¥e²¯a°a²e" #GetGovernmentPR
+ SHARIFATE_PR:0 "·apª´a²e" #GetGovernmentPR
+ GREAT_SHARIFATE_PR:0 "¢e®ª¬o¯ ·apª´a²e" #GetGovernmentPR
+ GRAND_SHARIFATE_PR:0 "¢ºc·e¯ ·apª´a²e" #GetGovernmentPR
+ BARANGAY_PR:0 " apa°¥ae" #GetGovernmentPR
+ GRAND_BARANGAY_PR:0 " o®»·o¯  apa°¥ae" #GetGovernmentPR
+ GREAT_BARANGAY_PR:0 "¢e®ª¬o¯  apa°¥ae" #GetGovernmentPR
+ PARLIAMENT_OF_HEAVEN_PR:0 "±ap®a¯e°²e He ec" #GetGovernmentPR
+ REVOLUTIONARY_PEASANT_REPUBLIC_PR:0 "¬pec²»÷°c¬o« x³°²e" #GetGovernmentPR
+ FREE_CITY_PR:0 "¢o®»°o¯ ¥opo¦e" #GetGovernmentPR
+ SERENE_REPUBLIC_PR:0 "c¢e²®e«·e« pec±³ ®ª¬e" #GetGovernmentPR
+ ###На вопрос кому?
+ UNITED_PROVINCES_DT:0 "coe¦ª°ë°°º¯ ±po¢ª°µª÷¯" #GetGovernmentDT
+ FEDERAL_KINGDOM_DT:0 "´e¦epa®»°o¯³ ¬opo®e¢c²¢³" #GetGovernmentDT
+ FEDERAL_EMPIRE_DT:0 "´e¦epa®»°o« ª¯±epªª" #GetGovernmentDT
+ REPUBLIC_DT:0 "pec±³ ®ª¬e" #GetGovernmentDT
+ GREAT_REPUBLIC_DT:0 "¢e®ª¬o« pec±³ ®ª¬e" #GetGovernmentDT
+ DUCHY_DT:0 "¥epµo¥c²¢³" #GetGovernmentDT
+ KINGDOM_DT:0 "¬opo®e¢c²¢³" #GetGovernmentDT
+ EMPIRE_DT:0 "ª¯±epªª" #GetGovernmentDT
+ EARLDOM_DT:0 "¼p®c²¢³" #GetGovernmentDT
+ DAIMYO_DT:0 "¦a«¯ë" #GetGovernmentDT
+ KHANATE_DT:0 "xa°c²¢³" #GetGovernmentDT
+ PRINCEDOM_DT:0 "¬°÷¨ec²¢³" #GetGovernmentDT
+ GRAND_DUCHY_DT:0 "¢e®ª¬o¯³ ¬°÷¨ec²¢³" #GetGovernmentDT
+ ARCHDUCHY_DT:0 "¼pµ¥epµo¥c²¢³" #GetGovernmentDT
+ LORDSHIP_DT:0 "¢®a¦e°ª¾" #GetGovernmentDT
+ MARCH_DT:0 "¯ap¬e" #GetGovernmentDT
+ VICEROYALTY_DT:0 "¢ªµe-¬opo®e¢c²¢³" #GetGovernmentDT
+ IMAMATE_DT:0 "ª¯a¯a²³" #GetGovernmentDT
+ GREAT_IMAMATE_DT:0 "¢e®ª¬o¯³ ª¯a¯a²³" #GetGovernmentDT
+ EMIRATE_DT:0 "¼¯ªpa²³" #GetGovernmentDT
+ SULTANATE_DT:0 "c³®²a°a²³" #GetGovernmentDT
+ MALIKATE_DT:0 "¯a®ª¬a²³" #GetGovernmentDT
+ SHEIKHDOM_DT:0 "·e«xc²¢³" #GetGovernmentDT
+ SHAHDOM_DT:0 "·axc²¢³" #GetGovernmentDT
+ BEYLIK_DT:0 " e«®ª¬³" #GetGovernmentDT
+ DESPOTATE_DT:0 "¦ec±o²a²³" #GetGovernmentDT
+ NAWABATE_DT:0 "°a¢a a²³" #GetGovernmentDT
+ NIZAMATE_DT:0 "°ª©a¯a²³" #GetGovernmentDT
+ MONG_DT:0 "¯o°¥³" #GetGovernmentDT
+ PRINCIPALITY_DT:0 "¬°÷¨ec²¢³" #GetGovernmentDT
+ GRAND_PRINCIPALITY_DT:0 "¢e®ª¬o¯³ ¬°÷¨ec²¢³" #GetGovernmentDT
+ ALTEPETL_DT:0 "a®»²e±e²®¾" #GetGovernmentDT
+ ALTEPETL_FEDERATION_DT:0 "a®»²e±e²®»c¬o« ´e¦epaµªª" #GetGovernmentDT
+ BISHOPRIC_DT:0 "e±ªc¬o±c²¢³" #GetGovernmentDT
+ ARCHBISHOPRIC_DT:0 "apxªe±ªc¬o±c²¢³" #GetGovernmentDT
+ PATRIARCHATE_DT:0 "±a²pªapxa²³" #GetGovernmentDT
+ DESPOTISM_DT:0 "¦ec±o²ªª" #GetGovernmentDT
+ DICTATORSHIP_DT:0 "¦ª¬²a²³pe" #GetGovernmentDT
+ PRESIDENTIAL_DICTATORSHIP_DT:0 "±pe©ª¦e°²c¬o« ¦ª¬²a²³pe" #GetGovernmentDT
+ METROPOLIS_DT:0 "¯ª²po±o®ªª" #GetGovernmentDT
+ GREAT_METROPOLIS_DT:0 "¢e®ª¬o« ¯ª²po±o®ªª" #GetGovernmentDT
+ HORDE_DT:0 "op¦e" #GetGovernmentDT
+ KHAGANATE_DT:0 "¬a¥a°a²³" #GetGovernmentDT
+ CHIEFDOM_DT:0 "¢o¨¦ec²¢³" #GetGovernmentDT
+ TRIBAL_KINGDOM_DT:0 "±®e¯e°°o¯³ ¬opo®e¢c²¢³" #GetGovernmentDT
+ TRIBAL_EMPIRE_DT:0 "±®e¯e°°o« ª¯±epªª" #GetGovernmentDT
+ GRAND_CHIEFDOM_DT:0 "¢epxo¢°o¯³ ¢o¨¦ec²¢³" #GetGovernmentDT
+ GREAT_CHIEFDOM_DT:0 "¢e®ª¬o¯³ ¢o¨¦ec²¢³" #GetGovernmentDT
+ HOLY_STATE_DT:0 "µep¬o¢°o¯³ ¥oc³¦apc²¢³" #GetGovernmentDT
+ HIGH_IMAMATE_DT:0 "¢epxo¢°o¯³ ª¯a¯a²³" #GetGovernmentDT
+ HOLY_EMPIRE_DT:0 "²eo¬pa²ª¶ec¬o« ª¯±epªª" #GetGovernmentDT
+ GREAT_EMIRATE_DT:0 "¢e®ª¬o¯³ ¼¯ªpa²³" #GetGovernmentDT
+ PASHALIK_DT:0 "¼÷®e²³" #GetGovernmentDT
+ SOGN_DT:0 "co¥°³" #GetGovernmentDT
+ HERRED_DT:0 "co²°³" #GetGovernmentDT
+ BONDEVALDE_DT:0 " o°¦e¢e®»¦³" #GetGovernmentDT
+ MISL_DT:0 "¯ªca®¾" #GetGovernmentDT
+ CONFEDERATION_DT:0 "¬o°´e¦epaµªª" #GetGovernmentDT
+ TRIBE_DT:0 "±®e¯e°ª" #GetGovernmentDT
+ HOLY_PRINCIPALITY_DT:0 "µep¬o¢°o¯³ ¬°÷¨ec²¢³" #GetGovernmentDT
+ TSARDOM_DT:0 "µapc²¢³" #GetGovernmentDT
+ GRAND_PRINCEDOM_DT:0 "¢e®ª¬o¯³ ¬°÷¨ec²¢³" #GetGovernmentDT
+ GREAT_PRINCEDOM_DT:0 "c¢e²®e«·e¯³ ¬°÷¨ec²¢³" #GetGovernmentDT
+ MONASTIC_ORDER_DT:0 "¢oe°°o-¯o°a·ec¬o¯³ op¦e°³" #GetGovernmentDT
+ GRAND_REPUBLIC_DT:0 "¢e®ª¬o« pec±³ ®ª¬e" #GetGovernmentDT
+ FEDERAL_REPUBLIC_DT:0 "´e¦epa®»°o« pec±³ ®ª¬e" #GetGovernmentDT
+ CAH_DT:0 "¬axe" #GetGovernmentDT
+ KUCHKABAL_DT:0 "¬³¶¬a a®e" #GetGovernmentDT
+ GREAT_LEAGUE_DT:0 "¢e®ª¬o« ®ª¥e" #GetGovernmentDT
+ PAPACY_DT:0 "±a±c²¢³" #GetGovernmentDT
+ COLONY_DT:0 "¬o®o°ªª" #GetGovernmentDT
+ SHOGUNATE_DT:0 "cë¥³°a²³" #GetGovernmentDT
+ INDEP_DAIMYO_DT:0 "°e©a¢ªcª¯o¯³ ¦a«¯ë" #GetGovernmentDT
+ GRAND_INDEP_DAIMYO_DT:0 "¥®a¢°o¯³ ¦a«¯ë" #GetGovernmentDT
+ GREAT_INDEP_DAIMYO_DT:0 "¢e®ª¬o¯³ ¦a«¯ë" #GetGovernmentDT
+ HETMANATE_DT:0 "¥e²¯a°¸ª°e" #GetGovernmentDT
+ GRAND_HETMANATE_DT:0 " o®»·o« ¥e²¯a°¸ª°e" #GetGovernmentDT
+ GREAT_HETMANATE_DT:0 "¢e®ª¬o¯³ ¥e²¯a°a²³" #GetGovernmentDT
+ SHARIFATE_DT:0 "·apª´a²³" #GetGovernmentDT
+ GREAT_SHARIFATE_DT:0 "¢e®ª¬o¯³ ·apª´a²³" #GetGovernmentDT
+ GRAND_SHARIFATE_DT:0 "¢ºc·e¯³ ·apª´a²³" #GetGovernmentDT
+ BARANGAY_DT:0 " apa°¥a¾" #GetGovernmentDT
+ GRAND_BARANGAY_DT:0 " o®»·o¯³  apa°¥a¾" #GetGovernmentDT
+ GREAT_BARANGAY_DT:0 "¢e®ª¬o¯³  apa°¥a¾" #GetGovernmentDT
+ PARLIAMENT_OF_HEAVEN_DT:0 "±ap®a¯e°²³ He ec" #GetGovernmentDT
+ REVOLUTIONARY_PEASANT_REPUBLIC_DT:0 "¬pec²»÷°c¬o« x³°²e" #GetGovernmentDT
+ FREE_CITY_DT:0 "¢o®»°o¯³ ¥opo¦³" #GetGovernmentDT
+ SERENE_REPUBLIC_DT:0 "c¢e²®e«·e« pec±³ ®ª¬e" #GetGovernmentDT
+ ###На вопрос нет кого?
+ UNITED_PROVINCES_RD:0 "coe¦ª°ë°°ºx ±po¢ª°µª«" #GetGovernmentRD
+ FEDERAL_KINGDOM_RD:0 "´e¦epa®»°o¥o ¬opo®e¢c²¢a" #GetGovernmentRD
+ FEDERAL_EMPIRE_RD:0 "´e¦epa®»°o« ª¯±epªª" #GetGovernmentRD
+ REPUBLIC_RD:0 "pec±³ ®ª¬ª" #GetGovernmentRD
+ GREAT_REPUBLIC_RD:0 "¢e®ª¬o« pec±³ ®ª¬ª" #GetGovernmentRD
+ DUCHY_RD:0 "¥epµo¥c²¢a" #GetGovernmentRD
+ KINGDOM_RD:0 "¬opo®e¢c²¢a" #GetGovernmentRD
+ EMPIRE_RD:0 "ª¯±epªª" #GetGovernmentRD
+ EARLDOM_RD:0 "¼p®c²¢a" #GetGovernmentRD
+ DAIMYO_RD:0 "¦a«¯ë" #GetGovernmentRD
+ KHANATE_RD:0 "xa°c²¢a" #GetGovernmentRD
+ PRINCEDOM_RD:0 "¬°÷¨ec²¢a" #GetGovernmentRD
+ GRAND_DUCHY_RD:0 "¢e®ª¬o¥o ¬°÷¨ec²¢a" #GetGovernmentRD
+ ARCHDUCHY_RD:0 "¼pµ¥epµo¥c²¢a" #GetGovernmentRD
+ LORDSHIP_RD:0 "¢®a¦e°ª÷" #GetGovernmentRD
+ MARCH_RD:0 "¯ap¬ª" #GetGovernmentRD
+ VICEROYALTY_RD:0 "¢ªµe-¬opo®e¢c²¢a" #GetGovernmentRD
+ IMAMATE_RD:0 "ª¯a¯a²a" #GetGovernmentRD
+ GREAT_IMAMATE_RD:0 "¢e®ª¬o¥o ª¯a¯a²a" #GetGovernmentRD
+ EMIRATE_RD:0 "¼¯ªpa²a" #GetGovernmentRD
+ SULTANATE_RD:0 "c³®²a°a²a" #GetGovernmentRD
+ MALIKATE_RD:0 "¯a®ª¬a²a" #GetGovernmentRD
+ SHEIKHDOM_RD:0 "·e«xc²¢a" #GetGovernmentRD
+ SHAHDOM_RD:0 "·axc²¢a" #GetGovernmentRD
+ BEYLIK_RD:0 " e«®ª¬a" #GetGovernmentRD
+ DESPOTATE_RD:0 "¦ec±o²a²a" #GetGovernmentRD
+ NAWABATE_RD:0 "°a¢a a²a" #GetGovernmentRD
+ NIZAMATE_RD:0 "°ª©a¯a²a" #GetGovernmentRD
+ MONG_RD:0 "¯o°¥a" #GetGovernmentRD
+ PRINCIPALITY_RD:0 "¬°÷¨ec²¢a" #GetGovernmentRD
+ GRAND_PRINCIPALITY_RD:0 "¢e®ª¬o¥o ¬°÷¨ec²¢a" #GetGovernmentRD
+ ALTEPETL_RD:0 "a®»²e±e²®ª" #GetGovernmentRD
+ ALTEPETL_FEDERATION_RD:0 "a®»²e±e²®»c¬o« ´e¦epaµªª" #GetGovernmentRD
+ BISHOPRIC_RD:0 "e±ªc¬o±c²¢a" #GetGovernmentRD
+ ARCHBISHOPRIC_RD:0 "apxªe±ªc¬o±c²¢a" #GetGovernmentRD
+ PATRIARCHATE_RD:0 "±a²pªapxa²a" #GetGovernmentRD
+ DESPOTISM_RD:0 "¦ec±o²ªª" #GetGovernmentRD
+ DICTATORSHIP_RD:0 "¦ª¬²a²³pº" #GetGovernmentRD
+ PRESIDENTIAL_DICTATORSHIP_RD:0 "±pe©ª¦e°²c¬o« ¦ª¬²a²³pº" #GetGovernmentRD
+ METROPOLIS_RD:0 "¯ª²po±o®ªª" #GetGovernmentRD
+ GREAT_METROPOLIS_RD:0 "¢e®ª¬o« ¯ª²po±o®ªª" #GetGovernmentRD
+ HORDE_RD:0 "op¦º" #GetGovernmentRD
+ KHAGANATE_RD:0 "¬a¥a°a²a" #GetGovernmentRD
+ CHIEFDOM_RD:0 "¢o¨¦ec²¢a" #GetGovernmentRD
+ TRIBAL_KINGDOM_RD:0 "±®e¯e°°o¥o ¬opo®e¢c²¢a" #GetGovernmentRD
+ TRIBAL_EMPIRE_RD:0 "±®e¯e°°o« ª¯±epªª" #GetGovernmentRD
+ GRAND_CHIEFDOM_RD:0 "¢epxo¢°o¥o ¢o¨¦ec²¢a" #GetGovernmentRD
+ GREAT_CHIEFDOM_RD:0 "¢e®ª¬o¥o ¢o¨¦ec²¢a" #GetGovernmentRD
+ HOLY_STATE_RD:0 "µep¬o¢°o¥o ¥oc³¦apc²¢a" #GetGovernmentRD
+ HIGH_IMAMATE_RD:0 "¢epxo¢°o¥o ª¯a¯a²a" #GetGovernmentRD
+ HOLY_EMPIRE_RD:0 "²eo¬pa²ª¶ec¬o« ª¯±epªª" #GetGovernmentRD
+ GREAT_EMIRATE_RD:0 "¢e®ª¬o¥o ¼¯ªpa²a" #GetGovernmentRD
+ PASHALIK_RD:0 "¼÷®e²a" #GetGovernmentRD
+ SOGN_RD:0 "co¥°a" #GetGovernmentRD
+ HERRED_RD:0 "co²°ª" #GetGovernmentRD
+ BONDEVALDE_RD:0 " o°¦e¢e®»¦a" #GetGovernmentRD
+ MISL_RD:0 "¯ªca®÷" #GetGovernmentRD
+ CONFEDERATION_RD:0 "¬o°´e¦epaµªª" #GetGovernmentRD
+ TRIBE_RD:0 "±®e¯e°ª" #GetGovernmentRD
+ HOLY_PRINCIPALITY_RD:0 "µep¬o¢°o¥o ¬°÷¨ec²¢a" #GetGovernmentRD
+ TSARDOM_RD:0 "µapc²¢a" #GetGovernmentRD
+ GRAND_PRINCEDOM_RD:0 "¢e®ª¬o¥o ¬°÷¨ec²¢a" #GetGovernmentRD
+ GREAT_PRINCEDOM_RD:0 "c¢e²®e«·e¥o ¬°÷¨ec²¢a" #GetGovernmentRD
+ MONASTIC_ORDER_RD:0 "¢oe°°o-¯o°a·ec¬o¥o op¦e°a" #GetGovernmentRD
+ GRAND_REPUBLIC_RD:0 "¢e®ª¬o« pec±³ ®ª¬ª" #GetGovernmentRD
+ FEDERAL_REPUBLIC_RD:0 "´e¦epa®»°o« pec±³ ®ª¬ª" #GetGovernmentRD
+ CAH_RD:0 "¬axª" #GetGovernmentRD
+ KUCHKABAL_RD:0 "¬³¶¬a a®ª" #GetGovernmentRD
+ GREAT_LEAGUE_RD:0 "¢e®ª¬o« ®ª¥ª" #GetGovernmentRD
+ PAPACY_RD:0 "±a±c²¢a" #GetGovernmentRD
+ COLONY_RD:0 "¬o®o°ªª" #GetGovernmentRD
+ SHOGUNATE_RD:0 "cë¥³°a²a" #GetGovernmentRD
+ INDEP_DAIMYO_RD:0 "°e©a¢ªcª¯o¥o ¦a«¯ë" #GetGovernmentRD
+ GRAND_INDEP_DAIMYO_RD:0 "¥®a¢°o¥o ¦a«¯ë" #GetGovernmentRD
+ GREAT_INDEP_DAIMYO_RD:0 "¢e®ª¬o¥o ¦a«¯ë" #GetGovernmentRD
+ HETMANATE_RD:0 "¥e²¯a°¸ª°º" #GetGovernmentRD
+ GRAND_HETMANATE_RD:0 " o®»·o« ¥e²¯a°¸ª°º" #GetGovernmentRD
+ GREAT_HETMANATE_RD:0 "¢e®ª¬o¥o ¥e²¯a°a²a" #GetGovernmentRD
+ SHARIFATE_RD:0 "·apª´a²a" #GetGovernmentRD
+ GREAT_SHARIFATE_RD:0 "¢e®ª¬o¥o ·apª´a²a" #GetGovernmentRD
+ GRAND_SHARIFATE_RD:0 "¢ºc·e¥o ·apª´a²a" #GetGovernmentRD
+ BARANGAY_RD:0 " apa°¥a÷" #GetGovernmentRD
+ GRAND_BARANGAY_RD:0 " o®»·o¥o  apa°¥a÷" #GetGovernmentRD
+ GREAT_BARANGAY_RD:0 "¢e®ª¬o¥o  apa°¥a÷" #GetGovernmentRD
+ PARLIAMENT_OF_HEAVEN_RD:0 "±ap®a¯e°²a He ec" #GetGovernmentRD
+ REVOLUTIONARY_PEASANT_REPUBLIC_RD:0 "¬pec²»÷°c¬o« x³°²º" #GetGovernmentRD
+ FREE_CITY_RD:0 "¢o®»°o¥o ¥opo¦a" #GetGovernmentRD
+ SERENE_REPUBLIC_RD:0 "c¢e²®e«·e« pec±³ ®ª¬ª" #GetGovernmentRD
+ ###На вопрос вижу что?
+ UNITED_PROVINCES_IM:0 "coe¦ª°ë°°ºe ±po¢ª°µªª" #GetGovernmentIM
+ FEDERAL_KINGDOM_IM:0 "´e¦epa®»°oe ¬opo®e¢c²¢o" #GetGovernmentIM
+ FEDERAL_EMPIRE_IM:0 "´e¦epa®»°³¾ ª¯±epª¾" #GetGovernmentIM
+ REPUBLIC_IM:0 "pec±³ ®ª¬³" #GetGovernmentIM
+ GREAT_REPUBLIC_IM:0 "¢e®ª¬³¾ pec±³ ®ª¬³" #GetGovernmentIM
+ DUCHY_IM:0 "¥epµo¥c²¢o" #GetGovernmentIM
+ KINGDOM_IM:0 "¬opo®e¢c²¢o" #GetGovernmentIM
+ EMPIRE_IM:0 "ª¯±epª¾" #GetGovernmentIM
+ EARLDOM_IM:0 "¼p®c²¢o" #GetGovernmentIM
+ DAIMYO_IM:0 "¦a«¯ë" #GetGovernmentIM
+ KHANATE_IM:0 "xa°c²¢o" #GetGovernmentIM
+ PRINCEDOM_IM:0 "¬°÷¨ec²¢o" #GetGovernmentIM
+ GRAND_DUCHY_IM:0 "¢e®ª¬oe ¬°÷¨ec²¢o" #GetGovernmentIM
+ ARCHDUCHY_IM:0 "¼pµ¥epµo¥c²¢o" #GetGovernmentIM
+ LORDSHIP_IM:0 "¢®a¦e°ªe" #GetGovernmentIM
+ MARCH_IM:0 "¯ap¬³" #GetGovernmentIM
+ VICEROYALTY_IM:0 "¢ªµe-¬opo®e¢c²¢o" #GetGovernmentIM
+ IMAMATE_IM:0 "ª¯a¯a²" #GetGovernmentIM
+ GREAT_IMAMATE_IM:0 "¢e®ª¬ª« ª¯a¯a²" #GetGovernmentIM
+ EMIRATE_IM:0 "¼¯ªpa²" #GetGovernmentIM
+ SULTANATE_IM:0 "c³®²a°a²" #GetGovernmentIM
+ MALIKATE_IM:0 "¯a®ª¬a²" #GetGovernmentIM
+ SHEIKHDOM_IM:0 "·e«xc²¢o" #GetGovernmentIM
+ SHAHDOM_IM:0 "·axc²¢o" #GetGovernmentIM
+ BEYLIK_IM:0 " e«®ª¬" #GetGovernmentIM
+ DESPOTATE_IM:0 "¦ec±o²a²" #GetGovernmentIM
+ NAWABATE_IM:0 "°a¢a a²" #GetGovernmentIM
+ NIZAMATE_IM:0 "°ª©a¯a²" #GetGovernmentIM
+ MONG_IM:0 "¯o°¥" #GetGovernmentIM
+ PRINCIPALITY_IM:0 "¬°÷¨ec²¢o" #GetGovernmentIM
+ GRAND_PRINCIPALITY_IM:0 "¢e®ª¬oe ¬°÷¨ec²¢o" #GetGovernmentIM
+ ALTEPETL_IM:0 "a®»²e±e²®»" #GetGovernmentIM
+ ALTEPETL_FEDERATION_IM:0 "a®»²e±e²®»c¬³¾ ´e¦epaµª¾" #GetGovernmentIM
+ BISHOPRIC_IM:0 "e±ªc¬o±c²¢o" #GetGovernmentIM
+ ARCHBISHOPRIC_IM:0 "apxªe±ªc¬o±c²¢o" #GetGovernmentIM
+ PATRIARCHATE_IM:0 "±a²pªapxa²" #GetGovernmentIM
+ DESPOTISM_IM:0 "¦ec±o²ª¾" #GetGovernmentIM
+ DICTATORSHIP_IM:0 "¦ª¬²a²³p³" #GetGovernmentIM
+ PRESIDENTIAL_DICTATORSHIP_IM:0 "±pe©ª¦e°²c¬³¾ ¦ª¬²a²³p³" #GetGovernmentIM
+ METROPOLIS_IM:0 "¯ª²po±o®ª¾" #GetGovernmentIM
+ GREAT_METROPOLIS_IM:0 "¢e®ª¬³¾ ¯ª²po±o®ª¾" #GetGovernmentIM
+ HORDE_IM:0 "op¦³" #GetGovernmentIM
+ KHAGANATE_IM:0 "¬a¥a°a²" #GetGovernmentIM
+ CHIEFDOM_IM:0 "¢o¨¦ec²¢o" #GetGovernmentIM
+ TRIBAL_KINGDOM_IM:0 "±®e¯e°°oe ¬opo®e¢c²¢o" #GetGovernmentIM
+ TRIBAL_EMPIRE_IM:0 "±®e¯e°°³¾ ª¯±epª¾" #GetGovernmentIM
+ GRAND_CHIEFDOM_IM:0 "¢epxo¢°oe ¢o¨¦ec²¢o" #GetGovernmentIM
+ GREAT_CHIEFDOM_IM:0 "¢e®ª¬oe ¢o¨¦ec²¢o" #GetGovernmentIM
+ HOLY_STATE_IM:0 "µep¬o¢°oe ¥oc³¦apc²¢o" #GetGovernmentIM
+ HIGH_IMAMATE_IM:0 "¢epxo¢°º« ª¯a¯a²" #GetGovernmentIM
+ HOLY_EMPIRE_IM:0 "²eo¬pa²ª¶ec¬³¾ ª¯±epª¾" #GetGovernmentIM
+ GREAT_EMIRATE_IM:0 "¢e®ª¬ª« ¼¯ªpa²" #GetGovernmentIM
+ PASHALIK_IM:0 "¼÷®e²" #GetGovernmentIM
+ SOGN_IM:0 "co¥°" #GetGovernmentIM
+ HERRED_IM:0 "co²°¾" #GetGovernmentIM
+ BONDEVALDE_IM:0 " o°¦e¢e®»¦" #GetGovernmentIM
+ MISL_IM:0 "¯ªca®»" #GetGovernmentIM
+ CONFEDERATION_IM:0 "¬o°´e¦epaµª¾" #GetGovernmentIM
+ TRIBE_IM:0 "±®e¯÷" #GetGovernmentIM
+ HOLY_PRINCIPALITY_IM:0 "µep¬o¢°oe ¬°÷¨ec²¢o" #GetGovernmentIM
+ TSARDOM_IM:0 "µapc²¢o" #GetGovernmentIM
+ GRAND_PRINCEDOM_IM:0 "¢e®ª¬oe ¬°÷¨ec²¢o" #GetGovernmentIM
+ GREAT_PRINCEDOM_IM:0 "c¢e²®e«·ee ¬°÷¨ec²¢o" #GetGovernmentIM
+ MONASTIC_ORDER_IM:0 "¢oe°°o-¯o°a·ec¬ª« op¦e°" #GetGovernmentIM
+ GRAND_REPUBLIC_IM:0 "¢e®ª¬³¾ pec±³ ®ª¬³" #GetGovernmentIM
+ FEDERAL_REPUBLIC_IM:0 "´e¦epa®»°³¾ pec±³ ®ª¬³" #GetGovernmentIM
+ CAH_IM:0 "¬ax" #GetGovernmentIM
+ KUCHKABAL_IM:0 "¬³¶¬a a®»" #GetGovernmentIM
+ GREAT_LEAGUE_IM:0 "¢e®ª¬³¾ ®ª¥³" #GetGovernmentIM
+ PAPACY_IM:0 "±a±c²¢o" #GetGovernmentIM
+ COLONY_IM:0 "¬o®o°ª¾" #GetGovernmentIM
+ SHOGUNATE_IM:0 "cë¥³°a²" #GetGovernmentIM
+ INDEP_DAIMYO_IM:0 "°e©a¢ªcª¯o¥o ¦a«¯ë" #GetGovernmentIM
+ GRAND_INDEP_DAIMYO_IM:0 "¥®a¢°o¥o ¦a«¯ë" #GetGovernmentIM
+ GREAT_INDEP_DAIMYO_IM:0 "¢e®ª¬o¥o ¦a«¯ë" #GetGovernmentIM
+ HETMANATE_IM:0 "¥e²¯a°¸ª°³" #GetGovernmentIM
+ GRAND_HETMANATE_IM:0 " o®»·³¾ ¥e²¯a°¸ª°³" #GetGovernmentIM
+ GREAT_HETMANATE_IM:0 "¢e®ª¬ª« ¥e²¯a°a²" #GetGovernmentIM
+ SHARIFATE_IM:0 "·apª´a²" #GetGovernmentIM
+ GREAT_SHARIFATE_IM:0 "¢e®ª¬ª« ·apª´a²" #GetGovernmentIM
+ GRAND_SHARIFATE_IM:0 "¢ºc·ª« ·apª´a²" #GetGovernmentIM
+ BARANGAY_IM:0 " apa°¥a«" #GetGovernmentIM
+ GRAND_BARANGAY_IM:0 " o®»·o«  apa°¥a«" #GetGovernmentIM
+ GREAT_BARANGAY_IM:0 "¢e®ª¬o«  apa°¥a«" #GetGovernmentIM
+ PARLIAMENT_OF_HEAVEN_IM:0 "±ap®a¯e°² He ec" #GetGovernmentIM
+ REVOLUTIONARY_PEASANT_REPUBLIC_IM:0 "¬pec²»÷°c¬³¾ x³°²³" #GetGovernmentIM
+ FREE_CITY_IM:0 "¢o®»°º« ¥opo¦" #GetGovernmentIM
+ SERENE_REPUBLIC_IM:0 "c¢e²®e«·³¾ pec±³ ®ª¬³" #GetGovernmentIM
+ ###На вопрос кем?
+ UNITED_PROVINCES_TV:0 "coe¦ª°ë°°º¯ª ±po¢ª°µª÷¯ª" #GetGovernmentTV
+ FEDERAL_KINGDOM_TV:0 "´e¦epa®»°º¯ ¬opo®e¢c²¢o¯" #GetGovernmentTV
+ FEDERAL_EMPIRE_TV:0 "´e¦epa®»°o« ª¯±epªe«" #GetGovernmentTV
+ REPUBLIC_TV:0 "pec±³ ®ª¬o«" #GetGovernmentTV
+ GREAT_REPUBLIC_TV:0 "¢e®ª¬o« pec±³ ®ª¬o«" #GetGovernmentTV
+ DUCHY_TV:0 "¥epµo¥c²¢o¯" #GetGovernmentTV
+ KINGDOM_TV:0 "¬opo®e¢c²¢o¯" #GetGovernmentTV
+ EMPIRE_TV:0 "ª¯±epªe«" #GetGovernmentTV
+ EARLDOM_TV:0 "¼p®c²¢o¯" #GetGovernmentTV
+ DAIMYO_TV:0 "¦a«¯ë" #GetGovernmentTV
+ KHANATE_TV:0 "xa°c²¢o¯" #GetGovernmentTV
+ PRINCEDOM_TV:0 "¬°÷¨ec²¢o¯" #GetGovernmentTV
+ GRAND_DUCHY_TV:0 "¢e®ª¬ª¯ ¬°÷¨ec²¢o¯" #GetGovernmentTV
+ ARCHDUCHY_TV:0 "¼pµ¥epµo¥c²¢o¯" #GetGovernmentTV
+ LORDSHIP_TV:0 "¢®a¦e°ªe¯" #GetGovernmentTV
+ MARCH_TV:0 "¯ap¬o«" #GetGovernmentTV
+ VICEROYALTY_TV:0 "¢ªµe-¬opo®e¢c²¢o¯" #GetGovernmentTV
+ IMAMATE_TV:0 "ª¯a¯a²o¯" #GetGovernmentTV
+ GREAT_IMAMATE_TV:0 "¢e®ª¬ª¯ ª¯a¯a²o¯" #GetGovernmentTV
+ EMIRATE_TV:0 "¼¯ªpa²o¯" #GetGovernmentTV
+ SULTANATE_TV:0 "c³®²a°a²o¯" #GetGovernmentTV
+ MALIKATE_TV:0 "¯a®ª¬a²o¯" #GetGovernmentTV
+ SHEIKHDOM_TV:0 "·e«xc²¢o¯" #GetGovernmentTV
+ SHAHDOM_TV:0 "·axc²¢o¯" #GetGovernmentTV
+ BEYLIK_TV:0 " e«®ª¬o¯" #GetGovernmentTV
+ DESPOTATE_TV:0 "¦ec±o²a²o¯" #GetGovernmentTV
+ NAWABATE_TV:0 "°a¢a a²o¯" #GetGovernmentTV
+ NIZAMATE_TV:0 "°ª©a¯a²o¯" #GetGovernmentTV
+ MONG_TV:0 "¯o°¥o¯" #GetGovernmentTV
+ PRINCIPALITY_TV:0 "¬°÷¨ec²¢o¯" #GetGovernmentTV
+ GRAND_PRINCIPALITY_TV:0 "¢e®ª¬ª¯ ¬°÷¨ec²¢o¯" #GetGovernmentTV
+ ALTEPETL_TV:0 "a®»²e±e²®e¯" #GetGovernmentTV
+ ALTEPETL_FEDERATION_TV:0 "a®»²e±e²®»c¬o« ´e¦epaµªe«" #GetGovernmentTV
+ BISHOPRIC_TV:0 "e±ªc¬o±c²¢o¯" #GetGovernmentTV
+ ARCHBISHOPRIC_TV:0 "apxªe±ªc¬o±c²¢o¯" #GetGovernmentTV
+ PATRIARCHATE_TV:0 "±a²pªapxa²o¯" #GetGovernmentTV
+ DESPOTISM_TV:0 "¦ec±o²ªe«" #GetGovernmentTV
+ DICTATORSHIP_TV:0 "¦ª¬²a²³po«" #GetGovernmentTV
+ PRESIDENTIAL_DICTATORSHIP_TV:0 "±pe©ª¦e°²c¬o« ¦ª¬²a²³po«" #GetGovernmentTV
+ METROPOLIS_TV:0 "¯ª²po±o®ªe«" #GetGovernmentTV
+ GREAT_METROPOLIS_TV:0 "¢e®ª¬o« ¯ª²po±o®ªe«" #GetGovernmentTV
+ HORDE_TV:0 "op¦o«" #GetGovernmentTV
+ KHAGANATE_TV:0 "¬a¥a°a²o¯" #GetGovernmentTV
+ CHIEFDOM_TV:0 "¢o¨¦ec²¢o¯" #GetGovernmentTV
+ TRIBAL_KINGDOM_TV:0 "±®e¯e°°º¯ ¬opo®e¢c²¢o¯" #GetGovernmentTV
+ TRIBAL_EMPIRE_TV:0 "±®e¯e°°o« ª¯±epªe«" #GetGovernmentTV
+ GRAND_CHIEFDOM_TV:0 "¢epxo¢°º¯ ¢o¨¦ec²¢o¯" #GetGovernmentTV
+ GREAT_CHIEFDOM_TV:0 "¢e®ª¬ª¯ ¢o¨¦ec²¢o¯" #GetGovernmentTV
+ HOLY_STATE_TV:0 "µep¬o¢°º¯ ¥oc³¦apc²¢o¯" #GetGovernmentTV
+ HIGH_IMAMATE_TV:0 "¢epxo¢°º¯ ª¯a¯a²o¯" #GetGovernmentTV
+ HOLY_EMPIRE_TV:0 "²eo¬pa²ª¶ec¬o« ª¯±epªe«" #GetGovernmentTV
+ GREAT_EMIRATE_TV:0 "¢e®ª¬ª¯ ¼¯ªpa²o¯" #GetGovernmentTV
+ PASHALIK_TV:0 "¼÷®e²o¯" #GetGovernmentTV
+ SOGN_TV:0 "co¥°o¯" #GetGovernmentTV
+ HERRED_TV:0 "co²°e«" #GetGovernmentTV
+ BONDEVALDE_TV:0 " o°¦e¢e®»¦o¯" #GetGovernmentTV
+ MISL_TV:0 "¯ªca®e¯" #GetGovernmentTV
+ CONFEDERATION_TV:0 "¬o°´e¦epaµªe«" #GetGovernmentTV
+ TRIBE_TV:0 "±®e¯e°e¯" #GetGovernmentTV
+ HOLY_PRINCIPALITY_TV:0 "µep¬o¢°º¯ ¬°÷¨ec²¢o¯" #GetGovernmentTV
+ TSARDOM_TV:0 "µapc²¢o¯" #GetGovernmentTV
+ GRAND_PRINCEDOM_TV:0 "¢e®ª¬ª¯ ¬°÷¨ec²¢o¯" #GetGovernmentTV
+ GREAT_PRINCEDOM_TV:0 "c¢e²®e«·ª¯ ¬°÷¨ec²¢o¯" #GetGovernmentTV
+ MONASTIC_ORDER_TV:0 "¢oe°°o-¯o°a·ec¬ª¯ op¦e°o¯" #GetGovernmentTV
+ GRAND_REPUBLIC_TV:0 "¢e®ª¬o« pec±³ ®ª¬o«" #GetGovernmentTV
+ FEDERAL_REPUBLIC_TV:0 "´e¦epa®»°o« pec±³ ®ª¬o«" #GetGovernmentTV
+ CAH_TV:0 "¬axo¯" #GetGovernmentTV
+ KUCHKABAL_TV:0 "¬³¶¬a a®e¯" #GetGovernmentTV
+ GREAT_LEAGUE_TV:0 "¢e®ª¬o« ®ª¥o«" #GetGovernmentTV
+ PAPACY_TV:0 "±a±c²¢o¯" #GetGovernmentTV
+ COLONY_TV:0 "¬o®o°ªe«" #GetGovernmentTV
+ SHOGUNATE_TV:0 "cë¥³°a²o¯" #GetGovernmentTV
+ INDEP_DAIMYO_TV:0 "°e©a¢ªcª¯º¯ ¦a«¯ë" #GetGovernmentTV
+ GRAND_INDEP_DAIMYO_TV:0 "¥®a¢°º¯ ¦a«¯ë" #GetGovernmentTV
+ GREAT_INDEP_DAIMYO_TV:0 "¢e®ª¬ª¯ ¦a«¯ë" #GetGovernmentTV
+ HETMANATE_TV:0 "¥e²¯a°¸ª°o«" #GetGovernmentTV
+ GRAND_HETMANATE_TV:0 " o®»·o« ¥e²¯a°¸ª°o«" #GetGovernmentTV
+ GREAT_HETMANATE_TV:0 "¢e®ª¬ª¯ ¥e²¯a°a²o¯" #GetGovernmentTV
+ SHARIFATE_TV:0 "·apª´a²o¯" #GetGovernmentTV
+ GREAT_SHARIFATE_TV:0 "¢e®ª¬ª¯ ·apª´a²o¯" #GetGovernmentTV
+ GRAND_SHARIFATE_TV:0 "¢ºc·ª¯ ·apª´a²o¯" #GetGovernmentTV
+ BARANGAY_TV:0 " apa°¥ae¯" #GetGovernmentTV
+ GRAND_BARANGAY_TV:0 " o®»·ª¯  apa°¥ae¯" #GetGovernmentTV
+ GREAT_BARANGAY_TV:0 "¢e®ª¬ª¯  apa°¥ae¯" #GetGovernmentTV
+ PARLIAMENT_OF_HEAVEN_TV:0 "±ap®a¯e°²o¯ He ec" #GetGovernmentTV
+ REVOLUTIONARY_PEASANT_REPUBLIC_TV:0 "¬pec²»÷°c¬o« x³°²o«" #GetGovernmentTV
+ FREE_CITY_TV:0 "¢o®»°º¯ ¥opo¦o¯" #GetGovernmentTV
+ SERENE_REPUBLIC_TV:0 "c¢e²®e«·e« pec±³ ®ª¬o«" #GetGovernmentTV
+ ###Версия 1.28
+ PIRATE_REPUBLIC_PR:0 "±ªpa²c¬o« pec±³ ®ª¬e" #GetGovernmentPR
+ PIRATE_CONFEDERACY_PR:0 "±ªpa²c¬o« ¬o°´e¦epaµªª" #GetGovernmentPR
+ GRAND_PIRATE_CONFEDERACY_PR:0 " o®»·o« ±ªpa²c¬o« ¬o°´e¦epaµªª" #GetGovernmentPR
+ PIRATE_REPUBLIC_DT:0 "±ªpa²c¬o« pec±³ ®ª¬e" #GetGovernmentDT
+ PIRATE_CONFEDERACY_DT:0 "±ªpa²c¬o« ¬o°´e¦epaµªª" #GetGovernmentDT
+ GRAND_PIRATE_CONFEDERACY_DT:0 " o®»·o« ±ªpa²c¬o« ¬o°´e¦epaµªª" #GetGovernmentDT
+ PIRATE_REPUBLIC_RD:0 "±ªpa²c¬o« pec±³ ®ª¬ª" #GetGovernmentRD
+ PIRATE_CONFEDERACY_RD:0 "±ªpa²c¬o« ¬o°´e¦epaµªª" #GetGovernmentRD
+ GRAND_PIRATE_CONFEDERACY_RD:0 " o®»·o« ±ªpa²c¬o« ¬o°´e¦epaµªª" #GetGovernmentRD
+ PIRATE_REPUBLIC_IM:0 "±ªpa²c¬³¾ pec±³ ®ª¬³" #GetGovernmentIM
+ PIRATE_CONFEDERACY_IM:0 "±ªpa²c¬³¾ ¬o°´e¦epaµª¾" #GetGovernmentIM
+ GRAND_PIRATE_CONFEDERACY_IM:0 " o®»·³¾ ±ªpa²c¬³¾ ¬o°´e¦epaµª¾" #GetGovernmentIM
+ PIRATE_REPUBLIC_TV:0 "±ªpa²c¬o« pec±³ ®ª¬o«" #GetGovernmentTV
+ PIRATE_CONFEDERACY_TV:0 "±ªpa²c¬o« ¬o°´e¦epaµªe«" #GetGovernmentTV
+ GRAND_PIRATE_CONFEDERACY_TV:0 " o®»·o« ±ªpa²c¬o« ¬o°´e¦epaµªe«" #GetGovernmentTV
+ PIRATE_PRINCIPALITY_PR:0 "±ªpa²c¬o¯ ¬°÷¨ec²¢e" #GetGovernmentPR
+ PIRATE_KINGDOM_PR:0 "¬opo®e¢c²¢e ±ªpa²o¢" #GetGovernmentPR
+ PIRATE_EMPIRE_PR:0 "ª¯±epªª ±ªpa²o¢" #GetGovernmentPR
+ PIRATE_PRINCIPALITY_DT:0 "±ªpa²c¬o¯³ ¬°÷¨ec²¢³" #GetGovernmentDT
+ PIRATE_KINGDOM_DT:0 "¬opo®e¢c²¢³ ±ªpa²o¢" #GetGovernmentDT
+ PIRATE_EMPIRE_DT:0 "ª¯±epªª ±ªpa²o¢" #GetGovernmentDT
+ PIRATE_PRINCIPALITY_RD:0 "±ªpa²c¬o¥o ¬°÷¨ec²¢a" #GetGovernmentRD
+ PIRATE_KINGDOM_RD:0 "¬opo®e¢c²¢a ±ªpa²o¢" #GetGovernmentRD
+ PIRATE_EMPIRE_RD:0 "ª¯±epªª ±ªpa²o¢" #GetGovernmentRD
+ PIRATE_PRINCIPALITY_IM:0 "±ªpa²c¬oe ¬°÷¨ec²¢o" #GetGovernmentIM
+ PIRATE_KINGDOM_IM:0 "¬opo®e¢c²¢o ±ªpa²o¢" #GetGovernmentIM
+ PIRATE_EMPIRE_IM:0 "ª¯±epª¾ ±ªpa²o¢" #GetGovernmentIM
+ PIRATE_PRINCIPALITY_TV:0 "±ªpa²c¬ª¯ ¬°÷¨ec²¢o¯" #GetGovernmentTV
+ PIRATE_KINGDOM_TV:0 "¬opo®e¢c²¢o¯ ±ªpa²o¢" #GetGovernmentTV
+ PIRATE_EMPIRE_TV:0 "ª¯±epªe« ±ªpa²o¢" #GetGovernmentTV
+ ###Версия 1.29-1.31
+ SAVANAROLA_GOVERNMENT_PR:0 "±pa¢ª²e®»c²¢e Ca¢o°apo®º" #GetGovernmentPR
+ SAVANAROLA_GOVERNMENT_DT:0 "±pa¢ª²e®»c²¢³ Ca¢o°apo®º" #GetGovernmentDT
+ SAVANAROLA_GOVERNMENT_RD:0 "±pa¢ª²e®»c²¢a Ca¢o°apo®º" #GetGovernmentRD
+ SAVANAROLA_GOVERNMENT_IM:0 "±pa¢ª²e®»c²¢o Ca¢o°apo®º" #GetGovernmentIM
+ SAVANAROLA_GOVERNMENT_TV:0 "±pa¢ª²e®»c²¢o¯ Ca¢o°apo®º" #GetGovernmentTV
+ 
+ MOST_SERENE_REPUBLIC_PR:0 "c¢e²®e«·e« pec±³ ®ª¬e" #GetGovernmentPR
+ MOST_SERENE_REPUBLIC_DT:0 "c¢e²®e«·e« pec±³ ®ª¬e" #GetGovernmentDT
+ MOST_SERENE_REPUBLIC_RD:0 "c¢e²®e«·e« pec±³ ®ª¬ª" #GetGovernmentRD
+ MOST_SERENE_REPUBLIC_IM:0 "c¢e²®e«·a÷ pec±³ ®ª¬a" #GetGovernmentIM
+ MOST_SERENE_REPUBLIC_TV:0 "c¢e²®e«·e« pec±³ ®ª¬o«" #GetGovernmentTV
+ 
+ STATELESS_SOCIETY_IM:0 "o ¸ec²¢o  e© ¥oc³¦apc²¢a" #GetGovernmentIM
+ STATELESS_SOCIETY_RD:0 "o ¸ec²¢a  e© ¥oc³¦apc²¢a" #GetGovernmentRD
+ STATELESS_SOCIETY_DT:0 "o ¸ec²¢³  e© ¥oc³¦apc²¢a" #GetGovernmentDT
+ STATELESS_SOCIETY_TV:0 "o ¸ec²¢o¯  e© ¥oc³¦apc²¢a" #GetGovernmentTV
+ STATELESS_SOCIETY_PR:0 "o ¸ec²¢e  e© ¥oc³¦apc²¢a" #GetGovernmentPR
+ 
+ ISLAMIC_CALIPHATE_IM:0 "ªc®a¯c¬ª« xa®ª´a²" #GetGovernmentIM
+ ISLAMIC_CALIPHATE_RD:0 "ªc®a¯c¬o¥o xa®ª´a²a" #GetGovernmentRD
+ ISLAMIC_CALIPHATE_DT:0 "ªc®a¯c¬o¯³ xa®ª´a²³" #GetGovernmentDT
+ ISLAMIC_CALIPHATE_TV:0 "ªc®a¯c¬ª¯ xa®ª´a²o¯" #GetGovernmentTV
+ ISLAMIC_CALIPHATE_PR:0 "ªc®a¯c¬o¯ xa®ª´a²e" #GetGovernmentPR
+ 
+ REVOLUTIONARY_SPANISH_REPUBLIC_IM:0 "¢epxo¢°a÷ x³°²a" #GetGovernmentIM
+ REVOLUTIONARY_SPANISH_REPUBLIC_RD:0 "¢epxo¢°o« x³°²º" #GetGovernmentRD
+ REVOLUTIONARY_SPANISH_REPUBLIC_DT:0 "¢epxo¢°o« x³°²e" #GetGovernmentDT
+ REVOLUTIONARY_SPANISH_REPUBLIC_TV:0 "¢epxo¢°o« x³°²o«" #GetGovernmentTV
+ REVOLUTIONARY_SPANISH_REPUBLIC_PR:0 "¢epxo¢°o« x³°²e" #GetGovernmentPR
+ 
+ REVOLUTIONARY_SWEDISH_REPUBLIC_IM:0 "Säkerhetstinget" #GetGovernmentIM
+ REVOLUTIONARY_SWEDISH_REPUBLIC_RD:0 "Säkerhetstinget" #GetGovernmentRD
+ REVOLUTIONARY_SWEDISH_REPUBLIC_DT:0 "Säkerhetstinget" #GetGovernmentDT
+ REVOLUTIONARY_SWEDISH_REPUBLIC_TV:0 "Säkerhetstinget" #GetGovernmentTV
+ REVOLUTIONARY_SWEDISH_REPUBLIC_PR:0 "Säkerhetstinget" #GetGovernmentPR
+ 
+ REVOLUTIONARY_DANISH_REPUBLIC_IM:0 "Sikkerhedtinget" #GetGovernmentIM
+ REVOLUTIONARY_DANISH_REPUBLIC_RD:0 "Sikkerhedtinget" #GetGovernmentRD
+ REVOLUTIONARY_DANISH_REPUBLIC_DT:0 "Sikkerhedtinget" #GetGovernmentDT
+ REVOLUTIONARY_DANISH_REPUBLIC_TV:0 "Sikkerhedtinget" #GetGovernmentTV
+ REVOLUTIONARY_DANISH_REPUBLIC_PR:0 "Sikkerhedtinget" #GetGovernmentPR
+ 
+ GOV_REVOLUTIONARY_REPUBLIC_IM:0 "pe¢o®¾µªo°°a÷ pec±³ ®ª¬a" #GetGovernmentIM
+ GOV_REVOLUTIONARY_REPUBLIC_RD:0 "pe¢o®¾µªo°°o« pec±³ ®ª¬ª" #GetGovernmentRD
+ GOV_REVOLUTIONARY_REPUBLIC_DT:0 "pe¢o®¾µªo°°o« pec±³ ®ª¬e" #GetGovernmentDT
+ GOV_REVOLUTIONARY_REPUBLIC_TV:0 "pe¢o®¾µªo°°o« pec±³ ®ª¬o«" #GetGovernmentTV
+ GOV_REVOLUTIONARY_REPUBLIC_PR:0 "pe¢o®¾µªo°°o« pec±³ ®ª¬e" #GetGovernmentPR
+ 
+ KAISERREICH_IM:0 "ª¯±epª÷" #GetGovernmentIM
+ KAISERREICH_RD:0 "ª¯±epªª" #GetGovernmentRD
+ KAISERREICH_DT:0 "ª¯±epªª" #GetGovernmentDT
+ KAISERREICH_TV:0 "ª¯±epªe«" #GetGovernmentTV
+ KAISERREICH_PR:0 "ª¯±epªª" #GetGovernmentPR
+ 
+ STRATOCRACY_IM:0 "¾°¬epc¬a÷ c²pa²o¬pa²ª÷" #GetGovernmentIM
+ STRATOCRACY_RD:0 "¾°¬epc¬o« c²pa²o¬pa²ªª" #GetGovernmentRD
+ STRATOCRACY_DT:0 "¾°¬epc¬o« c²pa²o¬pa²ªª" #GetGovernmentDT
+ STRATOCRACY_TV:0 "¾°¬epc¬o« c²pa²o¬pa²ªe«" #GetGovernmentTV
+ STRATOCRACY_PR:0 "¾°¬epc¬o« c²pa²o¬pa²ªª" #GetGovernmentPR
+ 
+ ADMIRALTY_IM:0 "a¦¯ªpa®²e«c²¢o" #GetGovernmentIM
+ ADMIRALTY_RD:0 "a¦¯ªpa®²e«c²¢a" #GetGovernmentRD
+ ADMIRALTY_DT:0 "a¦¯ªpa®²e«c²¢³" #GetGovernmentDT
+ ADMIRALTY_TV:0 "a¦¯ªpa®²e«c²¢o¯" #GetGovernmentTV
+ ADMIRALTY_PR:0 "a¦¯ªpa®²e«c²¢e" #GetGovernmentPR
+ 
+ HIGH_ADMIRALTY_IM:0 "¢ºc·ee a¦¯ªpa®²e«c²¢o" #GetGovernmentIM
+ HIGH_ADMIRALTY_RD:0 "¢ºc·e¥o a¦¯ªpa®²e«c²¢a" #GetGovernmentRD
+ HIGH_ADMIRALTY_DT:0 "¢ºc·e¯³ a¦¯ªpa®²e«c²¢³" #GetGovernmentDT
+ HIGH_ADMIRALTY_TV:0 "¢ºc·ª¯ a¦¯ªpa®²e«c²¢o¯" #GetGovernmentTV
+ HIGH_ADMIRALTY_PR:0 "¢ºc·e¯ a¦¯ªpa®²e«c²¢e" #GetGovernmentPR
+ 
+ SUPREME_ADMIRALTY_IM:0 "¢epxo¢°oe a¦¯ªpa®²e«c²¢o" #GetGovernmentIM
+ SUPREME_ADMIRALTY_RD:0 "¢epxo¢°o¥o a¦¯ªpa®²e«c²¢a" #GetGovernmentRD
+ SUPREME_ADMIRALTY_DT:0 "¢epxo¢°o¯³ a¦¯ªpa®²e«c²¢³" #GetGovernmentDT
+ SUPREME_ADMIRALTY_TV:0 "¢epxo¢°º¯ a¦¯ªpa®²e«c²¢o¯" #GetGovernmentTV
+ SUPREME_ADMIRALTY_PR:0 "¢epxo¢°o¯ a¦¯ªpa®²e«c²¢e" #GetGovernmentPR
+ 
+ COMMONWEALTH_IM:0 "co¦p³¨ec²¢o" #GetGovernmentIM
+ COMMONWEALTH_RD:0 "co¦p³¨ec²¢a" #GetGovernmentRD
+ COMMONWEALTH_DT:0 "co¦p³¨ec²¢³" #GetGovernmentDT
+ COMMONWEALTH_TV:0 "co¦p³¨ec²¢o¯" #GetGovernmentTV
+ COMMONWEALTH_PR:0 "co¦p³¨ec²¢e" #GetGovernmentPR
+ 
+ MILITARY_GOVERNMENT_IM:0 "¢oe°°a÷ pec±³ ®ª¬a" #GetGovernmentIM
+ MILITARY_GOVERNMENT_RD:0 "¢oe°°o« pec±³ ®ª¬ª" #GetGovernmentRD
+ MILITARY_GOVERNMENT_DT:0 "¢oe°°o« pec±³ ®ª¬e" #GetGovernmentDT
+ MILITARY_GOVERNMENT_TV:0 "¢oe°°o« pec±³ ®ª¬o«" #GetGovernmentTV
+ MILITARY_GOVERNMENT_PR:0 "¢oe°°o« pec±³ ®ª¬e" #GetGovernmentPR
+ 
+ ELECTORAL_PALATINATE_IM:0 "¢º op°oe ±´a®»µ¥pa´c²¢o" #GetGovernmentIM
+ ELECTORAL_PALATINATE_RD:0 "¢º op°o¥o ±´a®»µ¥pa´c²¢a" #GetGovernmentRD
+ ELECTORAL_PALATINATE_DT:0 "¢º op°o¯³ ±´a®»µ¥pa´c²¢³" #GetGovernmentDT
+ ELECTORAL_PALATINATE_TV:0 "¢º op°º¯ ±´a®»µ¥pa´c²¢o¯" #GetGovernmentTV
+ ELECTORAL_PALATINATE_PR:0 "¢º op°o¯ ±´a®»µ¥pa´c²¢e" #GetGovernmentPR
+ 
+ COUNTY_PALATINE_IM:0 "±´a®»µ¥pa´c²¢o" #GetGovernmentIM
+ COUNTY_PALATINE_RD:0 "±´a®»µ¥pa´c²¢a" #GetGovernmentRD
+ COUNTY_PALATINE_DT:0 "±´a®»µ¥pa´c²¢³" #GetGovernmentDT
+ COUNTY_PALATINE_TV:0 "±´a®»µ¥pa´c²¢o¯" #GetGovernmentTV
+ COUNTY_PALATINE_PR:0 "±´a®»µ¥pa´c²¢e" #GetGovernmentPR
+ 
+ KINGDOM_PALATINE_IM:0 "±´a®»µ¬opo®e¢c²¢o" #GetGovernmentIM
+ KINGDOM_PALATINE_RD:0 "±´a®»µ¬opo®e¢c²¢a" #GetGovernmentRD
+ KINGDOM_PALATINE_DT:0 "±´a®»µ¬opo®e¢c²¢³" #GetGovernmentDT
+ KINGDOM_PALATINE_TV:0 "±´a®»µ¬opo®e¢c²¢o¯" #GetGovernmentTV
+ KINGDOM_PALATINE_PR:0 "±´a®»µ¬opo®e¢c²¢e" #GetGovernmentPR
+ 
+ HERCEGSEG_IM:0 "¬°÷¨ec²¢o" #GetGovernmentIM
+ HERCEGSEG_RD:0 "¬°÷¨ec²¢a" #GetGovernmentRD
+ HERCEGSEG_DT:0 "¬°÷¨ec²¢³" #GetGovernmentDT
+ HERCEGSEG_TV:0 "¬°÷¨ec²¢o¯" #GetGovernmentTV
+ HERCEGSEG_PR:0 "¬°÷¨ec²¢e" #GetGovernmentPR
+ 
+ GRAND_HERCEGSEG_IM:0 "¢e®ª¬oe ¬°÷¨ec²¢o" #GetGovernmentIM
+ GRAND_HERCEGSEG_RD:0 "¢e®ª¬o¥o ¬°÷¨ec²¢a" #GetGovernmentRD
+ GRAND_HERCEGSEG_DT:0 "¢e®ª¬o¯³ ¬°÷¨ec²¢³" #GetGovernmentDT
+ GRAND_HERCEGSEG_TV:0 "¢e®ª¬ª¯ ¬°÷¨ec²¢o¯" #GetGovernmentTV
+ GRAND_HERCEGSEG_PR:0 "¢e®ª¬o¯ ¬°÷¨ec²¢e" #GetGovernmentPR
+ 
+ ELECTORATE_DUCHY_IM:0 "¬³p´¾p·ec²¢o" #GetGovernmentIM
+ ELECTORATE_DUCHY_RD:0 "¬³p´¾p·ec²¢a" #GetGovernmentRD
+ ELECTORATE_DUCHY_DT:0 "¬³p´¾p·ec²¢³" #GetGovernmentDT
+ ELECTORATE_DUCHY_TV:0 "¬³p´¾p·ec²¢o¯" #GetGovernmentTV
+ ELECTORATE_DUCHY_PR:0 "¬³p´¾p·ec²¢e" #GetGovernmentPR
+ 
+ ELECTORATE_BISHOPRIC_IM:0 "e±ªc¬o±c²¢o-¬³p´¾p·ec²¢o" #GetGovernmentIM
+ ELECTORATE_BISHOPRIC_RD:0 "e±ªc¬o±c²¢a-¬³p´¾p·ec²¢a" #GetGovernmentRD
+ ELECTORATE_BISHOPRIC_DT:0 "e±ªc¬o±c²¢³-¬³p´¾p·ec²¢³" #GetGovernmentDT
+ ELECTORATE_BISHOPRIC_TV:0 "e±ªc¬o±c²¢o¯-¬³p´¾p·ec²¢o¯" #GetGovernmentTV
+ ELECTORATE_BISHOPRIC_PR:0 "e±ªc¬o±c²¢e-¬³p´¾p·ec²¢e" #GetGovernmentPR
+ 
+ ELECTORAL_REPUBLIC_IM:0 "pec±³ ®ª¬a-¬³p´¾p·ec²¢o" #GetGovernmentIM
+ ELECTORAL_REPUBLIC_RD:0 "pec±³ ®ª¬ª-¬³p´¾p·ec²¢a" #GetGovernmentRD
+ ELECTORAL_REPUBLIC_DT:0 "pec±³ ®ª¬e-¬³p´¾p·ec²¢³" #GetGovernmentDT
+ ELECTORAL_REPUBLIC_TV:0 "pec±³ ®ª¬o«-¬³p´¾p·ec²¢o¯" #GetGovernmentTV
+ ELECTORAL_REPUBLIC_PR:0 "pec±³ ®ª¬e-¬³p´¾p·ec²¢e" #GetGovernmentPR
+ 
+ GRAND_ELECTORAL_REPUBLIC_IM:0 "¢e®ª¬a÷ pec±³ ®ª¬a-¬³p´¾p·ec²¢o" #GetGovernmentIM
+ GRAND_ELECTORAL_REPUBLIC_RD:0 "¢e®ª¬o« pec±³ ®ª¬ª-¬³p´¾p·ec²¢a" #GetGovernmentRD
+ GRAND_ELECTORAL_REPUBLIC_DT:0 "¢e®ª¬o« pec±³ ®ª¬e-¬³p´¾p·ec²¢³" #GetGovernmentDT
+ GRAND_ELECTORAL_REPUBLIC_TV:0 "¢e®ª¬o« pec±³ ®ª¬o«-¬³p´¾p·ec²¢o¯" #GetGovernmentTV
+ GRAND_ELECTORAL_REPUBLIC_PR:0 "¢e®ª¬o« pec±³ ®ª¬e-¬³p´¾p·ec²¢e" #GetGovernmentPR
+ 
+ GREAT_ELECTORAL_REPUBLIC_IM:0 "¢e®ª¶a«·a÷ pec±³ ®ª¬a-¬³p´¾p·ec²¢o" #GetGovernmentIM
+ GREAT_ELECTORAL_REPUBLIC_RD:0 "¢e®ª¶a«·e« pec±³ ®ª¬ª-¬³p´¾p·ec²¢a" #GetGovernmentRD
+ GREAT_ELECTORAL_REPUBLIC_DT:0 "¢e®ª¶a«·e« pec±³ ®ª¬e-¬³p´¾p·ec²¢³" #GetGovernmentDT
+ GREAT_ELECTORAL_REPUBLIC_TV:0 "¢e®ª¶a«·e« pec±³ ®ª¬o«-¬³p´¾p·ec²¢o¯" #GetGovernmentTV
+ GREAT_ELECTORAL_REPUBLIC_PR:0 "¢e®ª¶a«·e« pec±³ ®ª¬e-¬³p´¾p·ec²¢e" #GetGovernmentPR
+ 
+ COUNTY_IM:0 "¥pa´c²¢o" #GetGovernmentIM
+ COUNTY_RD:0 "¥pa´c²¢a" #GetGovernmentRD
+ COUNTY_DT:0 "¥pa´c²¢³" #GetGovernmentDT
+ COUNTY_TV:0 "¥pa´c²¢o¯" #GetGovernmentTV
+ COUNTY_PR:0 "¥pa´c²¢e" #GetGovernmentPR
+ 
+ COUNTY_IM:0 "¥pa´c²¢o" #GetGovernmentIM
+ COUNTY_RD:0 "¥pa´c²¢a" #GetGovernmentRD
+ COUNTY_DT:0 "¥pa´c²¢³" #GetGovernmentDT
+ COUNTY_TV:0 "¥pa´c²¢o¯" #GetGovernmentTV
+ COUNTY_PR:0 "¥pa´c²¢e" #GetGovernmentPR
+ 
+ COUNTY_PALATINE_IM:0 "±´a®»µ¥pa´c²¢o" #GetGovernmentIM
+ COUNTY_PALATINE_RD:0 "±´a®»µ¥pa´c²¢a" #GetGovernmentRD
+ COUNTY_PALATINE_DT:0 "±´a®»µ¥pa´c²¢³" #GetGovernmentDT
+ COUNTY_PALATINE_TV:0 "±´a®»µ¥pa´c²¢o¯" #GetGovernmentTV
+ COUNTY_PALATINE_PR:0 "±´a®»µ¥pa´c²¢e" #GetGovernmentPR
+ 
+ KINGDOM_PALATINE_IM:0 "±´a®»µ¬opo®e¢c²¢o" #GetGovernmentIM
+ KINGDOM_PALATINE_RD:0 "±´a®»µ¬opo®e¢c²¢a" #GetGovernmentRD
+ KINGDOM_PALATINE_DT:0 "±´a®»µ¬opo®e¢c²¢³" #GetGovernmentDT
+ KINGDOM_PALATINE_TV:0 "±´a®»µ¬opo®e¢c²¢o¯" #GetGovernmentTV
+ KINGDOM_PALATINE_PR:0 "±´a®»µ¬opo®e¢c²¢e" #GetGovernmentPR
+ 
+ IKKO_IKKI_COMMUNE_IM:0 "pec±³ ®ª¬a †¬¬o-ª¬¬ª" #GetGovernmentIM
+ IKKO_IKKI_COMMUNE_RD:0 "pec±³ ®ª¬ª †¬¬o-ª¬¬ª" #GetGovernmentRD
+ IKKO_IKKI_COMMUNE_DT:0 "pec±³ ®ª¬e †¬¬o-ª¬¬ª" #GetGovernmentDT
+ IKKO_IKKI_COMMUNE_TV:0 "pec±³ ®ª¬o« †¬¬o-ª¬¬ª" #GetGovernmentTV
+ IKKO_IKKI_COMMUNE_PR:0 "pec±³ ®ª¬e †¬¬o-ª¬¬ª" #GetGovernmentPR
+ 
+ IKKO_IKKI_ORDER_IM:0 "op¦e° †¬¬o-ª¬¬ª" #GetGovernmentIM
+ IKKO_IKKI_ORDER_RD:0 "op¦e°a †¬¬o-ª¬¬ª" #GetGovernmentRD
+ IKKO_IKKI_ORDER_DT:0 "op¦e°³ †¬¬o-ª¬¬ª" #GetGovernmentDT
+ IKKO_IKKI_ORDER_TV:0 "op¦e°o¯ †¬¬o-ª¬¬ª" #GetGovernmentTV
+ IKKO_IKKI_ORDER_PR:0 "op¦e°e †¬¬o-ª¬¬ª" #GetGovernmentPR
+ 
+ IKKO_IKKI_SHOGUN_IM:0 "cë¥³°a² †¬¬o-ª¬¬ª" #GetGovernmentIM
+ IKKO_IKKI_SHOGUN_RD:0 "cë¥³°a²a †¬¬o-ª¬¬ª" #GetGovernmentRD
+ IKKO_IKKI_SHOGUN_DT:0 "cë¥³°a²³ †¬¬o-ª¬¬ª" #GetGovernmentDT
+ IKKO_IKKI_SHOGUN_TV:0 "cë¥³°a²o¯ †¬¬o-ª¬¬ª" #GetGovernmentTV
+ IKKO_IKKI_SHOGUN_PR:0 "cë¥³°a²e †¬¬o-ª¬¬ª" #GetGovernmentPR
+ 
+ IKKO_IKKI_EMPIRE_IM:0 "±po²e¬²opa² †¬¬o-ª¬¬ª" #GetGovernmentIM
+ IKKO_IKKI_EMPIRE_RD:0 "±po²e¬²opa²a †¬¬o-ª¬¬ª" #GetGovernmentRD
+ IKKO_IKKI_EMPIRE_DT:0 "±po²e¬²opa²³ †¬¬o-ª¬¬ª" #GetGovernmentDT
+ IKKO_IKKI_EMPIRE_TV:0 "±po²e¬²opa²o¯ †¬¬o-ª¬¬ª" #GetGovernmentTV
+ IKKO_IKKI_EMPIRE_PR:0 "±po²e¬²opa²e †¬¬o-ª¬¬ª" #GetGovernmentPR
+ 
+ WARRIOR_MONK_ORDER_IM:0 "cox¼«" #GetGovernmentIM
+ WARRIOR_MONK_ORDER_RD:0 "cox¼÷" #GetGovernmentRD
+ WARRIOR_MONK_ORDER_DT:0 "cox¼¾" #GetGovernmentDT
+ WARRIOR_MONK_ORDER_TV:0 "cox¼e¯" #GetGovernmentTV
+ WARRIOR_MONK_ORDER_PR:0 "cox¼e" #GetGovernmentPR
+ 
+ WARRIOR_MONK_HIGH_ORDER_IM:0 "¯o°a·ec¬ª« cë¥³°a²" #GetGovernmentIM
+ WARRIOR_MONK_HIGH_ORDER_RD:0 "¯o°a·ec¬o¥o cë¥³°a²a" #GetGovernmentRD
+ WARRIOR_MONK_HIGH_ORDER_DT:0 "¯o°a·ec¬o¯³ cë¥³°a²³" #GetGovernmentDT
+ WARRIOR_MONK_HIGH_ORDER_TV:0 "¯o°a·ec¬ª¯ cë¥³°a²o¯" #GetGovernmentTV
+ WARRIOR_MONK_HIGH_ORDER_PR:0 "¯o°a·ec¬o¯ cë¥³°a²e" #GetGovernmentPR
+ 
+ DIVINE_PROTECTORS_IM:0 " o¨ec²¢e°°º« ±po²e¬²opa²" #GetGovernmentIM
+ DIVINE_PROTECTORS_RD:0 " o¨ec²¢e°°o¥o ±po²e¬²opa²a" #GetGovernmentRD
+ DIVINE_PROTECTORS_DT:0 " o¨ec²¢e°°o¯³ ±po²e¬²opa²³" #GetGovernmentDT
+ DIVINE_PROTECTORS_TV:0 " o¨ec²¢e°°º¯ ±po²e¬²opa²o¯" #GetGovernmentTV
+ DIVINE_PROTECTORS_PR:0 " o¨ec²¢e°°o¯ ±po²e¬²opa²e" #GetGovernmentPR
+ 
+ BLACK_KNIGHTS_IM:0 "pºµapª A¦pªa°a" #GetGovernmentIM
+ BLACK_KNIGHTS_RD:0 "pºµape« A¦pªa°a" #GetGovernmentRD
+ BLACK_KNIGHTS_DT:0 "pºµap÷¯ A¦pªa°a" #GetGovernmentDT
+ BLACK_KNIGHTS_TV:0 "pºµap÷¯ª A¦pªa°a" #GetGovernmentTV
+ BLACK_KNIGHTS_PR:0 "pºµap÷x A¦pªa°a" #GetGovernmentPR
+ 
+ BLACK_LONG_KNIGHTS_IM:0 "pºµapª A¦pªa°a" #GetGovernmentIM
+ BLACK_LONG_KNIGHTS_RD:0 "pºµape« A¦pªa°a" #GetGovernmentRD
+ BLACK_LONG_KNIGHTS_DT:0 "pºµap÷¯ A¦pªa°a" #GetGovernmentDT
+ BLACK_LONG_KNIGHTS_TV:0 "pºµap÷¯ª A¦pªa°a" #GetGovernmentTV
+ BLACK_LONG_KNIGHTS_PR:0 "pºµap÷x A¦pªa°a" #GetGovernmentPR
+ 
+ BLACK_WATCH_IM:0 "¦o©op A¦pªa°a" #GetGovernmentIM
+ BLACK_WATCH_RD:0 "¦o©opa A¦pªa°a" #GetGovernmentRD
+ BLACK_WATCH_DT:0 "¦o©op³ A¦pªa°a" #GetGovernmentDT
+ BLACK_WATCH_TV:0 "¦o©opo¯ A¦pªa°a" #GetGovernmentTV
+ BLACK_WATCH_PR:0 "¦o©ope A¦pªa°a" #GetGovernmentPR
+ 
+ SOVREIGN_MONASTIC_ORDER_IM:0 "c³¢epe°°º« ¢oe°°º« op¦e°" #GetGovernmentIM
+ SOVREIGN_MONASTIC_ORDER_RD:0 "c³¢epe°°o¥o ¢oe°°o¥o op¦e°a" #GetGovernmentRD
+ SOVREIGN_MONASTIC_ORDER_DT:0 "c³¢epe°°o¯³ ¢oe°°o¯³ op¦e°³" #GetGovernmentDT
+ SOVREIGN_MONASTIC_ORDER_TV:0 "c³¢epe°°o¯ ¢oe°°o¯ op¦e°o¯" #GetGovernmentTV
+ SOVREIGN_MONASTIC_ORDER_PR:0 "c³¢epe°°o¯ ¢oe°°o¯ op¦e°e" #GetGovernmentPR
+ 
+ SOVREIGN_MONASTIC_CONFEDERATION_IM:0 "c³¢epe°°a÷ pºµapc¬a÷ ¬o°´e¦epaµª÷" #GetGovernmentIM
+ SOVREIGN_MONASTIC_CONFEDERATION_RD:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªª" #GetGovernmentRD
+ SOVREIGN_MONASTIC_CONFEDERATION_DT:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªª" #GetGovernmentDT
+ SOVREIGN_MONASTIC_CONFEDERATION_TV:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªe«" #GetGovernmentTV
+ SOVREIGN_MONASTIC_CONFEDERATION_PR:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªª" #GetGovernmentPR
+ 
+ SISTERHOOD_IM:0 "cec²pª¶ec²¢o" #GetGovernmentIM
+ SISTERHOOD_RD:0 "cec²pª¶ec²¢a" #GetGovernmentRD
+ SISTERHOOD_DT:0 "cec²pª¶ec²¢³" #GetGovernmentDT
+ SISTERHOOD_TV:0 "cec²pª¶ec²¢o¯" #GetGovernmentTV
+ SISTERHOOD_PR:0 "cec²pª¶ec²¢e" #GetGovernmentPR
+ 
+ GRAND_SISTERHOOD_IM:0 "¢e®ª¬oe cec²pª¶ec²¢o" #GetGovernmentIM
+ GRAND_SISTERHOOD_RD:0 "¢e®ª¬o¥o cec²pª¶ec²¢a" #GetGovernmentRD
+ GRAND_SISTERHOOD_DT:0 "¢e®ª¬o¯³ cec²pª¶ec²¢³" #GetGovernmentDT
+ GRAND_SISTERHOOD_TV:0 "¢e®ª¬ª¯ cec²pª¶ec²¢o¯" #GetGovernmentTV
+ GRAND_SISTERHOOD_PR:0 "¢e®ª¬o¯ cec²pª¶ec²¢e" #GetGovernmentPR
+ 
+ TRAPPIST_STATE_IM:0 "op¦e° ²pa±±ªc²o¢" #GetGovernmentIM
+ TRAPPIST_STATE_RD:0 "op¦e°a ²pa±±ªc²o¢" #GetGovernmentRD
+ TRAPPIST_STATE_DT:0 "op¦e°³ ²pa±±ªc²o¢" #GetGovernmentDT
+ TRAPPIST_STATE_TV:0 "op¦e°o¯ ²pa±±ªc²o¢" #GetGovernmentTV
+ TRAPPIST_STATE_PR:0 "op¦e°e ²pa±±ªc²o¢" #GetGovernmentPR
+ 
+ MONASTIC_STATE_IM:0 "¯o°a·ec¬oe ¥oc³¦apc²¢o" #GetGovernmentIM
+ MONASTIC_STATE_RD:0 "¯o°a·ec¬o¥o ¥oc³¦apc²¢a" #GetGovernmentRD
+ MONASTIC_STATE_DT:0 "¯o°a·ec¬o¯³ ¥oc³¦apc²¢³" #GetGovernmentDT
+ MONASTIC_STATE_TV:0 "¯o°a·ec¬ª¯ ¥oc³¦apc²¢o¯" #GetGovernmentTV
+ MONASTIC_STATE_PR:0 "¯o°a·ec¬o¯ ¥oc³¦apc²¢e" #GetGovernmentPR
+ 
+ BREWING_EMPIRE_IM:0 "±ª¢°a÷ ª¯±epª÷" #GetGovernmentIM
+ BREWING_EMPIRE_RD:0 "±ª¢°o« ª¯±epªª" #GetGovernmentRD
+ BREWING_EMPIRE_DT:0 "±ª¢°o« ª¯±epªª" #GetGovernmentDT
+ BREWING_EMPIRE_TV:0 "±ª¢°o« ª¯±epªe«" #GetGovernmentTV
+ BREWING_EMPIRE_PR:0 "±ª¢°o« ª¯±epªª" #GetGovernmentPR
+ 
+ SYNTH_GOV_IM:0 "¯a·ª°°º« ª°²e®®e¬²" #GetGovernmentIM
+ SYNTH_GOV_RD:0 "¯a·ª°°o¥o ª°²e®®e¬²a" #GetGovernmentRD
+ SYNTH_GOV_DT:0 "¯a·ª°°o¯³ ª°²e®®e¬²³" #GetGovernmentDT
+ SYNTH_GOV_TV:0 "¯a·ª°°º¯ ª°²e®®e¬²o¯" #GetGovernmentTV
+ SYNTH_GOV_PR:0 "¯a·ª°°o¯ ª°²e®®e¬²e" #GetGovernmentPR
+ 

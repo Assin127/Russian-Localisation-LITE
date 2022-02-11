@@ -1,0 +1,1080 @@
+﻿l_english:
+ #Религия в именительном падеже
+ animism_name_IM:0 "a°ª¯ª©¯" #ReligionIM
+ buddhism_name_IM:0 "²xepa¢a¦a" #ReligionIM
+ vajrayana_name_IM:0 "¢a¦¨pa÷°a" #ReligionIM
+ mahayana_name_IM:0 "¯axa÷°a" #ReligionIM
+ catholic_name_IM:0 "¬a²o®ª¶ec²¢o" #ReligionIM
+ confucianism_name_IM:0 "¬o°´³µªa°c²¢o" #ReligionIM
+ hinduism_name_IM:0 "ª°¦³ª©¯" #ReligionIM
+ orthodox_name_IM:0 "±pa¢oc®a¢ªe" #ReligionIM
+ protestant_name_IM:0 "±po²ec²a°²ª©¯" #ReligionIM
+ reformed_name_IM:0 "pe´op¯a²c²¢o" #ReligionIM
+ shamanism_name_IM:0 "´e²ª·ª©¯" #ReligionIM
+ shiite_name_IM:0 "·ªª©¯" #ReligionIM
+ shinto_name_IM:0 "cª°²oª©¯" #ReligionIM
+ sunni_name_IM:0 "c³°°ª©¯" #ReligionIM
+ totemism_name_IM:0 "²o²e¯ª©¯" #ReligionIM
+ noreligion_name_IM:0 "°e² pe®ª¥ªª" #ReligionIM
+ anglican_name_IM:0 "a°¥®ª¬a°c²¢o" #ReligionIM
+ coptic_name_IM:0 "¯ªa´ª©ª²c²¢o" #ReligionIM
+ ibadi_name_IM:0 "ª a¦ª©¯" #ReligionIM
+ sikhism_name_IM:0 "cª¬xª©¯" #ReligionIM
+ inti_name_IM:0 "ª°²ª" #ReligionIM
+ nahuatl_name_IM:0 "°a³a²®»" #ReligionIM
+ mesoamerican_religion_name_IM:0 "¯a«÷" #ReligionIM
+ norse_pagan_reformed_name_IM:0 "c¬a°¦ª°a¢c¬oe ÷©º¶ec²¢o" #ReligionIM
+ tengri_pagan_reformed_name_IM:0 "²e°¥pªa°c²¢o" #ReligionIM
+ jewish_name_IM:0 "ª³¦aª©¯" #ReligionIM
+ zoroastrian_name_IM:0 "©opoac²pª©¯" #ReligionIM
+ hussite_name_IM:0 "¥³cª©¯" #ReligionIM
+ dreamtime_name_IM:0 "a®»¶epa" #ReligionIM
+ #Религия в родительном падеже
+ animism_name_RD:0 "a°ª¯ª©¯a" #ReligionRD
+ buddhism_name_RD:0 "²xepa¢a¦º" #ReligionRD
+ vajrayana_name_RD:0 "¢a¦¨pa÷°º" #ReligionRD
+ mahayana_name_RD:0 "¯axa÷°º" #ReligionRD
+ catholic_name_RD:0 "¬a²o®ª¶ec²¢a" #ReligionRD
+ confucianism_name_RD:0 "¬o°´³µªa°c²¢a" #ReligionRD
+ hinduism_name_RD:0 "ª°¦³ª©¯a" #ReligionRD
+ orthodox_name_RD:0 "±pa¢oc®a¢ª÷" #ReligionRD
+ protestant_name_RD:0 "±po²ec²a°²ª©¯a" #ReligionRD
+ reformed_name_RD:0 "pe´op¯a²c²¢a" #ReligionRD
+ shamanism_name_RD:0 "´e²ª·ª©¯a" #ReligionRD
+ shiite_name_RD:0 "·ªª©¯a" #ReligionRD
+ shinto_name_RD:0 "cª°²oª©¯a" #ReligionRD
+ sunni_name_RD:0 "c³°°ª©¯a" #ReligionRD
+ totemism_name_RD:0 "²o²e¯ª©¯a" #ReligionRD
+ noreligion_name_RD:0 "a²eª©¯a" #ReligionRD
+ anglican_name_RD:0 "a°¥®ª¬a°c²¢a" #ReligionRD
+ coptic_name_RD:0 "¯ªa´ª©ª²c²¢a" #ReligionRD
+ ibadi_name_RD:0 "ª a¦ª©¯a" #ReligionRD
+ sikhism_name_RD:0 "cª¬xª©¯a" #ReligionRD
+ inti_name_RD:0 "ª°²ª" #ReligionRD
+ nahuatl_name_RD:0 "°a³a²®÷" #ReligionRD
+ mesoamerican_religion_name_RD:0 "¯a«÷" #ReligionRD
+ norse_pagan_reformed_name_RD:0 "c¬a°¦ª°a¢c¬o¥o ÷©º¶ec²¢a" #ReligionRD
+ tengri_pagan_reformed_name_RD:0 "²e°¥pªa°c²¢a" #ReligionRD
+ jewish_name_RD:0 "ª³¦aª©¯a" #ReligionRD
+ zoroastrian_name_RD:0 "©opoac²pª©¯a" #ReligionRD
+ hussite_name_RD:0 "¥³cª©¯a" #ReligionRD
+ dreamtime_name_RD:0 "a®»¶epº" #ReligionRD
+ #Религия в дательном падеже
+ animism_name_DT:0 "a°ª¯ª©¯³" #ReligionDT
+ buddhism_name_DT:0 "²xepa¢a¦e" #ReligionDT
+ vajrayana_name_DT:0 "¢a¦¨pa÷°e" #ReligionDT
+ mahayana_name_DT:0 "¯axa÷°e" #ReligionDT
+ catholic_name_DT:0 "¬a²o®ª¶ec²¢³" #ReligionDT
+ confucianism_name_DT:0 "¬o°´³µªa°c²¢³" #ReligionDT
+ hinduism_name_DT:0 "ª°¦³ª©¯³" #ReligionDT
+ orthodox_name_DT:0 "±pa¢oc®a¢ª¾" #ReligionDT
+ protestant_name_DT:0 "±po²ec²a°²ª©¯³" #ReligionDT
+ reformed_name_DT:0 "pe´op¯a²c²¢³" #ReligionDT
+ shamanism_name_DT:0 "´e²ª·ª©¯³" #ReligionDT
+ shiite_name_DT:0 "·ªª©¯³" #ReligionDT
+ shinto_name_DT:0 "cª°²oª©¯³" #ReligionDT
+ sunni_name_DT:0 "c³°°ª©¯³" #ReligionDT
+ totemism_name_DT:0 "²o²e¯ª©¯³" #ReligionDT
+ noreligion_name_DT:0 "a²eª©¯³" #ReligionDT
+ anglican_name_DT:0 "a°¥®ª¬a°c²¢³" #ReligionDT
+ coptic_name_DT:0 "¯ªa´ª©ª²c²¢³" #ReligionDT
+ ibadi_name_DT:0 "ª a¦ª©¯³" #ReligionDT
+ sikhism_name_DT:0 "cª¬xª©¯³" #ReligionDT
+ inti_name_DT:0 "ª°²ª" #ReligionDT
+ nahuatl_name_DT:0 "°a³a²®¾" #ReligionDT
+ mesoamerican_religion_name_DT:0 "¯a«÷" #ReligionDT
+ norse_pagan_reformed_name_DT:0 "c¬a°¦ª°a¢c¬o¯³ ÷©º¶ec²¢³" #ReligionDT
+ tengri_pagan_reformed_name_DT:0 "²e°¥pªa°c²¢³" #ReligionDT
+ jewish_name_DT:0 "ª³¦aª©¯³" #ReligionDT
+ zoroastrian_name_DT:0 "©opoac²pª©¯³" #ReligionDT
+ hussite_name_DT:0 "¥³cª©¯³" #ReligionDT
+ dreamtime_name_DT:0 "a®»¶epe" #ReligionDT
+ #Религия в творительном падеже
+ animism_name_TV:0 "a°ª¯ª©¯o¯" #ReligionTV
+ buddhism_name_TV:0 "²xepa¢a¦o«" #ReligionTV
+ vajrayana_name_TV:0 "¢a¦¨pa÷°o«" #ReligionTV
+ mahayana_name_TV:0 "¯axa÷°o«" #ReligionTV
+ catholic_name_TV:0 "¬a²o®ª¶ec²¢o¯" #ReligionTV
+ confucianism_name_TV:0 "¬o°´³µªa°c²¢o¯" #ReligionTV
+ hinduism_name_TV:0 "ª°¦³ª©¯o¯" #ReligionTV
+ orthodox_name_TV:0 "±pa¢oc®a¢ªe¯" #ReligionTV
+ protestant_name_TV:0 "±po²ec²a°²ª©¯o¯" #ReligionTV
+ reformed_name_TV:0 "pe´op¯a²c²¢o¯" #ReligionTV
+ shamanism_name_TV:0 "´e²ª·ª©¯o¯" #ReligionTV
+ shiite_name_TV:0 "·ªª©¯o¯" #ReligionTV
+ shinto_name_TV:0 "cª°²oª©¯o¯" #ReligionTV
+ sunni_name_TV:0 "c³°°ª©¯o¯" #ReligionTV
+ totemism_name_TV:0 "²o²e¯ª©¯o¯" #ReligionTV
+ noreligion_name_TV:0 "a²eª©¯o¯" #ReligionTV
+ anglican_name_TV:0 "a°¥®ª¬a°c²¢o¯" #ReligionTV
+ coptic_name_TV:0 "¯ªa´ª©ª²c²¢o¯" #ReligionTV
+ ibadi_name_TV:0 "ª a¦ª©¯o¯" #ReligionTV
+ sikhism_name_TV:0 "cª¬xª©¯o¯" #ReligionTV
+ inti_name_TV:0 "ª°²ª" #ReligionTV
+ nahuatl_name_TV:0 "°a³a²®e¯" #ReligionTV
+ mesoamerican_religion_name_TV:0 "¯a«÷" #ReligionTV
+ norse_pagan_reformed_name_TV:0 "c¬a°¦ª°a¢c¬ª¯ ÷©º¶ec²¢o¯" #ReligionTV
+ tengri_pagan_reformed_name_TV:0 "²e°¥pªa°c²¢o¯" #ReligionTV
+ jewish_name_TV:0 "ª³¦aª©¯o¯" #ReligionTV
+ zoroastrian_name_TV:0 "©opoac²pª©¯o¯" #ReligionTV
+ hussite_name_TV:0 "¥³cª©¯o¯" #ReligionTV
+ dreamtime_name_TV:0 "a®»¶epo«" #ReligionTV
+ #Религия в предложном падеже
+ animism_name_PR:0 "a°ª¯ª©¯e" #ReligionPR
+ buddhism_name_PR:0 "²xepa¢a¦e" #ReligionPR
+ vajrayana_name_PR:0 "¢a¦¨pa÷°e" #ReligionPR
+ mahayana_name_PR:0 "¯axa÷°e" #ReligionPR
+ catholic_name_PR:0 "¬a²o®ª¶ec²¢e" #ReligionPR
+ confucianism_name_PR:0 "¬o°´³µªa°c²¢e" #ReligionPR
+ hinduism_name_PR:0 "ª°¦³ª©¯e" #ReligionPR
+ orthodox_name_PR:0 "±pa¢oc®a¢ªª" #ReligionPR
+ protestant_name_PR:0 "±po²ec²a°²ª©¯e" #ReligionPR
+ reformed_name_PR:0 "pe´op¯a²c²¢e" #ReligionPR
+ shamanism_name_PR:0 "´e²ª·ª©¯e" #ReligionPR
+ shiite_name_PR:0 "·ªª©¯e" #ReligionPR
+ shinto_name_PR:0 "cª°²oª©¯e" #ReligionPR
+ sunni_name_PR:0 "c³°°ª©¯e" #ReligionPR
+ totemism_name_PR:0 "²o²e¯ª©¯e" #ReligionPR
+ noreligion_name_PR:0 "a²eª©¯e" #ReligionPR
+ anglican_name_PR:0 "a°¥®ª¬a°c²¢e" #ReligionPR
+ coptic_name_PR:0 "¯ªa´ª©ª²c²¢e" #ReligionPR
+ ibadi_name_PR:0 "ª a¦ª©¯e" #ReligionPR
+ sikhism_name_PR:0 "cª¬xª©¯e" #ReligionPR
+ inti_name_PR:0 "ª°²ª" #ReligionPR
+ nahuatl_name_PR:0 "°a³a²®e" #ReligionPR
+ mesoamerican_religion_name_PR:0 "¯a«÷" #ReligionPR
+ norse_pagan_reformed_name_PR:0 "c¬a°¦ª°a¢c¬o¯ ÷©º¶ec²¢e" #ReligionPR
+ tengri_pagan_reformed_name_PR:0 "²e°¥pªa°c²¢e" #ReligionPR
+ jewish_name_PR:0 "ª³¦aª©¯e" #ReligionPR
+ zoroastrian_name_PR:0 "©opoac²pª©¯e" #ReligionPR
+ hussite_name_PR:0 "¥³cª©¯e" #ReligionPR
+ dreamtime_name_PR:0 "a®»¶epe" #ReligionPR
+ 
+ #Религия верующего в именительном падеже
+ animism_IM:0 "a°ª¯ªc²" #BelieversIM
+ buddhism_IM:0 "²xepa¢a¦eµ" #BelieversIM
+ vajrayana_IM:0 "¢a¦¨pa÷°eµ" #BelieversIM
+ mahayana_IM:0 "¯axa÷°µeµ" #BelieversIM
+ catholic_IM:0 "¬a²o®ª¬" #BelieversIM
+ confucianism_IM:0 "¬o°´³µªa°eµ" #BelieversIM
+ hinduism_IM:0 "ª°¦³ªc²" #BelieversIM
+ orthodox_IM:0 "±pa¢oc®a¢°º«" #BelieversIM
+ protestant_IM:0 "±po²ec²a°²" #BelieversIM
+ reformed_IM:0 "pe´op¯ªc²" #BelieversIM
+ shamanism_IM:0 "´e²ª·ªc²" #BelieversIM
+ shiite_IM:0 "·ªª²" #BelieversIM
+ shinto_IM:0 "cª°²oªc²" #BelieversIM
+ sunni_IM:0 "c³°°ª²" #BelieversIM
+ totemism_IM:0 "²o²e¯ªc²" #BelieversIM
+ noreligion_IM:0 "a²eªc²" #BelieversIM
+ anglican_IM:0 "a°¥®ª¬a°ª°" #BelieversIM
+ coptic_IM:0 "¯ªa´ª©ª²º" #BelieversIM
+ ibadi_IM:0 "ª a¦ª²" #BelieversIM
+ sikhism_IM:0 "cª¬xªc²" #BelieversIM
+ inti_IM:0 "ª°²ª" #BelieversIM
+ nahuatl_IM:0 "°a³a²®a°eµ" #BelieversIM
+ mesoamerican_religion_IM:0 "¯a«÷" #BelieversIM
+ norse_pagan_reformed_IM:0 "c¬a°¦ª°a¢" #BelieversIM
+ tengri_pagan_reformed_IM:0 "²e°¥pªa°eµ" #BelieversIM
+ jewish_IM:0 "ª³¦e«" #BelieversIM
+ zoroastrian_IM:0 "©opoac²pªeµ" #BelieversIM
+ hussite_IM:0 "¥³cª²" #BelieversIM
+ dreamtime_IM:0 "a®»¶epeµ" #BelieversIM
+ #Религия верующего в родительном падеже
+ animism_RD:0 "a°ª¯ªc²a" #BelieversRD
+ buddhism_RD:0 "²xepa¢a¦µa" #BelieversRD
+ vajrayana_RD:0 "¢a¦¨pa÷°µa" #BelieversRD
+ mahayana_RD:0 "¯axa÷°µa" #BelieversRD
+ catholic_RD:0 "¬a²o®ª¬a" #BelieversRD
+ confucianism_RD:0 "¬o°´³µªa°µa" #BelieversRD
+ hinduism_RD:0 "ª°¦³ªc²a" #BelieversRD
+ orthodox_RD:0 "±pa¢oc®a¢°o¥o" #BelieversRD
+ protestant_RD:0 "±po²ec²a°²a" #BelieversRD
+ reformed_RD:0 "pe´op¯ªc²a" #BelieversRD
+ shamanism_RD:0 "´e²ª·ªc²a" #BelieversRD
+ shiite_RD:0 "·ªª²a" #BelieversRD
+ shinto_RD:0 "cª°²oªc²a" #BelieversRD
+ sunni_RD:0 "c³°°ª²a" #BelieversRD
+ totemism_RD:0 "²o²e¯ªc²a" #BelieversRD
+ noreligion_RD:0 "a²eªc²a" #BelieversRD
+ anglican_RD:0 "a°¥®ª¬a°ª°a" #BelieversRD
+ coptic_RD:0 "¯ªa´ª©ª²a" #BelieversRD
+ ibadi_RD:0 "ª a¦ª²a" #BelieversRD
+ sikhism_RD:0 "cª¬xªc²a" #BelieversRD
+ inti_RD:0 "ª°²ª" #BelieversRD
+ nahuatl_RD:0 "°a³a²®a°µa" #BelieversRD
+ mesoamerican_religion_RD:0 "¯a«÷" #BelieversRD
+ norse_pagan_reformed_RD:0 "c¬a°¦ª°a¢a" #BelieversRD
+ tengri_pagan_reformed_RD:0 "²e°¥pªa°µa" #BelieversRD
+ jewish_RD:0 "ª³¦e÷" #BelieversRD
+ zoroastrian_RD:0 "©opoac²pª«µa" #BelieversRD
+ hussite_RD:0 "¥³cª²a" #BelieversRD
+ dreamtime_RD:0 "a®»¶epµa" #BelieversRD
+ #Религия верующего в дательном падеже
+ animism_DT:0 "a°ª¯ªc²³" #BelieversDT
+ buddhism_DT:0 "²xepa¢a¦µ³" #BelieversDT
+ vajrayana_DT:0 "¢a¦¨pa÷°µ³" #BelieversDT
+ mahayana_DT:0 "¯axa÷°µ³" #BelieversDT
+ catholic_DT:0 "¬a²o®ª¬³" #BelieversDT
+ confucianism_DT:0 "¬o°´³µªa°µ³" #BelieversDT
+ hinduism_DT:0 "ª°¦³ªc²³" #BelieversDT
+ orthodox_DT:0 "±pa¢oc®a¢°o¯³" #BelieversDT
+ protestant_DT:0 "±po²ec²a°²³" #BelieversDT
+ reformed_DT:0 "pe´op¯ªc²³" #BelieversDT
+ shamanism_DT:0 "´e²ª·ªc²³" #BelieversDT
+ shiite_DT:0 "·ªª²³" #BelieversDT
+ shinto_DT:0 "cª°²oªc²³" #BelieversDT
+ sunni_DT:0 "c³°°ª²³" #BelieversDT
+ totemism_DT:0 "²o²e¯ªc²³" #BelieversDT
+ noreligion_DT:0 "a²eªc²³" #BelieversDT
+ anglican_DT:0 "a°¥®ª¬a°ª°³" #BelieversDT
+ coptic_DT:0 "¯ªa´ª©ª²³" #BelieversDT
+ ibadi_DT:0 "ª a¦ª²³" #BelieversDT
+ sikhism_DT:0 "cª¬xªc²³" #BelieversDT
+ inti_DT:0 "ª°²ª" #BelieversDT
+ nahuatl_DT:0 "°a³a²®a°µ³" #BelieversDT
+ mesoamerican_religion_DT:0 "¯a«÷" #BelieversDT
+ norse_pagan_reformed_DT:0 "c¬a°¦ª°a¢³" #BelieversDT
+ tengri_pagan_reformed_DT:0 "²e°¥pªa°µ³" #BelieversDT
+ jewish_DT:0 "ª³¦e¾" #BelieversDT
+ zoroastrian_DT:0 "©opoac²pª«µ³" #BelieversDT
+ hussite_DT:0 "¥³cª²³" #BelieversDT
+ dreamtime_DT:0 "a®»¶epµ³" #BelieversDT
+ #Религия верующего в творительном падеже
+ animism_TV:0 "a°ª¯ªc²o¯" #BelieversTV
+ buddhism_TV:0 "²xepa¢a¦µe¯" #BelieversTV
+ vajrayana_TV:0 "¢a¦¨pa÷°µe¯" #BelieversTV
+ mahayana_TV:0 "¯axa÷°µe¯" #BelieversTV
+ catholic_TV:0 "¬a²o®ª¬o¯" #BelieversTV
+ confucianism_TV:0 "¬o°´³µªa°µe¯" #BelieversTV
+ hinduism_TV:0 "ª°¦³ªc²o¯" #BelieversTV
+ orthodox_TV:0 "±pa¢oc®a¢°º¯" #BelieversTV
+ protestant_TV:0 "±po²ec²a°²o¯" #BelieversTV
+ reformed_TV:0 "pe´op¯ªc²o¯" #BelieversTV
+ shamanism_TV:0 "´e²ª·ªc²o¯" #BelieversTV
+ shiite_TV:0 "·ªª²o¯" #BelieversTV
+ shinto_TV:0 "cª°²oªc²o¯" #BelieversTV
+ sunni_TV:0 "c³°°ª²o¯" #BelieversTV
+ totemism_TV:0 "²o²e¯ªc²o¯" #BelieversTV
+ noreligion_TV:0 "a²eªc²o¯" #BelieversTV
+ anglican_TV:0 "a°¥®ª¬a°ª°o¯" #BelieversTV
+ coptic_TV:0 "¯ªa´ª©ª²o¯" #BelieversTV
+ ibadi_TV:0 "ª a¦ª²o¯" #BelieversTV
+ sikhism_TV:0 "cª¬xªc²o¯" #BelieversTV
+ inti_TV:0 "ª°²ª" #BelieversTV
+ nahuatl_TV:0 "°a³a²®a°µe¯" #BelieversTV
+ mesoamerican_religion_TV:0 "¯a«÷" #BelieversTV
+ norse_pagan_reformed_TV:0 "c¬a°¦ª°a¢o¯" #BelieversTV
+ tengri_pagan_reformed_TV:0 "²e°¥pªa°µe¯" #BelieversTV
+ jewish_TV:0 "ª³¦ee¯" #BelieversTV
+ zoroastrian_TV:0 "©opoac²pª«µe¯" #BelieversTV
+ hussite_TV:0 "¥³cª²o¯" #BelieversTV
+ dreamtime_TV:0 "a®»¶epµe¯" #BelieversTV
+ #Религия верующего в предложном падеже
+ animism_PR:0 "a°ª¯ªc²e" #BelieversPR
+ buddhism_PR:0 "²xepa¢a¦µe" #BelieversPR
+ vajrayana_PR:0 "¢a¦¨pa÷°µe" #BelieversPR
+ mahayana_PR:0 "¯axa÷°µe" #BelieversPR
+ catholic_PR:0 "¬a²o®ª¬e" #BelieversPR
+ confucianism_PR:0 "¬o°´³µªa°µe" #BelieversPR
+ hinduism_PR:0 "ª°¦³ªc²e" #BelieversPR
+ orthodox_PR:0 "±pa¢oc®a¢°o¯" #BelieversPR
+ protestant_PR:0 "±po²ec²a°²e" #BelieversPR
+ reformed_PR:0 "pe´op¯ªc²e" #BelieversPR
+ shamanism_PR:0 "´e²ª·ªc²e" #BelieversPR
+ shiite_PR:0 "·ªª²e" #BelieversPR
+ shinto_PR:0 "cª°²oªc²e" #BelieversPR
+ sunni_PR:0 "c³°°ª²e" #BelieversPR
+ totemism_PR:0 "²o²e¯ªc²e" #BelieversPR
+ noreligion_PR:0 "a²eªc²e" #BelieversPR
+ anglican_PR:0 "a°¥®ª¬a°µe" #BelieversPR
+ coptic_PR:0 "¯ªa´ª©ª²e" #BelieversPR
+ ibadi_PR:0 "ª a¦ª²e" #BelieversPR
+ sikhism_PR:0 "cª¬xªc²e" #BelieversPR
+ inti_PR:0 "ª°²ª" #BelieversPR
+ nahuatl_PR:0 "°a³a²®a°µe" #BelieversPR
+ mesoamerican_religion_PR:0 "¯a«÷" #BelieversPR
+ norse_pagan_reformed_PR:0 "c¬a°¦ª°a¢e" #BelieversPR
+ tengri_pagan_reformed_PR:0 "²e°¥pªa°µe" #BelieversPR
+ jewish_PR:0 "ª³¦ee" #BelieversPR
+ zoroastrian_PR:0 "©opoac²pª«µe" #BelieversPR
+ hussite_PR:0 "¥³cª²e" #BelieversPR
+ dreamtime_PR:0 "a®»¶epµe" #BelieversPR
+ 
+ #Религия верующих в именительном падеже
+ animism_plural_name_IM:0 "a°ª¯ªc²º" #BelieversPluralIM
+ buddhism_plural_name_IM:0 "²xepa¢a¦µº" #BelieversPluralIM
+ vajrayana_plural_name_IM:0 "¢a¦¨pa÷°µº" #BelieversPluralIM
+ mahayana_plural_name_IM:0 "¯axa÷°µº" #BelieversPluralIM
+ catholic_plural_name_IM:0 "¬a²o®ª¬ª" #BelieversPluralIM
+ confucianism_plural_name_IM:0 "¬o°´³µªa°µº" #BelieversPluralIM
+ hinduism_plural_name_IM:0 "ª°¦³ªc²º" #BelieversPluralIM
+ orthodox_plural_name_IM:0 "±pa¢oc®a¢°ºe" #BelieversPluralIM
+ protestant_plural_name_IM:0 "±po²ec²a°²º" #BelieversPluralIM
+ reformed_plural_name_IM:0 "pe´op¯ªc²º" #BelieversPluralIM
+ shamanism_plural_name_IM:0 "´e²ª·ªc²º" #BelieversPluralIM
+ shiite_plural_name_IM:0 "·ªª²º" #BelieversPluralIM
+ shinto_plural_name_IM:0 "cª°²oªc²º" #BelieversPluralIM
+ sunni_plural_name_IM:0 "c³°°ª²º" #BelieversPluralIM
+ totemism_plural_name_IM:0 "²o²e¯ªc²º" #BelieversPluralIM
+ noreligion_plural_name_IM:0 "a²eªc²º" #BelieversPluralIM
+ anglican_plural_name_IM:0 "a°¥®ª¬a°e" #BelieversPluralIM
+ coptic_plural_name_IM:0 "¯ªa´ª©ª²º" #BelieversPluralIM
+ ibadi_plural_name_IM:0 "ª a¦ª²º" #BelieversPluralIM
+ sikhism_plural_name_IM:0 "cª¬xª" #BelieversPluralIM
+ inti_plural_name_IM:0 "ª°²ª" #BelieversPluralIM
+ nahuatl_plural_name_IM:0 "°a³a²®a°µº" #BelieversPluralIM
+ mesoamerican_religion_plural_name_IM:0 "¯a«÷" #BelieversPluralIM
+ norse_pagan_reformed_plural_name_IM:0 "c¬a°¦ª°a¢º" #BelieversPluralIM
+ tengri_pagan_reformed_plural_name_IM:0 "²e°¥pªa°µº" #BelieversPluralIM
+ jewish_plural_name_IM:0 "ª³¦eª" #BelieversPluralIM
+ zoroastrian_plural_name_IM:0 "©opoac²pª«µº" #BelieversPluralIM
+ hussite_plural_name_IM:0 "¥³cª²º" #BelieversPluralIM
+ dreamtime_plural_name_IM:0 "a®»¶epµº" #BelieversPluralIM
+ #Религия верующих в родительном падеже
+ animism_plural_name_RD:0 "a°ª¯ªc²o¢" #BelieversPluralRD
+ buddhism_plural_name_RD:0 "²xepa¢a¦µe¢" #BelieversPluralRD
+ vajrayana_plural_name_RD:0 "¢a¦¨pa÷°µe¢" #BelieversPluralRD
+ mahayana_plural_name_RD:0 "¯axa÷°µe¢" #BelieversPluralRD
+ catholic_plural_name_RD:0 "¬a²o®ª¬o¢" #BelieversPluralRD
+ confucianism_plural_name_RD:0 "¬o°´³µªa°µe¢" #BelieversPluralRD
+ hinduism_plural_name_RD:0 "ª°¦³ªc²o¢" #BelieversPluralRD
+ orthodox_plural_name_RD:0 "±pa¢oc®a¢°ºx" #BelieversPluralRD
+ protestant_plural_name_RD:0 "±po²ec²a°²o¢" #BelieversPluralRD
+ reformed_plural_name_RD:0 "pe´op¯ªc²o¢" #BelieversPluralRD
+ shamanism_plural_name_RD:0 "´e²ª·ªc²o¢" #BelieversPluralRD
+ shiite_plural_name_RD:0 "·ªª²o¢" #BelieversPluralRD
+ shinto_plural_name_RD:0 "cª°²oªc²o¢" #BelieversPluralRD
+ sunni_plural_name_RD:0 "c³°°ª²o¢" #BelieversPluralRD
+ totemism_plural_name_RD:0 "²o²e¯ªc²o¢" #BelieversPluralRD
+ noreligion_plural_name_RD:0 "a²eªc²o¢" #BelieversPluralRD
+ anglican_plural_name_RD:0 "a°¥®ª¬a°" #BelieversPluralRD
+ coptic_plural_name_RD:0 "¯ªa´ª©ª²o¢" #BelieversPluralRD
+ ibadi_plural_name_RD:0 "ª a¦ª²o¢" #BelieversPluralRD
+ sikhism_plural_name_RD:0 "cª¬xo¢" #BelieversPluralRD
+ inti_plural_name_RD:0 "ª°²ª" #BelieversPluralRD
+ nahuatl_plural_name_RD:0 "°a³a²®a°µe¢" #BelieversPluralRD
+ mesoamerican_religion_plural_name_RD:0 "¯a«÷" #BelieversPluralRD
+ norse_pagan_reformed_plural_name_RD:0 "c¬a°¦ª°a¢o¢" #BelieversPluralRD
+ tengri_pagan_reformed_plural_name_RD:0 "²e°¥pªa°µe¢" #BelieversPluralRD
+ jewish_plural_name_RD:0 "ª³¦ee¢" #BelieversPluralRD
+ zoroastrian_plural_name_RD:0 "©opoac²pª«µe¢" #BelieversPluralRD
+ hussite_plural_name_RD:0 "¥³cª²o¢" #BelieversPluralRD
+ dreamtime_plural_name_RD:0 "a®»¶epµe¢" #BelieversPluralRD
+ #Религия верующих в дательном падеже
+ animism_plural_name_DT:0 "a°ª¯ªc²a¯" #BelieversPluralDT
+ buddhism_plural_name_DT:0 "²xepa¢a¦a¯" #BelieversPluralDT
+ vajrayana_plural_name_DT:0 "¢a¦¨pa÷°a¯" #BelieversPluralDT
+ mahayana_plural_name_DT:0 "¯axa÷°a¯" #BelieversPluralDT
+ catholic_plural_name_DT:0 "¬a²o®ª¬a¯" #BelieversPluralDT
+ confucianism_plural_name_DT:0 "¬o°´³µªa°a¯" #BelieversPluralDT
+ hinduism_plural_name_DT:0 "ª°¦³ªc²a¯" #BelieversPluralDT
+ orthodox_plural_name_DT:0 "±pa¢oc®a¢°º¯" #BelieversPluralDT
+ protestant_plural_name_DT:0 "±po²ec²a°²a¯" #BelieversPluralDT
+ reformed_plural_name_DT:0 "pe´op¯ªc²a¯" #BelieversPluralDT
+ shamanism_plural_name_DT:0 "´e²ª·ªc²a¯" #BelieversPluralDT
+ shiite_plural_name_DT:0 "·ªª²a¯" #BelieversPluralDT
+ shinto_plural_name_DT:0 "cª°²oªc²a¯" #BelieversPluralDT
+ sunni_plural_name_DT:0 "c³°°ª²a¯" #BelieversPluralDT
+ totemism_plural_name_DT:0 "²o²e¯ªc²a¯" #BelieversPluralDT
+ noreligion_plural_name_DT:0 "a²eªc²a¯" #BelieversPluralDT
+ anglican_plural_name_DT:0 "a°¥®ª¬a°a¯" #BelieversPluralDT
+ coptic_plural_name_DT:0 "¯ªa´ª©ª²a¯" #BelieversPluralDT
+ ibadi_plural_name_DT:0 "ª a¦ª²a¯" #BelieversPluralDT
+ sikhism_plural_name_DT:0 "cª¬xa¯" #BelieversPluralDT
+ inti_plural_name_DT:0 "ª°²ª" #BelieversPluralDT
+ nahuatl_plural_name_DT:0 "°a³a²®a°a¯" #BelieversPluralDT
+ mesoamerican_religion_plural_name_DT:0 "¯a«÷" #BelieversPluralDT
+ norse_pagan_reformed_plural_name_DT:0 "c¬a°¦ª°a¢a¯" #BelieversPluralDT
+ tengri_pagan_reformed_plural_name_DT:0 "²e°¥pªa°a¯" #BelieversPluralDT
+ jewish_plural_name_DT:0 "ª³¦e÷¯" #BelieversPluralDT
+ zoroastrian_plural_name_DT:0 "©opoac²pª«µa¯" #BelieversPluralDT
+ hussite_plural_name_DT:0 "¥³cª²a¯" #BelieversPluralDT
+ dreamtime_plural_name_DT:0 "a®»¶epµa¯" #BelieversPluralDT
+ #Религия верующих в творительном падеже
+ animism_plural_name_TV:0 "a°ª¯ªc²a¯ª" #BelieversPluralTV
+ buddhism_plural_name_TV:0 "²xepa¢a¦a¯ª" #BelieversPluralTV
+ vajrayana_plural_name_TV:0 "¢a¦¨pa÷°a¯ª" #BelieversPluralTV
+ mahayana_plural_name_TV:0 "¯axa÷°a¯ª" #BelieversPluralTV
+ catholic_plural_name_TV:0 "¬a²o®ª¬a¯ª" #BelieversPluralTV
+ confucianism_plural_name_TV:0 "¬o°´³µªa°µa¯ª" #BelieversPluralTV
+ hinduism_plural_name_TV:0 "ª°¦³ªc²a¯ª" #BelieversPluralTV
+ orthodox_plural_name_TV:0 "±pa¢oc®a¢°º¯ª" #BelieversPluralTV
+ protestant_plural_name_TV:0 "±po²ec²a°²a¯ª" #BelieversPluralTV
+ reformed_plural_name_TV:0 "pe´op¯ªc²a¯ª" #BelieversPluralTV
+ shamanism_plural_name_TV:0 "´e²ª·ªc²a¯ª" #BelieversPluralTV
+ shiite_plural_name_TV:0 "·ªª²a¯ª" #BelieversPluralTV
+ shinto_plural_name_TV:0 "cª°²oªc²a¯" #BelieversPluralTV
+ sunni_plural_name_TV:0 "c³°°ª²a¯ª" #BelieversPluralTV
+ totemism_plural_name_TV:0 "²o²e¯ªc²a¯ª" #BelieversPluralTV
+ noreligion_plural_name_TV:0 "a²eªc²a¯ª" #BelieversPluralTV
+ anglican_plural_name_TV:0 "a°¥®ª¬a°a¯ª" #BelieversPluralTV
+ coptic_plural_name_TV:0 "¯ªa´ª©ª²a¯ª" #BelieversPluralTV
+ ibadi_plural_name_TV:0 "ª a¦ª²a¯ª" #BelieversPluralTV
+ sikhism_plural_name_TV:0 "cª¬xa¯ª" #BelieversPluralTV
+ inti_plural_name_TV:0 "ª°²ª" #BelieversPluralTV
+ nahuatl_plural_name_TV:0 "°a³a²®a°a¯ª" #BelieversPluralTV
+ mesoamerican_religion_plural_name_TV:0 "¯a«÷" #BelieversPluralTV
+ norse_pagan_reformed_plural_name_TV:0 "c¬a°¦ª°a¢a¯ª" #BelieversPluralTV
+ tengri_pagan_reformed_plural_name_TV:0 "²e°¥pªa°a¯ª" #BelieversPluralTV
+ jewish_plural_name_TV:0 "ª³¦e÷¯ª" #BelieversPluralTV
+ zoroastrian_plural_name_TV:0 "©opoac²pª«µa¯ª" #BelieversPluralTV
+ hussite_plural_name_TV:0 "¥³cª²a¯ª" #BelieversPluralTV
+ dreamtime_plural_name_TV:0 "a®»¶epµa¯ª" #BelieversPluralTV
+ #Религия верующих в предложном падеже
+ animism_plural_name_PR:0 "a°ª¯ªc²ax" #BelieversPluralPR
+ buddhism_plural_name_PR:0 "²xepa¢a¦ax" #BelieversPluralPR
+ vajrayana_plural_name_PR:0 "¢a¦¨pa÷°ax" #BelieversPluralPR
+ mahayana_plural_name_PR:0 "¯axa÷°ax" #BelieversPluralPR
+ catholic_plural_name_PR:0 "¬a²o®ª¬ax" #BelieversPluralPR
+ confucianism_plural_name_PR:0 "¬o°´³µªa°ax" #BelieversPluralPR
+ hinduism_plural_name_PR:0 "ª°¦³ªc²ax" #BelieversPluralPR
+ orthodox_plural_name_PR:0 "±pa¢oc®a¢°ºx" #BelieversPluralPR
+ protestant_plural_name_PR:0 "±po²ec²a°²ax" #BelieversPluralPR
+ reformed_plural_name_PR:0 "pe´op¯ªc²ax" #BelieversPluralPR
+ shamanism_plural_name_PR:0 "´e²ª·ªc²ax" #BelieversPluralPR
+ shiite_plural_name_PR:0 "·ªª²ax" #BelieversPluralPR
+ shinto_plural_name_PR:0 "cª°²oªc²ax" #BelieversPluralPR
+ sunni_plural_name_PR:0 "c³°°ª²ax" #BelieversPluralPR
+ totemism_plural_name_PR:0 "²o²e¯ªc²ax" #BelieversPluralPR
+ noreligion_plural_name_PR:0 "a²eªc²ax" #BelieversPluralPR
+ anglican_plural_name_PR:0 "a°¥®ª¬a°ax" #BelieversPluralPR
+ coptic_plural_name_PR:0 "¯ªa´ª©ª²ax" #BelieversPluralPR
+ ibadi_plural_name_PR:0 "ª a¦ª²ax" #BelieversPluralPR
+ sikhism_plural_name_PR:0 "cª¬xax" #BelieversPluralPR
+ inti_plural_name_PR:0 "ª°²ª" #BelieversPluralPR
+ nahuatl_plural_name_PR:0 "°a³a²®a°ax" #BelieversPluralPR
+ mesoamerican_religion_plural_name_PR:0 "¯a«÷" #BelieversPluralPR
+ norse_pagan_reformed_plural_name_PR:0 "c¬a°¦ª°a¢ax" #BelieversPluralPR
+ tengri_pagan_reformed_plural_name_PR:0 "²e°¥pªa°ax" #BelieversPluralPR
+ jewish_plural_name_PR:0 "ª³¦e÷x" #BelieversPluralPR
+ zoroastrian_plural_name_PR:0 "©opoac²pª«µax" #BelieversPluralPR
+ hussite_plural_name_PR:0 "¥³cª²ax" #BelieversPluralPR
+ dreamtime_plural_name_PR:0 "a®»¶epµax" #BelieversPluralPR
+ 
+ #Религиозные группы в именительном падеже
+ christian_name_IM:0 "xpªc²ªa°c²¢o" #ReligionGroupIM
+ muslim_name_IM:0 "ªc®a¯" #ReligionGroupIM
+ eastern_name_IM:0 "¢oc²o¶°ºe ¢epo¢a°ª÷" #ReligionGroupIM
+ dharmic_name_IM:0 "¦xap¯ª¶ec¬ªe ¢epo¢a°ª÷" #ReligionGroupIM
+ pagan_name_IM:0 "÷©º¶ec²¢o" #ReligionGroupIM
+ jewish_group_name_IM:0 "ª³¦aª©¯" #ReligionGroupIM
+ zoroastrian_group_name_IM:0 "©opoac²pª©¯" #ReligionGroupIM
+ #Религиозные группы в родительном падеже
+ christian_RD:0 "xpªc²ªa°c²¢a" #ReligionGroupRD
+ muslim_RD:0 "ªc®a¯a" #ReligionGroupRD
+ eastern_RD:0 "¢oc²o¶°ºx ¢epo¢a°ª«" #ReligionGroupRD
+ dharmic_RD:0 "¦xap¯ª¶ec¬ªx ¢epo¢a°ª«" #ReligionGroupRD
+ pagan_RD:0 "÷©º¶ec²¢a" #ReligionGroupRD
+ jewish_group_RD:0 "ª³¦aª©¯a" #ReligionGroupRD
+ zoroastrian_group_RD:0 "©opoac²pª©¯a" #ReligionGroupRD
+ #Религиозные группы в дательном падеже
+ christian_DT:0 "xpªc²ªa°c²¢³" #ReligionGroupDT
+ muslim_DT:0 "ªc®a¯³" #ReligionGroupDT
+ eastern_DT:0 "¢oc²o¶°º¯ ¢epo¢a°ª÷¯" #ReligionGroupDT
+ dharmic_DT:0 "¦xap¯ª¶ec¬ª¯ ¢epo¢a°ª÷¯" #ReligionGroupDT
+ pagan_DT:0 "÷©º¶ec²¢³" #ReligionGroupDT
+ jewish_group_DT:0 "ª³¦aª©¯³" #ReligionGroupDT
+ zoroastrian_group_DT:0 "©opoac²pª©¯³" #ReligionGroupDT
+ #Религиозные группы в творительном падеже
+ christian_TV:0 "xpªc²ªa°c²¢o¯" #ReligionGroupTV
+ muslim_TV:0 "ªc®a¯o¯" #ReligionGroupTV
+ eastern_TV:0 "¢oc²o¶°º¯ª ¢epo¢a°ª÷¯ª" #ReligionGroupTV
+ dharmic_TV:0 "¦xap¯ª¶ec¬ª¯ª ¢epo¢a°ª÷¯ª" #ReligionGroupTV
+ pagan_TV:0 "÷©º¶ec²¢o¯" #ReligionGroupTV
+ jewish_group_TV:0 "ª³¦aª©¯o¯" #ReligionGroupTV
+ zoroastrian_group_TV:0 "©opoac²pª©¯o¯" #ReligionGroupTV
+ #Религиозные группы в предложном падеже
+ christian_PR:0 "xpªc²ªa°c²¢e" #ReligionGroupPR
+ muslim_PR:0 "ªc®a¯e" #ReligionGroupPR
+ eastern_PR:0 "¢oc²o¶°ºx ¢epo¢a°ª÷x" #ReligionGroupPR
+ dharmic_PR:0 "¦xap¯ª¶ec¬ªx ¢epo¢a°ª÷x" #ReligionGroupPR
+ pagan_PR:0 "÷©º¶ec²¢e" #ReligionGroupPR
+ jewish_group_PR:0 "ª³¦aª©¯e" #ReligionGroupPR
+ zoroastrian_group_PR:0 "©opoac²pª©¯e" #ReligionGroupPR
+ 
+ #Религия с прописной буквы
+ animism_name_IM_CAP:0 "A°ª¯ª©¯" #ReligionIM_CAP
+ buddhism_name_IM_CAP:0 "Txepa¢a¦a" #ReligionIM_CAP
+ vajrayana_name_IM_CAP:0 "Ba¦¨pa÷°a" #ReligionIM_CAP
+ mahayana_name_IM_CAP:0 "Maxa÷°a" #ReligionIM_CAP
+ catholic_name_IM_CAP:0 "Ka²o®ª¶ec²¢o" #ReligionIM_CAP
+ confucianism_name_IM_CAP:0 "Ko°´³µªa°c²¢o" #ReligionIM_CAP
+ hinduism_name_IM_CAP:0 "†°¦³ª©¯" #ReligionIM_CAP
+ orthodox_name_IM_CAP:0 "‰pa¢oc®a¢ªe" #ReligionIM_CAP
+ protestant_name_IM_CAP:0 "‰po²ec²a°²ª©¯" #ReligionIM_CAP
+ reformed_name_IM_CAP:0 "Pe´op¯a²c²¢o" #ReligionIM_CAP
+ shamanism_name_IM_CAP:0 "‘e²ª·ª©¯" #ReligionIM_CAP
+ shiite_name_IM_CAP:0 "”ªª©¯" #ReligionIM_CAP
+ shinto_name_IM_CAP:0 "Cª°²oª©¯" #ReligionIM_CAP
+ sunni_name_IM_CAP:0 "C³°°ª©¯" #ReligionIM_CAP
+ totemism_name_IM_CAP:0 "To²e¯ª©¯" #ReligionIM_CAP
+ noreligion_name_IM_CAP:0 "He² pe®ª¥ªª" #ReligionIM_CAP
+ anglican_name_IM_CAP:0 "A°¥®ª¬a°c²¢o" #ReligionIM_CAP
+ coptic_name_IM_CAP:0 "Mªa´ª©ª²c²¢o" #ReligionIM_CAP
+ ibadi_name_IM_CAP:0 "† a¦ª©¯" #ReligionIM_CAP
+ sikhism_name_IM_CAP:0 "Cª¬xª©¯" #ReligionIM_CAP
+ inti_name_IM_CAP:0 "†°²ª" #ReligionIM_CAP
+ nahuatl_name_IM_CAP:0 "Ha³a²®»" #ReligionIM_CAP
+ mesoamerican_religion_name_IM_CAP:0 "Ma«÷" #ReligionIM_CAP
+ norse_pagan_reformed_name_IM_CAP:0 "C¬a°¦ª°a¢c¬oe ÷©º¶ec²¢o" #ReligionIM_CAP
+ tengri_pagan_reformed_name_IM_CAP:0 "Te°¥pªa°c²¢o" #ReligionIM_CAP
+ jewish_name_IM_CAP:0 "†³¦aª©¯" #ReligionIM_CAP
+ zoroastrian_name_IM_CAP:0 "…opoac²pª©¯" #ReligionIM_CAP
+ hussite_name_IM_CAP:0 "‚³cª©¯" #ReligionIM_CAP
+ dreamtime_name_IM_CAP:0 "A®»¶epa" #ReligionIM_CAP
+ #Религия в родительном падеже с прописной буквы
+ animism_name_RD_CAP:0 "A°ª¯ª©¯a" #ReligionRD_CAP
+ buddhism_name_RD_CAP:0 "Txepa¢a¦º" #ReligionRD_CAP
+ vajrayana_name_RD_CAP:0 "Ba¦¨pa÷°º" #ReligionRD_CAP
+ mahayana_name_RD_CAP:0 "Maxa÷°º" #ReligionRD_CAP
+ catholic_name_RD_CAP:0 "Ka²o®ª¶ec²¢a" #ReligionRD_CAP
+ confucianism_name_RD_CAP:0 "Ko°´³µªa°c²¢a" #ReligionRD_CAP
+ hinduism_name_RD_CAP:0 "†°¦³ª©¯a" #ReligionRD_CAP
+ orthodox_name_RD_CAP:0 "‰pa¢oc®a¢ª÷" #ReligionRD_CAP
+ protestant_name_RD_CAP:0 "‰po²ec²a°²ª©¯a" #ReligionRD_CAP
+ reformed_name_RD_CAP:0 "Pe´op¯a²c²¢a" #ReligionRD_CAP
+ shamanism_name_RD_CAP:0 "‘e²ª·ª©¯a" #ReligionRD_CAP
+ shiite_name_RD_CAP:0 "”ªª©¯a" #ReligionRD_CAP
+ shinto_name_RD_CAP:0 "Cª°²oª©¯a" #ReligionRD_CAP
+ sunni_name_RD_CAP:0 "C³°°ª©¯a" #ReligionRD_CAP
+ totemism_name_RD_CAP:0 "To²e¯ª©¯a" #ReligionRD_CAP
+ noreligion_name_RD_CAP:0 "A²eª©¯a" #ReligionRD_CAP
+ anglican_name_RD_CAP:0 "A°¥®ª¬a°c²¢a" #ReligionRD_CAP
+ coptic_name_RD_CAP:0 "Mªa´ª©ª²c²¢a" #ReligionRD_CAP
+ ibadi_name_RD_CAP:0 "† a¦ª©¯a" #ReligionRD_CAP
+ sikhism_name_RD_CAP:0 "Cª¬xª©¯a" #ReligionRD_CAP
+ inti_name_RD_CAP:0 "†°²ª" #ReligionRD_CAP
+ nahuatl_name_RD_CAP:0 "Ha³a²®÷" #ReligionRD_CAP
+ mesoamerican_religion_name_RD_CAP:0 "Ma«÷" #ReligionRD_CAP
+ norse_pagan_reformed_name_RD_CAP:0 "C¬a°¦ª°a¢c¬o¥o ÷©º¶ec²¢a" #ReligionRD_CAP
+ tengri_pagan_reformed_name_RD_CAP:0 "Te°¥pªa°c²¢a" #ReligionRD_CAP
+ jewish_name_RD_CAP:0 "†³¦aª©¯a" #ReligionRD_CAP
+ zoroastrian_name_RD_CAP:0 "…opoac²pª©¯a" #ReligionRD_CAP
+ hussite_name_RD_CAP:0 "‚³cª©¯a" #ReligionRD_CAP
+ dreamtime_name_RD_CAP:0 "A®»¶epº" #ReligionRD_CAP
+ #Религия в дательном падеже с прописной буквы
+ animism_name_DT_CAP:0 "A°ª¯ª©¯³" #ReligionDT_CAP
+ buddhism_name_DT_CAP:0 "Txepa¢a¦e" #ReligionDT_CAP
+ vajrayana_name_DT_CAP:0 "Ba¦¨pa÷°e" #ReligionDT_CAP
+ mahayana_name_DT_CAP:0 "Maxa÷°e" #ReligionDT_CAP
+ catholic_name_DT_CAP:0 "Ka²o®ª¶ec²¢³" #ReligionDT_CAP
+ confucianism_name_DT_CAP:0 "Ko°´³µªa°c²¢³" #ReligionDT_CAP
+ hinduism_name_DT_CAP:0 "†°¦³ª©¯³" #ReligionDT_CAP
+ orthodox_name_DT_CAP:0 "‰pa¢oc®a¢ª¾" #ReligionDT_CAP
+ protestant_name_DT_CAP:0 "‰po²ec²a°²ª©¯³" #ReligionDT_CAP
+ reformed_name_DT_CAP:0 "Pe´op¯a²c²¢³" #ReligionDT_CAP
+ shamanism_name_DT_CAP:0 "‘e²ª·ª©¯³" #ReligionDT_CAP
+ shiite_name_DT_CAP:0 "”ªª©¯³" #ReligionDT_CAP
+ shinto_name_DT_CAP:0 "Cª°²oª©¯³" #ReligionDT_CAP
+ sunni_name_DT_CAP:0 "C³°°ª©¯³" #ReligionDT_CAP
+ totemism_name_DT_CAP:0 "To²e¯ª©¯³" #ReligionDT_CAP
+ noreligion_name_DT_CAP:0 "A²eª©¯³" #ReligionDT_CAP
+ anglican_name_DT_CAP:0 "A°¥®ª¬a°c²¢³" #ReligionDT_CAP
+ coptic_name_DT_CAP:0 "Mªa´ª©ª²c²¢³" #ReligionDT_CAP
+ ibadi_name_DT_CAP:0 "† a¦ª©¯³" #ReligionDT_CAP
+ sikhism_name_DT_CAP:0 "Cª¬xª©¯³" #ReligionDT_CAP
+ inti_name_DT_CAP:0 "†°²ª" #ReligionDT_CAP
+ nahuatl_name_DT_CAP:0 "Ha³a²®¾" #ReligionDT_CAP
+ mesoamerican_name_religion_DT_CAP:0 "Ma«÷" #ReligionDT_CAP
+ norse_pagan_reformed_name_DT_CAP:0 "C¬a°¦ª°a¢c¬o¯³ ÷©º¶ec²¢³" #ReligionDT_CAP
+ tengri_pagan_reformed_name_DT_CAP:0 "Te°¥pªa°c²¢³" #ReligionDT_CAP
+ jewish_name_DT_CAP:0 "†³¦aª©¯³" #ReligionDT_CAP
+ zoroastrian_name_DT_CAP:0 "…opoac²pª©¯³" #ReligionDT_CAP
+ hussite_name_DT_CAP:0 "‚³cª©¯³" #ReligionDT_CAP
+ dreamtime_name_DT_CAP:0 "A®»¶epe" #ReligionDT_CAP
+ #Религия в творительном падеже с прописной буквы
+ animism_name_TV_CAP:0 "A°ª¯ª©¯o¯" #ReligionTV_CAP
+ buddhism_name_TV_CAP:0 "Txepa¢a¦o«" #ReligionTV_CAP
+ vajrayana_name_TV_CAP:0 "Ba¦¨pa÷°o«" #ReligionTV_CAP
+ mahayana_name_TV_CAP:0 "Maxa÷°o«" #ReligionTV_CAP
+ catholic_name_TV_CAP:0 "Ka²o®ª¶ec²¢o¯" #ReligionTV_CAP
+ confucianism_name_TV_CAP:0 "Ko°´³µªa°c²¢o¯" #ReligionTV_CAP
+ hinduism_name_TV_CAP:0 "†°¦³ª©¯o¯" #ReligionTV_CAP
+ orthodox_name_TV_CAP:0 "‰pa¢oc®a¢ªe¯" #ReligionTV_CAP
+ protestant_name_TV_CAP:0 "‰po²ec²a°²ª©¯o¯" #ReligionTV_CAP
+ reformed_name_TV_CAP:0 "Pe´op¯a²c²¢o¯" #ReligionTV_CAP
+ shamanism_name_TV_CAP:0 "‘e²ª·ª©¯o¯" #ReligionTV_CAP
+ shiite_name_TV_CAP:0 "”ªª©¯o¯" #ReligionTV_CAP
+ shinto_name_TV_CAP:0 "Cª°²oª©¯o¯" #ReligionTV_CAP
+ sunni_name_TV_CAP:0 "C³°°ª©¯o¯" #ReligionTV_CAP
+ totemism_name_TV_CAP:0 "To²e¯ª©¯o¯" #ReligionTV_CAP
+ noreligion_name_TV_CAP:0 "A²eª©¯o¯" #ReligionTV_CAP
+ anglican_name_TV_CAP:0 "A°¥®ª¬a°c²¢o¯" #ReligionTV_CAP
+ coptic_name_TV_CAP:0 "Mªa´ª©ª²c²¢o¯" #ReligionTV_CAP
+ ibadi_name_TV_CAP:0 "† a¦ª©¯o¯" #ReligionTV_CAP
+ sikhism_name_TV_CAP:0 "Cª¬xª©¯o¯" #ReligionTV_CAP
+ inti_name_TV_CAP:0 "†°²ª" #ReligionTV_CAP
+ nahuatl_name_TV_CAP:0 "Ha³a²®e¯" #ReligionTV_CAP
+ mesoamerican_name_religion_TV_CAP:0 "Ma«÷" #ReligionTV_CAP
+ norse_pagan_reformed_name_TV_CAP:0 "C¬a°¦ª°a¢c¬ª¯ ÷©º¶ec²¢o¯" #ReligionTV_CAP
+ tengri_pagan_reformed_name_TV_CAP:0 "Te°¥pªa°c²¢o¯" #ReligionTV_CAP
+ jewish_name_TV_CAP:0 "†³¦aª©¯o¯" #ReligionTV_CAP
+ zoroastrian_name_TV_CAP:0 "…opoac²pª©¯o¯" #ReligionTV_CAP
+ hussite_name_TV_CAP:0 "‚³cª©¯o¯" #ReligionTV_CAP
+ dreamtime_name_TV_CAP:0 "A®»¶epo«" #ReligionTV_CAP
+ #Религия в предложном падеже с прописной буквы
+ animism_name_PR_CAP:0 "A°ª¯ª©¯e" #ReligionPR_CAP
+ buddhism_name_PR_CAP:0 "Txepa¢a¦e" #ReligionPR_CAP
+ vajrayana_name_PR_CAP:0 "Ba¦¨pa÷°e" #ReligionPR_CAP
+ mahayana_name_PR_CAP:0 "Maxa÷°e" #ReligionPR_CAP
+ catholic_name_PR_CAP:0 "Ka²o®ª¶ec²¢e" #ReligionPR_CAP
+ confucianism_name_PR_CAP:0 "Ko°´³µªa°c²¢e" #ReligionPR_CAP
+ hinduism_name_PR_CAP:0 "†°¦³ª©¯e" #ReligionPR_CAP
+ orthodox_name_PR_CAP:0 "‰pa¢oc®a¢ªª" #ReligionPR_CAP
+ protestant_name_PR_CAP:0 "‰po²ec²a°²ª©¯e" #ReligionPR_CAP
+ reformed_name_PR_CAP:0 "Pe´op¯a²c²¢e" #ReligionPR_CAP
+ shamanism_name_PR_CAP:0 "‘e²ª·ª©¯e" #ReligionPR_CAP
+ shiite_name_PR_CAP:0 "”ªª©¯e" #ReligionPR_CAP
+ shinto_name_PR_CAP:0 "Cª°²oª©¯e" #ReligionPR_CAP
+ sunni_name_PR_CAP:0 "C³°°ª©¯e" #ReligionPR_CAP
+ totemism_name_PR_CAP:0 "To²e¯ª©¯e" #ReligionPR_CAP
+ noreligion_name_PR_CAP:0 "A²eª©¯e" #ReligionPR_CAP
+ anglican_name_PR_CAP:0 "A°¥®ª¬a°c²¢e" #ReligionPR_CAP
+ coptic_name_PR_CAP:0 "Mªa´ª©ª²c²¢e" #ReligionPR_CAP
+ ibadi_name_PR_CAP:0 "† a¦ª©¯e" #ReligionPR_CAP
+ sikhism_name_PR_CAP:0 "Cª¬xª©¯e" #ReligionPR_CAP
+ inti_name_PR_CAP:0 "†°²ª" #ReligionPR_CAP
+ nahuatl_name_PR_CAP:0 "Ha³a²®e" #ReligionPR_CAP
+ mesoamerican_name_religion_PR_CAP:0 "Ma«÷" #ReligionPR_CAP
+ norse_pagan_reformed_name_PR_CAP:0 "C¬a°¦ª°a¢c¬o¯ ÷©º¶ec²¢e" #ReligionPR_CAP
+ tengri_pagan_reformed_name_PR_CAP:0 "Te°¥pªa°c²¢e" #ReligionPR_CAP
+ jewish_name_PR_CAP:0 "†³¦aª©¯e" #ReligionPR_CAP
+ zoroastrian_name_PR_CAP:0 "…opoac²pª©¯e" #ReligionPR_CAP
+ hussite_name_PR_CAP:0 "‚³cª©¯e" #ReligionPR_CAP
+ dreamtime_name_PR_CAP:0 "A®»¶epe" #ReligionPR_CAP
+ 
+ #Религия верующего в именительном падеже с прописной буквы
+ animism_name_IM_CAP:0 "A°ª¯ªc²" #BelieversIM_CAP
+ buddhism_name_IM_CAP:0 "Txepa¢a¦eµ" #BelieversIM_CAP
+ vajrayana_name_IM_CAP:0 "Ba¦¨pa÷°eµ" #BelieversIM_CAP
+ mahayana_name_IM_CAP:0 "Maxa÷°µeµ" #BelieversIM_CAP
+ catholic_name_IM_CAP:0 "Ka²o®ª¬" #BelieversIM_CAP
+ confucianism_name_IM_CAP:0 "Ko°´³µªa°eµ" #BelieversIM_CAP
+ hinduism_name_IM_CAP:0 "†°¦³ªc²" #BelieversIM_CAP
+ orthodox_name_IM_CAP:0 "‰pa¢oc®a¢°º«" #BelieversIM_CAP
+ protestant_name_IM_CAP:0 "‰po²ec²a°²" #BelieversIM_CAP
+ reformed_name_IM_CAP:0 "Pe´op¯ªc²" #BelieversIM_CAP
+ shamanism_name_IM_CAP:0 "‘e²ª·ªc²" #BelieversIM_CAP
+ shiite_name_IM_CAP:0 "”ªª²" #BelieversIM_CAP
+ shinto_name_IM_CAP:0 "Cª°²oªc²" #BelieversIM_CAP
+ sunni_name_IM_CAP:0 "C³°°ª²" #BelieversIM_CAP
+ totemism_name_IM_CAP:0 "To²e¯ªc²" #BelieversIM_CAP
+ noreligion_name_IM_CAP:0 "A²eªc²" #BelieversIM_CAP
+ anglican_name_IM_CAP:0 "A°¥®ª¬a°ª°" #BelieversIM_CAP
+ coptic_name_IM_CAP:0 "Mªa´ª©ª²º" #BelieversIM_CAP
+ ibadi_name_IM_CAP:0 "† a¦ª²" #BelieversIM_CAP
+ sikhism_name_IM_CAP:0 "Cª¬xªc²" #BelieversIM_CAP
+ inti_name_IM_CAP:0 "†°²ª" #BelieversIM_CAP
+ nahuatl_name_IM_CAP:0 "Ha³a²®a°eµ" #BelieversIM_CAP
+ mesoamerican_religion_name_IM_CAP:0 "Ma«÷" #BelieversIM_CAP
+ norse_pagan_reformed_name_IM_CAP:0 "C¬a°¦ª°a¢" #BelieversIM_CAP
+ tengri_pagan_reformed_name_IM_CAP:0 "Te°¥pªa°eµ" #BelieversIM_CAP
+ jewish_name_IM_CAP:0 "†³¦e«" #BelieversIM_CAP
+ zoroastrian_name_IM_CAP:0 "…opoac²pªeµ" #BelieversIM_CAP
+ hussite_name_IM_CAP:0 "‚³cª²" #BelieversIM_CAP
+ dreamtime_IM_CAP:0 "A®»¶epeµ" #BelieversIM_CAP
+ #Религия верующего в родительном падеже с прописной буквы
+ animism_RD_CAP:0 "A°ª¯ªc²a" #BelieversRD_CAP
+ buddhism_RD_CAP:0 "Txepa¢a¦µa" #BelieversRD_CAP
+ vajrayana_RD_CAP:0 "Ba¦¨pa÷°µa" #BelieversRD_CAP
+ mahayana_RD_CAP:0 "Maxa÷°µa" #BelieversRD_CAP
+ catholic_RD_CAP:0 "Ka²o®ª¬a" #BelieversRD_CAP
+ confucianism_RD_CAP:0 "Ko°´³µªa°µa" #BelieversRD_CAP
+ hinduism_RD_CAP:0 "†°¦³ªc²a" #BelieversRD_CAP
+ orthodox_RD_CAP:0 "‰pa¢oc®a¢°o¥o" #BelieversRD_CAP
+ protestant_RD_CAP:0 "‰po²ec²a°²a" #BelieversRD_CAP
+ reformed_RD_CAP:0 "Pe´op¯ªc²a" #BelieversRD_CAP
+ shamanism_RD_CAP:0 "‘e²ª·ªc²a" #BelieversRD_CAP
+ shiite_RD_CAP:0 "”ªª²a" #BelieversRD_CAP
+ shinto_RD_CAP:0 "Cª°²oªc²a" #BelieversRD_CAP
+ sunni_RD_CAP:0 "C³°°ª²a" #BelieversRD_CAP
+ totemism_RD_CAP:0 "To²e¯ªc²a" #BelieversRD_CAP
+ noreligion_RD_CAP:0 "A²eªc²a" #BelieversRD_CAP
+ anglican_RD_CAP:0 "A°¥®ª¬a°ª°a" #BelieversRD_CAP
+ coptic_RD_CAP:0 "Mªa´ª©ª²a" #BelieversRD_CAP
+ ibadi_RD_CAP:0 "† a¦ª²a" #BelieversRD_CAP
+ sikhism_RD_CAP:0 "Cª¬xªc²a" #BelieversRD_CAP
+ inti_RD_CAP:0 "†°²ª" #BelieversRD_CAP
+ nahuatl_RD_CAP:0 "Ha³a²®a°µa" #BelieversRD_CAP
+ mesoamerican_religion_RD_CAP:0 "Ma«÷" #BelieversRD_CAP
+ norse_pagan_reformed_RD_CAP:0 "C¬a°¦ª°a¢a" #BelieversRD_CAP
+ tengri_pagan_reformed_RD_CAP:0 "Te°¥pªa°µa" #BelieversRD_CAP
+ jewish_RD_CAP:0 "†³¦e÷" #BelieversRD_CAP
+ zoroastrian_RD_CAP:0 "…opoac²pª«µa" #BelieversRD_CAP
+ hussite_RD_CAP:0 "‚³cª²a" #BelieversRD_CA с прописной буквыP
+ dreamtime_RD_CAP:0 "A®»¶epµa" #BelieversRD_CAP
+ #Религия верующего в дательном падеже с прописной буквы
+ animism_DT_CAP:0 "A°ª¯ªc²³" #BelieversDT_CAP
+ buddhism_DT_CAP:0 "Txepa¢a¦µ³" #BelieversDT_CAP
+ vajrayana_DT_CAP:0 "Ba¦¨pa÷°µ³" #BelieversDT_CAP
+ mahayana_DT_CAP:0 "Maxa÷°µ³" #BelieversDT_CAP
+ catholic_DT_CAP:0 "Ka²o®ª¬³" #BelieversDT_CAP
+ confucianism_DT_CAP:0 "Ko°´³µªa°µ³" #BelieversDT_CAP
+ hinduism_DT_CAP:0 "†°¦³ªc²³" #BelieversDT_CAP
+ orthodox_DT_CAP:0 "‰pa¢oc®a¢°o¯³" #BelieversDT_CAP
+ protestant_DT_CAP:0 "‰po²ec²a°²³" #BelieversDT_CAP
+ reformed_DT_CAP:0 "Pe´op¯ªc²³" #BelieversDT_CAP
+ shamanism_DT_CAP:0 "‘e²ª·ªc²³" #BelieversDT_CAP
+ shiite_DT_CAP:0 "”ªª²³" #BelieversDT_CAP
+ shinto_DT_CAP:0 "Cª°²oªc²³" #BelieversDT_CAP
+ sunni_DT_CAP:0 "C³°°ª²³" #BelieversDT_CAP
+ totemism_DT_CAP:0 "To²e¯ªc²³" #BelieversDT_CAP
+ noreligion_DT_CAP:0 "A²eªc²³" #BelieversDT_CAP
+ anglican_DT_CAP:0 "A°¥®ª¬a°ª°³" #BelieversDT_CAP
+ coptic_DT_CAP:0 "Mªa´ª©ª²³" #BelieversDT_CAP
+ ibadi_DT_CAP:0 "† a¦ª²³" #BelieversDT_CAP
+ sikhism_DT_CAP:0 "Cª¬xªc²³" #BelieversDT_CAP
+ inti_DT_CAP:0 "†°²ª" #BelieversDT_CAP
+ nahuatl_DT_CAP:0 "Ha³a²®a°µ³" #BelieversDT_CAP
+ mesoamerican_religion_DT_CAP:0 "Ma«÷" #BelieversDT_CAP
+ norse_pagan_reformed_DT_CAP:0 "C¬a°¦ª°a¢³" #BelieversDT_CAP
+ tengri_pagan_reformed_DT_CAP:0 "Te°¥pªa°µ³" #BelieversDT_CAP
+ jewish_DT_CAP:0 "†³¦e¾" #BelieversDT_CAP
+ zoroastrian_DT_CAP:0 "…opoac²pª«µ³" #BelieversDT_CAP
+ hussite_DT_CAP:0 "‚³cª²³" #BelieversDT_CAP
+ dreamtime_DT_CAP:0 "A®»¶epµ³" #BelieversDT_CAP
+ #Религия верующего в творительном падеже с прописной буквы
+ animism_TV_CAP:0 "A°ª¯ªc²o¯" #BelieversTV_CAP
+ buddhism_TV_CAP:0 "Txepa¢a¦µe¯" #BelieversTV_CAP
+ vajrayana_TV_CAP:0 "Ba¦¨pa÷°µe¯" #BelieversTV_CAP
+ mahayana_TV_CAP:0 "Maxa÷°µe¯" #BelieversTV_CAP
+ catholic_TV_CAP:0 "Ka²o®ª¬o¯" #BelieversTV_CAP
+ confucianism_TV_CAP:0 "Ko°´³µªa°µe¯" #BelieversTV_CAP
+ hinduism_TV_CAP:0 "†°¦³ªc²o¯" #BelieversTV_CAP
+ orthodox_TV_CAP:0 "‰pa¢oc®a¢°º¯" #BelieversTV_CAP
+ protestant_TV_CAP:0 "‰po²ec²a°²o¯" #BelieversTV_CAP
+ reformed_TV_CAP:0 "Pe´op¯ªc²o¯" #BelieversTV_CAP
+ shamanism_TV_CAP:0 "‘e²ª·ªc²o¯" #BelieversTV_CAP
+ shiite_TV_CAP:0 "”ªª²o¯" #BelieversTV_CAP
+ shinto_TV_CAP:0 "Cª°²oªc²o¯" #BelieversTV_CAP
+ sunni_TV_CAP:0 "C³°°ª²o¯" #BelieversTV_CAP
+ totemism_TV_CAP:0 "To²e¯ªc²o¯" #BelieversTV_CAP
+ noreligion_TV_CAP:0 "A²eªc²o¯" #BelieversTV_CAP
+ anglican_TV_CAP:0 "A°¥®ª¬a°ª°o¯" #BelieversTV_CAP
+ coptic_TV_CAP:0 "Mªa´ª©ª²o¯" #BelieversTV_CAP
+ ibadi_TV_CAP:0 "† a¦ª²o¯" #BelieversTV_CAP
+ sikhism_TV_CAP:0 "Cª¬xªc²o¯" #BelieversTV_CAP
+ inti_TV_CAP:0 "†°²ª" #BelieversTV_CAP
+ nahuatl_TV_CAP:0 "Ha³a²®a°µe¯" #BelieversTV_CAP
+ mesoamerican_religion_TV_CAP:0 "Ma«÷" #BelieversTV_CAP
+ norse_pagan_reformed_TV_CAP:0 "C¬a°¦ª°a¢o¯" #BelieversTV_CAP
+ tengri_pagan_reformed_TV_CAP:0 "Te°¥pªa°µe¯" #BelieversTV_CAP
+ jewish_TV_CAP:0 "†³¦ee¯" #BelieversTV_CAP
+ zoroastrian_TV_CAP:0 "…opoac²pª«µe¯" #BelieversTV_CAP
+ hussite_TV_CAP:0 "‚³cª²o¯" #BelieversTV_CAP
+ dreamtime_TV_CAP:0 "A®»¶epµe¯" #BelieversTV_CAP
+ #Религия верующего в предложном падеже с прописной буквы
+ animism_PR_CAP:0 "A°ª¯ªc²e" #BelieversPR_CAP
+ buddhism_PR_CAP:0 "Txepa¢a¦µe" #BelieversPR_CAP
+ vajrayana_PR_CAP:0 "Ba¦¨pa÷°µe" #BelieversPR_CAP
+ mahayana_PR_CAP:0 "Maxa÷°µe" #BelieversPR_CAP
+ catholic_PR_CAP:0 "Ka²o®ª¬e" #BelieversPR_CAP
+ confucianism_PR_CAP:0 "Ko°´³µªa°µe" #BelieversPR_CAP
+ hinduism_PR_CAP:0 "†°¦³ªc²e" #BelieversPR_CAP
+ orthodox_PR_CAP:0 "‰pa¢oc®a¢°o¯" #BelieversPR_CAP
+ protestant_PR_CAP:0 "‰po²ec²a°²e" #BelieversPR_CAP
+ reformed_PR_CAP:0 "Pe´op¯ªc²e" #BelieversPR_CAP
+ shamanism_PR_CAP:0 "‘e²ª·ªc²e" #BelieversPR_CAP
+ shiite_PR_CAP:0 "”ªª²e" #BelieversPR_CAP
+ shinto_PR_CAP:0 "Cª°²oªc²e" #BelieversPR_CAP
+ sunni_PR_CAP:0 "C³°°ª²e" #BelieversPR_CAP
+ totemism_PR_CAP:0 "To²e¯ªc²e" #BelieversPR_CAP
+ noreligion_PR_CAP:0 "A²eªc²e" #BelieversPR_CAP
+ anglican_PR_CAP:0 "A°¥®ª¬a°µe" #BelieversPR_CAP
+ coptic_PR_CAP:0 "Mªa´ª©ª²e" #BelieversPR_CAP
+ ibadi_PR_CAP:0 "† a¦ª²e" #BelieversPR_CAP
+ sikhism_PR_CAP:0 "Cª¬xªc²e" #BelieversPR_CAP
+ inti_PR_CAP:0 "†°²ª" #BelieversPR_CAP
+ nahuatl_PR_CAP:0 "Ha³a²®a°µe" #BelieversPR_CAP
+ mesoamerican_religion_PR_CAP:0 "Ma«÷" #BelieversPR_CAP
+ norse_pagan_reformed_PR_CAP:0 "C¬a°¦ª°a¢e" #BelieversPR_CAP
+ tengri_pagan_reformed_PR_CAP:0 "Te°¥pªa°µe" #BelieversPR_CAP
+ jewish_PR_CAP:0 "†³¦ee" #BelieversPR_CAP
+ zoroastrian_PR_CAP:0 "…opoac²pª«µe" #BelieversPR_CAP
+ hussite_PR_CAP:0 "‚³cª²e" #BelieversPR_CAP
+ dreamtime_PR_CAP:0 "A®»¶epµe" #BelieversPR_CAP
+ 
+ #Религия верующих в именительном падеже с прописной буквы
+ animism_plural_name_IM_CAP:0 "A°ª¯ªc²º" #BelieversPluralIM_CAP
+ buddhism_plural_name_IM_CAP:0 "Txepa¢a¦µº" #BelieversPluralIM_CAP
+ vajrayana_plural_name_IM_CAP:0 "Ba¦¨pa÷°µº" #BelieversPluralIM_CAP
+ mahayana_plural_name_IM_CAP:0 "Maxa÷°µº" #BelieversPluralIM_CAP
+ catholic_plural_name_IM_CAP:0 "Ka²o®ª¬ª" #BelieversPluralIM_CAP
+ confucianism_plural_name_IM_CAP:0 "Ko°´³µªa°µº" #BelieversPluralIM_CAP
+ hinduism_plural_name_IM_CAP:0 "†°¦³ªc²º" #BelieversPluralIM_CAP
+ orthodox_plural_name_IM_CAP:0 "‰pa¢oc®a¢°ºe" #BelieversPluralIM_CAP
+ protestant_plural_name_IM_CAP:0 "‰po²ec²a°²º" #BelieversPluralIM_CAP
+ reformed_plural_name_IM_CAP:0 "Pe´op¯ªc²º" #BelieversPluralIM_CAP
+ shamanism_plural_name_IM_CAP:0 "‘e²ª·ªc²º" #BelieversPluralIM_CAP
+ shiite_plural_name_IM_CAP:0 "”ªª²º" #BelieversPluralIM_CAP
+ shinto_plural_name_IM_CAP:0 "Cª°²oªc²º" #BelieversPluralIM_CAP
+ sunni_plural_name_IM_CAP:0 "C³°°ª²º" #BelieversPluralIM_CAP
+ totemism_plural_name_IM_CAP:0 "To²e¯ªc²º" #BelieversPluralIM_CAP
+ noreligion_plural_name_IM_CAP:0 "A²eªc²º" #BelieversPluralIM_CAP
+ anglican_plural_name_IM_CAP:0 "A°¥®ª¬a°e" #BelieversPluralIM_CAP
+ coptic_plural_name_IM_CAP:0 "Mªa´ª©ª²º" #BelieversPluralIM_CAP
+ ibadi_plural_name_IM_CAP:0 "† a¦ª²º" #BelieversPluralIM_CAP
+ sikhism_plural_name_IM_CAP:0 "Cª¬xª" #BelieversPluralIM_CAP
+ inti_plural_name_IM_CAP:0 "†°²ª" #BelieversPluralIM_CAP
+ nahuatl_plural_name_IM_CAP:0 "Ha³a²®a°µº" #BelieversPluralIM_CAP
+ mesoamerican_religion_plural_name_IM_CAP:0 "Ma«÷" #BelieversPluralIM_CAP
+ norse_pagan_reformed_plural_name_IM_CAP:0 "C¬a°¦ª°a¢º" #BelieversPluralIM_CAP
+ tengri_pagan_reformed_plural_name_IM_CAP:0 "Te°¥pªa°µº" #BelieversPluralIM_CAP
+ jewish_plural_name_IM_CAP:0 "†³¦eª" #BelieversPluralIM_CAP
+ zoroastrian_plural_name_IM_CAP:0 "…opoac²pª«µº" #BelieversPluralIM_CAP
+ hussite_plural_name_IM_CAP:0 "‚³cª²º" #BelieversPluralIM_CAP
+ dreamtime_plural_name_IM_CAP:0 "A®»¶epµº" #BelieversPluralIM_CAP
+ #Религия верующих в родительном падеже с прописной буквы
+ animism_plural_name_RD_CAP:0 "A°ª¯ªc²o¢" #BelieversPluralRD_CAP
+ buddhism_plural_name_RD_CAP:0 "Txepa¢a¦µe¢" #BelieversPluralRD_CAP
+ vajrayana_plural_name_RD_CAP:0 "Ba¦¨pa÷°µe¢" #BelieversPluralRD_CAP
+ mahayana_plural_name_RD_CAP:0 "Maxa÷°µe¢" #BelieversPluralRD_CAP
+ catholic_plural_name_RD_CAP:0 "Ka²o®ª¬o¢" #BelieversPluralRD_CAP
+ confucianism_plural_name_RD_CAP:0 "Ko°´³µªa°µe¢" #BelieversPluralRD_CAP
+ hinduism_plural_name_RD_CAP:0 "†°¦³ªc²o¢" #BelieversPluralRD_CAP
+ orthodox_plural_name_RD_CAP:0 "‰pa¢oc®a¢°ºx" #BelieversPluralRD_CAP
+ protestant_plural_name_RD_CAP:0 "‰po²ec²a°²o¢" #BelieversPluralRD_CAP
+ reformed_plural_name_RD_CAP:0 "Pe´op¯ªc²o¢" #BelieversPluralRD_CAP
+ shamanism_plural_name_RD_CAP:0 "‘e²ª·ªc²o¢" #BelieversPluralRD_CAP
+ shiite_plural_name_RD_CAP:0 "”ªª²o¢" #BelieversPluralRD_CAP
+ shinto_plural_name_RD_CAP:0 "Cª°²oªc²o¢" #BelieversPluralRD_CAP
+ sunni_plural_name_RD_CAP:0 "C³°°ª²o¢" #BelieversPluralRD_CAP
+ totemism_plural_name_RD_CAP:0 "To²e¯ªc²o¢" #BelieversPluralRD_CAP
+ noreligion_plural_name_RD_CAP:0 "A²eªc²o¢" #BelieversPluralRD_CAP
+ anglican_plural_name_RD_CAP:0 "A°¥®ª¬a°" #BelieversPluralRD_CAP
+ coptic_plural_name_RD_CAP:0 "Mªa´ª©ª²o¢" #BelieversPluralRD_CAP
+ ibadi_plural_name_RD_CAP:0 "† a¦ª²o¢" #BelieversPluralRD_CAP
+ sikhism_plural_name_RD_CAP:0 "Cª¬xo¢" #BelieversPluralRD_CAP
+ inti_plural_name_RD_CAP:0 "†°²ª" #BelieversPluralRD_CAP
+ nahuatl_plural_name_RD_CAP:0 "Ha³a²®a°µe¢" #BelieversPluralRD_CAP
+ mesoamerican_religion_plural_name_RD_CAP:0 "Ma«÷" #BelieversPluralRD_CAP
+ norse_pagan_reformed_plural_name_RD_CAP:0 "C¬a°¦ª°a¢o¢" #BelieversPluralRD_CAP
+ tengri_pagan_reformed_plural_name_RD_CAP:0 "Te°¥pªa°µe¢" #BelieversPluralRD_CAP
+ jewish_plural_name_RD_CAP:0 "†³¦ee¢" #BelieversPluralRD_CAP
+ zoroastrian_plural_name_RD_CAP:0 "…opoac²pª«µe¢" #BelieversPluralRD_CAP
+ hussite_plural_name_RD_CAP:0 "‚³cª²o¢" #BelieversPluralRD_CAP
+ dreamtime_plural_name_RD_CAP:0 "A®»¶epµe¢" #BelieversPluralRD_CAP
+ #Религия верующих в дательном падеже с прописной буквы
+ animism_plural_name_DT_CAP:0 "A°ª¯ªc²a¯" #BelieversPluralDT_CAP
+ buddhism_plural_name_DT_CAP:0 "Txepa¢a¦a¯" #BelieversPluralDT_CAP
+ vajrayana_plural_name_DT_CAP:0 "Ba¦¨pa÷°a¯" #BelieversPluralDT_CAP
+ mahayana_plural_name_DT_CAP:0 "Maxa÷°a¯" #BelieversPluralDT_CAP
+ catholic_plural_name_DT_CAP:0 "Ka²o®ª¬a¯" #BelieversPluralDT_CAP
+ confucianism_plural_name_DT_CAP:0 "Ko°´³µªa°a¯" #BelieversPluralDT_CAP
+ hinduism_plural_name_DT_CAP:0 "†°¦³ªc²a¯" #BelieversPluralDT_CAP
+ orthodox_plural_name_DT_CAP:0 "‰pa¢oc®a¢°º¯" #BelieversPluralDT_CAP
+ protestant_plural_name_DT_CAP:0 "‰po²ec²a°²a¯" #BelieversPluralDT_CAP
+ reformed_plural_name_DT_CAP:0 "Pe´op¯ªc²a¯" #BelieversPluralDT_CAP
+ shamanism_plural_name_DT_CAP:0 "‘e²ª·ªc²a¯" #BelieversPluralDT_CAP
+ shiite_plural_name_DT_CAP:0 "”ªª²a¯" #BelieversPluralDT_CAP
+ shinto_plural_name_DT_CAP:0 "Cª°²oªc²a¯" #BelieversPluralDT_CAP
+ sunni_plural_name_DT_CAP:0 "C³°°ª²a¯" #BelieversPluralDT_CAP
+ totemism_plural_name_DT_CAP:0 "To²e¯ªc²a¯" #BelieversPluralDT_CAP
+ noreligion_plural_name_DT_CAP:0 "A²eªc²a¯" #BelieversPluralDT_CAP
+ anglican_plural_name_DT_CAP:0 "A°¥®ª¬a°a¯" #BelieversPluralDT_CAP
+ coptic_plural_name_DT_CAP:0 "Mªa´ª©ª²a¯" #BelieversPluralDT_CAP
+ ibadi_plural_name_DT_CAP:0 "† a¦ª²a¯" #BelieversPluralDT_CAP
+ sikhism_plural_name_DT_CAP:0 "Cª¬xa¯" #BelieversPluralDT_CAP
+ inti_plural_name_DT_CAP:0 "†°²ª" #BelieversPluralDT_CAP
+ nahuatl_plural_name_DT_CAP:0 "Ha³a²®a°a¯" #BelieversPluralDT_CAP
+ mesoamerican_religion_plural_name_DT_CAP:0 "Ma«÷" #BelieversPluralDT_CAP
+ norse_pagan_reformed_plural_name_DT_CAP:0 "C¬a°¦ª°a¢a¯" #BelieversPluralDT_CAP
+ tengri_pagan_reformed_plural_name_DT_CAP:0 "Te°¥pªa°a¯" #BelieversPluralDT_CAP
+ jewish_plural_name_DT_CAP:0 "†³¦e÷¯" #BelieversPluralDT_CAP
+ zoroastrian_plural_name_DT_CAP:0 "…opoac²pª«µa¯" #BelieversPluralDT_CAP
+ hussite_plural_name_DT_CAP:0 "‚³cª²a¯" #BelieversPluralDT_CAP
+ dreamtime_plural_name_DT_CAP:0 "A®»¶epµa¯" #BelieversPluralDT_CAP
+ #Религия верующих в творительном падеже с прописной буквы
+ animism_plural_name_TV_CAP:0 "A°ª¯ªc²a¯ª" #BelieversPluralTV_CAP
+ buddhism_plural_name_TV_CAP:0 "Txepa¢a¦a¯ª" #BelieversPluralTV_CAP
+ vajrayana_plural_name_TV_CAP:0 "Ba¦¨pa÷°a¯ª" #BelieversPluralTV_CAP
+ mahayana_plural_name_TV_CAP:0 "Maxa÷°a¯ª" #BelieversPluralTV_CAP
+ catholic_plural_name_TV_CAP:0 "Ka²o®ª¬a¯ª" #BelieversPluralTV_CAP
+ confucianism_plural_name_TV_CAP:0 "Ko°´³µªa°µa¯ª" #BelieversPluralTV_CAP
+ hinduism_plural_name_TV_CAP:0 "†°¦³ªc²a¯ª" #BelieversPluralTV_CAP
+ orthodox_plural_name_TV_CAP:0 "‰pa¢oc®a¢°º¯ª" #BelieversPluralTV_CAP
+ protestant_plural_name_TV_CAP:0 "‰po²ec²a°²a¯ª" #BelieversPluralTV_CAP
+ reformed_plural_name_TV_CAP:0 "Pe´op¯ªc²a¯ª" #BelieversPluralTV_CAP
+ shamanism_plural_name_TV_CAP:0 "‘e²ª·ªc²a¯ª" #BelieversPluralTV_CAP
+ shiite_plural_name_TV_CAP:0 "”ªª²a¯ª" #BelieversPluralTV_CAP
+ shinto_plural_name_TV_CAP:0 "Cª°²oªc²a¯" #BelieversPluralTV_CAP
+ sunni_plural_name_TV_CAP:0 "C³°°ª²a¯ª" #BelieversPluralTV_CAP
+ totemism_plural_name_TV_CAP:0 "To²e¯ªc²a¯ª" #BelieversPluralTV_CAP
+ noreligion_plural_name_TV_CAP:0 "A²eªc²a¯ª" #BelieversPluralTV_CAP
+ anglican_plural_name_TV_CAP:0 "A°¥®ª¬a°a¯ª" #BelieversPluralTV_CAP
+ coptic_plural_name_TV_CAP:0 "Mªa´ª©ª²a¯ª" #BelieversPluralTV_CAP
+ ibadi_plural_name_TV_CAP:0 "† a¦ª²a¯ª" #BelieversPluralTV_CAP
+ sikhism_plural_name_TV_CAP:0 "Cª¬xa¯ª" #BelieversPluralTV_CAP
+ inti_plural_name_TV_CAP:0 "†°²ª" #BelieversPluralTV_CAP
+ nahuatl_plural_name_TV_CAP:0 "Ha³a²®a°a¯ª" #BelieversPluralTV_CAP
+ mesoamerican_religion_plural_name_TV_CAP:0 "Ma«÷" #BelieversPluralTV_CAP
+ norse_pagan_reformed_plural_name_TV_CAP:0 "C¬a°¦ª°a¢a¯ª" #BelieversPluralTV_CAP
+ tengri_pagan_reformed_plural_name_TV_CAP:0 "Te°¥pªa°a¯ª" #BelieversPluralTV_CAP
+ jewish_plural_name_TV_CAP:0 "†³¦e÷¯ª" #BelieversPluralTV_CAP
+ zoroastrian_plural_name_TV_CAP:0 "…opoac²pª«µa¯ª" #BelieversPluralTV_CAP
+ hussite_plural_name_TV_CAP:0 "‚³cª²a¯ª" #BelieversPluralTV_CAP
+ dreamtime_plural_name_TV_CAP:0 "A®»¶epµa¯ª" #BelieversPluralTV_CAP
+ #Религия верующих в предложном падеже с прописной буквы
+ animism_plural_name_PR_CAP:0 "A°ª¯ªc²ax" #BelieversPluralPR_CAP
+ buddhism_plural_name_PR_CAP:0 "Txepa¢a¦ax" #BelieversPluralPR_CAP
+ vajrayana_plural_name_PR_CAP:0 "Ba¦¨pa÷°ax" #BelieversPluralPR_CAP
+ mahayana_plural_name_PR_CAP:0 "Maxa÷°ax" #BelieversPluralPR_CAP
+ catholic_plural_name_PR_CAP:0 "Ka²o®ª¬ax" #BelieversPluralPR_CAP
+ confucianism_plural_name_PR_CAP:0 "Ko°´³µªa°ax" #BelieversPluralPR_CAP
+ hinduism_plural_name_PR_CAP:0 "†°¦³ªc²ax" #BelieversPluralPR_CAP
+ orthodox_plural_name_PR_CAP:0 "‰pa¢oc®a¢°ºx" #BelieversPluralPR_CAP
+ protestant_plural_name_PR_CAP:0 "‰po²ec²a°²ax" #BelieversPluralPR_CAP
+ reformed_plural_name_PR_CAP:0 "Pe´op¯ªc²ax" #BelieversPluralPR_CAP
+ shamanism_plural_name_PR_CAP:0 "‘e²ª·ªc²ax" #BelieversPluralPR_CAP
+ shiite_plural_name_PR_CAP:0 "”ªª²ax" #BelieversPluralPR_CAP
+ shinto_plural_name_PR_CAP:0 "Cª°²oªc²ax" #BelieversPluralPR_CAP
+ sunni_plural_name_PR_CAP:0 "C³°°ª²ax" #BelieversPluralPR_CAP
+ totemism_plural_name_PR_CAP:0 "To²e¯ªc²ax" #BelieversPluralPR_CAP
+ noreligion_plural_name_PR_CAP:0 "A²eªc²ax" #BelieversPluralPR_CAP
+ anglican_plural_name_PR_CAP:0 "A°¥®ª¬a°ax" #BelieversPluralPR_CAP
+ coptic_plural_name_PR_CAP:0 "Mªa´ª©ª²ax" #BelieversPluralPR_CAP
+ ibadi_plural_name_PR_CAP:0 "† a¦ª²ax" #BelieversPluralPR_CAP
+ sikhism_plural_name_PR_CAP:0 "Cª¬xax" #BelieversPluralPR_CAP
+ inti_plural_name_PR_CAP:0 "†°²ª" #BelieversPluralPR_CAP
+ nahuatl_plural_name_PR_CAP:0 "Ha³a²®a°ax" #BelieversPluralPR_CAP
+ mesoamerican_religion_plural_name_PR_CAP:0 "Ma«÷" #BelieversPluralPR_CAP
+ norse_pagan_reformed_plural_name_PR_CAP:0 "C¬a°¦ª°a¢ax" #BelieversPluralPR_CAP
+ tengri_pagan_reformed_plural_name_PR_CAP:0 "Te°¥pªa°ax" #BelieversPluralPR_CAP
+ jewish_plural_name_PR_CAP:0 "†³¦e÷x" #BelieversPluralPR_CAP
+ zoroastrian_plural_name_PR_CAP:0 "…opoac²pª«µax" #BelieversPluralPR_CAP
+ hussite_plural_name_PR_CAP:0 "‚³cª²ax" #BelieversPluralPR_CAP
+ dreamtime_plural_name_PR_CAP:0 "A®»¶epµax" #BelieversPluralPR_CAP
+ 
+ #Религиозные группы в именительном падеже
+ christian_name_IM_CAP:0 "Xpªc²ªa°c²¢o" #ReligionGroupIM_CAP
+ muslim_name_IM_CAP:0 "†c®a¯" #ReligionGroupIM_CAP
+ eastern_name_IM_CAP:0 "Boc²o¶°ºe ¢epo¢a°ª÷" #ReligionGroupIM_CAP
+ dharmic_name_IM_CAP:0 "ƒxap¯ª¶ec¬ªe ¢epo¢a°ª÷" #ReligionGroupIM_CAP
+ pagan_name_IM_CAP:0 "×©º¶ec²¢o" #ReligionGroupIM_CAP
+ jewish_group_name_IM_CAP:0 "†³¦aª©¯" #ReligionGroupIM_CAP
+ zoroastrian_group_name_IM_CAP:0 "…opoac²pª©¯" #ReligionGroupIM_CAP
+ #Религиозные группы в родительном падеже
+ christian_RD_CAP:0 "Xpªc²ªa°c²¢a" #ReligionGroupRD_CAP
+ muslim_RD_CAP:0 "†c®a¯a" #ReligionGroupRD_CAP
+ eastern_RD_CAP:0 "Boc²o¶°ºx ¢epo¢a°ª«" #ReligionGroupRD_CAP
+ dharmic_RD_CAP:0 "ƒxap¯ª¶ec¬ªx ¢epo¢a°ª«" #ReligionGroupRD_CAP
+ pagan_RD_CAP:0 "×©º¶ec²¢a" #ReligionGroupRD_CAP
+ jewish_group_RD_CAP:0 "†³¦aª©¯a" #ReligionGroupRD_CAP
+ zoroastrian_group_RD_CAP:0 "…opoac²pª©¯a" #ReligionGroupRD_CAP
+ #Религиозные группы в дательном падеже
+ christian_DT_CAP:0 "Xpªc²ªa°c²¢³" #ReligionGroupDT_CAP
+ muslim_DT_CAP:0 "†c®a¯³" #ReligionGroupDT_CAP
+ eastern_DT_CAP:0 "Boc²o¶°º¯ ¢epo¢a°ª÷¯" #ReligionGroupDT_CAP
+ dharmic_DT_CAP:0 "ƒxap¯ª¶ec¬ª¯ ¢epo¢a°ª÷¯" #ReligionGroupDT_CAP
+ pagan_DT_CAP:0 "×©º¶ec²¢³" #ReligionGroupDT_CAP
+ jewish_group_DT_CAP:0 "†³¦aª©¯³" #ReligionGroupDT_CAP
+ zoroastrian_group_DT_CAP:0 "…opoac²pª©¯³" #ReligionGroupDT_CAP
+ #Религиозные группы в творительном падеже
+ christian_TV_CAP:0 "Xpªc²ªa°c²¢o¯" #ReligionGroupTV_CAP
+ muslim_TV_CAP:0 "†c®a¯o¯" #ReligionGroupTV_CAP
+ eastern_TV_CAP:0 "Boc²o¶°º¯ª ¢epo¢a°ª÷¯ª" #ReligionGroupTV_CAP
+ dharmic_TV_CAP:0 "ƒxap¯ª¶ec¬ª¯ª ¢epo¢a°ª÷¯ª" #ReligionGroupTV_CAP
+ pagan_TV_CAP:0 "×©º¶ec²¢o¯" #ReligionGroupTV_CAP
+ jewish_group_TV_CAP:0 "†³¦aª©¯o¯" #ReligionGroupTV_CAP
+ zoroastrian_group_TV_CAP:0 "…opoac²pª©¯o¯" #ReligionGroupTV_CAP
+ #Религиозные группы в предложном падеже
+ christian_PR_CAP:0 "Xpªc²ªa°c²¢e" #ReligionGroupPR_CAP
+ muslim_PR_CAP:0 "†c®a¯e" #ReligionGroupPR_CAP
+ eastern_PR_CAP:0 "Boc²o¶°ºx ¢epo¢a°ª÷x" #ReligionGroupPR_CAP
+ dharmic_PR_CAP:0 "ƒxap¯ª¶ec¬ªx ¢epo¢a°ª÷x" #ReligionGroupPR_CAP
+ pagan_PR_CAP:0 "×©º¶ec²¢e" #ReligionGroupPR_CAP
+ jewish_group_PR_CAP:0 "†³¦aª©¯e" #ReligionGroupPR_CAP
+ zoroastrian_group_PR_CAP:0 "…opoac²pª©¯e" #ReligionGroupPR_CAP
+ 
+ #Прилагательные религий
+ animism_ADJ:0 "a°ª¯ªc²ª¶ec¬" #ReligionADJ
+ buddhism_ADJ:0 "²xepa¢a¦c¬" #ReligionADJ
+ vajrayana_ADJ:0 "¢a¦¨pa÷°c¬" #ReligionADJ
+ mahayana_ADJ:0 "¯axa÷°c¬" #ReligionADJ
+ catholic_ADJ:0 "¬a²o®ª¶ec¬" #ReligionADJ
+ confucianism_ADJ:0 "¬o°´³µªa°c¬" #ReligionADJ
+ hinduism_ADJ:0 "ª°¦³ªc²c¬" #ReligionADJ
+ orthodox_ADJ:0 "±pa¢oc®a¢°" #ReligionADJ
+ protestant_ADJ:0 "±po²ec²a°²c¬" #ReligionADJ
+ reformed_ADJ:0 "pe´op¯a²c¬" #ReligionADJ
+ shamanism_ADJ:0 "´e²ª·ªc²c¬" #ReligionADJ
+ shiite_ADJ:0 "·ªª²c¬" #ReligionADJ
+ shinto_ADJ:0 "cª°²oªc²c¬" #ReligionADJ
+ sunni_ADJ:0 "c³°°ª²c¬" #ReligionADJ
+ totemism_ADJ:0 "²o²e¯ªc²ª¶ec¬" #ReligionADJ
+ noreligion_ADJ:0 "a²eªc²ª¶ec¬" #ReligionADJ
+ anglican_ADJ:0 "a°¥®ª¬a°c¬" #ReligionADJ
+ coptic_ADJ:0 "¯ªa´ª©ª²c¬" #ReligionADJ
+ ibadi_ADJ:0 "ª a¦ª²c¬" #ReligionADJ
+ sikhism_ADJ:0 "cª¬xc¬" #ReligionADJ
+ inti_ADJ:0 "ª°²ª«c¬" #ReligionADJ
+ nahuatl_ADJ:0 "°a³a²®a°c¬" #ReligionADJ
+ mesoamerican_religion_ADJ:0 "¯a«÷°c¬" #ReligionADJ
+ norse_pagan_reformed_ADJ:0 "c¬a°¦ª°a¢c¬" #ReligionADJ
+ tengri_pagan_reformed_ADJ:0 "²e°¥pªa°c¬" #ReligionADJ
+ jewish_ADJ:0 "ª³¦e«c¬" #ReligionADJ
+ zoroastrian_ADJ:0 "©opoac²pª«c¬" #ReligionADJ
+ hussite_ADJ:0 "¥³cª²c¬" #ReligionADJ
+ dreamtime_ADJ:0 "a®»¶epc¬" #ReligionADJ
+ 
+ #Прилагательные религий с прописной буквы
+ animism_ADJ_CAP:0 "A°ª¯ªc²ª¶ec¬" #ReligionADJ_CAP
+ buddhism_ADJ_CAP:0 "Txepa¢a¦c¬" #ReligionADJ_CAP
+ vajrayana_ADJ_CAP:0 "Ba¦¨pa÷°c¬" #ReligionADJ_CAP
+ mahayana_ADJ_CAP:0 "Maxa÷°c¬" #ReligionADJ_CAP
+ catholic_ADJ_CAP:0 "Ka²o®ª¶ec¬" #ReligionADJ_CAP
+ confucianism_ADJ_CAP:0 "Ko°´³µªa°c¬" #ReligionADJ_CAP
+ hinduism_ADJ_CAP:0 "†°¦³ªc²c¬" #ReligionADJ_CAP
+ orthodox_ADJ_CAP:0 "‰pa¢oc®a¢°" #ReligionADJ_CAP
+ protestant_ADJ_CAP:0 "‰po²ec²a°²c¬" #ReligionADJ_CAP
+ reformed_ADJ_CAP:0 "Pe´op¯a²c¬" #ReligionADJ_CAP
+ shamanism_ADJ_CAP:0 "‘e²ª·ªc²c¬" #ReligionADJ_CAP
+ shiite_ADJ_CAP:0 "”ªª²c¬" #ReligionADJ_CAP
+ shinto_ADJ_CAP:0 "Cª°²oªc²c¬" #ReligionADJ_CAP
+ sunni_ADJ_CAP:0 "C³°°ª²c¬" #ReligionADJ_CAP
+ totemism_ADJ_CAP:0 "To²e¯ªc²ª¶ec¬" #ReligionADJ_CAP
+ noreligion_ADJ_CAP:0 "A²eªc²ª¶ec¬" #ReligionADJ_CAP
+ anglican_ADJ_CAP:0 "A°¥®ª¬a°c¬" #ReligionADJ_CAP
+ coptic_ADJ_CAP:0 "Mªa´ª©ª²c¬" #ReligionADJ_CAP
+ ibadi_ADJ_CAP:0 "† a¦ª²c¬" #ReligionADJ_CAP
+ sikhism_ADJ_CAP:0 "Cª¬xc¬" #ReligionADJ_CAP
+ inti_ADJ_CAP:0 "†°²ª«c¬" #ReligionADJ_CAP
+ nahuatl_ADJ_CAP:0 "Ha³a²®a°c¬" #ReligionADJ_CAP
+ mesoamerican_religion_ADJ_CAP:0 "Ma«÷°c¬" #ReligionADJ_CAP
+ norse_pagan_reformed_ADJ_CAP:0 "C¬a°¦ª°a¢c¬" #ReligionADJ_CAP
+ tengri_pagan_reformed_ADJ_CAP:0 "Te°¥pªa°c¬" #ReligionADJ_CAP
+ jewish_ADJ_CAP:0 "†³¦e«c¬" #ReligionADJ_CAP
+ zoroastrian_ADJ_CAP:0 "…opoac²pª«c¬" #ReligionADJ_CAP
+ hussite_ADJ_CAP:0 "‚³cª²c¬" #ReligionADJ_CAP
+ dreamtime_ADJ_CAP:0 "A®»¶epc¬" #ReligionADJ_CAP
+ 
+ #Прилагательное религиозных групп
+ christian_ADJ:0 "xpªc²ªa°c¬" #ReligionGroupADJ
+ muslim_ADJ:0 "ªc®a¯c¬" #ReligionGroupADJ
+ eastern_ADJ:0 "¢oc²o¶°" #ReligionGroupADJ
+ dharmic_ADJ:0 "¦xap¯ª¶ec¬" #ReligionGroupADJ
+ pagan_ADJ:0 "÷©º¶ec¬" #ReligionGroupADJ
+ jewish_group_ADJ:0 "ª³¦e«c¬" #ReligionGroupADJ
+ zoroastrian_group_ADJ:0 "©opoac²pª«c¬" #ReligionGroupADJ
+ 
+ #Прилагательное религиозных групп с прописной группы
+ christian_ADJ:0 "Xpªc²ªa°c¬" #ReligionGroupADJ
+ muslim_ADJ:0 "†c®a¯c¬" #ReligionGroupADJ
+ eastern_ADJ:0 "Boc²o¶°" #ReligionGroupADJ
+ dharmic_ADJ:0 "ƒxap¯ª¶ec¬" #ReligionGroupADJ
+ pagan_ADJ:0 "×©º¶ec¬" #ReligionGroupADJ
+ jewish_group_ADJ:0 "†³¦e«c¬" #ReligionGroupADJ
+ zoroastrian_group_ADJ:0 "…opoac²pª«c¬" #ReligionGroupADJ
+ 
+ #Окончания
+ RELIGION_ENDING_IY:0 "º«" #ReligionEndIY
+ OTHER_RELIGION_ENDING_IY:0 "ª«" #ReligionEndIY
+ RELIGION_ENDING_IM:0 "º¯" #ReligionEndIM
+ OTHER_RELIGION_ENDING_IM:0 "ª¯" #ReligionEndIM
+ RELIGION_ENDING_IE:0 "ºe" #ReligionEndIE
+ OTHER_RELIGION_ENDING_IE:0 "ªe" #ReligionEndIE
+ RELIGION_ENDING_IH:0 "ºx" #ReligionEndIH
+ OTHER_RELIGION_ENDING_IH:0 "ªx" #ReligionEndIH
+ RELIGION_ENDING_IMI:0 "º¯ª" #ReligionEndIMI
+ OTHER_RELIGION_ENDING_IMI:0 "ª¯ª" #ReligionEndIMI

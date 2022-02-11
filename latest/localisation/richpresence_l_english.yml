@@ -1,0 +1,10 @@
+﻿l_english:
+ SOCIAL_DSTATUS_IN_MAIN_MENU:0 "B ¥®a¢°o¯ ¯e°¾"
+ SOCIAL_DSTATUS_IN_SP_LOBBY:0 "Ha¶ª°ae² o¦ª°o¶°³¾ ª¥p³"
+ SOCIAL_DSTATUS_IN_MP_LOBBY:0 "Ha¶ª°ae² ce²e¢³¾ ª¥p³"
+ SOCIAL_DSTATUS_PLAYING_AS:0 "$TITLE$ ¦ep¨a¢º $COUNTRY$ ¢ $YEAR$ ¥."
+ SOCIAL_DSTATUS_ATWARWITH:0 "$TITLE$ ¦ep¨a¢º $COUNTRY$, ¢o¾e² c ¦ep¨a¢o« $ENEMY$ ¢ $YEAR$ ¥."
+ SOCIAL_DSTATUS_OBSERVING:0 "Ha ®¾¦ae² ©a ¯ªpo¢ ¢ $YEAR$ ¥."
+ SOCIAL_DSTATUS_PLAYING_GAME:0 "†¥pae² ¢ $GAME$"
+ SOCIAL_DSTATUS_PLAYING_SOME_GAME:0 "†¥pae² ¢ ¦p³¥³¾ ª¥p³"
+ SOCIAL_DSTATUS_BLOCKED_STATUS:0 " "

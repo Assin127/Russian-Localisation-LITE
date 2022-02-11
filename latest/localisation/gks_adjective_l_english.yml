@@ -1,0 +1,865 @@
+﻿l_english:
+ ###Прилагательные строчными буквами
+ ADJ_DYN:0 "[Root.GetAdjective]" #GetAdjectiveSmall
+ ADJ_PIR:0 "±ªpa²c¬" #GetAdjectiveSmall
+ ADJ_NAT:0 "²³©e¯c¬" #GetAdjectiveSmall
+ ADJ_ADA:0 "a¦a®»c¬" #GetAdjectiveSmall
+ ADJ_ADE:0 "a¦e°c¬" #GetAdjectiveSmall
+ ADJ_AKK:0 "a¬-¬o¾°®³c¬" #GetAdjectiveSmall
+ ADJ_ALB:0 "a® a°c¬" #GetAdjectiveSmall
+ ADJ_ALG:0 "a®¨ªpc¬" #GetAdjectiveSmall
+ ADJ_ALH:0 "xacc¬" #GetAdjectiveSmall
+ ADJ_ALS:0 "c²pac ³p¥c¬" #GetAdjectiveSmall
+ ADJ_AMG:0 "ap¯a°»÷¬c¬" #GetAdjectiveSmall
+ ADJ_ANH:0 "a°¥a®»²c¬" #GetAdjectiveSmall
+ ADJ_ANN:0 "a°°a¯c¬" #GetAdjectiveSmall
+ ADJ_ANS:0 "a°c axc¬" #GetAdjectiveSmall
+ ADJ_ARA:0 "apa¥o°c¬" #GetAdjectiveSmall
+ ADJ_ARK:0 "apa¬a°c¬" #GetAdjectiveSmall
+ ADJ_ARM:0 "ap¯÷°c¬" #GetAdjectiveSmall
+ ADJ_ASH:0 "a·a°²ª«c¬" #GetAdjectiveSmall
+ ADJ_ASS:0 "acca¯c¬" #GetAdjectiveSmall
+ ADJ_AST:0 "ac²paxa°c¬" #GetAdjectiveSmall
+ ADJ_ATH:0 "a´ª°c¬" #GetAdjectiveSmall
+ ADJ_ATJ:0 "a¶exc¬" #GetAdjectiveSmall
+ ADJ_AUV:0 "o¢ep°c¬" #GetAdjectiveSmall
+ ADJ_AVI:0 "a¢ª°»o°c¬" #GetAdjectiveSmall
+ ADJ_AYU:0 "a¾²ª«c¬" #GetAdjectiveSmall
+ ADJ_AZT:0 "aµ²e¬c¬" #GetAdjectiveSmall
+ ADJ_BAD:0 " a¦e°c¬" #GetAdjectiveSmall
+ ADJ_BLI:0 " a®ª«c¬" #GetAdjectiveSmall
+ ADJ_BAN:0 " a°²e°c¬" #GetAdjectiveSmall
+ ADJ_BAL:0 " e®³¦¨ª«c¬" #GetAdjectiveSmall
+ ADJ_BAV:0 " a¢apc¬" #GetAdjectiveSmall
+ ADJ_BEI:0 " p³°e«c¬" #GetAdjectiveSmall
+ ADJ_BEN:0 " e°ª°c¬" #GetAdjectiveSmall
+ ADJ_BHU:0 " ³²a°c¬" #GetAdjectiveSmall
+ ADJ_BIJ:0 " ª¦¨a±³pc¬" #GetAdjectiveSmall
+ ADJ_BND:0 " ³°¦e®»xa°¦c¬" #GetAdjectiveSmall
+ ADJ_BNG:0 " e°¥a®»c¬" #GetAdjectiveSmall
+ ADJ_BOH:0 " o¥e¯c¬" #GetAdjectiveSmall
+ ADJ_BOS:0 " oc°ª«c¬" #GetAdjectiveSmall
+ ADJ_BOU:0 " ³p o°c¬" #GetAdjectiveSmall
+ ADJ_BRA:0 " pa°¦e° ³p¥c¬" #GetAdjectiveSmall
+ ADJ_BRB:0 " pa a°²c¬" #GetAdjectiveSmall
+ ADJ_BRE:0 " pe¯e°c¬" #GetAdjectiveSmall
+ ADJ_BRI:0 " pe²o°c¬" #GetAdjectiveSmall
+ ADJ_BRR:0 " epapc¬" #GetAdjectiveSmall
+ ADJ_BRU:0 " pa³°·¢e«¥c¬" #GetAdjectiveSmall
+ ADJ_BRZ:0 " pa©ª®»c¬" #GetAdjectiveSmall
+ ADJ_BUL:0 " o®¥apc¬" #GetAdjectiveSmall
+ ADJ_BUR:0 " ³p¥³°¦c¬" #GetAdjectiveSmall
+ ADJ_CAN:0 "¬a°a¦c¬" #GetAdjectiveSmall
+ ADJ_CAS:0 "¬ac²ª®»c¬" #GetAdjectiveSmall
+ ADJ_CAT:0 "¬a²a®o°c¬" #GetAdjectiveSmall
+ ADJ_CEP:0 "¬op´³c¬" #GetAdjectiveSmall
+ ADJ_CHA:0 "²÷¯±c¬" #GetAdjectiveSmall
+ ADJ_CHE:0 "¶epo¬c¬" #GetAdjectiveSmall
+ ADJ_CHG:0 "¶a¥a²a«c¬" #GetAdjectiveSmall
+ ADJ_CHK:0 "²÷¯±aca¬c¬" #GetAdjectiveSmall
+ ADJ_CHL:0 "¶ª®ª«c¬" #GetAdjectiveSmall
+ ADJ_CHM:0 "¶ª¯³c¬" #GetAdjectiveSmall
+ ADJ_CHP:0 "·a¯±a°c¬" #GetAdjectiveSmall
+ ADJ_CND:0 "¦¨a°¦apc¬" #GetAdjectiveSmall
+ ADJ_COL:0 "¬o®³¯ ª«c¬" #GetAdjectiveSmall
+ ADJ_CNN:0 "¬®a°pª¬ap¦c¬" #GetAdjectiveSmall
+ ADJ_COR:0 "¬opcª¬a°c¬" #GetAdjectiveSmall
+ ADJ_CRE:0 "¬pª¬c¬" #GetAdjectiveSmall
+ ADJ_CRI:0 "¬pº¯c¬" #GetAdjectiveSmall
+ ADJ_CRN:0 "¬op°³o®»c¬" #GetAdjectiveSmall
+ ADJ_CRO:0 "xop¢a²c¬" #GetAdjectiveSmall
+ ADJ_CRT:0 "¬pª²c¬" #GetAdjectiveSmall
+ ADJ_CYP:0 "¬ª±pc¬" #GetAdjectiveSmall
+ ADJ_DAI:0 "¦a«¢»e²c¬" #GetAdjectiveSmall
+ ADJ_DAN:0 "¦a²c¬" #GetAdjectiveSmall
+ ADJ_DAU:0 "¦o´ª°c¬" #GetAdjectiveSmall
+ ADJ_DLH:0 "¦e®ª«c¬" #GetAdjectiveSmall
+ ADJ_DUL:0 "¦³®¬a¦ªpc¬" #GetAdjectiveSmall
+ ADJ_DUR:0 "¦³ppa°ª«c¬" #GetAdjectiveSmall
+ ADJ_ENG:0 "a°¥®ª«c¬" #GetAdjectiveSmall
+ ADJ_ETH:0 "¼´ªo±c¬" #GetAdjectiveSmall
+ ADJ_FER:0 "´eppapc¬" #GetAdjectiveSmall
+ ADJ_FEZ:0 "´ecc¬" #GetAdjectiveSmall
+ ADJ_FIN:0 "´ª°c¬" #GetAdjectiveSmall
+ ADJ_FLA:0 "´®a¯a°¦c¬" #GetAdjectiveSmall
+ ADJ_FOI:0 "´³ac¬" #GetAdjectiveSmall
+ ADJ_FRA:0 "´pa°µ³©c¬" #GetAdjectiveSmall
+ ADJ_FRI:0 "´pªc®a°¦c¬" #GetAdjectiveSmall
+ ADJ_GBR:0 " pª²a°c¬" #GetAdjectiveSmall
+ ADJ_GDW:0 "¥apxª«c¬" #GetAdjectiveSmall
+ ADJ_GEL:0 "¥e®¦ep°c¬" #GetAdjectiveSmall
+ ADJ_GEN:0 "¥e°³¼©c¬" #GetAdjectiveSmall
+ ADJ_GEO:0 "¥p³©ª°c¬" #GetAdjectiveSmall
+ ADJ_GER:0 "¥ep¯a°c¬" #GetAdjectiveSmall
+ ADJ_GOL:0 "op¦º°c¬" #GetAdjectiveSmall
+ ADJ_GOT:0 "¥o²®a°¦c¬" #GetAdjectiveSmall
+ ADJ_GRA:0 "¥pa°a¦c¬" #GetAdjectiveSmall
+ ADJ_GRE:0 "¥pe¶ec¬" #GetAdjectiveSmall
+ ADJ_GUJ:0 "¥³¦¨apa²c¬" #GetAdjectiveSmall
+ ADJ_GUY:0 "¥ac¬o°c¬" #GetAdjectiveSmall
+ ADJ_HAB:0 "a¢c²pª«c¬" #GetAdjectiveSmall
+ ADJ_HAI:0 "¥e°°e¥a³c¬" #GetAdjectiveSmall
+ ADJ_HAM:0 "¥a¯ ³p¥c¬" #GetAdjectiveSmall
+ ADJ_HAN:0 "¥a°°o¢epc¬" #GetAdjectiveSmall
+ ADJ_HAU:0 "xa³cc¬" #GetAdjectiveSmall
+ ADJ_HED:0 "xª¦¨a©c¬" #GetAdjectiveSmall
+ ADJ_HES:0 "¥ecce°c¬" #GetAdjectiveSmall
+ ADJ_HOL:0 "¥o®®a°¦c¬" #GetAdjectiveSmall
+ ADJ_HUN:0 "¢e°¥epc¬" #GetAdjectiveSmall
+ ADJ_HUR:0 "¥³po°c¬" #GetAdjectiveSmall
+ ADJ_INC:0 "ª°¬c¬" #GetAdjectiveSmall
+ ADJ_IRE:0 "ªp®a°¦c¬" #GetAdjectiveSmall
+ ADJ_IRO:0 "ªpo¬e©c¬" #GetAdjectiveSmall
+ ADJ_ITA:0 "ª²a®»÷°c¬" #GetAdjectiveSmall
+ ADJ_JAP:0 "÷±o°c¬" #GetAdjectiveSmall
+ ADJ_KAR:0 "¬apa¯a°c¬" #GetAdjectiveSmall
+ ADJ_KAZ:0 "¬a©a°c¬" #GetAdjectiveSmall
+ ADJ_KBO:0 " op°³c¬" #GetAdjectiveSmall
+ ADJ_KHA:0 "¯o°¥o®»c¬" #GetAdjectiveSmall
+ ADJ_KHD:0 "xa°¦e·c¬" #GetAdjectiveSmall
+ ADJ_KHI:0 "xª¢a°c¬" #GetAdjectiveSmall
+ ADJ_KHM:0 "¬x¯epc¬" #GetAdjectiveSmall
+ ADJ_KLE:0 "¬®e¢c¬" #GetAdjectiveSmall
+ ADJ_KNI:0 "ªoa°°ª²c¬" #GetAdjectiveSmall
+ ADJ_KOK:0 "´ep¥a°c¬" #GetAdjectiveSmall
+ ADJ_KOL:0 "¬ë®»°c¬" #GetAdjectiveSmall
+ ADJ_KON:0 "¬o°¥o®e©c¬" #GetAdjectiveSmall
+ ADJ_KOR:0 "¬ope«c¬" #GetAdjectiveSmall
+ ADJ_KRK:0 "¬ap°a²ª¬c¬" #GetAdjectiveSmall
+ ADJ_KSH:0 "¬a·¯ªpc¬" #GetAdjectiveSmall
+ ADJ_KUR:0 "¬³p®÷°¦c¬" #GetAdjectiveSmall
+ ADJ_KZH:0 "¬a©axc¬" #GetAdjectiveSmall
+ ADJ_LAN:0 "´®ope°²ª«c¬" #GetAdjectiveSmall
+ ADJ_LAP:0 "®a-±®a²c¬" #GetAdjectiveSmall
+ ADJ_LEI:0 "®e°c²epc¬" #GetAdjectiveSmall
+ ADJ_LIE:0 "®»e¨c¬" #GetAdjectiveSmall
+ ADJ_LIT:0 "®ª²o¢c¬" #GetAdjectiveSmall
+ ADJ_LNA:0 "®a°°c¬" #GetAdjectiveSmall
+ ADJ_LOA:0 "®oa°¥c¬" #GetAdjectiveSmall
+ ADJ_LOR:0 "®o²apª°¥c¬" #GetAdjectiveSmall
+ ADJ_LOU:0 "®³ª©ªa°c¬" #GetAdjectiveSmall
+ ADJ_LUA:0 "®³a°¥±xa a°¥c¬" #GetAdjectiveSmall
+ ADJ_LUN:0 "®¾°e ³p¥c¬" #GetAdjectiveSmall
+ ADJ_LUX:0 "®¾¬ce¯ ³p¥c¬" #GetAdjectiveSmall
+ ADJ_LXA:0 "®a°ca°¥c¬" #GetAdjectiveSmall
+ ADJ_MAD:0 "¯a¦³pa«c¬" #GetAdjectiveSmall
+ ADJ_MAG:0 "¯a¥¦e ³p¥c¬" #GetAdjectiveSmall
+ ADJ_MAI:0 "¯a«°µc¬" #GetAdjectiveSmall
+ ADJ_MAL:0 "¯a®ª«c¬" #GetAdjectiveSmall
+ ADJ_MAM:0 "¯a¯®¾¬c¬" #GetAdjectiveSmall
+ ADJ_MAN:0 "¯a°²³a°c¬" #GetAdjectiveSmall
+ ADJ_MAY:0 "¯a«÷°c¬" #GetAdjectiveSmall
+ ADJ_MAZ:0 "¯a©o¢c¬" #GetAdjectiveSmall
+ ADJ_MCH:0 "¯a°¶¨³pc¬" #GetAdjectiveSmall
+ ADJ_MEX:0 "¯e¬cª¬a°c¬" #GetAdjectiveSmall
+ ADJ_MKL:0 "¯e¬®e° ³p¥c¬" #GetAdjectiveSmall
+ ADJ_MKS:0 "¯a¬acapc¬" #GetAdjectiveSmall
+ ADJ_MLC:0 "¯a®a¬¬c¬" #GetAdjectiveSmall
+ ADJ_MLO:0 "¯ª®a°c¬" #GetAdjectiveSmall
+ ADJ_MLW:0 "¯a®¢c¬" #GetAdjectiveSmall
+ ADJ_MNG:0 "¯ª°c¬" #GetAdjectiveSmall
+ ADJ_MNS:0 "²o¯o°¦c¬" #GetAdjectiveSmall
+ ADJ_MOD:0 "¯o¦e°c¬" #GetAdjectiveSmall
+ ADJ_MOE:0 "¯ope«c¬" #GetAdjectiveSmall
+ ADJ_MOL:0 "¯o®¦a¢c¬" #GetAdjectiveSmall
+ ADJ_MON:0 "¶ep°o¥opc¬" #GetAdjectiveSmall
+ ADJ_MOR:0 "¯apo¬¬a°c¬" #GetAdjectiveSmall
+ ADJ_MOS:0 "¯oc¬o¢c¬" #GetAdjectiveSmall
+ ADJ_MTR:0 "¯a²apa¯c¬" #GetAdjectiveSmall
+ ADJ_MUG:0 "¯o¥o®»c¬" #GetAdjectiveSmall
+ ADJ_MUN:0 "¯¾°c²epc¬" #GetAdjectiveSmall
+ ADJ_MYS:0 "¯a«c³pc¬" #GetAdjectiveSmall
+ ADJ_NAJ:0 "°e¦¨¦c¬" #GetAdjectiveSmall
+ ADJ_NAV:0 "°a¢appc¬" #GetAdjectiveSmall
+ ADJ_NAX:0 "°a¬cocc¬" #GetAdjectiveSmall
+ ADJ_NED:0 "°ª¦ep®a°¦c¬" #GetAdjectiveSmall
+ ADJ_NEV:0 "°e¢ep°ª«c¬" #GetAdjectiveSmall
+ ADJ_NOG:0 "°o¥a«c¬" #GetAdjectiveSmall
+ ADJ_NOL:0 "°op²³¯ pª«c¬" #GetAdjectiveSmall
+ ADJ_NOR:0 "°op¢e¨c¬" #GetAdjectiveSmall
+ ADJ_NOV:0 "°o¢¥opo¦c¬" #GetAdjectiveSmall
+ ADJ_NPL:0 "°e±a®»c¬" #GetAdjectiveSmall
+ ADJ_NRM:0 "°op¯a°°c¬" #GetAdjectiveSmall
+ ADJ_NUB:0 "ce°°apc¬" #GetAdjectiveSmall
+ ADJ_ODH:0 "a¢a¦xc¬" #GetAdjectiveSmall
+ ADJ_OIR:0 "o«pa²c¬" #GetAdjectiveSmall
+ ADJ_OLD:0 "o®»¦e° ³p¥c¬" #GetAdjectiveSmall
+ ADJ_OMA:0 "o¯a°c¬" #GetAdjectiveSmall
+ ADJ_ORI:0 "opªcc¬" #GetAdjectiveSmall
+ ADJ_ORL:0 "op®ea°c¬" #GetAdjectiveSmall
+ ADJ_OYO:0 "o«oc¬" #GetAdjectiveSmall
+ ADJ_PAL:0 "±´a®»µc¬" #GetAdjectiveSmall
+ ADJ_PAP:0 "±a±c¬" #GetAdjectiveSmall
+ ADJ_PAR:0 "±ap¯c¬" #GetAdjectiveSmall
+ ADJ_PAT:0 "±a²²a°c¬" #GetAdjectiveSmall
+ ADJ_PEG:0 "±e¥³c¬" #GetAdjectiveSmall
+ ADJ_PER:0 "±epcª¦c¬" #GetAdjectiveSmall
+ ADJ_PEU:0 "±ep³a°c¬" #GetAdjectiveSmall
+ ADJ_PIC:0 "±ª¬ap¦ª«c¬" #GetAdjectiveSmall
+ ADJ_PIS:0 "±ª©a°c¬" #GetAdjectiveSmall
+ ADJ_POL:0 "±o®»c¬" #GetAdjectiveSmall
+ ADJ_POM:0 "±o¯¯epa°c¬" #GetAdjectiveSmall
+ ADJ_POR:0 "±op²³¥a®»c¬" #GetAdjectiveSmall
+ ADJ_PRO:0 "±po¢a°ca®»c¬" #GetAdjectiveSmall
+ ADJ_PRU:0 "±p³cc¬" #GetAdjectiveSmall
+ ADJ_PSK:0 "±c¬o¢c¬" #GetAdjectiveSmall
+ ADJ_PUN:0 "±e°¦¨a c¬" #GetAdjectiveSmall
+ ADJ_QAR:0 "¬apa-¬o¾°®³c¬" #GetAdjectiveSmall
+ ADJ_QAS:0 "¬acª¯o¢c¬" #GetAdjectiveSmall
+ ADJ_QUE:0 "¬¢e e¬c¬" #GetAdjectiveSmall
+ ADJ_RAG:0 "pa¥³©c¬" #GetAdjectiveSmall
+ ADJ_RAJ:0 "pa¦¨±³²a°c¬" #GetAdjectiveSmall
+ ADJ_REB:0 "±o¢c²a°¶ec¬" #GetAdjectiveSmall
+ ADJ_RIG:0 "pª¨c¬" #GetAdjectiveSmall
+ ADJ_RUS:0 "p³cc¬" #GetAdjectiveSmall
+ ADJ_RYA:0 "p÷©a°c¬" #GetAdjectiveSmall
+ ADJ_RYU:0 "p¾¬¾c¬" #GetAdjectiveSmall
+ ADJ_SAR:0 "cap¦ª°c¬" #GetAdjectiveSmall
+ ADJ_SAV:0 "ca¢o«c¬" #GetAdjectiveSmall
+ ADJ_SAX:0 "ca¬co°c¬" #GetAdjectiveSmall
+ ADJ_SCO:0 "·o²®a°¦c¬" #GetAdjectiveSmall
+ ADJ_SER:0 "cep c¬" #GetAdjectiveSmall
+ ADJ_SHA:0 "·a³°c¬" #GetAdjectiveSmall
+ ADJ_SHL:0 "¥o®»·²e«°c¬" #GetAdjectiveSmall
+ ADJ_SHR:0 "·ap¦¨c¬" #GetAdjectiveSmall
+ ADJ_SHY:0 "³© e¬c¬" #GetAdjectiveSmall
+ ADJ_SIB:0 "cª ªpc¬" #GetAdjectiveSmall
+ ADJ_SIC:0 "cªµª®ª«c¬" #GetAdjectiveSmall
+ ADJ_SIE:0 "cªe°c¬" #GetAdjectiveSmall
+ ADJ_SIL:0 "cª®e©c¬" #GetAdjectiveSmall
+ ADJ_SLZ:0 "©a®»µ ³p¥c¬" #GetAdjectiveSmall
+ ADJ_SND:0 "cª°¦c¬" #GetAdjectiveSmall
+ ADJ_SOF:0 "ce¥³c¬" #GetAdjectiveSmall
+ ADJ_SON:0 "co°¥a«c¬" #GetAdjectiveSmall
+ ADJ_SPA:0 "ªc±a°c¬" #GetAdjectiveSmall
+ ADJ_SST:0 "·a°c¬" #GetAdjectiveSmall
+ ADJ_STY:0 "·²ªpª«c¬" #GetAdjectiveSmall
+ ADJ_SUL:0 "c³®³c¬" #GetAdjectiveSmall
+ ADJ_SWE:0 "·¢e¦c¬" #GetAdjectiveSmall
+ ADJ_SWI:0 "·¢e«µapc¬" #GetAdjectiveSmall
+ ADJ_TAU:0 "²a³°¥³c¬" #GetAdjectiveSmall
+ ADJ_TEU:0 "²e¢²o°c¬" #GetAdjectiveSmall
+ ADJ_THU:0 "²¾pª°¥c¬" #GetAdjectiveSmall
+ ADJ_TIB:0 "²ª e²c¬" #GetAdjectiveSmall
+ ADJ_TIM:0 "²ª¯³pª¦c¬" #GetAdjectiveSmall
+ ADJ_TIR:0 "²ªpo®»c¬" #GetAdjectiveSmall
+ ADJ_TOK:0 "²o°¬ª°c¬" #GetAdjectiveSmall
+ ADJ_TOU:0 "²³®³©c¬" #GetAdjectiveSmall
+ ADJ_TRA:0 "²pa°cª®»¢a°c¬" #GetAdjectiveSmall
+ ADJ_TRE:0 "²pa±e©³°¦c¬" #GetAdjectiveSmall
+ ADJ_TRI:0 "²pªpc¬" #GetAdjectiveSmall
+ ADJ_TRP:0 "²pª±o®ª²a°c¬" #GetAdjectiveSmall
+ ADJ_TRV:0 "²pa¢a°¬opc¬" #GetAdjectiveSmall
+ ADJ_TUN:0 "²³°ªcc¬" #GetAdjectiveSmall
+ ADJ_TUR:0 "oc¯a°c¬" #GetAdjectiveSmall
+ ADJ_TUS:0 "²oc¬a°c¬" #GetAdjectiveSmall
+ ADJ_TVE:0 "²¢epc¬" #GetAdjectiveSmall
+ ADJ_TYR:0 "²ªpo°c¬" #GetAdjectiveSmall
+ ADJ_UKR:0 "p³cª°c¬" #GetAdjectiveSmall
+ ADJ_URB:0 "³p ª°c¬" #GetAdjectiveSmall
+ ADJ_USA:0 "a¯epª¬a°c¬" #GetAdjectiveSmall
+ ADJ_UTR:0 "³²pex²c¬" #GetAdjectiveSmall
+ ADJ_WAL:0 "¢a®a·c¬" #GetAdjectiveSmall
+ ADJ_WBG:0 "¢¾pµ ³p¥c¬" #GetAdjectiveSmall
+ ADJ_VEN:0 "¢e°eµªa°c¬" #GetAdjectiveSmall
+ ADJ_VIE:0 "¢»e°²»÷°c¬" #GetAdjectiveSmall
+ ADJ_VIJ:0 "¢ª¦¨a÷°a¥apc¬" #GetAdjectiveSmall
+ ADJ_WLS:0 "¢a®®ª«c¬" #GetAdjectiveSmall
+ ADJ_WUR:0 "¢¾p²e¯ ep¥c¬" #GetAdjectiveSmall
+ ADJ_YAR:0 "÷poc®a¢c¬" #GetAdjectiveSmall
+ ADJ_YOR:0 "a°¦xpa«c¬" #GetAdjectiveSmall
+ ADJ_ZAP:0 "ca±o²e¬c¬" #GetAdjectiveSmall
+ ADJ_ZAZ:0 "©a±opo¨c¬" #GetAdjectiveSmall
+ ADJ_ZIM:0 "¯o°o¯o²a±c¬" #GetAdjectiveSmall
+ ADJ_NIZ:0 "¦e¢a e°¥a®»c¬" #GetAdjectiveSmall
+ ADJ_BAS:0 "ax¯a¦°a¥apc¬" #GetAdjectiveSmall
+ ADJ_AMA:0 "a¯a¥c¬" #GetAdjectiveSmall
+ ADJ_ASA:0 "aca¬³pc¬" #GetAdjectiveSmall
+ ADJ_CSK:0 "²ëco¬a ¼c¬" #GetAdjectiveSmall
+ ADJ_DTE:0 "¦a²¼c¬" #GetAdjectiveSmall
+ ADJ_HJO:0 "xo¦©ëc¬" #GetAdjectiveSmall
+ ADJ_HSK:0 "xoco¬a¢c¬" #GetAdjectiveSmall
+ ADJ_HTK:0 "xa²a¬¼÷¯c¬" #GetAdjectiveSmall
+ ADJ_IKE:0 "ª¬¼¦c¬" #GetAdjectiveSmall
+ ADJ_IMG:0 "ª¯a¥a¢c¬" #GetAdjectiveSmall
+ ADJ_MAE:0 "¯a¼¦c¬" #GetAdjectiveSmall
+ ADJ_MRI:0 "¯opª«c¬" #GetAdjectiveSmall
+ ADJ_ODA:0 "o¦c¬" #GetAdjectiveSmall
+ ADJ_OTM:0 "o²o¯c¬" #GetAdjectiveSmall
+ ADJ_OUC:0 "o³²ª«c¬" #GetAdjectiveSmall
+ ADJ_SBA:0 "cª c¬" #GetAdjectiveSmall
+ ADJ_SMZ:0 "cª¯a¦©³c¬" #GetAdjectiveSmall
+ ADJ_TKD:0 "²a¬¼¦c¬" #GetAdjectiveSmall
+ ADJ_TKG:0 "²o¬³¥a¢c¬" #GetAdjectiveSmall
+ ADJ_UES:0 "³¼c³¥ª«c¬" #GetAdjectiveSmall
+ ADJ_YMN:0 "÷¯a°c¬" #GetAdjectiveSmall
+ ADJ_JOL:0 "¦¨o®o´ª°c¬" #GetAdjectiveSmall
+ ADJ_JNP:0 "¦¨a³°±³pc¬" #GetAdjectiveSmall
+ ADJ_MAW:0 "¯ap¢apc¬" #GetAdjectiveSmall
+ ADJ_MER:0 "¯e¢apc¬" #GetAdjectiveSmall
+ ADJ_MUL:0 "¯³®²a°c¬" #GetAdjectiveSmall
+ ADJ_JAN:0 "¦¨a°¥®a¦e·c¬" #GetAdjectiveSmall
+ ADJ_GRJ:0 "¥ap»÷²c¬" #GetAdjectiveSmall
+ ADJ_GWA:0 "¥¢a®ªopc¬" #GetAdjectiveSmall
+ ADJ_DHU:0 "¦x³°¦xapc¬" #GetAdjectiveSmall
+ ADJ_KLN:0 "¬e®a¦ª«c¬" #GetAdjectiveSmall
+ ADJ_MAB:0 "¬a®ª¬³²c¬" #GetAdjectiveSmall
+ ADJ_MEW:0 "¯e¢a²c¬" #GetAdjectiveSmall
+ ADJ_BST:0 " ac²apc¬" #GetAdjectiveSmall
+ ADJ_JSL:0 "¦¨a«ca®¯epc¬" #GetAdjectiveSmall
+ ADJ_KAC:0 "¬a¶apc¬" #GetAdjectiveSmall
+ ADJ_KMT:0 "¬³¶c¬" #GetAdjectiveSmall
+ ADJ_KGR:0 "¬a°¥pac¬" #GetAdjectiveSmall
+ ADJ_KAT:0 "¬a¶c¬" #GetAdjectiveSmall
+ ADJ_KOC:0 "¬o¶¶ª«c¬" #GetAdjectiveSmall
+ ADJ_AHM:0 "ax¯e¦a¥apc¬" #GetAdjectiveSmall
+ ADJ_BAH:0 " ax¯a°ª«c¬" #GetAdjectiveSmall
+ ADJ_NAG:0 "°a¥±³pc¬" #GetAdjectiveSmall
+ ADJ_BDA:0 " apo¦c¬" #GetAdjectiveSmall
+ ADJ_GOC:0 "¥o®¬o°¦c¬" #GetAdjectiveSmall
+ ADJ_MAR:0 "¯apa²xª«c¬" #GetAdjectiveSmall
+ ADJ_VND:0 "¢e°a¦c¬" #GetAdjectiveSmall
+ ADJ_DEC:0 "¦e¬a°c¬" #GetAdjectiveSmall
+ ADJ_CZH:0 "¶¨o³c¬" #GetAdjectiveSmall
+ ADJ_CSH:0 "·³°»c¬" #GetAdjectiveSmall
+ ADJ_CXI:0 "cª«c¬" #GetAdjectiveSmall
+ ADJ_PLC:0 "±o®»c¬" #GetAdjectiveSmall
+ ADJ_PRM:0 "±ep¯c¬" #GetAdjectiveSmall
+ ADJ_CEY:0 "¬o²²e«c¬" #GetAdjectiveSmall
+ ADJ_AFG:0 "a´¥a°c¬" #GetAdjectiveSmall
+ ADJ_QNG:0 "µª°c¬" #GetAdjectiveSmall
+ ADJ_ABE:0 "a e°a¬c¬" #GetAdjectiveSmall
+ ADJ_APA:0 "a±a¶c¬" #GetAdjectiveSmall
+ ADJ_ASI:0 "accª°ª o«°c¬" #GetAdjectiveSmall
+ ADJ_BLA:0 "¶ep°o°o¥c¬" #GetAdjectiveSmall
+ ADJ_CAD:0 "¬¼¦¦c¬" #GetAdjectiveSmall
+ ADJ_CHI:0 "¶ª¬aca¢c¬" #GetAdjectiveSmall
+ ADJ_CHO:0 "¶o¬²oc¬" #GetAdjectiveSmall
+ ADJ_CHY:0 "·a«e°°c¬" #GetAdjectiveSmall
+ ADJ_COM:0 "¬o¯a°¶c¬" #GetAdjectiveSmall
+ ADJ_FOX:0 "¯ec¬¢o¬c¬" #GetAdjectiveSmall
+ ADJ_ILL:0 "ª®®ª°o«cc¬" #GetAdjectiveSmall
+ ADJ_LEN:0 "¦e®a¢apc¬" #GetAdjectiveSmall
+ ADJ_MIK:0 "¯ª¬¯a¬c¬" #GetAdjectiveSmall
+ ADJ_MMI:0 "¯a«a¯c¬" #GetAdjectiveSmall
+ ADJ_MAH:0 "¯o¥ª¬a°c¬" #GetAdjectiveSmall
+ ADJ_NAH:0 "°a¢axc¬" #GetAdjectiveSmall
+ ADJ_OJI:0 "o¦¨ª ¢ec¬" #GetAdjectiveSmall
+ ADJ_OSA:0 "oce«¦¨c¬" #GetAdjectiveSmall
+ ADJ_OTT:0 "o²²a¢c¬" #GetAdjectiveSmall
+ ADJ_PAW:0 "±a³°c¬" #GetAdjectiveSmall
+ ADJ_PEQ:0 "±e¬o²c¬" #GetAdjectiveSmall
+ ADJ_PIM:0 "±ª¯c¬" #GetAdjectiveSmall
+ ADJ_POT:0 "±o²a¢a²o¯c¬" #GetAdjectiveSmall
+ ADJ_POW:0 "±o³xa²a°c¬" #GetAdjectiveSmall
+ ADJ_PUE:0 "±³¼ ®c¬" #GetAdjectiveSmall
+ ADJ_SIO:0 "cª³c¬" #GetAdjectiveSmall
+ ADJ_SHO:0 "·o·o°c¬" #GetAdjectiveSmall
+ ADJ_SUS:0 "cac¬³exa°°o¬c¬" #GetAdjectiveSmall
+ ADJ_WCR:0 "¬pªc¬" #GetAdjectiveSmall
+ ADJ_ZAN:0 "¬ª®¢a°c¬" #GetAdjectiveSmall
+ ADJ_AJU:0 "a¦¨³pa°c¬" #GetAdjectiveSmall
+ ADJ_MBA:0 "¯o¯ acc¬" #GetAdjectiveSmall
+ ADJ_MDI:0 "¯o¥a¦ª·c¬" #GetAdjectiveSmall
+ ADJ_MLI:0 "¯a®ª°¦ª«c¬" #GetAdjectiveSmall
+ ADJ_SFA:0 "co´a®»c¬" #GetAdjectiveSmall
+ ADJ_EGY:0 "e¥ª±e²c¬" #GetAdjectiveSmall
+ ADJ_BUK:0 " ³xapc¬" #GetAdjectiveSmall
+ ADJ_BGA:0 " a¥®a°c¬" #GetAdjectiveSmall
+ ADJ_BGL:0 " a¥e®xa°¦c¬" #GetAdjectiveSmall
+ ADJ_CHD:0 "¶a°¦ª«c¬" #GetAdjectiveSmall
+ ADJ_CMP:0 "pe¢a°²ª«c¬" #GetAdjectiveSmall
+ ADJ_GHR:0 "¥apx¢a®»c¬" #GetAdjectiveSmall
+ ADJ_HAD:0 "xa¦o²ª«c¬" #GetAdjectiveSmall
+ ADJ_JAJ:0 "xa ca°c¬" #GetAdjectiveSmall
+ ADJ_JFN:0 "¦¨a´°ª«c¬" #GetAdjectiveSmall
+ ADJ_LDK:0 "®a¦a¬xc¬" #GetAdjectiveSmall
+ ADJ_MLB:0 "¯a°ª±³pc¬" #GetAdjectiveSmall
+ ADJ_NGA:0 "°a¥a³pc¬" #GetAdjectiveSmall
+ ADJ_NGP:0 "¦¨ap¬xa°¦ª«c¬" #GetAdjectiveSmall
+ ADJ_PTA:0 "±a²ªa®»c¬" #GetAdjectiveSmall
+ ADJ_RMP:0 "poxª®¬xa°¦c¬" #GetAdjectiveSmall
+ ADJ_SDY:0 "ca¦ª«c¬" #GetAdjectiveSmall
+ ADJ_TPR:0 "²pª±³pc¬" #GetAdjectiveSmall
+ ADJ_TRT:0 "²ªpx³²c¬" #GetAdjectiveSmall
+ ADJ_CIR:0 "¶ep¬ecc¬" #GetAdjectiveSmall
+ ADJ_GAZ:0 "¥a©ª¬³¯³xc¬" #GetAdjectiveSmall
+ ADJ_IME:0 "ª¯epe²ª°c¬" #GetAdjectiveSmall
+ ADJ_TAB:0 "¯a©a°¦apa°c¬" #GetAdjectiveSmall
+ ADJ_MYR:0 "e¨¼°»c¬" #GetAdjectiveSmall
+ ADJ_MHX:0 "xa«cª«c¬" #GetAdjectiveSmall
+ ADJ_KRC:0 "xop¶ª°c¬" #GetAdjectiveSmall
+ ADJ_KLK:0 "xa®xª«c¬" #GetAdjectiveSmall
+ ADJ_DGL:0 "¯a®»¦ª¢c¬" #GetAdjectiveSmall
+ ADJ_HMI:0 "¬apa-¦e®»c¬" #GetAdjectiveSmall
+ ADJ_ZUN:0 "¦¨³°¥apc¬" #GetAdjectiveSmall
+ ADJ_KAS:0 "÷p¬e°¦c¬" #GetAdjectiveSmall
+ ADJ_KSD:0 "xo·³²c¬" #GetAdjectiveSmall
+ ADJ_SYG:0 "capº¥-¾¥³pc¬" #GetAdjectiveSmall
+ ADJ_UTS:0 "µa°¥c¬" #GetAdjectiveSmall
+ ADJ_KAM:0 "¬a¯c¬" #GetAdjectiveSmall
+ ADJ_GUG:0 "¥³¥e«c¬" #GetAdjectiveSmall
+ ADJ_TMB:0 "²ª¯ ³¬c¬" #GetAdjectiveSmall
+ ADJ_AIR:0 "a¥a¦ecc¬" #GetAdjectiveSmall
+ ADJ_MSI:0 "¯ocª«c¬" #GetAdjectiveSmall
+ ADJ_KTS:0 "¬aµª°c¬" #GetAdjectiveSmall
+ ADJ_KAN:0 "¬a°o°ª«c¬" #GetAdjectiveSmall
+ ADJ_FUL:0 "´³®a°ª«c¬" #GetAdjectiveSmall
+ ADJ_BON:0 " o°o¯a°c¬" #GetAdjectiveSmall
+ ADJ_DAH:0 "¦a¥o¯e«c¬" #GetAdjectiveSmall
+ ADJ_DGB:0 "¦a¥o¯ ª«c¬" #GetAdjectiveSmall
+ ADJ_JNN:0 "¦¨e°°e°c¬" #GetAdjectiveSmall
+ ADJ_KBU:0 "¥a ³«c¬" #GetAdjectiveSmall
+ ADJ_KNG:0 "³a²²apc¬" #GetAdjectiveSmall
+ ADJ_NUP:0 "°³±ª«c¬" #GetAdjectiveSmall
+ ADJ_YAO:0 "÷o«c¬" #GetAdjectiveSmall
+ ADJ_YAT:0 "÷²e°¥ª«c¬" #GetAdjectiveSmall
+ ADJ_ZAF:0 "¯accª°ª«c¬" #GetAdjectiveSmall
+ ADJ_ZZZ:0 "©apª«c¬" #GetAdjectiveSmall
+ ADJ_ARD:0 "ap¦a®a°c¬" #GetAdjectiveSmall
+ ADJ_BHT:0 "copa°c¬" #GetAdjectiveSmall
+ ADJ_ERE:0 "¼pe²°ª¦c¬" #GetAdjectiveSmall
+ ADJ_LEB:0 "®ª¢a°c¬" #GetAdjectiveSmall
+ ADJ_MAK:0 "¯³¬³ppc¬" #GetAdjectiveSmall
+ ADJ_SHM:0 "·a¯¯apª«c¬" #GetAdjectiveSmall
+ ADJ_ARB:0 "apa¢ª«c¬" #GetAdjectiveSmall
+ ADJ_GRM:0 "¥ep¯ª÷°c¬" #GetAdjectiveSmall
+ ADJ_MPH:0 "±³a°»c¬" #GetAdjectiveSmall
+ ADJ_LIG:0 "®ª¥opc¬" #GetAdjectiveSmall
+ ADJ_JOH:0 "¦¨oxopc¬" #GetAdjectiveSmall
+ ADJ_KED:0 "¬e¦axc¬" #GetAdjectiveSmall
+ ADJ_PRK:0 "±epa¬a°c¬" #GetAdjectiveSmall
+ ADJ_HSE:0 "xce°¢ª«c¬" #GetAdjectiveSmall
+ ADJ_MYA:0 "¯o°-÷°c¬" #GetAdjectiveSmall
+ ADJ_AVA:0 "a¢a°c¬" #GetAdjectiveSmall
+ ADJ_FEO:0 "´eo¦opc¬" #GetAdjectiveSmall
+ ADJ_VOL:0 "¢o®º°c¬" #GetAdjectiveSmall
+ ADJ_KIE:0 "¬ªe¢c¬" #GetAdjectiveSmall
+ ADJ_CHR:0 "¶ep°ª¥o¢c¬" #GetAdjectiveSmall
+ ADJ_CHU:0 "¶³¬o²c¬" #GetAdjectiveSmall
+ ADJ_HOD:0 "xo¦º°c¬" #GetAdjectiveSmall
+ ADJ_CHV:0 "¶a¢¶³¢e°c¬" #GetAdjectiveSmall
+ ADJ_KMC:0 "¬a¯¶a¦a®»c¬" #GetAdjectiveSmall
+ ADJ_BRT:0 " ³p÷²c¬" #GetAdjectiveSmall
+ ADJ_BSH:0 " a·¬ªpc¬" #GetAdjectiveSmall
+ ADJ_TLC:0 "²®e¯ce°c¬" #GetAdjectiveSmall
+ ADJ_MZB:0 "¯©a c¬" #GetAdjectiveSmall
+ ADJ_TGT:0 "²³¥¥³p²c¬" #GetAdjectiveSmall
+ ADJ_GHD:0 "¦¨epª¦c¬" #GetAdjectiveSmall
+ ADJ_FZA:0 "´³©©a°c¬" #GetAdjectiveSmall
+ ADJ_KBA:0 "¬a ª®ª«c¬" #GetAdjectiveSmall
+ ADJ_SOS:0 "c³cc¬" #GetAdjectiveSmall
+ ADJ_TFL:0 "²a´ª®a®»²c¬" #GetAdjectiveSmall
+ ADJ_ARP:0 "apa±axo«c¬" #GetAdjectiveSmall
+ ADJ_CNK:0 "·ª°³¬c¬" #GetAdjectiveSmall
+ ADJ_COC:0 "¬o¬o¯c¬" #GetAdjectiveSmall
+ ADJ_XIU:0 "·¬ª±c¬" #GetAdjectiveSmall
+ ADJ_HDA:0 "xa«¦a°c¬" #GetAdjectiveSmall
+ ADJ_ITZ:0 "ªµe²c¬" #GetAdjectiveSmall
+ ADJ_KIC:0 "¬ª¶e«c¬" #GetAdjectiveSmall
+ ADJ_KIO:0 "²a°oa°c¬" #GetAdjectiveSmall
+ ADJ_MIX:0 "¯ª·²e¬c¬" #GetAdjectiveSmall
+ ADJ_SAL:0 "ca®ª·c¬" #GetAdjectiveSmall
+ ADJ_TAR:0 "²apac¬a°c¬" #GetAdjectiveSmall
+ ADJ_TLA:0 "²®a¬o±a°c¬" #GetAdjectiveSmall
+ ADJ_TLX:0 "²®a·¬a®»c¬" #GetAdjectiveSmall
+ ADJ_TOT:0 "²o²o°a¬c¬" #GetAdjectiveSmall
+ ADJ_WIC:0 "³ª¶ª²o«c¬" #GetAdjectiveSmall
+ ADJ_CLM:0 "¬o®ª¯a«c¬" #GetAdjectiveSmall
+ ADJ_BLM:0 " ®a¯ a°¥a°c¬" #GetAdjectiveSmall
+ ADJ_CRB:0 "¶ªpe o°c¬" #GetAdjectiveSmall
+ ADJ_DMK:0 "¦e¯a¬c¬" #GetAdjectiveSmall
+ ADJ_PGR:0 "±a¥ap³¾°¥c¬" #GetAdjectiveSmall
+ ADJ_PLB:0 "±a®e¯ a°¥c¬" #GetAdjectiveSmall
+ ADJ_PSA:0 "±aca«c¬" #GetAdjectiveSmall
+ ADJ_SAK:0 "cªa¬c¬" #GetAdjectiveSmall
+ ADJ_SUN:0 "c³°¦a°c¬" #GetAdjectiveSmall
+ ADJ_MJZ:0 "µ©÷°»¶¨o³c¬" #GetAdjectiveSmall
+ ADJ_SRV:0 "·ªp¢a°c¬" #GetAdjectiveSmall
+ ADJ_MIN:0 "¯ª°»c¬" #GetAdjectiveSmall
+ ADJ_YUE:0 "¾¼°»c¬" #GetAdjectiveSmall
+ ADJ_SHU:0 "·³«c¬" #GetAdjectiveSmall
+ ADJ_NNG:0 "°ª°c÷°c¬" #GetAdjectiveSmall
+ ADJ_CHC:0 "µ©ª°¶³«c¬" #GetAdjectiveSmall
+ ADJ_TNG:0 "²a°c¬" #GetAdjectiveSmall
+ ADJ_QIC:0 "·a°»¦³°c¬" #GetAdjectiveSmall
+ ADJ_YAN:0 "÷°»c¬" #GetAdjectiveSmall
+ ADJ_JIN:0 "µ©ª°»c¬" #GetAdjectiveSmall
+ ADJ_LNG:0 "®÷°c¬" #GetAdjectiveSmall
+ ADJ_HUA:0 "x³a«c¬" #GetAdjectiveSmall
+ ADJ_CGS:0 "¶a°·¼°c¬" #GetAdjectiveSmall
+ ADJ_CAB:0 "¬apª c¬" #GetAdjectiveSmall
+ ADJ_LON:0 "®eo°c¬" #GetAdjectiveSmall
+ ADJ_ICM:0 "ª¶¯a°c¬" #GetAdjectiveSmall
+ ADJ_NUM:0 "°¾p° ep¥c¬" #GetAdjectiveSmall
+ ADJ_AUS:0 "a¢c²pa®ª«c¬" #GetAdjectiveSmall
+ ADJ_BTI:0 "cº¯e°c¬" #GetAdjectiveSmall
+ ADJ_MTH:0 "¯ª²c¬" #GetAdjectiveSmall
+ ADJ_ADU:0 "a°¦a®³cc¬" #GetAdjectiveSmall
+ ADJ_MEM:0 "¯e¯¯ª°¥e°c¬" #GetAdjectiveSmall
+ ADJ_VER:0 "´ep¦e°c¬" #GetAdjectiveSmall
+ ADJ_NSA:0 "°acca³c¬" #GetAdjectiveSmall
+ ADJ_RVA:0 "¦op²¯³°¦c¬" #GetAdjectiveSmall
+ ADJ_MFA:0 "¯o°´eppa²c¬" #GetAdjectiveSmall
+ ADJ_LUC:0 "®³¬¬a°c¬" #GetAdjectiveSmall
+ ADJ_LVA:0 "®ª¢o°c¬" #GetAdjectiveSmall
+ ADJ_EST:0 "¼c²o°c¬" #GetAdjectiveSmall
+ ADJ_SMI:0 "®a±®a°¦c¬" #GetAdjectiveSmall
+ ADJ_ORM:0 "op¯³©c¬" #GetAdjectiveSmall
+ ADJ_KRL:0 "¬ape®»c¬" #GetAdjectiveSmall
+ ADJ_JAI:0 "¯a®»²ª«c¬" #GetAdjectiveSmall
+ ADJ_KUB:0 "¬³ c¬" #GetAdjectiveSmall
+ ADJ_KLD:0 "¬a®³°¦¢ª«c¬" #GetAdjectiveSmall
+ ADJ_YAK:0 "÷¬a°c¬" #GetAdjectiveSmall
+ ADJ_KZB:0 "¬a©e¯ e«c¬" #GetAdjectiveSmall
+ ADJ_KIK:0 "¬ª¬o°¨c¬" #GetAdjectiveSmall
+ ADJ_CKW:0 "¶o¬¢e°c¬" #GetAdjectiveSmall
+ ADJ_LND:0 "®³°¦a°c¬" #GetAdjectiveSmall
+ ADJ_LUB:0 "®³ a°c¬" #GetAdjectiveSmall
+ ADJ_KSJ:0 "¬aca°¦¨e«c¬" #GetAdjectiveSmall
+ ADJ_SYO:0 "co«o°c¬" #GetAdjectiveSmall
+ ADJ_TYO:0 "²o«o°c¬" #GetAdjectiveSmall
+ ADJ_BSG:0 " ³co¥c¬" #GetAdjectiveSmall
+ ADJ_BNY:0 " ³°»opc¬" #GetAdjectiveSmall
+ ADJ_KRW:0 "¬apa¥¢e°c¬" #GetAdjectiveSmall
+ ADJ_BUG:0 " ³¥a°¦c¬" #GetAdjectiveSmall
+ ADJ_RWA:0 "p³a°¦c¬" #GetAdjectiveSmall
+ ADJ_NKO:0 "°»÷°¬o®»c¬" #GetAdjectiveSmall
+ ADJ_BUU:0 " ³p³°¦ª«c¬" #GetAdjectiveSmall
+ ADJ_UBH:0 " ³xc¬" #GetAdjectiveSmall
+ ADJ_MRA:0 "¯apa¢ª«c¬" #GetAdjectiveSmall
+ ADJ_LDU:0 "®³°¦³«c¬" #GetAdjectiveSmall
+ ADJ_TBK:0 "²³¯ ³¬c¬" #GetAdjectiveSmall
+ ADJ_MKU:0 "¯a¬³a°c¬" #GetAdjectiveSmall
+ ADJ_RZW:0 " ³²³a°c¬" #GetAdjectiveSmall
+ ADJ_MIR:0 "ª¯epª°c¬" #GetAdjectiveSmall
+ ADJ_ANT:0 "a°²e¯opc¬" #GetAdjectiveSmall
+ ADJ_SKA:0 "ca¬a®a¢c¬" #GetAdjectiveSmall
+ ADJ_MFY:0 "¯axa´a®»c¬" #GetAdjectiveSmall
+ ADJ_BTS:0 " eµª¯apa¬a°c¬" #GetAdjectiveSmall
+ ADJ_ULS:0 "o®»c²epc¬" #GetAdjectiveSmall
+ ADJ_DMS:0 "¦ec¯o°¦c¬" #GetAdjectiveSmall
+ ADJ_ORD:0 "op¯o°¦c¬" #GetAdjectiveSmall
+ ADJ_KID:0 "¬ª®¦¼pc¬" #GetAdjectiveSmall
+ ADJ_MCM:0 "¯a°c²epc¬" #GetAdjectiveSmall
+ ADJ_FLY:0 "o´´a®ª«c¬" #GetAdjectiveSmall
+ ADJ_TRY:0 "²ªp¬o°e®c¬" #GetAdjectiveSmall
+ ADJ_SLN:0 "c®a«¥o°c¬" #GetAdjectiveSmall
+ ADJ_OKA:0 "o¦oe¢c¬" #GetAdjectiveSmall
+ ADJ_ICE:0 "ªc®a°¦c¬" #GetAdjectiveSmall
+ ADJ_SLO:0 "°ª²pa°c¬" #GetAdjectiveSmall
+ ADJ_HSC:0 "¥¼®»c¬" #GetAdjectiveSmall
+ ADJ_ROM:0 "pª¯c¬" #GetAdjectiveSmall
+ ADJ_DTT:0 "¦ª²¯ap·e°c¬" #GetAdjectiveSmall
+ ADJ_GLH:0 "©o®o²oop¦º°c¬" #GetAdjectiveSmall
+ ADJ_BEJ:0 " e¦¨a°c¬" #GetAdjectiveSmall
+ ADJ_JIM:0 "¦¨ª¯¯a°c¬" #GetAdjectiveSmall
+ ADJ_WLY:0 "¢o®a«²c¬" #GetAdjectiveSmall
+ ADJ_DAM:0 "¦a¯o²c¬" #GetAdjectiveSmall
+ ADJ_HDY:0 "xa¦ª«c¬" #GetAdjectiveSmall
+ ADJ_SOA:0 "·oa°c¬" #GetAdjectiveSmall
+ ADJ_JJI:0 "¦¨a°¦¨ªpc¬" #GetAdjectiveSmall
+ ADJ_ENA:0 "¼°°apc¬" #GetAdjectiveSmall
+ ADJ_ABB:0 "¦o°¥o®»c¬" #GetAdjectiveSmall
+ ADJ_AKM:0 "a¬a¯aµ¬" #GetAdjectiveSmall
+ ADJ_AKT:0 "a°¦o°c¬" #GetAdjectiveSmall
+ ADJ_CBA:0 "²ª c¬" #GetAdjectiveSmall
+ ADJ_ISK:0 "ªccª¬ª«c¬" #GetAdjectiveSmall
+ ADJ_ITO:0 "ª²o°c¬" #GetAdjectiveSmall
+ ADJ_KKC:0 "¬ª¬³²ª«c¬" #GetAdjectiveSmall
+ ADJ_KNO:0 "¬o°o°c¬" #GetAdjectiveSmall
+ ADJ_OGS:0 "o¥aca¢apc¬" #GetAdjectiveSmall
+ ADJ_SHN:0 "cë°ªc¬" #GetAdjectiveSmall
+ ADJ_STK:0 "ca²a¬¼°c¬" #GetAdjectiveSmall
+ ADJ_TKI:0 "²o¬ª«c¬" #GetAdjectiveSmall
+ ADJ_UTN:0 "³µ³°o¯c¬" #GetAdjectiveSmall
+ ADJ_TTI:0 "µ³µ³«c¬" #GetAdjectiveSmall
+ ADJ_ASK:0 "acª¬a¥c¬" #GetAdjectiveSmall
+ ADJ_MVA:0 "¯opa¢c¬" #GetAdjectiveSmall
+ ADJ_YUA:0 "¾a°»c¬" #GetAdjectiveSmall
+ ADJ_BLO:0 " e®o©epc¬" #GetAdjectiveSmall
+ ADJ_RSO:0 "poc²o¢c¬" #GetAdjectiveSmall
+ ADJ_MHR:0 "¯axpª«c¬" #GetAdjectiveSmall
+ ADJ_HDR:0 "xa¦pa¯a³²c¬" #GetAdjectiveSmall
+ ADJ_MDA:0 "¯e¦ª°c¬" #GetAdjectiveSmall
+ ADJ_ANZ:0 "a°a©c¬" #GetAdjectiveSmall
+ ADJ_FAD:0 "´a¦®»c¬" #GetAdjectiveSmall
+ ADJ_YAS:0 "÷cc¬" #GetAdjectiveSmall
+ ADJ_RAS:0 "paccª¦c¬" #GetAdjectiveSmall
+ ADJ_YEM:0 "«e¯e°c¬" #GetAdjectiveSmall
+ ADJ_DAW:0 "¦a¢acªpc¬" #GetAdjectiveSmall
+ ADJ_MFL:0 "¯ª¬®a´c¬" #GetAdjectiveSmall
+ ADJ_NJR:0 "°a¦¨pa°c¬" #GetAdjectiveSmall
+ ADJ_HSN:0 "xaca°¬e«´c¬" #GetAdjectiveSmall
+ ADJ_BTL:0 " ª²®ªcc¬" #GetAdjectiveSmall
+ ADJ_AVR:0 "a¢apc¬" #GetAdjectiveSmall
+ ADJ_MLK:0 "¬apa axc¬" #GetAdjectiveSmall
+ ADJ_SME:0 "ca¯µxe«c¬" #GetAdjectiveSmall
+ ADJ_ARL:0 "ap¦e ª®»c¬" #GetAdjectiveSmall
+ ADJ_MSY:0 "¯³·a·c¬" #GetAdjectiveSmall
+ ADJ_RUM:0 "p³¯c¬" #GetAdjectiveSmall
+ ADJ_KRY:0 "¥ª®÷°c¬" #GetAdjectiveSmall
+ ADJ_LRI:0 "®³pªc²a°c¬" #GetAdjectiveSmall
+ ADJ_SIS:0 "cªc²a°c¬" #GetAdjectiveSmall
+ ADJ_BPI:0 " ª÷x-±ac" #GetAdjectiveSmall
+ ADJ_FRS:0 "´apcc¬" #GetAdjectiveSmall
+ ADJ_KRM:0 "¬ep¯a°c¬" #GetAdjectiveSmall
+ ADJ_YZD:0 "÷©¦c¬" #GetAdjectiveSmall
+ ADJ_ISF:0 "ªc´axa°c¬" #GetAdjectiveSmall
+ ADJ_TBR:0 "²e pª©c¬" #GetAdjectiveSmall
+ ADJ_BSR:0 " acpª«c¬" #GetAdjectiveSmall
+ ADJ_MGR:0 "¯apa¥exc¬" #GetAdjectiveSmall
+ ADJ_QOM:0 "a¦¨a¯c¬" #GetAdjectiveSmall
+ ADJ_TRS:0 "²pa°co¬cªa°c¬" #GetAdjectiveSmall
+ ADJ_MAS:0 "¯a¦»÷cc¬" #GetAdjectiveSmall
+ ADJ_PGS:0 "±a°¥acª°a°c¬" #GetAdjectiveSmall
+ ADJ_TDO:0 "²o°¦c¬" #GetAdjectiveSmall
+ ADJ_MNA:0 "¯a°ª®c¬" #GetAdjectiveSmall
+ ADJ_CEB:0 "ce ³«c¬" #GetAdjectiveSmall
+ ADJ_BTU:0 " ³²³a°c¬" #GetAdjectiveSmall
+ ADJ_KTB:0 "¬ª²a a²a¬c¬" #GetAdjectiveSmall
+ ADJ_KOI:0 "¯a°°c¬" #GetAdjectiveSmall
+ ADJ_LOI:0 "¥e pª¦c¬" #GetAdjectiveSmall
+ ADJ_MMA:0 "¯o°¥-¯ao°c¬" #GetAdjectiveSmall
+ ADJ_MKA:0 "¯o°¥-¬a³°¥c¬" #GetAdjectiveSmall
+ ADJ_MPA:0 "¯o°¥-±a«c¬" #GetAdjectiveSmall
+ ADJ_KAL:0 "¬a®e«c¬" #GetAdjectiveSmall
+ ADJ_HSI:0 "x©ª±o°c¬" #GetAdjectiveSmall
+ ADJ_BPR:0 "±»ª«c¬" #GetAdjectiveSmall
+ ADJ_MNI:0 "¯o°¥-°a«c¬" #GetAdjectiveSmall
+ ADJ_MBL:0 "¢ª·°³±³pc¬" #GetAdjectiveSmall
+ ADJ_SKK:0 "cª¬¬ª¯c¬" #GetAdjectiveSmall
+ ADJ_IDR:0 "a«¦apc¬" #GetAdjectiveSmall
+ ADJ_NVR:0 "°a¢a°a¥apc¬" #GetAdjectiveSmall
+ ADJ_JLV:0 "¦¨xa®a¢apc¬" #GetAdjectiveSmall
+ ADJ_PTL:0 "±a®ª²a°c¬" #GetAdjectiveSmall
+ ADJ_RJK:0 "pa¦¨¬o²c¬" #GetAdjectiveSmall
+ ADJ_JGD:0 "¦¨³°a¥a¦xc¬" #GetAdjectiveSmall
+ ADJ_PRB:0 "±op a°¦apc¬" #GetAdjectiveSmall
+ ADJ_PAN:0 "¬a®ª°¦¨apc¬" #GetAdjectiveSmall
+ ADJ_KLP:0 "¬a®±ª«c¬" #GetAdjectiveSmall
+ ADJ_SBP:0 "ca¯ a®±³pc¬" #GetAdjectiveSmall
+ ADJ_PTT:0 "±a²°a°c¬" #GetAdjectiveSmall
+ ADJ_JPR:0 "¦¨a«±³pc¬" #GetAdjectiveSmall
+ ADJ_PRD:0 "±apa®a¬xe¯³°¦ª«c¬" #GetAdjectiveSmall
+ ADJ_KJH:0 "¬e°¦³¦¨xapc¬" #GetAdjectiveSmall
+ ADJ_KLH:0 "¬a®axa°¦ª«c¬" #GetAdjectiveSmall
+ ADJ_RTT:0 "pa²a°±³pc¬" #GetAdjectiveSmall
+ ADJ_SRG:0 "c³p¥³¦¨c¬" #GetAdjectiveSmall
+ ADJ_TLG:0 "²e®ª°¥a°c¬" #GetAdjectiveSmall
+ ADJ_KLT:0 "¬o®a²x³°a¦c¬" #GetAdjectiveSmall
+ ADJ_DNG:0 "¦a°¥c¬" #GetAdjectiveSmall
+ ADJ_DTI:0 "¦o²ª«c¬" #GetAdjectiveSmall
+ ADJ_GRK:0 "¥op¬xa°c¬" #GetAdjectiveSmall
+ ADJ_JML:0 "¦¨³¯®a°c¬" #GetAdjectiveSmall
+ ADJ_LWA:0 "®ª¯ ³¢a°c¬" #GetAdjectiveSmall
+ ADJ_MKP:0 "¯a¬¢a°±³pc¬" #GetAdjectiveSmall
+ ADJ_SRM:0 "cªp¯³pc¬" #GetAdjectiveSmall
+ ADJ_KTU:0 "¬a²¯a°¦³«c¬" #GetAdjectiveSmall
+ ADJ_KMN:0 "¬³¯ao°c¬" #GetAdjectiveSmall
+ ADJ_KND:0 "¬a°¦ª«c¬" #GetAdjectiveSmall
+ ADJ_GNG:0 "¥ª°¥ª«c¬" #GetAdjectiveSmall
+ ADJ_TNJ:0 "²a°¦¨opc¬" #GetAdjectiveSmall
+ ADJ_PHA:0 "³«c¬" #GetAdjectiveSmall
+ ADJ_RJP:0 "pa¦¨±³²a°c¬" #GetAdjectiveSmall
+ ADJ_SRH:0 "cªpxª°¦c¬" #GetAdjectiveSmall
+ ADJ_ILK:0 "ª®»xa°a²c¬" #GetAdjectiveSmall
+ ADJ_KLM:0 "¬a®¯º¬c¬" #GetAdjectiveSmall
+ ADJ_MGE:0 "¯o°¥o®»c¬" #GetAdjectiveSmall
+ ADJ_VAL:0 "¢a®e°cª«c¬" #GetAdjectiveSmall
+ ADJ_ASU:0 "ac²³pª«c¬" #GetAdjectiveSmall
+ ADJ_SLE:0 "ca®e«c¬" #GetAdjectiveSmall
+ ADJ_TET:0 "²e²³a°c¬" #GetAdjectiveSmall
+ ADJ_MJO:0 "¯a®»op¬c¬" #GetAdjectiveSmall
+ ADJ_MAT:0 "¯a²®aµª°¬c¬" #GetAdjectiveSmall
+ ADJ_COI:0 "¬oª·²®a³a¬c¬" #GetAdjectiveSmall
+ ADJ_TEO:0 "²eo²ª²®a°c¬" #GetAdjectiveSmall
+ ADJ_XAL:0 "xa®ªc¬" #GetAdjectiveSmall
+ ADJ_GAM:0 "¥³a¯apc¬" #GetAdjectiveSmall
+ ADJ_HST:0 "³a·²e¬c¬" #GetAdjectiveSmall
+ ADJ_CCM:0 "¶ª¶ª¯e¬c¬" #GetAdjectiveSmall
+ ADJ_OTO:0 "o²o¯ª«c¬" #GetAdjectiveSmall
+ ADJ_YOK:0 "«o¬o²a°c¬" #GetAdjectiveSmall
+ ADJ_LAC:0 "µoµª®»c¬" #GetAdjectiveSmall
+ ADJ_KAQ:0 "¬a¬¶ª¬e®»c¬" #GetAdjectiveSmall
+ ADJ_CTM:0 "¶a¬²e¯a®»c¬" #GetAdjectiveSmall
+ ADJ_KER:0 "¬epecc¬" #GetAdjectiveSmall
+ ADJ_ZNI:0 "©³°ª«c¬" #GetAdjectiveSmall
+ ADJ_MSC:0 "¯ec¬a®epc¬" #GetAdjectiveSmall
+ ADJ_LIP:0 "®ª±a°c¬" #GetAdjectiveSmall
+ ADJ_CHT:0 "¶op²ª«c¬" #GetAdjectiveSmall
+ ADJ_MIS:0 "¯ªc¬ª²c¬" #GetAdjectiveSmall
+ ADJ_TAI:0 "²a«po°c¬" #GetAdjectiveSmall
+ ADJ_CNP:0 "¬ax-±e¶c¬" #GetAdjectiveSmall
+ ADJ_TON:0 "²o°a®a°c¬" #GetAdjectiveSmall
+ ADJ_YAQ:0 "÷¬ª«c¬" #GetAdjectiveSmall
+ ADJ_YKT:0 "«o¬³²cc¬" #GetAdjectiveSmall
+ ADJ_CAL:0 "¬a®ª´op°ª«c¬" #GetAdjectiveSmall
+ ADJ_TEX:0 "²exacc¬" #GetAdjectiveSmall
+ ADJ_JMN:0 "÷°-¯a«e°c¬" #GetAdjectiveSmall
+ ADJ_SYN:0 "cª°²e²ª¶ec¬" #GetAdjectiveSmall
+ ADJ_MRE:0 "¯apexa°c¬" #GetAdjectiveSmall
+ ADJ_MJE:0 "¯a¦¨ªp²ª°c¬" #GetAdjectiveSmall
+ ADJ_WAR:0 "¢apca°¥a®»c¬" #GetAdjectiveSmall
+ ADJ_HOB:0 "xo o«c¬" #GetAdjectiveSmall
+ ADJ_GLE:0 "¦¨e®e¦ª«c¬" #GetAdjectiveSmall
+ ADJ_KAF:0 "¬a´´c¬" #GetAdjectiveSmall
+ ADJ_MED:0 "¯e¦pª- axpª«c¬" #GetAdjectiveSmall
+ ADJ_HAR:0 "xap¼pc¬" #GetAdjectiveSmall
+ ADJ_AFA:0 "a´apc¬" #GetAdjectiveSmall
+ ADJ_ALO:0 "a®o¦ª«c¬" #GetAdjectiveSmall
+ ADJ_PTE:0 "±a²c¬" #GetAdjectiveSmall
+ ADJ_DAR:0 "¦ap´³pc¬" #GetAdjectiveSmall
+ ADJ_CSU:0 "¬³c¬c¬" #GetAdjectiveSmall
+ ADJ_CCQ:0 "¬a®»¶a¬c¬" #GetAdjectiveSmall
+ ADJ_MPC:0 "¯a±³¶c¬" #GetAdjectiveSmall
+ ADJ_MCA:0 "¯³ªc¬a°c¬" #GetAdjectiveSmall
+ ADJ_QTO:0 "¬ª²c¬" #GetAdjectiveSmall
+ ADJ_CJA:0 "¬axa¯ap¬a°c¬" #GetAdjectiveSmall
+ ADJ_HJA:0 "³ª®»c¬" #GetAdjectiveSmall
+ ADJ_PTG:0 "±o²ª¥³apc¬" #GetAdjectiveSmall
+ ADJ_TPQ:0 "²³±ª°ª¬ª°c¬" #GetAdjectiveSmall
+ ADJ_TUA:0 "²a±³«c¬" #GetAdjectiveSmall
+ ADJ_GUA:0 "¥³apa°c¬" #GetAdjectiveSmall
+ ADJ_CUA:0 "¶app³a°c¬" #GetAdjectiveSmall
+ ADJ_WKA:0 "¢a°¬a°c¬" #GetAdjectiveSmall
+ ADJ_CYA:0 "¶a¶a±o«c¬" #GetAdjectiveSmall
+ ADJ_CLA:0 "¬o®®a°c¬" #GetAdjectiveSmall
+ ADJ_CRA:0 "¶ap¬a°c¬" #GetAdjectiveSmall
+ ADJ_PCJ:0 "±a¬axecc¬" #GetAdjectiveSmall
+ ADJ_TPA:0 "²³±ª°a¯ c¬" #GetAdjectiveSmall
+ ADJ_ARW:0 "apa¢a¬c¬" #GetAdjectiveSmall
+ ADJ_TID:0 "²ª¦opa°c¬" #GetAdjectiveSmall
+ ADJ_TER:0 "²ep°a²a°c¬" #GetAdjectiveSmall
+ ADJ_MGD:0 "¯a¥ª°¦a°a«c¬" #GetAdjectiveSmall
+ ADJ_LUW:0 "®³¢a°c¬" #GetAdjectiveSmall
+ ADJ_LNO:0 "®a°a«c¬" #GetAdjectiveSmall
+ ADJ_LFA:0 "®a°»´a°c¬" #GetAdjectiveSmall
+ ADJ_BNJ:0 " a°¦¨apc¬" #GetAdjectiveSmall
+ ADJ_KUT:0 "¬³²a«c¬" #GetAdjectiveSmall
+ ADJ_BTN:0 " ³²o°c¬" #GetAdjectiveSmall
+ ADJ_CMI:0 "x¯o°¥c¬" #GetAdjectiveSmall
+ ADJ_CYI:0 "ª«c¬" #GetAdjectiveSmall
+ ADJ_CDL:0 "¦a®ª«c¬" #GetAdjectiveSmall
+ ADJ_CHH:0 "¶axapc¬" #GetAdjectiveSmall
+ ADJ_NDO:0 "o¢ª¯ ³°¦c¬" #GetAdjectiveSmall
+ ADJ_ANU:0 "a«°c¬" #GetAdjectiveSmall
+ ADJ_BAR:0 " apc¬" #GetAdjectiveSmall
+ ADJ_HSA:0 "®¾ e¬c¬" #GetAdjectiveSmall
+ ADJ_SMO:0 "c¯o®e°c¬" #GetAdjectiveSmall
+ ADJ_MUR:0 "¯³po¯c¬" #GetAdjectiveSmall
+ ADJ_NZH:0 "°ª¨e¥opo¦c¬" #GetAdjectiveSmall
+ ADJ_VLA:0 "¢®a¦ª¯ªpc¬" #GetAdjectiveSmall
+ ADJ_LAU:0 "®a³¼° ³p¥c¬" #GetAdjectiveSmall
+ ADJ_AAC:0 "axe°c¬" #GetAdjectiveSmall
+ ADJ_ALE:0 "a®a°co°c¬" #GetAdjectiveSmall
+ ADJ_AUG:0 "a³¥c ³p¥c¬" #GetAdjectiveSmall
+ ADJ_ULM:0 "³®»¯c¬" #GetAdjectiveSmall
+ ADJ_FUJ:0 "´³¦©ª¢apc¬" #GetAdjectiveSmall
+ ADJ_TAC:0 "²a²ª a°c¬" #GetAdjectiveSmall
+ ADJ_MSA:0 "¯a®a«c¬" #GetAdjectiveSmall
+ ADJ_HIN:0 "ª°¦oc²a°c¬" #GetAdjectiveSmall
+ ADJ_BHA:0 " xapa²c¬" #GetAdjectiveSmall
+ ADJ_CAM:0 "µe°²pa®»°oa¯epª¬a°c¬" #GetAdjectiveSmall
+ ADJ_DNZ:0 "¦a°µª¥c¬" #GetAdjectiveSmall
+ ADJ_ETR:0 "¼²p³cc¬" #GetAdjectiveSmall
+ ADJ_FRN:0 "´pa°¬´³p²c¬" #GetAdjectiveSmall
+ ADJ_HAT:0 "¥aª²÷°c¬" #GetAdjectiveSmall
+ ADJ_IRQ:0 "ªpa¬c¬" #GetAdjectiveSmall
+ ADJ_KHO:0 "xopaca°c¬" #GetAdjectiveSmall
+ ADJ_KRA:0 "¬pa¬o¢c¬" #GetAdjectiveSmall
+ ADJ_LIV:0 "®ª¢o°c¬" #GetAdjectiveSmall
+ ADJ_NAP:0 "°ea±o®ª²a°c¬" #GetAdjectiveSmall
+ ADJ_PRG:0 "±apa¥¢a«c¬" #GetAdjectiveSmall
+ ADJ_QIN:0 "µª°c¬" #GetAdjectiveSmall
+ ADJ_RFR:0 "°a° ³a°c¬" #GetAdjectiveSmall
+ ADJ_SOK:0 "co¬o²c¬" #GetAdjectiveSmall
+ ADJ_SPI:0 "cap¦ª°c¬" #GetAdjectiveSmall
+ ADJ_SYR:0 "cªpª«c¬" #GetAdjectiveSmall
+ ADJ_VNZ:0 "¢e°ec³¼®»c¬" #GetAdjectiveSmall
+ ADJ_WES:0 "¢ec²´a®»c¬" #GetAdjectiveSmall
+ ADJ_WUU:0 "¢³c¬" #GetAdjectiveSmall
+ ADJ_XIA:0 "c÷«c¬" #GetAdjectiveSmall
+ ADJ_RMN:0 "p³¯º°c¬" #GetAdjectiveSmall
+ ADJ_AYD:0 "a«¦º°c¬" #GetAdjectiveSmall
+ ADJ_AQU:0 "a¬¢ª®e«c¬" #GetAdjectiveSmall
+ ADJ_BYZ:0 "¢ª©a°²ª«c¬" #GetAdjectiveSmall
+ ADJ_MAJ:0 "¯a¦¨a±axª²c¬" #GetAdjectiveSmall
+ ADJ_MEI:0 "¯e«ce°c¬" #GetAdjectiveSmall
+ ADJ_SUK:0 "c³¬xo²a«c¬" #GetAdjectiveSmall
+ ADJ_GAL:0 "¥a®ªcª«c¬" #GetAdjectiveSmall
+ ADJ_PLT:0 "±o®oµ¬" #GetAdjectiveSmall
+ ADJ_SCA:0 "c¬a°¦ª°a¢c¬" #GetAdjectiveSmall
+ ADJ_ACH:0 "axe«c¬" #GetAdjectiveSmall
+ ADJ_KOJ:0 "ªep³ca®ª¯c¬" #GetAdjectiveSmall
+ ADJ_BER:0 " eppª«c¬" #GetAdjectiveSmall
+ ADJ_HLR:0 "ª¯±epc¬" #GetAdjectiveSmall
+ ADJ_SRU:0 "cap³xa°c¬" #GetAdjectiveSmall
+ ADJ_MEN:0 "¯e°²e·c¬" #GetAdjectiveSmall
+ ADJ_RAM:0 "pa¯a©a°c¬" #GetAdjectiveSmall
+ ADJ_EPI:0 "¼±ªpc¬" #GetAdjectiveSmall
+ ADJ_EFR:0 "¢oc²o¶°o´pª©ª«c¬" #GetAdjectiveSmall
+ ADJ_NSS:0 "±po¢ª¦e°cc¬" #GetAdjectiveSmall
+ ADJ_PRY:0 "÷¯a«c¬" #GetAdjectiveSmall
+ ADJ_LIB:0 "®ª ep²a®»c¬" #GetAdjectiveSmall
+ ADJ_TOR:0 "²op²³¥c¬" #GetAdjectiveSmall
+ # Версия 1.29
+ ADJ_MRK:0 "¯appa¬e·c¬" #GetAdjectiveSmall
+ ADJ_FRM:0 "¦³°°ª°c¬" #GetAdjectiveSmall
+ ADJ_SOO:0 "co«c¬" #GetAdjectiveSmall
+ ADJ_SOL:0 "co®o°c¬" #GetAdjectiveSmall
+ ADJ_NVK:0 "°ª¢xc¬" #GetAdjectiveSmall
+ ADJ_EJZ:0 "¦³°xa«c¬" #GetAdjectiveSmall
+ ADJ_NHX:0 "³¦¼¥e«c¬" #GetAdjectiveSmall
+ # Версия 1.30
+ ADJ_SNA:0 "co°opc¬" #GetAdjectiveSmall
+ ADJ_WSI:0 "¬apª c¬" #GetAdjectiveSmall
+ ADJ_CUB:0 "¬³ ª°c¬" #GetAdjectiveSmall
+ ADJ_VRM:0 "¢ep¯o°²c¬" #GetAdjectiveSmall
+ ADJ_FLO:0 "´®opª¦c¬" #GetAdjectiveSmall
+ ADJ_ILI:0 "ª®®ª°o«cc¬" #GetAdjectiveSmall
+ ADJ_DAL:0 "¦a®¯aµ¬" #GetAdjectiveSmall
+ ADJ_ALA:0 "a®÷c¬ª°c¬" #GetAdjectiveSmall
+ ADJ_CSC:0 "¬ac¬a¦c¬" #GetAdjectiveSmall
+ ADJ_NZL:0 "©e®a°¦c¬" #GetAdjectiveSmall
+ ADJ_GNV:0 "¨e°e¢c¬" #GetAdjectiveSmall
+ ADJ_TTL:0 "co¾©°e¶ec¬" #GetAdjectiveSmall
+ ADJ_OPL:0 "o±o®»c¬" #GetAdjectiveSmall
+ ADJ_GLG:0 "¥®o¥³¢c¬" #GetAdjectiveSmall
+ ADJ_BLG:0 " o®o°»c¬" #GetAdjectiveSmall
+ ADJ_BRG:0 " ep¥c¬" #GetAdjectiveSmall
+ ADJ_CLI:0 "µe®e«c¬" #GetAdjectiveSmall
+ ADJ_HRZ:0 "¥epµe¥o¢ª°c¬" #GetAdjectiveSmall
+ ADJ_MLH:0 "¯¾®³©c¬" #GetAdjectiveSmall
+ ADJ_PDV:0 "±a¦³ª«c¬" #GetAdjectiveSmall
+ ADJ_SPL:0 "c±o®e²c¬" #GetAdjectiveSmall
+ ADJ_SZO:0 "ca®³µµ¬" #GetAdjectiveSmall
+ ADJ_VRN:0 "¢epo°c¬" #GetAdjectiveSmall
+ ADJ_UBV:0 "¯¾°xe°c¬" #GetAdjectiveSmall
+ ADJ_LBV:0 "®a°¦cx³²c¬" #GetAdjectiveSmall
+ ADJ_ING:0 "ª°¥o®»·²a¦²c¬" #GetAdjectiveSmall
+ ADJ_PSS:0 "±acca³c¬" #GetAdjectiveSmall
+ ADJ_MBZ:0 " pe¥e°µ¬" #GetAdjectiveSmall
+ ADJ_KNZ:0 "¬o°c²a°µ¬" #GetAdjectiveSmall
+ ADJ_ROT:0 "po²e° ³p¥c¬" #GetAdjectiveSmall
+ ADJ_BYT:0 " a«po«²c¬" #GetAdjectiveSmall
+ ADJ_REG:0 "pe¥e°c ³p¥c¬" #GetAdjectiveSmall
+ ADJ_WOL:0 "¢o®»¥ac²c¬" #GetAdjectiveSmall
+ ADJ_STE:0 "·²e²²ª°c¬" #GetAdjectiveSmall
+ ADJ_GOS:0 "¥oc®apc¬" #GetAdjectiveSmall
+ ADJ_SOR:0 "®³¨ªµ¬" #GetAdjectiveSmall
+ ADJ_RUG:0 "p¾¥e°c¬" #GetAdjectiveSmall
+ ADJ_FKN:0 "´pa°¬o°c¬" #GetAdjectiveSmall
+ ADJ_SWA:0 "·¢a c¬" #GetAdjectiveSmall
+ ADJ_TNT:0 "²pe°²c¬" #GetAdjectiveSmall
+ ADJ_BAM:0 " a¯ ep¥c¬" #GetAdjectiveSmall
+ ADJ_RUP:0 "p³±±ª°c¬" #GetAdjectiveSmall
+ ADJ_LPP:0 "®ª±±c¬" #GetAdjectiveSmall
+ ADJ_PAD:0 "±a¦e op°c¬" #GetAdjectiveSmall
+ ADJ_CLB:0 "¬a®e° ep¥c¬" #GetAdjectiveSmall
+ ADJ_DWT:0 "¦o°a³¢ëp²c¬" #GetAdjectiveSmall
+ ADJ_OSN:0 "oc°a p¾¬c¬" #GetAdjectiveSmall
+ ADJ_COB:0 "¬o ³p¥c¬" #GetAdjectiveSmall
+ ADJ_TTS:0 "cªµª®ª«c¬" #GetAdjectiveSmall
+ ADJ_LOT:0 "®o²apª°¥c¬" #GetAdjectiveSmall
+ ADJ_PGA:0 "±ep³¦¨c¬" #GetAdjectiveSmall

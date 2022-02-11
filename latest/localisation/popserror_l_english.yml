@@ -1,0 +1,17 @@
+﻿l_english:
+ POPS_invalid-email:0 "He¢ep°º« a¦pec ¼®e¬²po°°o« ±o¶²º"
+ POPS_account-exists:0 "‹¶e²°a÷ ©a±ªc» c ²a¬ª¯ ¼®e¬²po°°º¯ a¦peco¯ ³¨e c³¸ec²¢³e²"
+ POPS_dynamodb-failure:0 "‰o¦¬®¾¶e°ªe °e ¢º±o®°e°o"
+ POPS_ua:0 "He¢o©¯o¨°o"
+ POPS_not-authorized:0 "‹¬a©a°°ºe ¼®e¬²po°°º« a¦pec ª ±apo®» °e co¢±a¦a¾²"
+ POPS_UNEXPECTED_ERROR:0 "He ³¦a®oc» ¢º±o®°ª²» ¢xo¦. ‰o¨a®³«c²a ±po¢ep»²e coe¦ª°e°ªe c ª°²ep°e²o¯ ª ±o±po ³«²e e¸ë pa©."
+ # These should "never" happen, we should have validated before we sent the data
+ POPS_bad-password-length:0 "C®ª·¬o¯ ¬opo²¬ª« ±apo®»"
+ POPS_missing-required-account-details-keys:0 "O²c³²c²¢³e² o ÷©a²e®»°a÷ ª°´op¯aµª÷"
+ POPS_invalid-country-code:0 "He¢ep°º« ¬o¦ c²pa°º"
+ POPS_invalid-language-code:0 "He¢ep°º« ¬o¦ ÷©º¬a"
+ POPS_invalid-ISO-8601-format:0 "He¢ep°º« ´op¯a² ¦a²º"
+ # These should also not happen, but are not related to validating our form
+ POPS_parse-failure:0 "O·ª ¬a ¬®ªe°²a (±apcª°¥)"
+ POPS_unsupported-account-details-keys:0 "O·ª ¬a ¬®ªe°²a (°e±o¦¦ep¨ª¢ae¯ºe ¬®¾¶ª)"
+ POPS_invalid-script-code:0 "O·ª ¬a ¬®ªe°²a (°e¢ep°º« c¬pª±²)"
