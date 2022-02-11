@@ -1,760 +1,731 @@
 ﻿l_russian:
- ###На вопрос в чем?
- UNITED_PROVINCES_PR_CAP:0 "Соединённых провинциях" #GetGovernmentPR_CAP
- FEDERAL_KINGDOM_PR_CAP:0 "Федеральном королевстве" #GetGovernmentPR_CAP
- FEDERAL_EMPIRE_PR_CAP:0 "Федеральной империи" #GetGovernmentPR_CAP
- REPUBLIC_PR_CAP:0 "Республике" #GetGovernmentPR_CAP
- GREAT_REPUBLIC_PR_CAP:0 "Великой республике" #GetGovernmentPR_CAP
- DUCHY_PR_CAP:0 "Герцогстве" #GetGovernmentPR_CAP
- KINGDOM_PR_CAP:0 "Королевстве" #GetGovernmentPR_CAP
- EMPIRE_PR_CAP:0 "Империи" #GetGovernmentPR_CAP
- EARLDOM_PR_CAP:0 "Эрлстве" #GetGovernmentPR_CAP
- DAIMYO_PR_CAP:0 "Даймё" #GetGovernmentPR_CAP
- KHANATE_PR_CAP:0 "Ханстве" #GetGovernmentPR_CAP
- PRINCEDOM_PR_CAP:0 "Княжестве" #GetGovernmentPR_CAP
- GRAND_DUCHY_PR_CAP:0 "Великом княжестве" #GetGovernmentPR_CAP
- ARCHDUCHY_PR_CAP:0 "Эрцгерцогстве" #GetGovernmentPR_CAP
- LORDSHIP_PR_CAP:0 "Владении" #GetGovernmentPR_CAP
- MARCH_PR_CAP:0 "Марке" #GetGovernmentPR_CAP
- VICEROYALTY_PR_CAP:0 "Вице-королевстве" #GetGovernmentPR_CAP
- IMAMATE_PR_CAP:0 "Имамате" #GetGovernmentPR_CAP
- GREAT_IMAMATE_PR_CAP:0 "Великом имамате" #GetGovernmentPR_CAP
- EMIRATE_PR_CAP:0 "Эмирате" #GetGovernmentPR_CAP
- SULTANATE_PR_CAP:0 "Султанате" #GetGovernmentPR_CAP
- MALIKATE_PR_CAP:0 "Маликате" #GetGovernmentPR_CAP
- SHEIKHDOM_PR_CAP:0 "Шейхстве" #GetGovernmentPR_CAP
- SHAHDOM_PR_CAP:0 "Шахстве" #GetGovernmentPR_CAP
- BEYLIK_PR_CAP:0 "Бейлике" #GetGovernmentPR_CAP
- DESPOTATE_PR_CAP:0 "Деспотате" #GetGovernmentPR_CAP
- NAWABATE_PR_CAP:0 "Навабате" #GetGovernmentPR_CAP
- NIZAMATE_PR_CAP:0 "Низамате" #GetGovernmentPR_CAP
- MONG_PR_CAP:0 "Монге" #GetGovernmentPR_CAP
- PRINCIPALITY_PR_CAP:0 "Княжестве" #GetGovernmentPR_CAP                                                        
- GRAND_PRINCIPALITY_PR_CAP:0 "Великом княжестве" #GetGovernmentPR_CAP
- ALTEPETL_PR_CAP:0 "Альтепетле" #GetGovernmentPR_CAP
- ALTEPETL_FEDERATION_PR_CAP:0 "Альтепетльской федерации" #GetGovernmentPR_CAP
- BISHOPRIC_PR_CAP:0 "Епископстве" #GetGovernmentPR_CAP
- ARCHBISHOPRIC_PR_CAP:0 "Архиепископстве" #GetGovernmentPR_CAP
- PATRIARCHATE_PR_CAP:0 "Патриархате" #GetGovernmentPR_CAP
- DESPOTISM_PR_CAP:0 "Деспотии" #GetGovernmentPR_CAP
- DICTATORSHIP_PR_CAP:0 "Диктатуре" #GetGovernmentPR_CAP
- PRESIDENTIAL_DICTATORSHIP_PR_CAP:0 "Президентской диктатуре" #GetGovernmentPR_CAP
- METROPOLIS_PR_CAP:0 "Митрополии" #GetGovernmentPR_CAP
- GREAT_METROPOLIS_PR_CAP:0 "Великой митрополии" #GetGovernmentPR_CAP
- HORDE_PR_CAP:0 "Орде" #GetGovernmentPR_CAP
- KHAGANATE_PR_CAP:0 "Каганате" #GetGovernmentPR_CAP
- CHIEFDOM_PR_CAP:0 "Вождестве" #GetGovernmentPR_CAP
- TRIBAL_KINGDOM_PR_CAP:0 "Племенном королевстве" #GetGovernmentPR_CAP
- TRIBAL_EMPIRE_PR_CAP:0 "Племенной империи" #GetGovernmentPR_CAP
- GRAND_CHIEFDOM_PR_CAP:0 "Верховном вождестве" #GetGovernmentPR_CAP
- GREAT_CHIEFDOM_PR_CAP:0 "Великом вождестве" #GetGovernmentPR_CAP
- HOLY_STATE_PR_CAP:0 "Церковном государстве" #GetGovernmentPR_CAP
- HIGH_IMAMATE_PR_CAP:0 "Верховном имамате" #GetGovernmentPR_CAP
- HOLY_EMPIRE_PR_CAP:0 "Теократической империи" #GetGovernmentPR_CAP
- GREAT_EMIRATE_PR_CAP:0 "Великом эмирате" #GetGovernmentPR_CAP
- PASHALIK_PR_CAP:0 "Эялете" #GetGovernmentPR_CAP
- SOGN_PR_CAP:0 "Согне" #GetGovernmentPR_CAP
- HERRED_PR_CAP:0 "Сотне" #GetGovernmentPR_CAP
- BONDEVALDE_PR_CAP:0 "Бондевельде" #GetGovernmentPR_CAP
- MISL_PR_CAP:0 "Мисале" #GetGovernmentPR_CAP
- CONFEDERATION_PR_CAP:0 "Конфедерации" #GetGovernmentPR_CAP
- TRIBE_PR_CAP:0 "Племени" #GetGovernmentPR_CAP
- HOLY_PRINCIPALITY_PR_CAP:0 "Церковном княжестве" #GetGovernmentPR_CAP
- TSARDOM_PR_CAP:0 "Царстве" #GetGovernmentPR_CAP
- GRAND_PRINCEDOM_PR_CAP:0 "Великом княжестве" #GetGovernmentPR_CAP
- GREAT_PRINCEDOM_PR_CAP:0 "Светлейшем княжестве" #GetGovernmentPR_CAP
- MONASTIC_ORDER_PR_CAP:0 "Военно-монашеском ордене" #GetGovernmentPR_CAP
- GRAND_REPUBLIC_PR_CAP:0 "Великой республике" #GetGovernmentPR_CAP
- FEDERAL_REPUBLIC_PR_CAP:0 "Федеральной республике" #GetGovernmentPR_CAP
- CAH_PR_CAP:0 "Кахе" #GetGovernmentPR_CAP
- KUCHKABAL_PR_CAP:0 "Кучкабале" #GetGovernmentPR_CAP
- GREAT_LEAGUE_PR_CAP:0 "Великой лиге" #GetGovernmentPR_CAP
- PAPACY_PR_CAP:0 "Папстве" #GetGovernmentPR_CAP
- COLONY_PR_CAP:0 "Колонии" #GetGovernmentPR_CAP
- SHOGUNATE_PR_CAP:0 "Сёгунате" #GetGovernmentPR_CAP
- INDEP_DAIMYO_PR_CAP:0 "Независимом даймё" #GetGovernmentPR_CAP
- GRAND_INDEP_DAIMYO_PR_CAP:0 "Главном даймё" #GetGovernmentPR_CAP
- GREAT_INDEP_DAIMYO_PR_CAP:0 "Великом даймё" #GetGovernmentPR_CAP
- HETMANATE_PR_CAP:0 "Гетманщине" #GetGovernmentPR_CAP
- GRAND_HETMANATE_PR_CAP:0 "Большой гетманщине" #GetGovernmentPR_CAP
- GREAT_HETMANATE_PR_CAP:0 "Великом гетманате" #GetGovernmentPR_CAP
- SHARIFATE_PR_CAP:0 "Шарифате" #GetGovernmentPR_CAP
- GREAT_SHARIFATE_PR_CAP:0 "Великом шарифате" #GetGovernmentPR_CAP
- GRAND_SHARIFATE_PR_CAP:0 "Высшем шарифате" #GetGovernmentPR_CAP
- BARANGAY_PR_CAP:0 "Барангае" #GetGovernmentPR_CAP
- GRAND_BARANGAY_PR_CAP:0 "Большом барангае" #GetGovernmentPR_CAP
- GREAT_BARANGAY_PR_CAP:0 "Великом барангае" #GetGovernmentPR_CAP
- PARLIAMENT_OF_HEAVEN_PR_CAP:0 "Парламенте Небес" #GetGovernmentPR_CAP
- REVOLUTIONARY_PEASANT_REPUBLIC_PR_CAP:0 "Крестьянской хунте" #GetGovernmentPR_CAP
- FREE_CITY_PR_CAP:0 "Вольном городе" #GetGovernmentPR_CAP
- SERENE_REPUBLIC_PR_CAP:0 "Светлейшей республике" #GetGovernmentPR
- ###На вопрос кому?
- UNITED_PROVINCES_DT_CAP:0 "Соединённым провинциям" #GetGovernmentDT_CAP
- FEDERAL_KINGDOM_DT_CAP:0 "Федеральному королевству" #GetGovernmentDT_CAP
- FEDERAL_EMPIRE_DT_CAP:0 "Федеральной империи" #GetGovernmentDT_CAP
- REPUBLIC_DT_CAP:0 "Республике" #GetGovernmentDT_CAP
- GREAT_REPUBLIC_DT_CAP:0 "Великой республике" #GetGovernmentDT_CAP
- DUCHY_DT_CAP:0 "Герцогству" #GetGovernmentDT_CAP
- KINGDOM_DT_CAP:0 "Королевству" #GetGovernmentDT_CAP
- EMPIRE_DT_CAP:0 "Империи" #GetGovernmentDT_CAP
- EARLDOM_DT_CAP:0 "Эрлству" #GetGovernmentDT_CAP
- DAIMYO_DT_CAP:0 "Даймё" #GetGovernmentDT_CAP
- KHANATE_DT_CAP:0 "Ханству" #GetGovernmentDT_CAP
- PRINCEDOM_DT_CAP:0 "Княжеству" #GetGovernmentDT_CAP
- GRAND_DUCHY_DT_CAP:0 "Великому княжеству" #GetGovernmentDT_CAP
- ARCHDUCHY_DT_CAP:0 "Эрцгерцогству" #GetGovernmentDT_CAP
- LORDSHIP_DT_CAP:0 "Владению" #GetGovernmentDT_CAP
- MARCH_DT_CAP:0 "Марке" #GetGovernmentDT_CAP
- VICEROYALTY_DT_CAP:0 "Вице-королевству" #GetGovernmentDT_CAP
- IMAMATE_DT_CAP:0 "Имамату" #GetGovernmentDT_CAP
- GREAT_IMAMATE_DT_CAP:0 "Великому имамату" #GetGovernmentDT_CAP
- EMIRATE_DT_CAP:0 "Эмирату" #GetGovernmentDT_CAP
- SULTANATE_DT_CAP:0 "Султанату" #GetGovernmentDT_CAP
- MALIKATE_DT_CAP:0 "Маликату" #GetGovernmentDT_CAP
- SHEIKHDOM_DT_CAP:0 "Шейхству" #GetGovernmentDT_CAP
- SHAHDOM_DT_CAP:0 "Шахству" #GetGovernmentDT_CAP
- BEYLIK_DT_CAP:0 "Бейлику" #GetGovernmentDT_CAP
- DESPOTATE_DT_CAP:0 "Деспотату" #GetGovernmentDT_CAP
- NAWABATE_DT_CAP:0 "Навабату" #GetGovernmentDT_CAP
- NIZAMATE_DT_CAP:0 "Низамату" #GetGovernmentDT_CAP
- MONG_DT_CAP:0 "Монгу" #GetGovernmentDT_CAP
- PRINCIPALITY_DT_CAP:0 "Княжеству" #GetGovernmentDT_CAP                                                        
- GRAND_PRINCIPALITY_DT_CAP:0 "Великому княжеству" #GetGovernmentDT_CAP
- ALTEPETL_DT_CAP:0 "Альтепетлю" #GetGovernmentDT_CAP
- ALTEPETL_FEDERATION_DT_CAP:0 "Альтепетльской федерации" #GetGovernmentDT_CAP
- BISHOPRIC_DT_CAP:0 "Епископству" #GetGovernmentDT_CAP
- ARCHBISHOPRIC_DT_CAP:0 "Архиепископству" #GetGovernmentDT_CAP
- PATRIARCHATE_DT_CAP:0 "Патриархату" #GetGovernmentDT_CAP
- DESPOTISM_DT_CAP:0 "Деспотии" #GetGovernmentDT_CAP
- DICTATORSHIP_DT_CAP:0 "Диктатуре" #GetGovernmentDT_CAP
- PRESIDENTIAL_DICTATORSHIP_DT_CAP:0 "Президентской диктатуре" #GetGovernmentDT_CAP
- METROPOLIS_DT_CAP:0 "Митрополии" #GetGovernmentDT_CAP
- GREAT_METROPOLIS_DT_CAP:0 "Великой митрополии" #GetGovernmentDT_CAP
- HORDE_DT_CAP:0 "Орде" #GetGovernmentDT_CAP
- KHAGANATE_DT_CAP:0 "Каганату" #GetGovernmentDT_CAP
- CHIEFDOM_DT_CAP:0 "Вождеству" #GetGovernmentDT_CAP
- TRIBAL_KINGDOM_DT_CAP:0 "Племенному королевству" #GetGovernmentDT_CAP
- TRIBAL_EMPIRE_DT_CAP:0 "Племенной империи" #GetGovernmentDT_CAP
- GRAND_CHIEFDOM_DT_CAP:0 "Верховному вождеству" #GetGovernmentDT_CAP
- GREAT_CHIEFDOM_DT_CAP:0 "Великому вождеству" #GetGovernmentDT_CAP
- HOLY_STATE_DT_CAP:0 "Церковному государству" #GetGovernmentDT_CAP
- HIGH_IMAMATE_DT_CAP:0 "Верховному имамату" #GetGovernmentDT_CAP
- HOLY_EMPIRE_DT_CAP:0 "Теократической империи" #GetGovernmentDT_CAP
- GREAT_EMIRATE_DT_CAP:0 "Великому эмирату" #GetGovernmentDT_CAP
- PASHALIK_DT_CAP:0 "Эялету" #GetGovernmentDT_CAP
- SOGN_DT_CAP:0 "Согну" #GetGovernmentDT_CAP
- HERRED_DT_CAP:0 "Сотну" #GetGovernmentDT_CAP
- BONDEVALDE_DT_CAP:0 "Бондевельду" #GetGovernmentDT_CAP
- MISL_DT_CAP:0 "Мисалю" #GetGovernmentDT_CAP
- CONFEDERATION_DT_CAP:0 "Конфедерации" #GetGovernmentDT_CAP
- TRIBE_DT_CAP:0 "Племени" #GetGovernmentDT_CAP
- HOLY_PRINCIPALITY_DT_CAP:0 "Церковному княжеству" #GetGovernmentDT_CAP
- TSARDOM_DT_CAP:0 "Царству" #GetGovernmentDT_CAP
- GRAND_PRINCEDOM_DT_CAP:0 "Великому княжеству" #GetGovernmentDT_CAP
- GREAT_PRINCEDOM_DT_CAP:0 "Светлейшему княжеству" #GetGovernmentDT_CAP
- MONASTIC_ORDER_DT_CAP:0 "Военно-монашескому ордену" #GetGovernmentDT_CAP
- GRAND_REPUBLIC_DT_CAP:0 "Великой республике" #GetGovernmentDT_CAP
- FEDERAL_REPUBLIC_DT_CAP:0 "Федеральной республике" #GetGovernmentDT_CAP
- CAH_DT_CAP:0 "Кахе" #GetGovernmentDT_CAP
- KUCHKABAL_DT_CAP:0 "Кучкабале" #GetGovernmentDT_CAP
- GREAT_LEAGUE_DT_CAP:0 "Великой лиге" #GetGovernmentDT_CAP
- PAPACY_DT_CAP:0 "Папству" #GetGovernmentDT_CAP
- COLONY_DT_CAP:0 "Колонии" #GetGovernmentDT_CAP
- SHOGUNATE_DT_CAP:0 "Сёгунату" #GetGovernmentDT_CAP
- INDEP_DAIMYO_DT_CAP:0 "Независимому даймё" #GetGovernmentDT_CAP
- GRAND_INDEP_DAIMYO_DT_CAP:0 "Главному даймё" #GetGovernmentDT_CAP
- GREAT_INDEP_DAIMYO_DT_CAP:0 "Великому даймё" #GetGovernmentDT_CAP
- HETMANATE_DT_CAP:0 "Гетманщине" #GetGovernmentDT_CAP
- GRAND_HETMANATE_DT_CAP:0 "Большой гетманщине" #GetGovernmentDT_CAP
- GREAT_HETMANATE_DT_CAP:0 "Великому гетманату" #GetGovernmentDT_CAP
- SHARIFATE_DT_CAP:0 "Шарифату" #GetGovernmentDT_CAP
- GREAT_SHARIFATE_DT_CAP:0 "Великому шарифату" #GetGovernmentDT_CAP
- GRAND_SHARIFATE_DT_CAP:0 "Высшему шарифату" #GetGovernmentDT_CAP
- BARANGAY_DT_CAP:0 "Барангаю" #GetGovernmentDT_CAP
- GRAND_BARANGAY_DT_CAP:0 "Большому барангаю" #GetGovernmentDT_CAP
- GREAT_BARANGAY_DT_CAP:0 "Великому барангаю" #GetGovernmentDT_CAP
- PARLIAMENT_OF_HEAVEN_DT_CAP:0 "Парламенту Небес" #GetGovernmentDT_CAP
- REVOLUTIONARY_PEASANT_REPUBLIC_DT_CAP:0 "Крестьянской хунте" #GetGovernmentDT_CAP
- FREE_CITY_DT_CAP:0 "Вольному городу" #GetGovernmentDT_CAP
- SERENE_REPUBLIC_DT_CAP:0 "Светлейшей республике" #GetGovernmentDT
- ###На вопрос нет кого?
- UNITED_PROVINCES_RD_CAP:0 "Соединённых провинций" #GetGovernmentRD_CAP
- FEDERAL_KINGDOM_RD_CAP:0 "Федерального королевства" #GetGovernmentRD_CAP
- FEDERAL_EMPIRE_RD_CAP:0 "Федеральной империи" #GetGovernmentRD_CAP
- REPUBLIC_RD_CAP:0 "Республики" #GetGovernmentRD_CAP
- GREAT_REPUBLIC_RD_CAP:0 "Великой республики" #GetGovernmentRD_CAP
- DUCHY_RD_CAP:0 "Герцогства" #GetGovernmentRD_CAP
- KINGDOM_RD_CAP:0 "Королевства" #GetGovernmentRD_CAP
- EMPIRE_RD_CAP:0 "Империи" #GetGovernmentRD_CAP
- EARLDOM_RD_CAP:0 "Эрлства" #GetGovernmentRD_CAP
- DAIMYO_RD_CAP:0 "Даймё" #GetGovernmentRD_CAP
- KHANATE_RD_CAP:0 "Ханства" #GetGovernmentRD_CAP
- PRINCEDOM_RD_CAP:0 "Княжества" #GetGovernmentRD_CAP
- GRAND_DUCHY_RD_CAP:0 "Великого княжества" #GetGovernmentRD_CAP
- ARCHDUCHY_RD_CAP:0 "Эрцгерцогства" #GetGovernmentRD_CAP
- LORDSHIP_RD_CAP:0 "Владения" #GetGovernmentRD_CAP
- MARCH_RD_CAP:0 "Марки" #GetGovernmentRD_CAP
- VICEROYALTY_RD_CAP:0 "Вице-королевства" #GetGovernmentRD_CAP
- IMAMATE_RD_CAP:0 "Имамата" #GetGovernmentRD_CAP
- GREAT_IMAMATE_RD_CAP:0 "Великого имамата" #GetGovernmentRD_CAP
- EMIRATE_RD_CAP:0 "Эмирата" #GetGovernmentRD_CAP
- SULTANATE_RD_CAP:0 "Султаната" #GetGovernmentRD_CAP
- MALIKATE_RD_CAP:0 "Маликата" #GetGovernmentRD_CAP
- SHEIKHDOM_RD_CAP:0 "Шейхства" #GetGovernmentRD_CAP
- SHAHDOM_RD_CAP:0 "Шахства" #GetGovernmentRD_CAP
- BEYLIK_RD_CAP:0 "Бейлика" #GetGovernmentRD_CAP
- DESPOTATE_RD_CAP:0 "Деспотата" #GetGovernmentRD_CAP
- NAWABATE_RD_CAP:0 "Навабата" #GetGovernmentRD_CAP
- NIZAMATE_RD_CAP:0 "Низамата" #GetGovernmentRD_CAP
- MONG_RD_CAP:0 "Монга" #GetGovernmentRD_CAP
- PRINCIPALITY_RD_CAP:0 "Княжества" #GetGovernmentRD_CAP
- GRAND_PRINCIPALITY_RD_CAP:0 "Великого княжества" #GetGovernmentRD_CAP
- ALTEPETL_RD_CAP:0 "Альтепетли" #GetGovernmentRD_CAP
- ALTEPETL_FEDERATION_RD_CAP:0 "Альтепетльской федерации" #GetGovernmentRD_CAP
- BISHOPRIC_RD_CAP:0 "Епископства" #GetGovernmentRD_CAP
- ARCHBISHOPRIC_RD_CAP:0 "Архиепископства" #GetGovernmentRD_CAP
- PATRIARCHATE_RD_CAP:0 "Патриархата" #GetGovernmentRD_CAP
- DESPOTISM_RD_CAP:0 "Деспотии" #GetGovernmentRD_CAP
- DICTATORSHIP_RD_CAP:0 "Диктатуры" #GetGovernmentRD_CAP
- PRESIDENTIAL_DICTATORSHIP_RD_CAP:0 "Президентской диктатуры" #GetGovernmentRD_CAP
- METROPOLIS_RD_CAP:0 "Митрополии" #GetGovernmentRD_CAP
- GREAT_METROPOLIS_RD_CAP:0 "Великой митрополии" #GetGovernmentRD_CAP
- HORDE_RD_CAP:0 "Орды" #GetGovernmentRD_CAP
- KHAGANATE_RD_CAP:0 "Каганата" #GetGovernmentRD_CAP
- CHIEFDOM_RD_CAP:0 "Вождества" #GetGovernmentRD_CAP
- TRIBAL_KINGDOM_RD_CAP:0 "Племенного королевства" #GetGovernmentRD_CAP
- TRIBAL_EMPIRE_RD_CAP:0 "Племенной империи" #GetGovernmentRD_CAP
- GRAND_CHIEFDOM_RD_CAP:0 "Верховного вождества" #GetGovernmentRD_CAP
- GREAT_CHIEFDOM_RD_CAP:0 "Великого вождества" #GetGovernmentRD_CAP
- HOLY_STATE_RD_CAP:0 "Церковного государства" #GetGovernmentRD_CAP
- HIGH_IMAMATE_RD_CAP:0 "Верховного имамата" #GetGovernmentRD_CAP
- HOLY_EMPIRE_RD_CAP:0 "Теократической империи" #GetGovernmentRD_CAP
- GREAT_EMIRATE_RD_CAP:0 "Великого эмирата" #GetGovernmentRD_CAP
- PASHALIK_RD_CAP:0 "Эялета" #GetGovernmentRD_CAP
- SOGN_RD_CAP:0 "Согна" #GetGovernmentRD_CAP
- HERRED_RD_CAP:0 "Сотни" #GetGovernmentRD_CAP
- BONDEVALDE_RD_CAP:0 "Бондевельда" #GetGovernmentRD_CAP
- MISL_RD_CAP:0 "Мисаля" #GetGovernmentRD_CAP
- CONFEDERATION_RD_CAP:0 "Конфедерации" #GetGovernmentRD_CAP
- TRIBE_RD_CAP:0 "Племени" #GetGovernmentRD_CAP
- HOLY_PRINCIPALITY_RD_CAP:0 "Церковного княжества" #GetGovernmentRD_CAP
- TSARDOM_RD_CAP:0 "Царства" #GetGovernmentRD_CAP
- GRAND_PRINCEDOM_RD_CAP:0 "Великого княжества" #GetGovernmentRD_CAP
- GREAT_PRINCEDOM_RD_CAP:0 "Светлейшего княжества" #GetGovernmentRD_CAP
- MONASTIC_ORDER_RD_CAP:0 "Военно-монашеского ордена" #GetGovernmentRD_CAP
- GRAND_REPUBLIC_RD_CAP:0 "Великой республики" #GetGovernmentRD_CAP
- FEDERAL_REPUBLIC_RD_CAP:0 "Федеральной республики" #GetGovernmentRD_CAP
- CAH_RD_CAP:0 "Кахи" #GetGovernmentRD_CAP
- KUCHKABAL_RD_CAP:0 "Кучкабали" #GetGovernmentRD_CAP
- GREAT_LEAGUE_RD_CAP:0 "Великой лиги" #GetGovernmentRD_CAP
- PAPACY_RD_CAP:0 "Папства" #GetGovernmentRD_CAP
- COLONY_RD_CAP:0 "Колонии" #GetGovernmentRD_CAP
- SHOGUNATE_RD_CAP:0 "Сёгуната" #GetGovernmentRD_CAP
- INDEP_DAIMYO_RD_CAP:0 "Независимого даймё" #GetGovernmentRD_CAP
- GRAND_INDEP_DAIMYO_RD_CAP:0 "Главного даймё" #GetGovernmentRD_CAP
- GREAT_INDEP_DAIMYO_RD_CAP:0 "Великого даймё" #GetGovernmentRD_CAP
- HETMANATE_RD_CAP:0 "Гетманщины" #GetGovernmentRD_CAP
- GRAND_HETMANATE_RD_CAP:0 "Большой гетманщины" #GetGovernmentRD_CAP
- GREAT_HETMANATE_RD_CAP:0 "Великого гетманата" #GetGovernmentRD_CAP
- SHARIFATE_RD_CAP:0 "Шарифата" #GetGovernmentRD_CAP
- GREAT_SHARIFATE_RD_CAP:0 "Великого шарифата" #GetGovernmentRD_CAP
- GRAND_SHARIFATE_RD_CAP:0 "Высшего шарифата" #GetGovernmentRD_CAP
- BARANGAY_RD_CAP:0 "Барангая" #GetGovernmentRD_CAP
- GRAND_BARANGAY_RD_CAP:0 "Большого барангая" #GetGovernmentRD_CAP
- GREAT_BARANGAY_RD_CAP:0 "Великого барангая" #GetGovernmentRD_CAP
- PARLIAMENT_OF_HEAVEN_RD_CAP:0 "Парламента Небес" #GetGovernmentRD_CAP
- REVOLUTIONARY_PEASANT_REPUBLIC_RD_CAP:0 "Крестьянской хунты" #GetGovernmentRD_CAP
- FREE_CITY_RD_CAP:0 "Вольного города" #GetGovernmentRD_CAP
- SERENE_REPUBLIC_RD_CAP:0 "Светлейшей республики" #GetGovernmentRD_CAP                                                                                 
- ###На вопрос вижу что?
- UNITED_PROVINCES_IM_CAP:0 "Соединённые провинции" #GetGovernmentIM_CAP
- FEDERAL_KINGDOM_IM_CAP:0 "Федеральное королевство" #GetGovernmentIM_CAP
- FEDERAL_EMPIRE_IM_CAP:0 "Федеральную империю" #GetGovernmentIM_CAP
- REPUBLIC_IM_CAP:0 "Республику" #GetGovernmentIM_CAP
- GREAT_REPUBLIC_IM_CAP:0 "Великую республику" #GetGovernmentIM_CAP
- DUCHY_IM_CAP:0 "Герцогство" #GetGovernmentIM_CAP
- KINGDOM_IM_CAP:0 "Королевство" #GetGovernmentIM_CAP
- EMPIRE_IM_CAP:0 "Империю" #GetGovernmentIM_CAP
- EARLDOM_IM_CAP:0 "Эрлство" #GetGovernmentIM_CAP
- DAIMYO_IM_CAP:0 "Даймё" #GetGovernmentIM_CAP
- KHANATE_IM_CAP:0 "Ханство" #GetGovernmentIM_CAP
- PRINCEDOM_IM_CAP:0 "Княжество" #GetGovernmentIM_CAP
- GRAND_DUCHY_IM_CAP:0 "Великое княжество" #GetGovernmentIM_CAP
- ARCHDUCHY_IM_CAP:0 "Эрцгерцогство" #GetGovernmentIM_CAP
- LORDSHIP_IM_CAP:0 "Владение" #GetGovernmentIM_CAP
- MARCH_IM_CAP:0 "Марку" #GetGovernmentIM_CAP
- VICEROYALTY_IM_CAP:0 "Вице-королевство" #GetGovernmentIM_CAP
- IMAMATE_IM_CAP:0 "Имамат" #GetGovernmentIM_CAP
- GREAT_IMAMATE_IM_CAP:0 "Великий имамат" #GetGovernmentIM_CAP
- EMIRATE_IM_CAP:0 "Эмират" #GetGovernmentIM_CAP
- SULTANATE_IM_CAP:0 "Султанат" #GetGovernmentIM_CAP
- MALIKATE_IM_CAP:0 "Маликат" #GetGovernmentIM_CAP
- SHEIKHDOM_IM_CAP:0 "Шейхство" #GetGovernmentIM_CAP
- SHAHDOM_IM_CAP:0 "Шахство" #GetGovernmentIM_CAP
- BEYLIK_IM_CAP:0 "Бейлик" #GetGovernmentIM_CAP
- DESPOTATE_IM_CAP:0 "Деспотат" #GetGovernmentIM_CAP
- NAWABATE_IM_CAP:0 "Навабат" #GetGovernmentIM_CAP
- NIZAMATE_IM_CAP:0 "Низамат" #GetGovernmentIM_CAP
- MONG_IM_CAP:0 "Монг" #GetGovernmentIM_CAP
- PRINCIPALITY_IM_CAP:0 "Княжество" #GetGovernmentIM_CAP                                                        
- GRAND_PRINCIPALITY_IM_CAP:0 "Великое княжество" #GetGovernmentIM_CAP
- ALTEPETL_IM_CAP:0 "Альтепетль" #GetGovernmentIM_CAP
- ALTEPETL_FEDERATION_IM_CAP:0 "Альтепетльскую федерацию" #GetGovernmentIM_CAP
- BISHOPRIC_IM_CAP:0 "Епископство" #GetGovernmentIM_CAP
- ARCHBISHOPRIC_IM_CAP:0 "Архиепископство" #GetGovernmentIM_CAP
- PATRIARCHATE_IM_CAP:0 "Патриархат" #GetGovernmentIM_CAP
- DESPOTISM_IM_CAP:0 "Деспотию" #GetGovernmentIM_CAP
- DICTATORSHIP_IM_CAP:0 "Диктатуру" #GetGovernmentIM_CAP
- PRESIDENTIAL_DICTATORSHIP_IM_CAP:0 "Президентскую диктатуру" #GetGovernmentIM_CAP
- METROPOLIS_IM_CAP:0 "Митрополию" #GetGovernmentIM_CAP
- GREAT_METROPOLIS_IM_CAP:0 "Великую митрополию" #GetGovernmentIM_CAP
- HORDE_IM_CAP:0 "Орду" #GetGovernmentIM_CAP
- KHAGANATE_IM_CAP:0 "Каганат" #GetGovernmentIM_CAP
- CHIEFDOM_IM_CAP:0 "Вождество" #GetGovernmentIM_CAP
- TRIBAL_KINGDOM_IM_CAP:0 "Племенное королевство" #GetGovernmentIM_CAP
- TRIBAL_EMPIRE_IM_CAP:0 "Племенную империю" #GetGovernmentIM_CAP
- GRAND_CHIEFDOM_IM_CAP:0 "Верховное вождество" #GetGovernmentIM_CAP
- GREAT_CHIEFDOM_IM_CAP:0 "Великое вождество" #GetGovernmentIM_CAP
- HOLY_STATE_IM_CAP:0 "Церковное государство" #GetGovernmentIM_CAP
- HIGH_IMAMATE_IM_CAP:0 "Верховный имамат" #GetGovernmentIM_CAP
- HOLY_EMPIRE_IM_CAP:0 "Теократическую империю" #GetGovernmentIM_CAP
- GREAT_EMIRATE_IM_CAP:0 "Великий эмират" #GetGovernmentIM_CAP
- PASHALIK_IM_CAP:0 "Эялет" #GetGovernmentIM_CAP
- SOGN_IM_CAP:0 "Согн" #GetGovernmentIM_CAP
- HERRED_IM_CAP:0 "Сотню" #GetGovernmentIM_CAP
- BONDEVALDE_IM_CAP:0 "Бондевельд" #GetGovernmentIM_CAP
- MISL_IM_CAP:0 "Мисаль" #GetGovernmentIM_CAP
- CONFEDERATION_IM_CAP:0 "Конфедерацию" #GetGovernmentIM_CAP
- TRIBE_IM_CAP:0 "Племя" #GetGovernmentIM_CAP
- HOLY_PRINCIPALITY_IM_CAP:0 "Церковное княжество" #GetGovernmentIM_CAP
- TSARDOM_IM_CAP:0 "Царство" #GetGovernmentIM_CAP
- GRAND_PRINCEDOM_IM_CAP:0 "Великое княжество" #GetGovernmentIM_CAP
- GREAT_PRINCEDOM_IM_CAP:0 "Светлейшее княжество" #GetGovernmentIM_CAP
- MONASTIC_ORDER_IM_CAP:0 "Военно-монашеский орден" #GetGovernmentIM_CAP
- GRAND_REPUBLIC_IM_CAP:0 "Великую республику" #GetGovernmentIM_CAP
- FEDERAL_REPUBLIC_IM_CAP:0 "Федеральную республику" #GetGovernmentIM_CAP
- CAH_IM_CAP:0 "Ках" #GetGovernmentIM_CAP
- KUCHKABAL_IM_CAP:0 "Кучкабаль" #GetGovernmentIM_CAP
- GREAT_LEAGUE_IM_CAP:0 "Великую лигу" #GetGovernmentIM_CAP
- PAPACY_IM_CAP:0 "Папство" #GetGovernmentIM_CAP
- COLONY_IM_CAP:0 "Колонию" #GetGovernmentIM_CAP
- SHOGUNATE_IM_CAP:0 "Сёгунат" #GetGovernmentIM_CAP
- INDEP_DAIMYO_IM_CAP:0 "Независимого даймё" #GetGovernmentIM_CAP
- GRAND_INDEP_DAIMYO_IM_CAP:0 "Главного даймё" #GetGovernmentIM_CAP
- GREAT_INDEP_DAIMYO_IM_CAP:0 "Великого даймё" #GetGovernmentIM_CAP
- HETMANATE_IM_CAP:0 "Гетманщину" #GetGovernmentIM_CAP
- GRAND_HETMANATE_IM_CAP:0 "Большую гетманщину" #GetGovernmentIM_CAP
- GREAT_HETMANATE_IM_CAP:0 "Великий гетманат" #GetGovernmentIM_CAP
- SHARIFATE_IM_CAP:0 "Шарифат" #GetGovernmentIM_CAP
- GREAT_SHARIFATE_IM_CAP:0 "Великий шарифат" #GetGovernmentIM_CAP
- GRAND_SHARIFATE_IM_CAP:0 "Высший шарифат" #GetGovernmentIM_CAP
- BARANGAY_IM_CAP:0 "Барангай" #GetGovernmentIM_CAP
- GRAND_BARANGAY_IM_CAP:0 "Большой барангай" #GetGovernmentIM_CAP
- GREAT_BARANGAY_IM_CAP:0 "Великой барангай" #GetGovernmentIM_CAP
- PARLIAMENT_OF_HEAVEN_IM_CAP:0 "Парламент Небес" #GetGovernmentIM_CAP
- REVOLUTIONARY_PEASANT_REPUBLIC_IM_CAP:0 "Крестьянскую хунту" #GetGovernmentIM_CAP
- FREE_CITY_IM_CAP:0 "Вольный город" #GetGovernmentIM_CAP
- SERENE_REPUBLIC_IM_CAP:0 "Светлейшую республику" #GetGovernmentIM_CAP                                                                               
- ###На вопрос кем?
- UNITED_PROVINCES_TV_CAP:0 "Соединёнными провинциями" #GetGovernmentTV_CAP
- FEDERAL_KINGDOM_TV_CAP:0 "Федеральным королевством" #GetGovernmentTV_CAP
- FEDERAL_EMPIRE_TV_CAP:0 "Федеральной империей" #GetGovernmentTV_CAP
- REPUBLIC_TV_CAP:0 "Республикой" #GetGovernmentTV_CAP
- GREAT_REPUBLIC_TV_CAP:0 "Великой республикой" #GetGovernmentTV_CAP
- DUCHY_TV_CAP:0 "Герцогством" #GetGovernmentTV_CAP
- KINGDOM_TV_CAP:0 "Королевством" #GetGovernmentTV_CAP
- EMPIRE_TV_CAP:0 "Империей" #GetGovernmentTV_CAP
- EARLDOM_TV_CAP:0 "Эрлством" #GetGovernmentTV_CAP
- DAIMYO_TV_CAP:0 "Даймё" #GetGovernmentTV_CAP
- KHANATE_TV_CAP:0 "Ханством" #GetGovernmentTV_CAP
- PRINCEDOM_TV_CAP:0 "Княжеством" #GetGovernmentTV_CAP
- GRAND_DUCHY_TV_CAP:0 "Великим княжеством" #GetGovernmentTV_CAP
- ARCHDUCHY_TV_CAP:0 "Эрцгерцогством" #GetGovernmentTV_CAP
- LORDSHIP_TV_CAP:0 "Владением" #GetGovernmentTV_CAP
- MARCH_TV_CAP:0 "Маркой" #GetGovernmentTV_CAP
- VICEROYALTY_TV_CAP:0 "Вице-королевством" #GetGovernmentTV_CAP
- IMAMATE_TV_CAP:0 "Имаматом" #GetGovernmentTV_CAP
- GREAT_IMAMATE_TV_CAP:0 "Великим имаматом" #GetGovernmentTV_CAP
- EMIRATE_TV_CAP:0 "Эмиратом" #GetGovernmentTV_CAP
- SULTANATE_TV_CAP:0 "Султанатом" #GetGovernmentTV_CAP
- MALIKATE_TV_CAP:0 "Маликатом" #GetGovernmentTV_CAP
- SHEIKHDOM_TV_CAP:0 "Шейхством" #GetGovernmentTV_CAP
- SHAHDOM_TV_CAP:0 "Шахством" #GetGovernmentTV_CAP
- BEYLIK_TV_CAP:0 "Бейликом" #GetGovernmentTV_CAP
- DESPOTATE_TV_CAP:0 "Деспотатом" #GetGovernmentTV_CAP
- NAWABATE_TV_CAP:0 "Навабатом" #GetGovernmentTV_CAP
- NIZAMATE_TV_CAP:0 "Низаматом" #GetGovernmentTV_CAP
- MONG_TV_CAP:0 "Монгом" #GetGovernmentTV_CAP
- PRINCIPALITY_TV_CAP:0 "Княжеством" #GetGovernmentTV_CAP                                                          
- GRAND_PRINCIPALITY_TV_CAP:0 "Великим княжеством" #GetGovernmentTV_CAP
- ALTEPETL_TV_CAP:0 "Альтепетлем" #GetGovernmentTV_CAP
- ALTEPETL_FEDERATION_TV_CAP:0 "Альтепетльской федерацией" #GetGovernmentTV_CAP
- BISHOPRIC_TV_CAP:0 "Епископством" #GetGovernmentTV_CAP
- ARCHBISHOPRIC_TV_CAP:0 "Архиепископством" #GetGovernmentTV_CAP
- PATRIARCHATE_TV_CAP:0 "Патриархатом" #GetGovernmentTV_CAP
- DESPOTISM_TV_CAP:0 "Деспотией" #GetGovernmentTV_CAP
- DICTATORSHIP_TV_CAP:0 "Диктатурой" #GetGovernmentTV_CAP
- PRESIDENTIAL_DICTATORSHIP_TV_CAP:0 "Президентской диктатурой" #GetGovernmentTV_CAP
- METROPOLIS_TV_CAP:0 "Митрополией" #GetGovernmentTV_CAP
- GREAT_METROPOLIS_TV_CAP:0 "Великой митрополией" #GetGovernmentTV_CAP
- HORDE_TV_CAP:0 "Ордой" #GetGovernmentTV_CAP
- KHAGANATE_TV_CAP:0 "Каганатом" #GetGovernmentTV_CAP
- CHIEFDOM_TV_CAP:0 "Вождеством" #GetGovernmentTV_CAP
- TRIBAL_KINGDOM_TV_CAP:0 "Племенным королевством" #GetGovernmentTV_CAP
- TRIBAL_EMPIRE_TV_CAP:0 "Племенной империей" #GetGovernmentTV_CAP
- GRAND_CHIEFDOM_TV_CAP:0 "Верховным вождеством" #GetGovernmentTV_CAP
- GREAT_CHIEFDOM_TV_CAP:0 "Великим вождеством" #GetGovernmentTV_CAP
- HOLY_STATE_TV_CAP:0 "Церковным государством" #GetGovernmentTV_CAP
- HIGH_IMAMATE_TV_CAP:0 "Верховным имаматом" #GetGovernmentTV_CAP
- HOLY_EMPIRE_TV_CAP:0 "Теократической империей" #GetGovernmentTV_CAP
- GREAT_EMIRATE_TV_CAP:0 "Великим эмиратом" #GetGovernmentTV_CAP
- PASHALIK_TV_CAP:0 "Эялетом" #GetGovernmentTV_CAP
- SOGN_TV_CAP:0 "Согном" #GetGovernmentTV_CAP
- HERRED_TV_CAP:0 "Сотней" #GetGovernmentTV_CAP
- BONDEVALDE_TV_CAP:0 "Бондевельдом" #GetGovernmentTV_CAP
- MISL_TV_CAP:0 "Мисалем" #GetGovernmentTV_CAP
- CONFEDERATION_TV_CAP:0 "Конфедерацией" #GetGovernmentTV_CAP
- TRIBE_TV_CAP:0 "Племенем" #GetGovernmentTV_CAP
- HOLY_PRINCIPALITY_TV_CAP:0 "Церковным княжеством" #GetGovernmentTV_CAP
- TSARDOM_TV_CAP:0 "Царством" #GetGovernmentTV_CAP
- GRAND_PRINCEDOM_TV_CAP:0 "Великим княжеством" #GetGovernmentTV_CAP
- GREAT_PRINCEDOM_TV_CAP:0 "Светлейшим княжеством" #GetGovernmentTV_CAP
- MONASTIC_ORDER_TV_CAP:0 "Военно-монашеским орденом" #GetGovernmentTV_CAP
- GRAND_REPUBLIC_TV_CAP:0 "Великой республикой" #GetGovernmentTV_CAP
- FEDERAL_REPUBLIC_TV_CAP:0 "Федеральной республикой" #GetGovernmentTV_CAP
- CAH_TV_CAP:0 "Кахом" #GetGovernmentTV_CAP
- KUCHKABAL_TV_CAP:0 "Кучкабалем" #GetGovernmentTV_CAP
- GREAT_LEAGUE_TV_CAP:0 "Великой лигой" #GetGovernmentTV_CAP
- PAPACY_TV_CAP:0 "Папством" #GetGovernmentTV_CAP
- COLONY_TV_CAP:0 "Колонией" #GetGovernmentTV_CAP
- SHOGUNATE_TV_CAP:0 "Сёгунатом" #GetGovernmentTV_CAP
- INDEP_DAIMYO_TV_CAP:0 "Независимым даймё" #GetGovernmentTV_CAP
- GRAND_INDEP_DAIMYO_TV_CAP:0 "Главным даймё" #GetGovernmentTV_CAP
- GREAT_INDEP_DAIMYO_TV_CAP:0 "Великим даймё" #GetGovernmentTV_CAP
- HETMANATE_TV_CAP:0 "Гетманщиной" #GetGovernmentTV_CAP
- GRAND_HETMANATE_TV_CAP:0 "Большой гетманщиной" #GetGovernmentTV_CAP
- GREAT_HETMANATE_TV_CAP:0 "Великим гетманатом" #GetGovernmentTV_CAP
- SHARIFATE_TV_CAP:0 "Шарифатом" #GetGovernmentTV_CAP
- GREAT_SHARIFATE_TV_CAP:0 "Великим шарифатом" #GetGovernmentTV_CAP
- GRAND_SHARIFATE_TV_CAP:0 "Высшим шарифатом" #GetGovernmentTV_CAP
- BARANGAY_TV_CAP:0 "Барангаем" #GetGovernmentTV_CAP
- GRAND_BARANGAY_TV_CAP:0 "Большим барангаем" #GetGovernmentTV_CAP
- GREAT_BARANGAY_TV_CAP:0 "Великим барангаем" #GetGovernmentTV_CAP
- PARLIAMENT_OF_HEAVEN_TV_CAP:0 "Парламентом Небес" #GetGovernmentTV_CAP
- REVOLUTIONARY_PEASANT_REPUBLIC_TV_CAP:0 "Крестьянской хунтой" #GetGovernmentTV_CAP
- FREE_CITY_TV_CAP:0 "Вольным городом" #GetGovernmentTV_CAP
- SERENE_REPUBLIC_TV_CAP:0 "Cветлейшей республикой" #GetGovernmentTV_CAP
- ###Версия 1.28
- PIRATE_REPUBLIC_PR_CAP:0 "Пиратской республике" #GetGovernmentPR_CAP
- PIRATE_CONFEDERACY_PR_CAP:0 "Пиратской конфедерации" #GetGovernmentPR_CAP
- GRAND_PIRATE_CONFEDERACY_PR_CAP:0 "Большой пиратской конфедерации" #GetGovernmentPR_CAP
- PIRATE_REPUBLIC_DT_CAP:0 "Пиратской республике" #GetGovernmentDT_CAP
- PIRATE_CONFEDERACY_DT_CAP:0 "Пиратской конфедерации" #GetGovernmentDT_CAP
- GRAND_PIRATE_CONFEDERACY_DT_CAP:0 "Большой пиратской конфедерации" #GetGovernmentDT_CAP
- PIRATE_REPUBLIC_RD_CAP:0 "Пиратской республики" #GetGovernmentRD_CAP
- PIRATE_CONFEDERACY_RD_CAP:0 "Пиратской конфедерации" #GetGovernmentRD_CAP
- GRAND_PIRATE_CONFEDERACY_RD_CAP:0 "Большой пиратской конфедерации" #GetGovernmentRD_CAP
- PIRATE_REPUBLIC_IM_CAP:0 "Пиратскую республику" #GetGovernmentIM_CAP
- PIRATE_CONFEDERACY_IM_CAP:0 "Пиратскую конфедерацию" #GetGovernmentIM_CAP
- GRAND_PIRATE_CONFEDERACY_IM_CAP:0 "Большую пиратскую конфедерацию" #GetGovernmentIM_CAP
- PIRATE_REPUBLIC_TV_CAP:0 "Пиратской республикой" #GetGovernmentTV_CAP
- PIRATE_CONFEDERACY_TV_CAP:0 "Пиратской конфедерацией" #GetGovernmentTV_CAP
- GRAND_PIRATE_CONFEDERACY_TV_CAP:0 "Большой пиратской конфедерацией" #GetGovernmentTV_CAP
- PIRATE_PRINCIPALITY_PR_CAP:0 "Пиратском княжестве" #GetGovernmentPR_CAP
- PIRATE_KINGDOM_PR_CAP:0 "Королевстве пиратов" #GetGovernmentPR_CAP
- PIRATE_EMPIRE_PR_CAP:0 "Империи пиратов" #GetGovernmentPR_CAP
- PIRATE_PRINCIPALITY_DT_CAP:0 "Пиратскому княжеству" #GetGovernmentDT_CAP
- PIRATE_KINGDOM_DT_CAP:0 "Королевству пиратов" #GetGovernmentDT_CAP
- PIRATE_EMPIRE_DT_CAP:0 "Империи пиратов" #GetGovernmentDT_CAP
- PIRATE_PRINCIPALITY_RD_CAP:0 "Пиратского княжества" #GetGovernmentRD_CAP
- PIRATE_KINGDOM_RD_CAP:0 "Королевства пиратов" #GetGovernmentRD_CAP
- PIRATE_EMPIRE_RD_CAP:0 "Империи пиратов" #GetGovernmentRD_CAP
- PIRATE_PRINCIPALITY_IM_CAP:0 "Пиратское княжество" #GetGovernmentIM_CAP
- PIRATE_KINGDOM_IM_CAP:0 "Королевство пиратов" #GetGovernmentIM_CAP
- PIRATE_EMPIRE_IM_CAP:0 "Империю пиратов" #GetGovernmentIM_CAP
- PIRATE_PRINCIPALITY_TV_CAP:0 "Пиратским княжеством" #GetGovernmentTV_CAP
- PIRATE_KINGDOM_TV_CAP:0 "Королевством пиратов" #GetGovernmentTV_CAP
- PIRATE_EMPIRE_TV_CAP:0 "Империей пиратов" #GetGovernmentTV_CAP
- ###Версия 1.29-1.31
- SAVANAROLA_GOVERNMENT_PR_CAP:0 "Правительстве Савонаролы" #GetGovernmentPR_CAP
- SAVANAROLA_GOVERNMENT_DT_CAP:0 "Правительству Савонаролы" #GetGovernmentDT_CAP
- SAVANAROLA_GOVERNMENT_RD_CAP:0 "Правительства Савонаролы" #GetGovernmentRD_CAP
- SAVANAROLA_GOVERNMENT_IM_CAP:0 "Правительство Савонаролы" #GetGovernmentIM_CAP
- SAVANAROLA_GOVERNMENT_TV_CAP:0 "Правительством Савонаролы" #GetGovernmentTV_CAP
- 
- MOST_SERENE_REPUBLIC_GDE_CAP:0 "Светлейшей республике" #GetGovernmentPR_CAP
- MOST_SERENE_REPUBLIC_OMU_CAP:0 "Светлейшей республике" #GetGovernmentDT_CAP
- MOST_SERENE_REPUBLIC_OGO_CAP:0 "Светлейшей республики" #GetGovernmentRD_CAP
- MOST_SERENE_REPUBLIC_CHTO_CAP:0 "Светлейшая республика" #GetGovernmentIM_CAP
- MOST_SERENE_REPUBLIC_KEM_CAP:0 "Светлейшей республикой" #GetGovernmentTV_CAP
- 
- STATELESS_SOCIETY_IM_CAP:0 "Общество без государства" #GetGovernmentIM_CAP
- STATELESS_SOCIETY_RD_CAP:0 "Общества без государства" #GetGovernmentRD_CAP
- STATELESS_SOCIETY_DT_CAP:0 "Обществу без государств" #GetGovernmentDT_CAP
- STATELESS_SOCIETY_TV_CAP:0 "Обществом без государства" #GetGovernmentTV_CAP
- STATELESS_SOCIETY_PR_CAP:0 "Обществе без государства" #GetGovernmentPR_CAP
- 
- ISLAMIC_CALIPHATE_IM_CAP:0 "Исламский халифат" #GetGovernmentIM_CAP
- ISLAMIC_CALIPHATE_RD_CAP:0 "Исламского халифата" #GetGovernmentRD_CAP
- ISLAMIC_CALIPHATE_DT_CAP:0 "Исламскому халифату" #GetGovernmentDT_CAP
- ISLAMIC_CALIPHATE_TV_CAP:0 "Исламским халифатом" #GetGovernmentTV_CAP
- ISLAMIC_CALIPHATE_PR_CAP:0 "Исламском халифате" #GetGovernmentPR_CAP
- 
- REVOLUTIONARY_SPANISH_REPUBLIC_IM_CAP:0 "Верховная хунта" #GetGovernmentIM_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_RD_CAP:0 "Верховной хунты" #GetGovernmentRD_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_DT_CAP:0 "Верховной хунте" #GetGovernmentDT_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_TV_CAP:0 "Верховной хунтой" #GetGovernmentTV_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_PR_CAP:0 "Верховной хунте" #GetGovernmentPR_CAP
- 
- REVOLUTIONARY_SWEDISH_REPUBLIC_IM_CAP:0 "Säkerhetstinget" #GetGovernmentIM_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_RD_CAP:0 "Säkerhetstinget" #GetGovernmentRD_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_DT_CAP:0 "Säkerhetstinget" #GetGovernmentDT_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_TV_CAP:0 "Säkerhetstinget" #GetGovernmentTV_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_PR_CAP:0 "Säkerhetstinget" #GetGovernmentPR_CAP
- 
- REVOLUTIONARY_DANISH_REPUBLIC_IM_CAP:0 "Sikkerhedtinget" #GetGovernmentIM_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_RD_CAP:0 "Sikkerhedtinget" #GetGovernmentRD_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_DT_CAP:0 "Sikkerhedtinget" #GetGovernmentDT_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_TV_CAP:0 "Sikkerhedtinget" #GetGovernmentTV_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_PR_CAP:0 "Sikkerhedtinget" #GetGovernmentPR_CAP
- 
- GOV_REVOLUTIONARY_REPUBLIC_IM_CAP:0 "Революционная республика" #GetGovernmentIM_CAP
- GOV_REVOLUTIONARY_REPUBLIC_RD_CAP:0 "Революционной республики" #GetGovernmentRD_CAP
- GOV_REVOLUTIONARY_REPUBLIC_DT_CAP:0 "Революционной республике" #GetGovernmentDT_CAP
- GOV_REVOLUTIONARY_REPUBLIC_TV_CAP:0 "Революционной республикой" #GetGovernmentTV_CAP
- GOV_REVOLUTIONARY_REPUBLIC_PR_CAP:0 "Революционной республике" #GetGovernmentPR_CAP
- 
- KAISERREICH_IM_CAP:0 "Империя" #GetGovernmentIM_CAP
- KAISERREICH_RD_CAP:0 "Империи" #GetGovernmentRD_CAP
- KAISERREICH_DT_CAP:0 "Империи" #GetGovernmentDT_CAP
- KAISERREICH_TV_CAP:0 "Империей" #GetGovernmentTV_CAP
- KAISERREICH_PR_CAP:0 "Империи" #GetGovernmentPR_CAP
- 
- STRATOCRACY_IM_CAP:0 "Юнкерская стратократия" #GetGovernmentIM_CAP
- STRATOCRACY_RD_CAP:0 "Юнкерской стратократии" #GetGovernmentRD_CAP
- STRATOCRACY_DT_CAP:0 "Юнкерской стратократии" #GetGovernmentDT_CAP
- STRATOCRACY_TV_CAP:0 "Юнкерской стратократией" #GetGovernmentTV_CAP
- STRATOCRACY_PR_CAP:0 "Юнкерской стратократии" #GetGovernmentPR_CAP
- 
- ADMIRALTY_IM_CAP:0 "Адмиралтейство" #GetGovernmentIM_CAP
- ADMIRALTY_RD_CAP:0 "Адмиралтейства" #GetGovernmentRD_CAP
- ADMIRALTY_DT_CAP:0 "Адмиралтейству" #GetGovernmentDT_CAP
- ADMIRALTY_TV_CAP:0 "Адмиралтейством" #GetGovernmentTV_CAP
- ADMIRALTY_PR_CAP:0 "Адмиралтействе" #GetGovernmentPR_CAP
- 
- HIGH_ADMIRALTY_IM_CAP:0 "Высшее адмиралтейство" #GetGovernmentIM_CAP
- HIGH_ADMIRALTY_RD_CAP:0 "Высшего адмиралтейства" #GetGovernmentRD_CAP
- HIGH_ADMIRALTY_DT_CAP:0 "Высшему адмиралтейству" #GetGovernmentDT_CAP
- HIGH_ADMIRALTY_TV_CAP:0 "Высшим адмиралтейством" #GetGovernmentTV_CAP
- HIGH_ADMIRALTY_PR_CAP:0 "Высшем адмиралтействе" #GetGovernmentPR_CAP
- 
- SUPREME_ADMIRALTY_IM_CAP:0 "Верховное адмиралтейство" #GetGovernmentIM_CAP
- SUPREME_ADMIRALTY_RD_CAP:0 "Верховного адмиралтейства" #GetGovernmentRD_CAP
- SUPREME_ADMIRALTY_DT_CAP:0 "Верховному адмиралтейству" #GetGovernmentDT_CAP
- SUPREME_ADMIRALTY_TV_CAP:0 "Верховным адмиралтейством" #GetGovernmentTV_CAP
- SUPREME_ADMIRALTY_PR_CAP:0 "Верховном адмиралтействе" #GetGovernmentPR_CAP
- 
- COMMONWEALTH_IM_CAP:0 "Содружество" #GetGovernmentIM_CAP
- COMMONWEALTH_RD_CAP:0 "Содружества" #GetGovernmentRD_CAP
- COMMONWEALTH_DT_CAP:0 "Содружеству" #GetGovernmentDT_CAP
- COMMONWEALTH_TV_CAP:0 "Содружеством" #GetGovernmentTV_CAP
- COMMONWEALTH_PR_CAP:0 "Содружестве" #GetGovernmentPR_CAP
- 
- MILITARY_GOVERNMENT_IM_CAP:0 "Военная республика" #GetGovernmentIM_CAP
- MILITARY_GOVERNMENT_RD_CAP:0 "Военной республики" #GetGovernmentRD_CAP
- MILITARY_GOVERNMENT_DT_CAP:0 "Военной республике" #GetGovernmentDT_CAP
- MILITARY_GOVERNMENT_TV_CAP:0 "Военной республикой" #GetGovernmentTV_CAP
- MILITARY_GOVERNMENT_PR_CAP:0 "Военной республике" #GetGovernmentPR_CAP
- 
- ELECTORAL_PALATINATE_IM_CAP:0 "Выборное Пфальцграфство" #GetGovernmentIM_CAP
- ELECTORAL_PALATINATE_RD_CAP:0 "Выборного Пфальцграфства" #GetGovernmentRD_CAP
- ELECTORAL_PALATINATE_DT_CAP:0 "Выборному Пфальцграфству" #GetGovernmentDT_CAP
- ELECTORAL_PALATINATE_TV_CAP:0 "Выборным Пфальцграфством" #GetGovernmentTV_CAP
- ELECTORAL_PALATINATE_PR_CAP:0 "Выборном Пфальцграфстве" #GetGovernmentPR_CAP
- 
- COUNTY_PALATINE_IM_CAP:0 "Пфальцграфство" #GetGovernmentIM_CAP
- COUNTY_PALATINE_RD_CAP:0 "Пфальцграфства" #GetGovernmentRD_CAP
- COUNTY_PALATINE_DT_CAP:0 "Пфальцграфству" #GetGovernmentDT_CAP
- COUNTY_PALATINE_TV_CAP:0 "Пфальцграфством" #GetGovernmentTV_CAP
- COUNTY_PALATINE_PR_CAP:0 "Пфальцграфстве" #GetGovernmentPR_CAP
- 
- KINGDOM_PALATINE_IM_CAP:0 "Пфальцкоролевство" #GetGovernmentIM_CAP
- KINGDOM_PALATINE_RD_CAP:0 "Пфальцкоролевства" #GetGovernmentRD_CAP
- KINGDOM_PALATINE_DT_CAP:0 "Пфальцкоролевству" #GetGovernmentDT_CAP
- KINGDOM_PALATINE_TV_CAP:0 "Пфальцкоролевством" #GetGovernmentTV_CAP
- KINGDOM_PALATINE_PR_CAP:0 "Пфальцкоролевстве" #GetGovernmentPR_CAP
- 
- HERCEGSEG_IM_CAP:0 "Княжество" #GetGovernmentIM_CAP
- HERCEGSEG_RD_CAP:0 "Княжества" #GetGovernmentRD_CAP
- HERCEGSEG_DT_CAP:0 "Княжеству" #GetGovernmentDT_CAP
- HERCEGSEG_TV_CAP:0 "Княжеством" #GetGovernmentTV_CAP
- HERCEGSEG_PR_CAP:0 "Княжестве" #GetGovernmentPR_CAP
- 
- GRAND_HERCEGSEG_IM_CAP:0 "Великое княжество" #GetGovernmentIM_CAP
- GRAND_HERCEGSEG_RD_CAP:0 "Великого княжества" #GetGovernmentRD_CAP
- GRAND_HERCEGSEG_DT_CAP:0 "Великому княжеству" #GetGovernmentDT_CAP
- GRAND_HERCEGSEG_TV_CAP:0 "Великим княжеством" #GetGovernmentTV_CAP
- GRAND_HERCEGSEG_PR_CAP:0 "Великом княжестве" #GetGovernmentPR_CAP
- 
- ELECTORATE_DUCHY_IM_CAP:0 "Курфюршество" #GetGovernmentIM_CAP
- ELECTORATE_DUCHY_RD_CAP:0 "Курфюршества" #GetGovernmentRD_CAP
- ELECTORATE_DUCHY_DT_CAP:0 "Курфюршеству" #GetGovernmentDT_CAP
- ELECTORATE_DUCHY_TV_CAP:0 "Курфюршеством" #GetGovernmentTV_CAP
- ELECTORATE_DUCHY_PR_CAP:0 "Курфюршестве" #GetGovernmentPR_CAP
- 
- ELECTORATE_BISHOPRIC_IM_CAP:0 "Епископство-курфюршество" #GetGovernmentIM_CAP
- ELECTORATE_BISHOPRIC_RD_CAP:0 "Епископства-курфюршества" #GetGovernmentRD_CAP
- ELECTORATE_BISHOPRIC_DT_CAP:0 "Епископству-курфюршеству" #GetGovernmentDT_CAP
- ELECTORATE_BISHOPRIC_TV_CAP:0 "Епископством-курфюршеством" #GetGovernmentTV_CAP
- ELECTORATE_BISHOPRIC_PR_CAP:0 "Епископстве-курфюршестве" #GetGovernmentPR_CAP
- 
- ELECTORAL_REPUBLIC_IM_CAP:0 "Республика-курфюршество" #GetGovernmentIM_CAP
- ELECTORAL_REPUBLIC_RD_CAP:0 "Республики-курфюршества" #GetGovernmentRD_CAP
- ELECTORAL_REPUBLIC_DT_CAP:0 "Республике-курфюршеству" #GetGovernmentDT_CAP
- ELECTORAL_REPUBLIC_TV_CAP:0 "Республикой-курфюршеством" #GetGovernmentTV_CAP
- ELECTORAL_REPUBLIC_PR_CAP:0 "Республике-курфюршестве" #GetGovernmentPR_CAP
- 
- GRAND_ELECTORAL_REPUBLIC_IM_CAP:0 "Великая республика-курфюршество" #GetGovernmentIM_CAP
- GRAND_ELECTORAL_REPUBLIC_RD_CAP:0 "Великой республики-курфюршества" #GetGovernmentRD_CAP
- GRAND_ELECTORAL_REPUBLIC_DT_CAP:0 "Великой республике-курфюршеству" #GetGovernmentDT_CAP
- GRAND_ELECTORAL_REPUBLIC_TV_CAP:0 "Великой республикой-курфюршеством" #GetGovernmentTV_CAP
- GRAND_ELECTORAL_REPUBLIC_PR_CAP:0 "Великой республике-курфюршестве" #GetGovernmentPR_CAP
- 
- GREAT_ELECTORAL_REPUBLIC_IM_CAP:0 "Величайшая республика-курфюршество" #GetGovernmentIM_CAP
- GREAT_ELECTORAL_REPUBLIC_RD_CAP:0 "Величайшей республики-курфюршества" #GetGovernmentRD_CAP
- GREAT_ELECTORAL_REPUBLIC_DT_CAP:0 "Величайшей республике-курфюршеству" #GetGovernmentDT_CAP
- GREAT_ELECTORAL_REPUBLIC_TV_CAP:0 "Величайшей республикой-курфюршеством" #GetGovernmentTV_CAP
- GREAT_ELECTORAL_REPUBLIC_PR_CAP:0 "Величайшей республике-курфюршестве" #GetGovernmentPR_CAP
- 
- COUNTY_IM_CAP:0 "Графство" #GetGovernmentIM_CAP
- COUNTY_RD_CAP:0 "Графства" #GetGovernmentRD_CAP
- COUNTY_DT_CAP:0 "Графству" #GetGovernmentDT_CAP
- COUNTY_TV_CAP:0 "Графством" #GetGovernmentTV_CAP
- COUNTY_PR_CAP:0 "Графстве" #GetGovernmentPR_CAP
- 
- COUNTY_IM_CAP:0 "Графство" #GetGovernmentIM_CAP
- COUNTY_RD_CAP:0 "Графства" #GetGovernmentRD_CAP
- COUNTY_DT_CAP:0 "Графству" #GetGovernmentDT_CAP
- COUNTY_TV_CAP:0 "Графством" #GetGovernmentTV_CAP
- COUNTY_PR_CAP:0 "Графстве" #GetGovernmentPR_CAP
- 
- COUNTY_PALATINE_IM_CAP:0 "Пфальцграфство" #GetGovernmentIM_CAP
- COUNTY_PALATINE_RD_CAP:0 "Пфальцграфства" #GetGovernmentRD_CAP
- COUNTY_PALATINE_DT_CAP:0 "Пфальцграфству" #GetGovernmentDT_CAP
- COUNTY_PALATINE_TV_CAP:0 "Пфальцграфством" #GetGovernmentTV_CAP
- COUNTY_PALATINE_PR_CAP:0 "Пфальцграфстве" #GetGovernmentPR_CAP
- 
- KINGDOM_PALATINE_IM_CAP:0 "Пфальцкоролевство" #GetGovernmentIM_CAP
- KINGDOM_PALATINE_RD_CAP:0 "Пфальцкоролевства" #GetGovernmentRD_CAP
- KINGDOM_PALATINE_DT_CAP:0 "Пфальцкоролевству" #GetGovernmentDT_CAP
- KINGDOM_PALATINE_TV_CAP:0 "Пфальцкоролевством" #GetGovernmentTV_CAP
- KINGDOM_PALATINE_PR_CAP:0 "Пфальцкоролевстве" #GetGovernmentPR_CAP
- 
- IKKO_IKKI_COMMUNE_IM_CAP:0 "Республика Икко-икки" #GetGovernmentIM_CAP
- IKKO_IKKI_COMMUNE_RD_CAP:0 "Республики Икко-икки" #GetGovernmentRD_CAP
- IKKO_IKKI_COMMUNE_DT_CAP:0 "Республике Икко-икки" #GetGovernmentDT_CAP
- IKKO_IKKI_COMMUNE_TV_CAP:0 "Республикой Икко-икки" #GetGovernmentTV_CAP
- IKKO_IKKI_COMMUNE_PR_CAP:0 "Республике Икко-икки" #GetGovernmentPR_CAP
- 
- IKKO_IKKI_ORDER_IM_CAP:0 "Орден Икко-икки" #GetGovernmentIM_CAP
- IKKO_IKKI_ORDER_RD_CAP:0 "Ордена Икко-икки" #GetGovernmentRD_CAP
- IKKO_IKKI_ORDER_DT_CAP:0 "Ордену Икко-икки" #GetGovernmentDT_CAP
- IKKO_IKKI_ORDER_TV_CAP:0 "Орденом Икко-икки" #GetGovernmentTV_CAP
- IKKO_IKKI_ORDER_PR_CAP:0 "Ордене Икко-икки" #GetGovernmentPR_CAP
- 
- IKKO_IKKI_SHOGUN_IM_CAP:0 "Сёгунат Икко-икки" #GetGovernmentIM_CAP
- IKKO_IKKI_SHOGUN_RD_CAP:0 "Сёгуната Икко-икки" #GetGovernmentRD_CAP
- IKKO_IKKI_SHOGUN_DT_CAP:0 "Сёгунату Икко-икки" #GetGovernmentDT_CAP
- IKKO_IKKI_SHOGUN_TV_CAP:0 "Сёгунатом Икко-икки" #GetGovernmentTV_CAP
- IKKO_IKKI_SHOGUN_PR_CAP:0 "Сёгунате Икко-икки" #GetGovernmentPR_CAP
- 
- IKKO_IKKI_EMPIRE_IM_CAP:0 "Протекторат Икко-икки" #GetGovernmentIM_CAP
- IKKO_IKKI_EMPIRE_RD_CAP:0 "Протектората Икко-икки" #GetGovernmentRD_CAP
- IKKO_IKKI_EMPIRE_DT_CAP:0 "Протекторату Икко-икки" #GetGovernmentDT_CAP
- IKKO_IKKI_EMPIRE_TV_CAP:0 "Протекторатом Икко-икки" #GetGovernmentTV_CAP
- IKKO_IKKI_EMPIRE_PR_CAP:0 "Протекторате Икко-икки" #GetGovernmentPR_CAP
- 
- WARRIOR_MONK_ORDER_IM_CAP:0 "Сохэй" #GetGovernmentIM_CAP
- WARRIOR_MONK_ORDER_RD_CAP:0 "Сохэя" #GetGovernmentRD_CAP
- WARRIOR_MONK_ORDER_DT_CAP:0 "Сохэю" #GetGovernmentDT_CAP
- WARRIOR_MONK_ORDER_TV_CAP:0 "Сохэем" #GetGovernmentTV_CAP
- WARRIOR_MONK_ORDER_PR_CAP:0 "Сохэе" #GetGovernmentPR_CAP
- 
- WARRIOR_MONK_HIGH_ORDER_IM_CAP:0 "Монашеский сёгунат" #GetGovernmentIM_CAP
- WARRIOR_MONK_HIGH_ORDER_RD_CAP:0 "Монашеского сёгуната" #GetGovernmentRD_CAP
- WARRIOR_MONK_HIGH_ORDER_DT_CAP:0 "Монашескому сёгунату" #GetGovernmentDT_CAP
- WARRIOR_MONK_HIGH_ORDER_TV_CAP:0 "Монашеским сёгунатом" #GetGovernmentTV_CAP
- WARRIOR_MONK_HIGH_ORDER_PR_CAP:0 "Монашеском сёгунате" #GetGovernmentPR_CAP
- 
- DIVINE_PROTECTORS_IM_CAP:0 "Божественный протекторат" #GetGovernmentIM_CAP
- DIVINE_PROTECTORS_RD_CAP:0 "Божественного протектората" #GetGovernmentRD_CAP
- DIVINE_PROTECTORS_DT_CAP:0 "Божественному протекторату" #GetGovernmentDT_CAP
- DIVINE_PROTECTORS_TV_CAP:0 "Божественным протекторатом" #GetGovernmentTV_CAP
- DIVINE_PROTECTORS_PR_CAP:0 "Божественном протекторате" #GetGovernmentPR_CAP
- 
- BLACK_KNIGHTS_IM_CAP:0 "Рыцари Адриана" #GetGovernmentIM_CAP
- BLACK_KNIGHTS_RD_CAP:0 "Рыцарей Адриана" #GetGovernmentRD_CAP
- BLACK_KNIGHTS_DT_CAP:0 "Рыцарям Адриана" #GetGovernmentDT_CAP
- BLACK_KNIGHTS_TV_CAP:0 "Рыцарями Адриана" #GetGovernmentTV_CAP
- BLACK_KNIGHTS_PR_CAP:0 "Рыцарях Адриана" #GetGovernmentPR_CAP
- 
- BLACK_LONG_KNIGHTS_IM_CAP:0 "Рыцари Адриана" #GetGovernmentIM_CAP
- BLACK_LONG_KNIGHTS_RD_CAP:0 "Рыцарей Адриана" #GetGovernmentRD_CAP
- BLACK_LONG_KNIGHTS_DT_CAP:0 "Рыцарям Адриана" #GetGovernmentDT_CAP
- BLACK_LONG_KNIGHTS_TV_CAP:0 "Рыцарями Адриана" #GetGovernmentTV_CAP
- BLACK_LONG_KNIGHTS_PR_CAP:0 "Рыцарях Адриана" #GetGovernmentPR_CAP
- 
- BLACK_WATCH_IM_CAP:0 "Дозор Адриана" #GetGovernmentIM_CAP
- BLACK_WATCH_RD_CAP:0 "Дозора Адриана" #GetGovernmentRD_CAP
- BLACK_WATCH_DT_CAP:0 "Дозору Адриана" #GetGovernmentDT_CAP
- BLACK_WATCH_TV_CAP:0 "Дозором Адриана" #GetGovernmentTV_CAP
- BLACK_WATCH_PR_CAP:0 "Дозоре Адриана" #GetGovernmentPR_CAP
- 
- SOVREIGN_MONASTIC_ORDER_IM_CAP:0 "Суверенный военный орден" #GetGovernmentIM_CAP
- SOVREIGN_MONASTIC_ORDER_RD_CAP:0 "Суверенного военного ордена" #GetGovernmentRD_CAP
- SOVREIGN_MONASTIC_ORDER_DT_CAP:0 "Суверенному военному ордену" #GetGovernmentDT_CAP
- SOVREIGN_MONASTIC_ORDER_TV_CAP:0 "Суверенным военным орденом" #GetGovernmentTV_CAP
- SOVREIGN_MONASTIC_ORDER_PR_CAP:0 "Суверенном военном ордене" #GetGovernmentPR_CAP
- 
- SOVREIGN_MONASTIC_CONFEDERATION_IM_CAP:0 "Суверенная рыцарская конфедерация" #GetGovernmentIM_CAP
- SOVREIGN_MONASTIC_CONFEDERATION_RD_CAP:0 "Суверенной рыцарской конфедерации" #GetGovernmentRD_CAP
- SOVREIGN_MONASTIC_CONFEDERATION_DT_CAP:0 "Суверенной рыцарской конфедерации" #GetGovernmentDT_CAP
- SOVREIGN_MONASTIC_CONFEDERATION_TV_CAP:0 "Суверенной рыцарской конфедерацией" #GetGovernmentTV_CAP
- SOVREIGN_MONASTIC_CONFEDERATION_PR_CAP:0 "Суверенной рыцарской конфедерации" #GetGovernmentPR_CAP
- 
- SISTERHOOD_IM_CAP:0 "Сестричество" #GetGovernmentIM_CAP
- SISTERHOOD_RD_CAP:0 "Сестричества" #GetGovernmentRD_CAP
- SISTERHOOD_DT_CAP:0 "Сестричеству" #GetGovernmentDT_CAP
- SISTERHOOD_TV_CAP:0 "Сестричеством" #GetGovernmentTV_CAP
- SISTERHOOD_PR_CAP:0 "Сестричестве" #GetGovernmentPR_CAP
- 
- GRAND_SISTERHOOD_IM_CAP:0 "Великое сестричество" #GetGovernmentIM_CAP
- GRAND_SISTERHOOD_RD_CAP:0 "Великого сестричества" #GetGovernmentRD_CAP
- GRAND_SISTERHOOD_DT_CAP:0 "Великому сестричеству" #GetGovernmentDT_CAP
- GRAND_SISTERHOOD_TV_CAP:0 "Великим сестричеством" #GetGovernmentTV_CAP
- GRAND_SISTERHOOD_PR_CAP:0 "Великом сестричестве" #GetGovernmentPR_CAP
- 
- TRAPPIST_STATE_IM_CAP:0 "Орден траппистов" #GetGovernmentIM_CAP
- TRAPPIST_STATE_RD_CAP:0 "Ордена траппистов" #GetGovernmentRD_CAP
- TRAPPIST_STATE_DT_CAP:0 "Ордену траппистов" #GetGovernmentDT_CAP
- TRAPPIST_STATE_TV_CAP:0 "Орденом траппистов" #GetGovernmentTV_CAP
- TRAPPIST_STATE_PR_CAP:0 "Ордене траппистов" #GetGovernmentPR_CAP
- 
- MONASTIC_STATE_IM_CAP:0 "Монашеское государство" #GetGovernmentIM_CAP
- MONASTIC_STATE_RD_CAP:0 "Монашеского государства" #GetGovernmentRD_CAP
- MONASTIC_STATE_DT_CAP:0 "Монашескому государству" #GetGovernmentDT_CAP
- MONASTIC_STATE_TV_CAP:0 "Монашеским государством" #GetGovernmentTV_CAP
- MONASTIC_STATE_PR_CAP:0 "Монашеском государстве" #GetGovernmentPR_CAP
- 
- BREWING_EMPIRE_IM_CAP:0 "Пивная империя" #GetGovernmentIM_CAP
- BREWING_EMPIRE_RD_CAP:0 "Пивной империи" #GetGovernmentRD_CAP
- BREWING_EMPIRE_DT_CAP:0 "Пивной империи" #GetGovernmentDT_CAP
- BREWING_EMPIRE_TV_CAP:0 "Пивной империей" #GetGovernmentTV_CAP
- BREWING_EMPIRE_PR_CAP:0 "Пивной империи" #GetGovernmentPR_CAP
- 
- SYNTH_GOV_IM_CAP:0 "Машинный интеллект" #GetGovernmentIM_CAP
- SYNTH_GOV_RD_CAP:0 "Машинного интеллекта" #GetGovernmentRD_CAP
- SYNTH_GOV_DT_CAP:0 "Машинному интеллекту" #GetGovernmentDT_CAP
- SYNTH_GOV_TV_CAP:0 "Машинным интеллектом" #GetGovernmentTV_CAP
- SYNTH_GOV_PR_CAP:0 "Машинном интеллекте" #GetGovernmentPR_CAP
- 
+ ADMIRALTY_DT_CAP:1 "Адмиралтейству" #GetGovernmentDT_CAP
+ ADMIRALTY_IM_CAP:1 "Адмиралтейство" #GetGovernmentIM_CAP
+ ADMIRALTY_PR_CAP:1 "Адмиралтействе" #GetGovernmentPR_CAP
+ ADMIRALTY_RD_CAP:1 "Адмиралтейства" #GetGovernmentRD_CAP
+ ADMIRALTY_TV_CAP:1 "Адмиралтейством" #GetGovernmentTV_CAP
+ ALTEPETL_DT_CAP:1 "Альтепетлю" #GetGovernmentDT_CAP
+ ALTEPETL_FEDERATION_DT_CAP:1 "Альтепетльской федерации" #GetGovernmentDT_CAP
+ ALTEPETL_FEDERATION_IM_CAP:1 "Альтепетльскую федерацию" #GetGovernmentIM_CAP
+ ALTEPETL_FEDERATION_PR_CAP:1 "Альтепетльской федерации" #GetGovernmentPR_CAP
+ ALTEPETL_FEDERATION_RD_CAP:1 "Альтепетльской федерации" #GetGovernmentRD_CAP
+ ALTEPETL_FEDERATION_TV_CAP:1 "Альтепетльской федерацией" #GetGovernmentTV_CAP
+ ALTEPETL_IM_CAP:1 "Альтепетль" #GetGovernmentIM_CAP
+ ALTEPETL_PR_CAP:1 "Альтепетле" #GetGovernmentPR_CAP
+ ALTEPETL_RD_CAP:1 "Альтепетли" #GetGovernmentRD_CAP
+ ALTEPETL_TV_CAP:1 "Альтепетлем" #GetGovernmentTV_CAP
+ ARCHBISHOPRIC_DT_CAP:1 "Архиепископству" #GetGovernmentDT_CAP
+ ARCHBISHOPRIC_IM_CAP:1 "Архиепископство" #GetGovernmentIM_CAP
+ ARCHBISHOPRIC_PR_CAP:1 "Архиепископстве" #GetGovernmentPR_CAP
+ ARCHBISHOPRIC_RD_CAP:1 "Архиепископства" #GetGovernmentRD_CAP
+ ARCHBISHOPRIC_TV_CAP:1 "Архиепископством" #GetGovernmentTV_CAP
+ ARCHDUCHY_DT_CAP:1 "Эрцгерцогству" #GetGovernmentDT_CAP
+ ARCHDUCHY_IM_CAP:1 "Эрцгерцогство" #GetGovernmentIM_CAP
+ ARCHDUCHY_PR_CAP:1 "Эрцгерцогстве" #GetGovernmentPR_CAP
+ ARCHDUCHY_RD_CAP:1 "Эрцгерцогства" #GetGovernmentRD_CAP
+ ARCHDUCHY_TV_CAP:1 "Эрцгерцогством" #GetGovernmentTV_CAP
+ BARANGAY_DT_CAP:1 "Барангаю" #GetGovernmentDT_CAP
+ BARANGAY_IM_CAP:1 "Барангай" #GetGovernmentIM_CAP
+ BARANGAY_PR_CAP:1 "Барангае" #GetGovernmentPR_CAP
+ BARANGAY_RD_CAP:1 "Барангая" #GetGovernmentRD_CAP
+ BARANGAY_TV_CAP:1 "Барангаем" #GetGovernmentTV_CAP
+ BEYLIK_DT_CAP:1 "Бейлику" #GetGovernmentDT_CAP
+ BEYLIK_IM_CAP:1 "Бейлик" #GetGovernmentIM_CAP
+ BEYLIK_PR_CAP:1 "Бейлике" #GetGovernmentPR_CAP
+ BEYLIK_RD_CAP:1 "Бейлика" #GetGovernmentRD_CAP
+ BEYLIK_TV_CAP:1 "Бейликом" #GetGovernmentTV_CAP
+ BISHOPRIC_DT_CAP:1 "Епископству" #GetGovernmentDT_CAP
+ BISHOPRIC_IM_CAP:1 "Епископство" #GetGovernmentIM_CAP
+ BISHOPRIC_PR_CAP:1 "Епископстве" #GetGovernmentPR_CAP
+ BISHOPRIC_RD_CAP:1 "Епископства" #GetGovernmentRD_CAP
+ BISHOPRIC_TV_CAP:1 "Епископством" #GetGovernmentTV_CAP
+ BLACK_KNIGHTS_DT_CAP:1 "Рыцарям Адриана" #GetGovernmentDT_CAP
+ BLACK_KNIGHTS_IM_CAP:1 "Рыцари Адриана" #GetGovernmentIM_CAP
+ BLACK_KNIGHTS_PR_CAP:1 "Рыцарях Адриана" #GetGovernmentPR_CAP
+ BLACK_KNIGHTS_RD_CAP:1 "Рыцарей Адриана" #GetGovernmentRD_CAP
+ BLACK_KNIGHTS_TV_CAP:1 "Рыцарями Адриана" #GetGovernmentTV_CAP
+ BLACK_LONG_KNIGHTS_DT_CAP:1 "Рыцарям Адриана" #GetGovernmentDT_CAP
+ BLACK_LONG_KNIGHTS_IM_CAP:1 "Рыцари Адриана" #GetGovernmentIM_CAP
+ BLACK_LONG_KNIGHTS_PR_CAP:1 "Рыцарях Адриана" #GetGovernmentPR_CAP
+ BLACK_LONG_KNIGHTS_RD_CAP:1 "Рыцарей Адриана" #GetGovernmentRD_CAP
+ BLACK_LONG_KNIGHTS_TV_CAP:1 "Рыцарями Адриана" #GetGovernmentTV_CAP
+ BLACK_WATCH_DT_CAP:1 "Дозору Адриана" #GetGovernmentDT_CAP
+ BLACK_WATCH_IM_CAP:1 "Дозор Адриана" #GetGovernmentIM_CAP
+ BLACK_WATCH_PR_CAP:1 "Дозоре Адриана" #GetGovernmentPR_CAP
+ BLACK_WATCH_RD_CAP:1 "Дозора Адриана" #GetGovernmentRD_CAP
+ BLACK_WATCH_TV_CAP:1 "Дозором Адриана" #GetGovernmentTV_CAP
+ BONDEVALDE_DT_CAP:1 "Бондевельду" #GetGovernmentDT_CAP
+ BONDEVALDE_IM_CAP:1 "Бондевельд" #GetGovernmentIM_CAP
+ BONDEVALDE_PR_CAP:1 "Бондевельде" #GetGovernmentPR_CAP
+ BONDEVALDE_RD_CAP:1 "Бондевельда" #GetGovernmentRD_CAP
+ BONDEVALDE_TV_CAP:1 "Бондевельдом" #GetGovernmentTV_CAP
+ BREWING_EMPIRE_DT_CAP:1 "Пивной империи" #GetGovernmentDT_CAP
+ BREWING_EMPIRE_IM_CAP:1 "Пивная империя" #GetGovernmentIM_CAP
+ BREWING_EMPIRE_PR_CAP:1 "Пивной империи" #GetGovernmentPR_CAP
+ BREWING_EMPIRE_RD_CAP:1 "Пивной империи" #GetGovernmentRD_CAP
+ BREWING_EMPIRE_TV_CAP:1 "Пивной империей" #GetGovernmentTV_CAP
+ CAH_DT_CAP:1 "Кахе" #GetGovernmentDT_CAP
+ CAH_IM_CAP:1 "Ках" #GetGovernmentIM_CAP
+ CAH_PR_CAP:1 "Кахе" #GetGovernmentPR_CAP
+ CAH_RD_CAP:1 "Кахи" #GetGovernmentRD_CAP
+ CAH_TV_CAP:1 "Кахом" #GetGovernmentTV_CAP
+ CHIEFDOM_DT_CAP:1 "Вождеству" #GetGovernmentDT_CAP
+ CHIEFDOM_IM_CAP:1 "Вождество" #GetGovernmentIM_CAP
+ CHIEFDOM_PR_CAP:1 "Вождестве" #GetGovernmentPR_CAP
+ CHIEFDOM_RD_CAP:1 "Вождества" #GetGovernmentRD_CAP
+ CHIEFDOM_TV_CAP:1 "Вождеством" #GetGovernmentTV_CAP
+ COLONY_DT_CAP:1 "Колонии" #GetGovernmentDT_CAP
+ COLONY_IM_CAP:1 "Колонию" #GetGovernmentIM_CAP
+ COLONY_PR_CAP:1 "Колонии" #GetGovernmentPR_CAP
+ COLONY_RD_CAP:1 "Колонии" #GetGovernmentRD_CAP
+ COLONY_TV_CAP:1 "Колонией" #GetGovernmentTV_CAP
+ COMMONWEALTH_DT_CAP:1 "Содружеству" #GetGovernmentDT_CAP
+ COMMONWEALTH_IM_CAP:1 "Содружество" #GetGovernmentIM_CAP
+ COMMONWEALTH_PR_CAP:1 "Содружестве" #GetGovernmentPR_CAP
+ COMMONWEALTH_RD_CAP:1 "Содружества" #GetGovernmentRD_CAP
+ COMMONWEALTH_TV_CAP:1 "Содружеством" #GetGovernmentTV_CAP
+ CONFEDERATION_DT_CAP:1 "Конфедерации" #GetGovernmentDT_CAP
+ CONFEDERATION_IM_CAP:1 "Конфедерацию" #GetGovernmentIM_CAP
+ CONFEDERATION_PR_CAP:1 "Конфедерации" #GetGovernmentPR_CAP
+ CONFEDERATION_RD_CAP:1 "Конфедерации" #GetGovernmentRD_CAP
+ CONFEDERATION_TV_CAP:1 "Конфедерацией" #GetGovernmentTV_CAP
+ COUNTY_DT_CAP:1 "Графству" #GetGovernmentDT_CAP
+ COUNTY_DT_CAP:1 "Графству" #GetGovernmentDT_CAP
+ COUNTY_IM_CAP:1 "Графство" #GetGovernmentIM_CAP
+ COUNTY_IM_CAP:1 "Графство" #GetGovernmentIM_CAP
+ COUNTY_PALATINE_DT_CAP:1 "Пфальцграфству" #GetGovernmentDT_CAP
+ COUNTY_PALATINE_DT_CAP:1 "Пфальцграфству" #GetGovernmentDT_CAP
+ COUNTY_PALATINE_IM_CAP:1 "Пфальцграфство" #GetGovernmentIM_CAP
+ COUNTY_PALATINE_IM_CAP:1 "Пфальцграфство" #GetGovernmentIM_CAP
+ COUNTY_PALATINE_PR_CAP:1 "Пфальцграфстве" #GetGovernmentPR_CAP
+ COUNTY_PALATINE_PR_CAP:1 "Пфальцграфстве" #GetGovernmentPR_CAP
+ COUNTY_PALATINE_RD_CAP:1 "Пфальцграфства" #GetGovernmentRD_CAP
+ COUNTY_PALATINE_RD_CAP:1 "Пфальцграфства" #GetGovernmentRD_CAP
+ COUNTY_PALATINE_TV_CAP:1 "Пфальцграфством" #GetGovernmentTV_CAP
+ COUNTY_PALATINE_TV_CAP:1 "Пфальцграфством" #GetGovernmentTV_CAP
+ COUNTY_PR_CAP:1 "Графстве" #GetGovernmentPR_CAP
+ COUNTY_PR_CAP:1 "Графстве" #GetGovernmentPR_CAP
+ COUNTY_RD_CAP:1 "Графства" #GetGovernmentRD_CAP
+ COUNTY_RD_CAP:1 "Графства" #GetGovernmentRD_CAP
+ COUNTY_TV_CAP:1 "Графством" #GetGovernmentTV_CAP
+ COUNTY_TV_CAP:1 "Графством" #GetGovernmentTV_CAP
+ DAIMYO_DT_CAP:1 "Даймё" #GetGovernmentDT_CAP
+ DAIMYO_IM_CAP:1 "Даймё" #GetGovernmentIM_CAP
+ DAIMYO_PR_CAP:1 "Даймё" #GetGovernmentPR_CAP
+ DAIMYO_RD_CAP:1 "Даймё" #GetGovernmentRD_CAP
+ DAIMYO_TV_CAP:1 "Даймё" #GetGovernmentTV_CAP
+ DESPOTATE_DT_CAP:1 "Деспотату" #GetGovernmentDT_CAP
+ DESPOTATE_IM_CAP:1 "Деспотат" #GetGovernmentIM_CAP
+ DESPOTATE_PR_CAP:1 "Деспотате" #GetGovernmentPR_CAP
+ DESPOTATE_RD_CAP:1 "Деспотата" #GetGovernmentRD_CAP
+ DESPOTATE_TV_CAP:1 "Деспотатом" #GetGovernmentTV_CAP
+ DESPOTISM_DT_CAP:1 "Деспотии" #GetGovernmentDT_CAP
+ DESPOTISM_IM_CAP:1 "Деспотию" #GetGovernmentIM_CAP
+ DESPOTISM_PR_CAP:1 "Деспотии" #GetGovernmentPR_CAP
+ DESPOTISM_RD_CAP:1 "Деспотии" #GetGovernmentRD_CAP
+ DESPOTISM_TV_CAP:1 "Деспотией" #GetGovernmentTV_CAP
+ DICTATORSHIP_DT_CAP:1 "Диктатуре" #GetGovernmentDT_CAP
+ DICTATORSHIP_IM_CAP:1 "Диктатуру" #GetGovernmentIM_CAP
+ DICTATORSHIP_PR_CAP:1 "Диктатуре" #GetGovernmentPR_CAP
+ DICTATORSHIP_RD_CAP:1 "Диктатуры" #GetGovernmentRD_CAP
+ DICTATORSHIP_TV_CAP:1 "Диктатурой" #GetGovernmentTV_CAP
+ DIVINE_PROTECTORS_DT_CAP:1 "Божественному протекторату" #GetGovernmentDT_CAP
+ DIVINE_PROTECTORS_IM_CAP:1 "Божественный протекторат" #GetGovernmentIM_CAP
+ DIVINE_PROTECTORS_PR_CAP:1 "Божественном протекторате" #GetGovernmentPR_CAP
+ DIVINE_PROTECTORS_RD_CAP:1 "Божественного протектората" #GetGovernmentRD_CAP
+ DIVINE_PROTECTORS_TV_CAP:1 "Божественным протекторатом" #GetGovernmentTV_CAP
+ DUCHY_DT_CAP:1 "Герцогству" #GetGovernmentDT_CAP
+ DUCHY_IM_CAP:1 "Герцогство" #GetGovernmentIM_CAP
+ DUCHY_PR_CAP:1 "Герцогстве" #GetGovernmentPR_CAP
+ DUCHY_RD_CAP:1 "Герцогства" #GetGovernmentRD_CAP
+ DUCHY_TV_CAP:1 "Герцогством" #GetGovernmentTV_CAP
+ EARLDOM_DT_CAP:1 "Эрлству" #GetGovernmentDT_CAP
+ EARLDOM_IM_CAP:1 "Эрлство" #GetGovernmentIM_CAP
+ EARLDOM_PR_CAP:1 "Эрлстве" #GetGovernmentPR_CAP
+ EARLDOM_RD_CAP:1 "Эрлства" #GetGovernmentRD_CAP
+ EARLDOM_TV_CAP:1 "Эрлством" #GetGovernmentTV_CAP
+ ELECTORAL_PALATINATE_DT_CAP:1 "Выборному Пфальцграфству" #GetGovernmentDT_CAP
+ ELECTORAL_PALATINATE_IM_CAP:1 "Выборное Пфальцграфство" #GetGovernmentIM_CAP
+ ELECTORAL_PALATINATE_PR_CAP:1 "Выборном Пфальцграфстве" #GetGovernmentPR_CAP
+ ELECTORAL_PALATINATE_RD_CAP:1 "Выборного Пфальцграфства" #GetGovernmentRD_CAP
+ ELECTORAL_PALATINATE_TV_CAP:1 "Выборным Пфальцграфством" #GetGovernmentTV_CAP
+ ELECTORAL_REPUBLIC_DT_CAP:1 "Республике-курфюршеству" #GetGovernmentDT_CAP
+ ELECTORAL_REPUBLIC_IM_CAP:1 "Республика-курфюршество" #GetGovernmentIM_CAP
+ ELECTORAL_REPUBLIC_PR_CAP:1 "Республике-курфюршестве" #GetGovernmentPR_CAP
+ ELECTORAL_REPUBLIC_RD_CAP:1 "Республики-курфюршества" #GetGovernmentRD_CAP
+ ELECTORAL_REPUBLIC_TV_CAP:1 "Республикой-курфюршеством" #GetGovernmentTV_CAP
+ ELECTORATE_BISHOPRIC_DT_CAP:1 "Епископству-курфюршеству" #GetGovernmentDT_CAP
+ ELECTORATE_BISHOPRIC_IM_CAP:1 "Епископство-курфюршество" #GetGovernmentIM_CAP
+ ELECTORATE_BISHOPRIC_PR_CAP:1 "Епископстве-курфюршестве" #GetGovernmentPR_CAP
+ ELECTORATE_BISHOPRIC_RD_CAP:1 "Епископства-курфюршества" #GetGovernmentRD_CAP
+ ELECTORATE_BISHOPRIC_TV_CAP:1 "Епископством-курфюршеством" #GetGovernmentTV_CAP
+ ELECTORATE_DUCHY_DT_CAP:1 "Курфюршеству" #GetGovernmentDT_CAP
+ ELECTORATE_DUCHY_IM_CAP:1 "Курфюршество" #GetGovernmentIM_CAP
+ ELECTORATE_DUCHY_PR_CAP:1 "Курфюршестве" #GetGovernmentPR_CAP
+ ELECTORATE_DUCHY_RD_CAP:1 "Курфюршества" #GetGovernmentRD_CAP
+ ELECTORATE_DUCHY_TV_CAP:1 "Курфюршеством" #GetGovernmentTV_CAP
+ EMIRATE_DT_CAP:1 "Эмирату" #GetGovernmentDT_CAP
+ EMIRATE_IM_CAP:1 "Эмират" #GetGovernmentIM_CAP
+ EMIRATE_PR_CAP:1 "Эмирате" #GetGovernmentPR_CAP
+ EMIRATE_RD_CAP:1 "Эмирата" #GetGovernmentRD_CAP
+ EMIRATE_TV_CAP:1 "Эмиратом" #GetGovernmentTV_CAP
+ EMPIRE_DT_CAP:1 "Империи" #GetGovernmentDT_CAP
+ EMPIRE_IM_CAP:1 "Империю" #GetGovernmentIM_CAP
+ EMPIRE_PR_CAP:1 "Империи" #GetGovernmentPR_CAP
+ EMPIRE_RD_CAP:1 "Империи" #GetGovernmentRD_CAP
+ EMPIRE_TV_CAP:1 "Империей" #GetGovernmentTV_CAP
+ FEDERAL_EMPIRE_DT_CAP:1 "Федеральной империи" #GetGovernmentDT_CAP
+ FEDERAL_EMPIRE_IM_CAP:1 "Федеральную империю" #GetGovernmentIM_CAP
+ FEDERAL_EMPIRE_PR_CAP:1 "Федеральной империи" #GetGovernmentPR_CAP
+ FEDERAL_EMPIRE_RD_CAP:1 "Федеральной империи" #GetGovernmentRD_CAP
+ FEDERAL_EMPIRE_TV_CAP:1 "Федеральной империей" #GetGovernmentTV_CAP
+ FEDERAL_KINGDOM_DT_CAP:1 "Федеральному королевству" #GetGovernmentDT_CAP
+ FEDERAL_KINGDOM_IM_CAP:1 "Федеральное королевство" #GetGovernmentIM_CAP
+ FEDERAL_KINGDOM_PR_CAP:1 "Федеральном королевстве" #GetGovernmentPR_CAP
+ FEDERAL_KINGDOM_RD_CAP:1 "Федерального королевства" #GetGovernmentRD_CAP
+ FEDERAL_KINGDOM_TV_CAP:1 "Федеральным королевством" #GetGovernmentTV_CAP
+ FEDERAL_REPUBLIC_DT_CAP:1 "Федеральной республике" #GetGovernmentDT_CAP
+ FEDERAL_REPUBLIC_IM_CAP:1 "Федеральную республику" #GetGovernmentIM_CAP
+ FEDERAL_REPUBLIC_PR_CAP:1 "Федеральной республике" #GetGovernmentPR_CAP
+ FEDERAL_REPUBLIC_RD_CAP:1 "Федеральной республики" #GetGovernmentRD_CAP
+ FEDERAL_REPUBLIC_TV_CAP:1 "Федеральной республикой" #GetGovernmentTV_CAP
+ FREE_CITY_DT_CAP:1 "Вольному городу" #GetGovernmentDT_CAP
+ FREE_CITY_IM_CAP:1 "Вольный город" #GetGovernmentIM_CAP
+ FREE_CITY_PR_CAP:1 "Вольном городе" #GetGovernmentPR_CAP
+ FREE_CITY_RD_CAP:1 "Вольного города" #GetGovernmentRD_CAP
+ FREE_CITY_TV_CAP:1 "Вольным городом" #GetGovernmentTV_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_DT_CAP:1 "Революционной республике" #GetGovernmentDT_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_IM_CAP:1 "Революционная республика" #GetGovernmentIM_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_PR_CAP:1 "Революционной республике" #GetGovernmentPR_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_RD_CAP:1 "Революционной республики" #GetGovernmentRD_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_TV_CAP:1 "Революционной республикой" #GetGovernmentTV_CAP
+ GRAND_BARANGAY_DT_CAP:1 "Большому барангаю" #GetGovernmentDT_CAP
+ GRAND_BARANGAY_IM_CAP:1 "Большой барангай" #GetGovernmentIM_CAP
+ GRAND_BARANGAY_PR_CAP:1 "Большом барангае" #GetGovernmentPR_CAP
+ GRAND_BARANGAY_RD_CAP:1 "Большого барангая" #GetGovernmentRD_CAP
+ GRAND_BARANGAY_TV_CAP:1 "Большим барангаем" #GetGovernmentTV_CAP
+ GRAND_CHIEFDOM_DT_CAP:1 "Верховному вождеству" #GetGovernmentDT_CAP
+ GRAND_CHIEFDOM_IM_CAP:1 "Верховное вождество" #GetGovernmentIM_CAP
+ GRAND_CHIEFDOM_PR_CAP:1 "Верховном вождестве" #GetGovernmentPR_CAP
+ GRAND_CHIEFDOM_RD_CAP:1 "Верховного вождества" #GetGovernmentRD_CAP
+ GRAND_CHIEFDOM_TV_CAP:1 "Верховным вождеством" #GetGovernmentTV_CAP
+ GRAND_DUCHY_DT_CAP:1 "Великому княжеству" #GetGovernmentDT_CAP
+ GRAND_DUCHY_IM_CAP:1 "Великое княжество" #GetGovernmentIM_CAP
+ GRAND_DUCHY_PR_CAP:1 "Великом княжестве" #GetGovernmentPR_CAP
+ GRAND_DUCHY_RD_CAP:1 "Великого княжества" #GetGovernmentRD_CAP
+ GRAND_DUCHY_TV_CAP:1 "Великим княжеством" #GetGovernmentTV_CAP
+ GRAND_ELECTORAL_REPUBLIC_DT_CAP:1 "Великой республике-курфюршеству" #GetGovernmentDT_CAP
+ GRAND_ELECTORAL_REPUBLIC_IM_CAP:1 "Великая республика-курфюршество" #GetGovernmentIM_CAP
+ GRAND_ELECTORAL_REPUBLIC_PR_CAP:1 "Великой республике-курфюршестве" #GetGovernmentPR_CAP
+ GRAND_ELECTORAL_REPUBLIC_RD_CAP:1 "Великой республики-курфюршества" #GetGovernmentRD_CAP
+ GRAND_ELECTORAL_REPUBLIC_TV_CAP:1 "Великой республикой-курфюршеством" #GetGovernmentTV_CAP
+ GRAND_HERCEGSEG_DT_CAP:1 "Великому княжеству" #GetGovernmentDT_CAP
+ GRAND_HERCEGSEG_IM_CAP:1 "Великое княжество" #GetGovernmentIM_CAP
+ GRAND_HERCEGSEG_PR_CAP:1 "Великом княжестве" #GetGovernmentPR_CAP
+ GRAND_HERCEGSEG_RD_CAP:1 "Великого княжества" #GetGovernmentRD_CAP
+ GRAND_HERCEGSEG_TV_CAP:1 "Великим княжеством" #GetGovernmentTV_CAP
+ GRAND_HETMANATE_DT_CAP:1 "Большой гетманщине" #GetGovernmentDT_CAP
+ GRAND_HETMANATE_IM_CAP:1 "Большую гетманщину" #GetGovernmentIM_CAP
+ GRAND_HETMANATE_PR_CAP:1 "Большой гетманщине" #GetGovernmentPR_CAP
+ GRAND_HETMANATE_RD_CAP:1 "Большой гетманщины" #GetGovernmentRD_CAP
+ GRAND_HETMANATE_TV_CAP:1 "Большой гетманщиной" #GetGovernmentTV_CAP
+ GRAND_INDEP_DAIMYO_DT_CAP:1 "Главному даймё" #GetGovernmentDT_CAP
+ GRAND_INDEP_DAIMYO_IM_CAP:1 "Главного даймё" #GetGovernmentIM_CAP
+ GRAND_INDEP_DAIMYO_PR_CAP:1 "Главном даймё" #GetGovernmentPR_CAP
+ GRAND_INDEP_DAIMYO_RD_CAP:1 "Главного даймё" #GetGovernmentRD_CAP
+ GRAND_INDEP_DAIMYO_TV_CAP:1 "Главным даймё" #GetGovernmentTV_CAP
+ GRAND_PIRATE_CONFEDERACY_DT_CAP:1 "Большой пиратской конфедерации" #GetGovernmentDT_CAP
+ GRAND_PIRATE_CONFEDERACY_IM_CAP:1 "Большую пиратскую конфедерацию" #GetGovernmentIM_CAP
+ GRAND_PIRATE_CONFEDERACY_PR_CAP:1 "Большой пиратской конфедерации" #GetGovernmentPR_CAP
+ GRAND_PIRATE_CONFEDERACY_RD_CAP:1 "Большой пиратской конфедерации" #GetGovernmentRD_CAP
+ GRAND_PIRATE_CONFEDERACY_TV_CAP:1 "Большой пиратской конфедерацией" #GetGovernmentTV_CAP
+ GRAND_PRINCEDOM_DT_CAP:1 "Великому княжеству" #GetGovernmentDT_CAP
+ GRAND_PRINCEDOM_IM_CAP:1 "Великое княжество" #GetGovernmentIM_CAP
+ GRAND_PRINCEDOM_PR_CAP:1 "Великом княжестве" #GetGovernmentPR_CAP
+ GRAND_PRINCEDOM_RD_CAP:1 "Великого княжества" #GetGovernmentRD_CAP
+ GRAND_PRINCEDOM_TV_CAP:1 "Великим княжеством" #GetGovernmentTV_CAP
+ GRAND_PRINCIPALITY_DT_CAP:1 "Великому княжеству" #GetGovernmentDT_CAP
+ GRAND_PRINCIPALITY_IM_CAP:1 "Великое княжество" #GetGovernmentIM_CAP
+ GRAND_PRINCIPALITY_PR_CAP:1 "Великом княжестве" #GetGovernmentPR_CAP
+ GRAND_PRINCIPALITY_RD_CAP:1 "Великого княжества" #GetGovernmentRD_CAP
+ GRAND_PRINCIPALITY_TV_CAP:1 "Великим княжеством" #GetGovernmentTV_CAP
+ GRAND_REPUBLIC_DT_CAP:1 "Великой республике" #GetGovernmentDT_CAP
+ GRAND_REPUBLIC_IM_CAP:1 "Великую республику" #GetGovernmentIM_CAP
+ GRAND_REPUBLIC_PR_CAP:1 "Великой республике" #GetGovernmentPR_CAP
+ GRAND_REPUBLIC_RD_CAP:1 "Великой республики" #GetGovernmentRD_CAP
+ GRAND_REPUBLIC_TV_CAP:1 "Великой республикой" #GetGovernmentTV_CAP
+ GRAND_SHARIFATE_DT_CAP:1 "Высшему шарифату" #GetGovernmentDT_CAP
+ GRAND_SHARIFATE_IM_CAP:1 "Высший шарифат" #GetGovernmentIM_CAP
+ GRAND_SHARIFATE_PR_CAP:1 "Высшем шарифате" #GetGovernmentPR_CAP
+ GRAND_SHARIFATE_RD_CAP:1 "Высшего шарифата" #GetGovernmentRD_CAP
+ GRAND_SHARIFATE_TV_CAP:1 "Высшим шарифатом" #GetGovernmentTV_CAP
+ GRAND_SISTERHOOD_DT_CAP:1 "Великому сестричеству" #GetGovernmentDT_CAP
+ GRAND_SISTERHOOD_IM_CAP:1 "Великое сестричество" #GetGovernmentIM_CAP
+ GRAND_SISTERHOOD_PR_CAP:1 "Великом сестричестве" #GetGovernmentPR_CAP
+ GRAND_SISTERHOOD_RD_CAP:1 "Великого сестричества" #GetGovernmentRD_CAP
+ GRAND_SISTERHOOD_TV_CAP:1 "Великим сестричеством" #GetGovernmentTV_CAP
+ GREAT_BARANGAY_DT_CAP:1 "Великому барангаю" #GetGovernmentDT_CAP
+ GREAT_BARANGAY_IM_CAP:1 "Великой барангай" #GetGovernmentIM_CAP
+ GREAT_BARANGAY_PR_CAP:1 "Великом барангае" #GetGovernmentPR_CAP
+ GREAT_BARANGAY_RD_CAP:1 "Великого барангая" #GetGovernmentRD_CAP
+ GREAT_BARANGAY_TV_CAP:1 "Великим барангаем" #GetGovernmentTV_CAP
+ GREAT_CHIEFDOM_DT_CAP:1 "Великому вождеству" #GetGovernmentDT_CAP
+ GREAT_CHIEFDOM_IM_CAP:1 "Великое вождество" #GetGovernmentIM_CAP
+ GREAT_CHIEFDOM_PR_CAP:1 "Великом вождестве" #GetGovernmentPR_CAP
+ GREAT_CHIEFDOM_RD_CAP:1 "Великого вождества" #GetGovernmentRD_CAP
+ GREAT_CHIEFDOM_TV_CAP:1 "Великим вождеством" #GetGovernmentTV_CAP
+ GREAT_ELECTORAL_REPUBLIC_DT_CAP:1 "Величайшей республике-курфюршеству" #GetGovernmentDT_CAP
+ GREAT_ELECTORAL_REPUBLIC_IM_CAP:1 "Величайшая республика-курфюршество" #GetGovernmentIM_CAP
+ GREAT_ELECTORAL_REPUBLIC_PR_CAP:1 "Величайшей республике-курфюршестве" #GetGovernmentPR_CAP
+ GREAT_ELECTORAL_REPUBLIC_RD_CAP:1 "Величайшей республики-курфюршества" #GetGovernmentRD_CAP
+ GREAT_ELECTORAL_REPUBLIC_TV_CAP:1 "Величайшей республикой-курфюршеством" #GetGovernmentTV_CAP
+ GREAT_EMIRATE_DT_CAP:1 "Великому эмирату" #GetGovernmentDT_CAP
+ GREAT_EMIRATE_IM_CAP:1 "Великий эмират" #GetGovernmentIM_CAP
+ GREAT_EMIRATE_PR_CAP:1 "Великом эмирате" #GetGovernmentPR_CAP
+ GREAT_EMIRATE_RD_CAP:1 "Великого эмирата" #GetGovernmentRD_CAP
+ GREAT_EMIRATE_TV_CAP:1 "Великим эмиратом" #GetGovernmentTV_CAP
+ GREAT_HETMANATE_DT_CAP:1 "Великому гетманату" #GetGovernmentDT_CAP
+ GREAT_HETMANATE_IM_CAP:1 "Великий гетманат" #GetGovernmentIM_CAP
+ GREAT_HETMANATE_PR_CAP:1 "Великом гетманате" #GetGovernmentPR_CAP
+ GREAT_HETMANATE_RD_CAP:1 "Великого гетманата" #GetGovernmentRD_CAP
+ GREAT_HETMANATE_TV_CAP:1 "Великим гетманатом" #GetGovernmentTV_CAP
+ GREAT_IMAMATE_DT_CAP:1 "Великому имамату" #GetGovernmentDT_CAP
+ GREAT_IMAMATE_IM_CAP:1 "Великий имамат" #GetGovernmentIM_CAP
+ GREAT_IMAMATE_PR_CAP:1 "Великом имамате" #GetGovernmentPR_CAP
+ GREAT_IMAMATE_RD_CAP:1 "Великого имамата" #GetGovernmentRD_CAP
+ GREAT_IMAMATE_TV_CAP:1 "Великим имаматом" #GetGovernmentTV_CAP
+ GREAT_INDEP_DAIMYO_DT_CAP:1 "Великому даймё" #GetGovernmentDT_CAP
+ GREAT_INDEP_DAIMYO_IM_CAP:1 "Великого даймё" #GetGovernmentIM_CAP
+ GREAT_INDEP_DAIMYO_PR_CAP:1 "Великом даймё" #GetGovernmentPR_CAP
+ GREAT_INDEP_DAIMYO_RD_CAP:1 "Великого даймё" #GetGovernmentRD_CAP
+ GREAT_INDEP_DAIMYO_TV_CAP:1 "Великим даймё" #GetGovernmentTV_CAP
+ GREAT_LEAGUE_DT_CAP:1 "Великой лиге" #GetGovernmentDT_CAP
+ GREAT_LEAGUE_IM_CAP:1 "Великую лигу" #GetGovernmentIM_CAP
+ GREAT_LEAGUE_PR_CAP:1 "Великой лиге" #GetGovernmentPR_CAP
+ GREAT_LEAGUE_RD_CAP:1 "Великой лиги" #GetGovernmentRD_CAP
+ GREAT_LEAGUE_TV_CAP:1 "Великой лигой" #GetGovernmentTV_CAP
+ GREAT_METROPOLIS_DT_CAP:1 "Великой митрополии" #GetGovernmentDT_CAP
+ GREAT_METROPOLIS_IM_CAP:1 "Великую митрополию" #GetGovernmentIM_CAP
+ GREAT_METROPOLIS_PR_CAP:1 "Великой митрополии" #GetGovernmentPR_CAP
+ GREAT_METROPOLIS_RD_CAP:1 "Великой митрополии" #GetGovernmentRD_CAP
+ GREAT_METROPOLIS_TV_CAP:1 "Великой митрополией" #GetGovernmentTV_CAP
+ GREAT_PRINCEDOM_DT_CAP:1 "Светлейшему княжеству" #GetGovernmentDT_CAP
+ GREAT_PRINCEDOM_IM_CAP:1 "Светлейшее княжество" #GetGovernmentIM_CAP
+ GREAT_PRINCEDOM_PR_CAP:1 "Светлейшем княжестве" #GetGovernmentPR_CAP
+ GREAT_PRINCEDOM_RD_CAP:1 "Светлейшего княжества" #GetGovernmentRD_CAP
+ GREAT_PRINCEDOM_TV_CAP:1 "Светлейшим княжеством" #GetGovernmentTV_CAP
+ GREAT_REPUBLIC_DT_CAP:1 "Великой республике" #GetGovernmentDT_CAP
+ GREAT_REPUBLIC_IM_CAP:1 "Великую республику" #GetGovernmentIM_CAP
+ GREAT_REPUBLIC_PR_CAP:1 "Великой республике" #GetGovernmentPR_CAP
+ GREAT_REPUBLIC_RD_CAP:1 "Великой республики" #GetGovernmentRD_CAP
+ GREAT_REPUBLIC_TV_CAP:1 "Великой республикой" #GetGovernmentTV_CAP
+ GREAT_SHARIFATE_DT_CAP:1 "Великому шарифату" #GetGovernmentDT_CAP
+ GREAT_SHARIFATE_IM_CAP:1 "Великий шарифат" #GetGovernmentIM_CAP
+ GREAT_SHARIFATE_PR_CAP:1 "Великом шарифате" #GetGovernmentPR_CAP
+ GREAT_SHARIFATE_RD_CAP:1 "Великого шарифата" #GetGovernmentRD_CAP
+ GREAT_SHARIFATE_TV_CAP:1 "Великим шарифатом" #GetGovernmentTV_CAP
+ HERCEGSEG_DT_CAP:1 "Княжеству" #GetGovernmentDT_CAP
+ HERCEGSEG_IM_CAP:1 "Княжество" #GetGovernmentIM_CAP
+ HERCEGSEG_PR_CAP:1 "Княжестве" #GetGovernmentPR_CAP
+ HERCEGSEG_RD_CAP:1 "Княжества" #GetGovernmentRD_CAP
+ HERCEGSEG_TV_CAP:1 "Княжеством" #GetGovernmentTV_CAP
+ HERRED_DT_CAP:1 "Сотну" #GetGovernmentDT_CAP
+ HERRED_IM_CAP:1 "Сотню" #GetGovernmentIM_CAP
+ HERRED_PR_CAP:1 "Сотне" #GetGovernmentPR_CAP
+ HERRED_RD_CAP:1 "Сотни" #GetGovernmentRD_CAP
+ HERRED_TV_CAP:1 "Сотней" #GetGovernmentTV_CAP
+ HETMANATE_DT_CAP:1 "Гетманщине" #GetGovernmentDT_CAP
+ HETMANATE_IM_CAP:1 "Гетманщину" #GetGovernmentIM_CAP
+ HETMANATE_PR_CAP:1 "Гетманщине" #GetGovernmentPR_CAP
+ HETMANATE_RD_CAP:1 "Гетманщины" #GetGovernmentRD_CAP
+ HETMANATE_TV_CAP:1 "Гетманщиной" #GetGovernmentTV_CAP
+ HIGH_ADMIRALTY_DT_CAP:1 "Высшему адмиралтейству" #GetGovernmentDT_CAP
+ HIGH_ADMIRALTY_IM_CAP:1 "Высшее адмиралтейство" #GetGovernmentIM_CAP
+ HIGH_ADMIRALTY_PR_CAP:1 "Высшем адмиралтействе" #GetGovernmentPR_CAP
+ HIGH_ADMIRALTY_RD_CAP:1 "Высшего адмиралтейства" #GetGovernmentRD_CAP
+ HIGH_ADMIRALTY_TV_CAP:1 "Высшим адмиралтейством" #GetGovernmentTV_CAP
+ HIGH_IMAMATE_DT_CAP:1 "Верховному имамату" #GetGovernmentDT_CAP
+ HIGH_IMAMATE_IM_CAP:1 "Верховный имамат" #GetGovernmentIM_CAP
+ HIGH_IMAMATE_PR_CAP:1 "Верховном имамате" #GetGovernmentPR_CAP
+ HIGH_IMAMATE_RD_CAP:1 "Верховного имамата" #GetGovernmentRD_CAP
+ HIGH_IMAMATE_TV_CAP:1 "Верховным имаматом" #GetGovernmentTV_CAP
+ HOLY_EMPIRE_DT_CAP:1 "Теократической империи" #GetGovernmentDT_CAP
+ HOLY_EMPIRE_IM_CAP:1 "Теократическую империю" #GetGovernmentIM_CAP
+ HOLY_EMPIRE_PR_CAP:1 "Теократической империи" #GetGovernmentPR_CAP
+ HOLY_EMPIRE_RD_CAP:1 "Теократической империи" #GetGovernmentRD_CAP
+ HOLY_EMPIRE_TV_CAP:1 "Теократической империей" #GetGovernmentTV_CAP
+ HOLY_PRINCIPALITY_DT_CAP:1 "Церковному княжеству" #GetGovernmentDT_CAP
+ HOLY_PRINCIPALITY_IM_CAP:1 "Церковное княжество" #GetGovernmentIM_CAP
+ HOLY_PRINCIPALITY_PR_CAP:1 "Церковном княжестве" #GetGovernmentPR_CAP
+ HOLY_PRINCIPALITY_RD_CAP:1 "Церковного княжества" #GetGovernmentRD_CAP
+ HOLY_PRINCIPALITY_TV_CAP:1 "Церковным княжеством" #GetGovernmentTV_CAP
+ HOLY_STATE_DT_CAP:1 "Церковному государству" #GetGovernmentDT_CAP
+ HOLY_STATE_IM_CAP:1 "Церковное государство" #GetGovernmentIM_CAP
+ HOLY_STATE_PR_CAP:1 "Церковном государстве" #GetGovernmentPR_CAP
+ HOLY_STATE_RD_CAP:1 "Церковного государства" #GetGovernmentRD_CAP
+ HOLY_STATE_TV_CAP:1 "Церковным государством" #GetGovernmentTV_CAP
+ HORDE_DT_CAP:1 "Орде" #GetGovernmentDT_CAP
+ HORDE_IM_CAP:1 "Орду" #GetGovernmentIM_CAP
+ HORDE_PR_CAP:1 "Орде" #GetGovernmentPR_CAP
+ HORDE_RD_CAP:1 "Орды" #GetGovernmentRD_CAP
+ HORDE_TV_CAP:1 "Ордой" #GetGovernmentTV_CAP
+ IKKO_IKKI_COMMUNE_DT_CAP:1 "Республике Икко-икки" #GetGovernmentDT_CAP
+ IKKO_IKKI_COMMUNE_IM_CAP:1 "Республика Икко-икки" #GetGovernmentIM_CAP
+ IKKO_IKKI_COMMUNE_PR_CAP:1 "Республике Икко-икки" #GetGovernmentPR_CAP
+ IKKO_IKKI_COMMUNE_RD_CAP:1 "Республики Икко-икки" #GetGovernmentRD_CAP
+ IKKO_IKKI_COMMUNE_TV_CAP:1 "Республикой Икко-икки" #GetGovernmentTV_CAP
+ IKKO_IKKI_EMPIRE_DT_CAP:1 "Протекторату Икко-икки" #GetGovernmentDT_CAP
+ IKKO_IKKI_EMPIRE_IM_CAP:1 "Протекторат Икко-икки" #GetGovernmentIM_CAP
+ IKKO_IKKI_EMPIRE_PR_CAP:1 "Протекторате Икко-икки" #GetGovernmentPR_CAP
+ IKKO_IKKI_EMPIRE_RD_CAP:1 "Протектората Икко-икки" #GetGovernmentRD_CAP
+ IKKO_IKKI_EMPIRE_TV_CAP:1 "Протекторатом Икко-икки" #GetGovernmentTV_CAP
+ IKKO_IKKI_ORDER_DT_CAP:1 "Ордену Икко-икки" #GetGovernmentDT_CAP
+ IKKO_IKKI_ORDER_IM_CAP:1 "Орден Икко-икки" #GetGovernmentIM_CAP
+ IKKO_IKKI_ORDER_PR_CAP:1 "Ордене Икко-икки" #GetGovernmentPR_CAP
+ IKKO_IKKI_ORDER_RD_CAP:1 "Ордена Икко-икки" #GetGovernmentRD_CAP
+ IKKO_IKKI_ORDER_TV_CAP:1 "Орденом Икко-икки" #GetGovernmentTV_CAP
+ IKKO_IKKI_SHOGUN_DT_CAP:1 "Сёгунату Икко-икки" #GetGovernmentDT_CAP
+ IKKO_IKKI_SHOGUN_IM_CAP:1 "Сёгунат Икко-икки" #GetGovernmentIM_CAP
+ IKKO_IKKI_SHOGUN_PR_CAP:1 "Сёгунате Икко-икки" #GetGovernmentPR_CAP
+ IKKO_IKKI_SHOGUN_RD_CAP:1 "Сёгуната Икко-икки" #GetGovernmentRD_CAP
+ IKKO_IKKI_SHOGUN_TV_CAP:1 "Сёгунатом Икко-икки" #GetGovernmentTV_CAP
+ ILKHANATE_DT_CAP:0 "ILKHANATE" #GetGovernmentDT_CAP
+ ILKHANATE_IM_CAP:0 "ILKHANATE" #GetGovernmentIM_CAP
+ ILKHANATE_PR_CAP:0 "ILKHANATE" #GetGovernmentPR_CAP
+ ILKHANATE_RD_CAP:0 "ILKHANATE" #GetGovernmentRD_CAP
+ ILKHANATE_TV_CAP:0 "ILKHANATE" #GetGovernmentTV_CAP
+ IMAMATE_DT_CAP:1 "Имамату" #GetGovernmentDT_CAP
+ IMAMATE_IM_CAP:1 "Имамат" #GetGovernmentIM_CAP
+ IMAMATE_PR_CAP:1 "Имамате" #GetGovernmentPR_CAP
+ IMAMATE_RD_CAP:1 "Имамата" #GetGovernmentRD_CAP
+ IMAMATE_TV_CAP:1 "Имаматом" #GetGovernmentTV_CAP
+ INDEP_DAIMYO_DT_CAP:1 "Независимому даймё" #GetGovernmentDT_CAP
+ INDEP_DAIMYO_IM_CAP:1 "Независимого даймё" #GetGovernmentIM_CAP
+ INDEP_DAIMYO_PR_CAP:1 "Независимом даймё" #GetGovernmentPR_CAP
+ INDEP_DAIMYO_RD_CAP:1 "Независимого даймё" #GetGovernmentRD_CAP
+ INDEP_DAIMYO_TV_CAP:1 "Независимым даймё" #GetGovernmentTV_CAP
+ ISLAMIC_CALIPHATE_DT_CAP:1 "Исламскому халифату" #GetGovernmentDT_CAP
+ ISLAMIC_CALIPHATE_IM_CAP:1 "Исламский халифат" #GetGovernmentIM_CAP
+ ISLAMIC_CALIPHATE_PR_CAP:1 "Исламском халифате" #GetGovernmentPR_CAP
+ ISLAMIC_CALIPHATE_RD_CAP:1 "Исламского халифата" #GetGovernmentRD_CAP
+ ISLAMIC_CALIPHATE_TV_CAP:1 "Исламским халифатом" #GetGovernmentTV_CAP
+ KAISERREICH_DT_CAP:1 "Империи" #GetGovernmentDT_CAP
+ KAISERREICH_IM_CAP:1 "Империя" #GetGovernmentIM_CAP
+ KAISERREICH_PR_CAP:1 "Империи" #GetGovernmentPR_CAP
+ KAISERREICH_RD_CAP:1 "Империи" #GetGovernmentRD_CAP
+ KAISERREICH_TV_CAP:1 "Империей" #GetGovernmentTV_CAP
+ KHAGANATE_DT_CAP:1 "Каганату" #GetGovernmentDT_CAP
+ KHAGANATE_IM_CAP:1 "Каганат" #GetGovernmentIM_CAP
+ KHAGANATE_PR_CAP:1 "Каганате" #GetGovernmentPR_CAP
+ KHAGANATE_RD_CAP:1 "Каганата" #GetGovernmentRD_CAP
+ KHAGANATE_TV_CAP:1 "Каганатом" #GetGovernmentTV_CAP
+ KHANATE_DT_CAP:1 "Ханству" #GetGovernmentDT_CAP
+ KHANATE_IM_CAP:1 "Ханство" #GetGovernmentIM_CAP
+ KHANATE_PR_CAP:1 "Ханстве" #GetGovernmentPR_CAP
+ KHANATE_RD_CAP:1 "Ханства" #GetGovernmentRD_CAP
+ KHANATE_TV_CAP:1 "Ханством" #GetGovernmentTV_CAP
+ KHEDIVATE_DT_CAP:0 "KHEDIVATE" #GetGovernmentDT_CAP
+ KHEDIVATE_IM_CAP:0 "KHEDIVATE" #GetGovernmentIM_CAP
+ KHEDIVATE_PR_CAP:0 "KHEDIVATE" #GetGovernmentPR_CAP
+ KHEDIVATE_RD_CAP:0 "KHEDIVATE" #GetGovernmentRD_CAP
+ KHEDIVATE_TV_CAP:0 "KHEDIVATE" #GetGovernmentTV_CAP
+ KINGDOM_DT_CAP:1 "Королевству" #GetGovernmentDT_CAP
+ KINGDOM_IM_CAP:1 "Королевство" #GetGovernmentIM_CAP
+ KINGDOM_PALATINE_DT_CAP:1 "Пфальцкоролевству" #GetGovernmentDT_CAP
+ KINGDOM_PALATINE_DT_CAP:1 "Пфальцкоролевству" #GetGovernmentDT_CAP
+ KINGDOM_PALATINE_IM_CAP:1 "Пфальцкоролевство" #GetGovernmentIM_CAP
+ KINGDOM_PALATINE_IM_CAP:1 "Пфальцкоролевство" #GetGovernmentIM_CAP
+ KINGDOM_PALATINE_PR_CAP:1 "Пфальцкоролевстве" #GetGovernmentPR_CAP
+ KINGDOM_PALATINE_PR_CAP:1 "Пфальцкоролевстве" #GetGovernmentPR_CAP
+ KINGDOM_PALATINE_RD_CAP:1 "Пфальцкоролевства" #GetGovernmentRD_CAP
+ KINGDOM_PALATINE_RD_CAP:1 "Пфальцкоролевства" #GetGovernmentRD_CAP
+ KINGDOM_PALATINE_TV_CAP:1 "Пфальцкоролевством" #GetGovernmentTV_CAP
+ KINGDOM_PALATINE_TV_CAP:1 "Пфальцкоролевством" #GetGovernmentTV_CAP
+ KINGDOM_PR_CAP:1 "Королевстве" #GetGovernmentPR_CAP
+ KINGDOM_RD_CAP:1 "Королевства" #GetGovernmentRD_CAP
+ KINGDOM_TV_CAP:1 "Королевством" #GetGovernmentTV_CAP
+ KUCHKABAL_DT_CAP:1 "Кучкабале" #GetGovernmentDT_CAP
+ KUCHKABAL_IM_CAP:1 "Кучкабаль" #GetGovernmentIM_CAP
+ KUCHKABAL_PR_CAP:1 "Кучкабале" #GetGovernmentPR_CAP
+ KUCHKABAL_RD_CAP:1 "Кучкабали" #GetGovernmentRD_CAP
+ KUCHKABAL_TV_CAP:1 "Кучкабалем" #GetGovernmentTV_CAP
+ LORDSHIP_DT_CAP:1 "Владению" #GetGovernmentDT_CAP
+ LORDSHIP_IM_CAP:1 "Владение" #GetGovernmentIM_CAP
+ LORDSHIP_PR_CAP:1 "Владении" #GetGovernmentPR_CAP
+ LORDSHIP_RD_CAP:1 "Владения" #GetGovernmentRD_CAP
+ LORDSHIP_TV_CAP:1 "Владением" #GetGovernmentTV_CAP
+ MALIKATE_DT_CAP:1 "Маликату" #GetGovernmentDT_CAP
+ MALIKATE_IM_CAP:1 "Маликат" #GetGovernmentIM_CAP
+ MALIKATE_PR_CAP:1 "Маликате" #GetGovernmentPR_CAP
+ MALIKATE_RD_CAP:1 "Маликата" #GetGovernmentRD_CAP
+ MALIKATE_TV_CAP:1 "Маликатом" #GetGovernmentTV_CAP
+ MARCH_DT_CAP:1 "Марке" #GetGovernmentDT_CAP
+ MARCH_IM_CAP:1 "Марку" #GetGovernmentIM_CAP
+ MARCH_PR_CAP:1 "Марке" #GetGovernmentPR_CAP
+ MARCH_RD_CAP:1 "Марки" #GetGovernmentRD_CAP
+ MARCH_TV_CAP:1 "Маркой" #GetGovernmentTV_CAP
+ METROPOLIS_DT_CAP:1 "Митрополии" #GetGovernmentDT_CAP
+ METROPOLIS_IM_CAP:1 "Митрополию" #GetGovernmentIM_CAP
+ METROPOLIS_PR_CAP:1 "Митрополии" #GetGovernmentPR_CAP
+ METROPOLIS_RD_CAP:1 "Митрополии" #GetGovernmentRD_CAP
+ METROPOLIS_TV_CAP:1 "Митрополией" #GetGovernmentTV_CAP
+ MILITARY_GOVERNMENT_DT_CAP:1 "Военной республике" #GetGovernmentDT_CAP
+ MILITARY_GOVERNMENT_IM_CAP:1 "Военная республика" #GetGovernmentIM_CAP
+ MILITARY_GOVERNMENT_PR_CAP:1 "Военной республике" #GetGovernmentPR_CAP
+ MILITARY_GOVERNMENT_RD_CAP:1 "Военной республики" #GetGovernmentRD_CAP
+ MILITARY_GOVERNMENT_TV_CAP:1 "Военной республикой" #GetGovernmentTV_CAP
+ MISL_DT_CAP:1 "Мисалю" #GetGovernmentDT_CAP
+ MISL_IM_CAP:1 "Мисаль" #GetGovernmentIM_CAP
+ MISL_PR_CAP:1 "Мисале" #GetGovernmentPR_CAP
+ MISL_RD_CAP:1 "Мисаля" #GetGovernmentRD_CAP
+ MISL_TV_CAP:1 "Мисалем" #GetGovernmentTV_CAP
+ MONASTIC_EMPIRE_DT_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentDT_CAP
+ MONASTIC_EMPIRE_IM_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentIM_CAP
+ MONASTIC_EMPIRE_PR_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentPR_CAP
+ MONASTIC_EMPIRE_RD_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentRD_CAP
+ MONASTIC_EMPIRE_TV_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentTV_CAP
+ MONASTIC_ORDER_DT_CAP:1 "Военно-монашескому ордену" #GetGovernmentDT_CAP
+ MONASTIC_ORDER_IM_CAP:1 "Военно-монашеский орден" #GetGovernmentIM_CAP
+ MONASTIC_ORDER_PR_CAP:1 "Военно-монашеском ордене" #GetGovernmentPR_CAP
+ MONASTIC_ORDER_RD_CAP:1 "Военно-монашеского ордена" #GetGovernmentRD_CAP
+ MONASTIC_ORDER_TV_CAP:1 "Военно-монашеским орденом" #GetGovernmentTV_CAP
+ MONASTIC_STATE_DT_CAP:1 "Монашескому государству" #GetGovernmentDT_CAP
+ MONASTIC_STATE_IM_CAP:1 "Монашеское государство" #GetGovernmentIM_CAP
+ MONASTIC_STATE_PR_CAP:1 "Монашеском государстве" #GetGovernmentPR_CAP
+ MONASTIC_STATE_RD_CAP:1 "Монашеского государства" #GetGovernmentRD_CAP
+ MONASTIC_STATE_TV_CAP:1 "Монашеским государством" #GetGovernmentTV_CAP
+ MONG_DT_CAP:1 "Монгу" #GetGovernmentDT_CAP
+ MONG_IM_CAP:1 "Монг" #GetGovernmentIM_CAP
+ MONG_PR_CAP:1 "Монге" #GetGovernmentPR_CAP
+ MONG_RD_CAP:1 "Монга" #GetGovernmentRD_CAP
+ MONG_TV_CAP:1 "Монгом" #GetGovernmentTV_CAP
+ MOST_SERENE_REPUBLIC_CHTO_CAP:1 "Светлейшая республика" #GetGovernmentIM_CAP
+ MOST_SERENE_REPUBLIC_DT_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentDT_CAP
+ MOST_SERENE_REPUBLIC_GDE_CAP:1 "Светлейшей республике" #GetGovernmentPR_CAP
+ MOST_SERENE_REPUBLIC_IM_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentIM_CAP
+ MOST_SERENE_REPUBLIC_KEM_CAP:1 "Светлейшей республикой" #GetGovernmentTV_CAP
+ MOST_SERENE_REPUBLIC_OGO_CAP:1 "Светлейшей республики" #GetGovernmentRD_CAP
+ MOST_SERENE_REPUBLIC_OMU_CAP:1 "Светлейшей республике" #GetGovernmentDT_CAP
+ MOST_SERENE_REPUBLIC_PR_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentPR_CAP
+ MOST_SERENE_REPUBLIC_RD_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentRD_CAP
+ MOST_SERENE_REPUBLIC_TV_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentTV_CAP
+ NAWABATE_DT_CAP:1 "Навабату" #GetGovernmentDT_CAP
+ NAWABATE_IM_CAP:1 "Навабат" #GetGovernmentIM_CAP
+ NAWABATE_PR_CAP:1 "Навабате" #GetGovernmentPR_CAP
+ NAWABATE_RD_CAP:1 "Навабата" #GetGovernmentRD_CAP
+ NAWABATE_TV_CAP:1 "Навабатом" #GetGovernmentTV_CAP
+ NIZAMATE_DT_CAP:1 "Низамату" #GetGovernmentDT_CAP
+ NIZAMATE_IM_CAP:1 "Низамат" #GetGovernmentIM_CAP
+ NIZAMATE_PR_CAP:1 "Низамате" #GetGovernmentPR_CAP
+ NIZAMATE_RD_CAP:1 "Низамата" #GetGovernmentRD_CAP
+ NIZAMATE_TV_CAP:1 "Низаматом" #GetGovernmentTV_CAP
+ PAPACY_DT_CAP:1 "Папству" #GetGovernmentDT_CAP
+ PAPACY_IM_CAP:1 "Папство" #GetGovernmentIM_CAP
+ PAPACY_PR_CAP:1 "Папстве" #GetGovernmentPR_CAP
+ PAPACY_RD_CAP:1 "Папства" #GetGovernmentRD_CAP
+ PAPACY_TV_CAP:1 "Папством" #GetGovernmentTV_CAP
+ PARLIAMENT_OF_HEAVEN_DT_CAP:1 "Парламенту Небес" #GetGovernmentDT_CAP
+ PARLIAMENT_OF_HEAVEN_IM_CAP:1 "Парламент Небес" #GetGovernmentIM_CAP
+ PARLIAMENT_OF_HEAVEN_PR_CAP:1 "Парламенте Небес" #GetGovernmentPR_CAP
+ PARLIAMENT_OF_HEAVEN_RD_CAP:1 "Парламента Небес" #GetGovernmentRD_CAP
+ PARLIAMENT_OF_HEAVEN_TV_CAP:1 "Парламентом Небес" #GetGovernmentTV_CAP
+ PASHALIK_DT_CAP:1 "Эялету" #GetGovernmentDT_CAP
+ PASHALIK_IM_CAP:1 "Эялет" #GetGovernmentIM_CAP
+ PASHALIK_PR_CAP:1 "Эялете" #GetGovernmentPR_CAP
+ PASHALIK_RD_CAP:1 "Эялета" #GetGovernmentRD_CAP
+ PASHALIK_TV_CAP:1 "Эялетом" #GetGovernmentTV_CAP
+ PATRIARCHATE_DT_CAP:1 "Патриархату" #GetGovernmentDT_CAP
+ PATRIARCHATE_IM_CAP:1 "Патриархат" #GetGovernmentIM_CAP
+ PATRIARCHATE_PR_CAP:1 "Патриархате" #GetGovernmentPR_CAP
+ PATRIARCHATE_RD_CAP:1 "Патриархата" #GetGovernmentRD_CAP
+ PATRIARCHATE_TV_CAP:1 "Патриархатом" #GetGovernmentTV_CAP
+ PIRATE_CONFEDERACY_DT_CAP:1 "Пиратской конфедерации" #GetGovernmentDT_CAP
+ PIRATE_CONFEDERACY_IM_CAP:1 "Пиратскую конфедерацию" #GetGovernmentIM_CAP
+ PIRATE_CONFEDERACY_PR_CAP:1 "Пиратской конфедерации" #GetGovernmentPR_CAP
+ PIRATE_CONFEDERACY_RD_CAP:1 "Пиратской конфедерации" #GetGovernmentRD_CAP
+ PIRATE_CONFEDERACY_TV_CAP:1 "Пиратской конфедерацией" #GetGovernmentTV_CAP
+ PIRATE_DAIMYO_DT_CAP:0 "PIRATE_DAIMYO" #GetGovernmentDT_CAP
+ PIRATE_DAIMYO_IM_CAP:0 "PIRATE_DAIMYO" #GetGovernmentIM_CAP
+ PIRATE_DAIMYO_PR_CAP:0 "PIRATE_DAIMYO" #GetGovernmentPR_CAP
+ PIRATE_DAIMYO_RD_CAP:0 "PIRATE_DAIMYO" #GetGovernmentRD_CAP
+ PIRATE_DAIMYO_TV_CAP:0 "PIRATE_DAIMYO" #GetGovernmentTV_CAP
+ PIRATE_EMPIRE_DT_CAP:1 "Империи пиратов" #GetGovernmentDT_CAP
+ PIRATE_EMPIRE_IM_CAP:1 "Империю пиратов" #GetGovernmentIM_CAP
+ PIRATE_EMPIRE_PR_CAP:1 "Империи пиратов" #GetGovernmentPR_CAP
+ PIRATE_EMPIRE_RD_CAP:1 "Империи пиратов" #GetGovernmentRD_CAP
+ PIRATE_EMPIRE_TV_CAP:1 "Империей пиратов" #GetGovernmentTV_CAP
+ PIRATE_KINGDOM_DT_CAP:1 "Королевству пиратов" #GetGovernmentDT_CAP
+ PIRATE_KINGDOM_IM_CAP:1 "Королевство пиратов" #GetGovernmentIM_CAP
+ PIRATE_KINGDOM_PR_CAP:1 "Королевстве пиратов" #GetGovernmentPR_CAP
+ PIRATE_KINGDOM_RD_CAP:1 "Королевства пиратов" #GetGovernmentRD_CAP
+ PIRATE_KINGDOM_TV_CAP:1 "Королевством пиратов" #GetGovernmentTV_CAP
+ PIRATE_PRINCIPALITY_DT_CAP:1 "Пиратскому княжеству" #GetGovernmentDT_CAP
+ PIRATE_PRINCIPALITY_IM_CAP:1 "Пиратское княжество" #GetGovernmentIM_CAP
+ PIRATE_PRINCIPALITY_PR_CAP:1 "Пиратском княжестве" #GetGovernmentPR_CAP
+ PIRATE_PRINCIPALITY_RD_CAP:1 "Пиратского княжества" #GetGovernmentRD_CAP
+ PIRATE_PRINCIPALITY_TV_CAP:1 "Пиратским княжеством" #GetGovernmentTV_CAP
+ PIRATE_REPUBLIC_DT_CAP:1 "Пиратской республике" #GetGovernmentDT_CAP
+ PIRATE_REPUBLIC_IM_CAP:1 "Пиратскую республику" #GetGovernmentIM_CAP
+ PIRATE_REPUBLIC_PR_CAP:1 "Пиратской республике" #GetGovernmentPR_CAP
+ PIRATE_REPUBLIC_RD_CAP:1 "Пиратской республики" #GetGovernmentRD_CAP
+ PIRATE_REPUBLIC_TV_CAP:1 "Пиратской республикой" #GetGovernmentTV_CAP
+ PRESIDENTIAL_DICTATORSHIP_DT_CAP:1 "Президентской диктатуре" #GetGovernmentDT_CAP
+ PRESIDENTIAL_DICTATORSHIP_IM_CAP:1 "Президентскую диктатуру" #GetGovernmentIM_CAP
+ PRESIDENTIAL_DICTATORSHIP_PR_CAP:1 "Президентской диктатуре" #GetGovernmentPR_CAP
+ PRESIDENTIAL_DICTATORSHIP_RD_CAP:1 "Президентской диктатуры" #GetGovernmentRD_CAP
+ PRESIDENTIAL_DICTATORSHIP_TV_CAP:1 "Президентской диктатурой" #GetGovernmentTV_CAP
+ PRINCEDOM_DT_CAP:1 "Княжеству" #GetGovernmentDT_CAP
+ PRINCEDOM_IM_CAP:1 "Княжество" #GetGovernmentIM_CAP
+ PRINCEDOM_PR_CAP:1 "Княжестве" #GetGovernmentPR_CAP
+ PRINCEDOM_RD_CAP:1 "Княжества" #GetGovernmentRD_CAP
+ PRINCEDOM_TV_CAP:1 "Княжеством" #GetGovernmentTV_CAP
+ PRINCIPALITY_DT_CAP:1 "Княжеству" #GetGovernmentDT_CAP                                                        
+ PRINCIPALITY_IM_CAP:1 "Княжество" #GetGovernmentIM_CAP                                                        
+ PRINCIPALITY_PR_CAP:1 "Княжестве" #GetGovernmentPR_CAP                                                        
+ PRINCIPALITY_RD_CAP:1 "Княжества" #GetGovernmentRD_CAP
+ PRINCIPALITY_TV_CAP:1 "Княжеством" #GetGovernmentTV_CAP                                                          
+ REPUBLIC_DT_CAP:1 "Республике" #GetGovernmentDT_CAP
+ REPUBLIC_IM_CAP:1 "Республику" #GetGovernmentIM_CAP
+ REPUBLIC_PR_CAP:1 "Республике" #GetGovernmentPR_CAP
+ REPUBLIC_RD_CAP:1 "Республики" #GetGovernmentRD_CAP
+ REPUBLIC_TV_CAP:1 "Республикой" #GetGovernmentTV_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_DT_CAP:1 "Sikkerhedtinget" #GetGovernmentDT_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_IM_CAP:1 "Sikkerhedtinget" #GetGovernmentIM_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_PR_CAP:1 "Sikkerhedtinget" #GetGovernmentPR_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_RD_CAP:1 "Sikkerhedtinget" #GetGovernmentRD_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_TV_CAP:1 "Sikkerhedtinget" #GetGovernmentTV_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_DT_CAP:1 "Крестьянской хунте" #GetGovernmentDT_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_IM_CAP:1 "Крестьянскую хунту" #GetGovernmentIM_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_PR_CAP:1 "Крестьянской хунте" #GetGovernmentPR_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_RD_CAP:1 "Крестьянской хунты" #GetGovernmentRD_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_TV_CAP:1 "Крестьянской хунтой" #GetGovernmentTV_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_DT_CAP:1 "Верховной хунте" #GetGovernmentDT_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_IM_CAP:1 "Верховная хунта" #GetGovernmentIM_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_PR_CAP:1 "Верховной хунте" #GetGovernmentPR_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_RD_CAP:1 "Верховной хунты" #GetGovernmentRD_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_TV_CAP:1 "Верховной хунтой" #GetGovernmentTV_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_DT_CAP:1 "Säkerhetstinget" #GetGovernmentDT_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_IM_CAP:1 "Säkerhetstinget" #GetGovernmentIM_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_PR_CAP:1 "Säkerhetstinget" #GetGovernmentPR_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_RD_CAP:1 "Säkerhetstinget" #GetGovernmentRD_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_TV_CAP:1 "Säkerhetstinget" #GetGovernmentTV_CAP
+ SAVANAROLA_GOVERNMENT_DT_CAP:1 "Правительству Савонаролы" #GetGovernmentDT_CAP
+ SAVANAROLA_GOVERNMENT_IM_CAP:1 "Правительство Савонаролы" #GetGovernmentIM_CAP
+ SAVANAROLA_GOVERNMENT_PR_CAP:1 "Правительстве Савонаролы" #GetGovernmentPR_CAP
+ SAVANAROLA_GOVERNMENT_RD_CAP:1 "Правительства Савонаролы" #GetGovernmentRD_CAP
+ SAVANAROLA_GOVERNMENT_TV_CAP:1 "Правительством Савонаролы" #GetGovernmentTV_CAP
+ SERENE_REPUBLIC_DT_CAP:1 "Светлейшей республике" #GetGovernmentDT
+ SERENE_REPUBLIC_IM_CAP:1 "Светлейшую республику" #GetGovernmentIM_CAP                                                                               
+ SERENE_REPUBLIC_PR_CAP:1 "Светлейшей республике" #GetGovernmentPR
+ SERENE_REPUBLIC_RD_CAP:1 "Светлейшей республики" #GetGovernmentRD_CAP                                                                                 
+ SERENE_REPUBLIC_TV_CAP:1 "Cветлейшей республикой" #GetGovernmentTV_CAP
+ SHAHDOM_DT_CAP:1 "Шахству" #GetGovernmentDT_CAP
+ SHAHDOM_IM_CAP:1 "Шахство" #GetGovernmentIM_CAP
+ SHAHDOM_PR_CAP:1 "Шахстве" #GetGovernmentPR_CAP
+ SHAHDOM_RD_CAP:1 "Шахства" #GetGovernmentRD_CAP
+ SHAHDOM_TV_CAP:1 "Шахством" #GetGovernmentTV_CAP
+ SHARIFATE_DT_CAP:1 "Шарифату" #GetGovernmentDT_CAP
+ SHARIFATE_IM_CAP:1 "Шарифат" #GetGovernmentIM_CAP
+ SHARIFATE_PR_CAP:1 "Шарифате" #GetGovernmentPR_CAP
+ SHARIFATE_RD_CAP:1 "Шарифата" #GetGovernmentRD_CAP
+ SHARIFATE_TV_CAP:1 "Шарифатом" #GetGovernmentTV_CAP
+ SHEIKHDOM_DT_CAP:1 "Шейхству" #GetGovernmentDT_CAP
+ SHEIKHDOM_IM_CAP:1 "Шейхство" #GetGovernmentIM_CAP
+ SHEIKHDOM_PR_CAP:1 "Шейхстве" #GetGovernmentPR_CAP
+ SHEIKHDOM_RD_CAP:1 "Шейхства" #GetGovernmentRD_CAP
+ SHEIKHDOM_TV_CAP:1 "Шейхством" #GetGovernmentTV_CAP
+ SHOGUNATE_DT_CAP:1 "Сёгунату" #GetGovernmentDT_CAP
+ SHOGUNATE_IM_CAP:1 "Сёгунат" #GetGovernmentIM_CAP
+ SHOGUNATE_PR_CAP:1 "Сёгунате" #GetGovernmentPR_CAP
+ SHOGUNATE_RD_CAP:1 "Сёгуната" #GetGovernmentRD_CAP
+ SHOGUNATE_TV_CAP:1 "Сёгунатом" #GetGovernmentTV_CAP
+ SISTERHOOD_DT_CAP:1 "Сестричеству" #GetGovernmentDT_CAP
+ SISTERHOOD_IM_CAP:1 "Сестричество" #GetGovernmentIM_CAP
+ SISTERHOOD_PR_CAP:1 "Сестричестве" #GetGovernmentPR_CAP
+ SISTERHOOD_RD_CAP:1 "Сестричества" #GetGovernmentRD_CAP
+ SISTERHOOD_TV_CAP:1 "Сестричеством" #GetGovernmentTV_CAP
+ SOGN_DT_CAP:1 "Согну" #GetGovernmentDT_CAP
+ SOGN_IM_CAP:1 "Согн" #GetGovernmentIM_CAP
+ SOGN_PR_CAP:1 "Согне" #GetGovernmentPR_CAP
+ SOGN_RD_CAP:1 "Согна" #GetGovernmentRD_CAP
+ SOGN_TV_CAP:1 "Согном" #GetGovernmentTV_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_DT_CAP:1 "Суверенной рыцарской конфедерации" #GetGovernmentDT_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_IM_CAP:1 "Суверенная рыцарская конфедерация" #GetGovernmentIM_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_PR_CAP:1 "Суверенной рыцарской конфедерации" #GetGovernmentPR_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_RD_CAP:1 "Суверенной рыцарской конфедерации" #GetGovernmentRD_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_TV_CAP:1 "Суверенной рыцарской конфедерацией" #GetGovernmentTV_CAP
+ SOVREIGN_MONASTIC_ORDER_DT_CAP:1 "Суверенному военному ордену" #GetGovernmentDT_CAP
+ SOVREIGN_MONASTIC_ORDER_IM_CAP:1 "Суверенный военный орден" #GetGovernmentIM_CAP
+ SOVREIGN_MONASTIC_ORDER_PR_CAP:1 "Суверенном военном ордене" #GetGovernmentPR_CAP
+ SOVREIGN_MONASTIC_ORDER_RD_CAP:1 "Суверенного военного ордена" #GetGovernmentRD_CAP
+ SOVREIGN_MONASTIC_ORDER_TV_CAP:1 "Суверенным военным орденом" #GetGovernmentTV_CAP
+ STATELESS_SOCIETY_DT_CAP:1 "Обществу без государств" #GetGovernmentDT_CAP
+ STATELESS_SOCIETY_IM_CAP:1 "Общество без государства" #GetGovernmentIM_CAP
+ STATELESS_SOCIETY_PR_CAP:1 "Обществе без государства" #GetGovernmentPR_CAP
+ STATELESS_SOCIETY_RD_CAP:1 "Общества без государства" #GetGovernmentRD_CAP
+ STATELESS_SOCIETY_TV_CAP:1 "Обществом без государства" #GetGovernmentTV_CAP
+ STRATOCRACY_DT_CAP:1 "Юнкерской стратократии" #GetGovernmentDT_CAP
+ STRATOCRACY_IM_CAP:1 "Юнкерская стратократия" #GetGovernmentIM_CAP
+ STRATOCRACY_PR_CAP:1 "Юнкерской стратократии" #GetGovernmentPR_CAP
+ STRATOCRACY_RD_CAP:1 "Юнкерской стратократии" #GetGovernmentRD_CAP
+ STRATOCRACY_TV_CAP:1 "Юнкерской стратократией" #GetGovernmentTV_CAP
+ SULTANATE_DT_CAP:1 "Султанату" #GetGovernmentDT_CAP
+ SULTANATE_IM_CAP:1 "Султанат" #GetGovernmentIM_CAP
+ SULTANATE_PR_CAP:1 "Султанате" #GetGovernmentPR_CAP
+ SULTANATE_RD_CAP:1 "Султаната" #GetGovernmentRD_CAP
+ SULTANATE_TV_CAP:1 "Султанатом" #GetGovernmentTV_CAP
+ SUPREME_ADMIRALTY_DT_CAP:1 "Верховному адмиралтейству" #GetGovernmentDT_CAP
+ SUPREME_ADMIRALTY_IM_CAP:1 "Верховное адмиралтейство" #GetGovernmentIM_CAP
+ SUPREME_ADMIRALTY_PR_CAP:1 "Верховном адмиралтействе" #GetGovernmentPR_CAP
+ SUPREME_ADMIRALTY_RD_CAP:1 "Верховного адмиралтейства" #GetGovernmentRD_CAP
+ SUPREME_ADMIRALTY_TV_CAP:1 "Верховным адмиралтейством" #GetGovernmentTV_CAP
+ SYNTH_GOV_DT_CAP:1 "Машинному интеллекту" #GetGovernmentDT_CAP
+ SYNTH_GOV_IM_CAP:1 "Машинный интеллект" #GetGovernmentIM_CAP
+ SYNTH_GOV_PR_CAP:1 "Машинном интеллекте" #GetGovernmentPR_CAP
+ SYNTH_GOV_RD_CAP:1 "Машинного интеллекта" #GetGovernmentRD_CAP
+ SYNTH_GOV_TV_CAP:1 "Машинным интеллектом" #GetGovernmentTV_CAP
+ TRAPPIST_STATE_DT_CAP:1 "Ордену траппистов" #GetGovernmentDT_CAP
+ TRAPPIST_STATE_IM_CAP:1 "Орден траппистов" #GetGovernmentIM_CAP
+ TRAPPIST_STATE_PR_CAP:1 "Ордене траппистов" #GetGovernmentPR_CAP
+ TRAPPIST_STATE_RD_CAP:1 "Ордена траппистов" #GetGovernmentRD_CAP
+ TRAPPIST_STATE_TV_CAP:1 "Орденом траппистов" #GetGovernmentTV_CAP
+ TRIBAL_EMPIRE_DT_CAP:1 "Племенной империи" #GetGovernmentDT_CAP
+ TRIBAL_EMPIRE_IM_CAP:1 "Племенную империю" #GetGovernmentIM_CAP
+ TRIBAL_EMPIRE_PR_CAP:1 "Племенной империи" #GetGovernmentPR_CAP
+ TRIBAL_EMPIRE_RD_CAP:1 "Племенной империи" #GetGovernmentRD_CAP
+ TRIBAL_EMPIRE_TV_CAP:1 "Племенной империей" #GetGovernmentTV_CAP
+ TRIBAL_KINGDOM_DT_CAP:1 "Племенному королевству" #GetGovernmentDT_CAP
+ TRIBAL_KINGDOM_IM_CAP:1 "Племенное королевство" #GetGovernmentIM_CAP
+ TRIBAL_KINGDOM_PR_CAP:1 "Племенном королевстве" #GetGovernmentPR_CAP
+ TRIBAL_KINGDOM_RD_CAP:1 "Племенного королевства" #GetGovernmentRD_CAP
+ TRIBAL_KINGDOM_TV_CAP:1 "Племенным королевством" #GetGovernmentTV_CAP
+ TRIBE_DT_CAP:1 "Племени" #GetGovernmentDT_CAP
+ TRIBE_IM_CAP:1 "Племя" #GetGovernmentIM_CAP
+ TRIBE_PR_CAP:1 "Племени" #GetGovernmentPR_CAP
+ TRIBE_RD_CAP:1 "Племени" #GetGovernmentRD_CAP
+ TRIBE_TV_CAP:1 "Племенем" #GetGovernmentTV_CAP
+ TSARDOM_DT_CAP:1 "Царству" #GetGovernmentDT_CAP
+ TSARDOM_IM_CAP:1 "Царство" #GetGovernmentIM_CAP
+ TSARDOM_PR_CAP:1 "Царстве" #GetGovernmentPR_CAP
+ TSARDOM_RD_CAP:1 "Царства" #GetGovernmentRD_CAP
+ TSARDOM_TV_CAP:1 "Царством" #GetGovernmentTV_CAP
+ UNITED_PROVINCES_DT_CAP:1 "Соединённым провинциям" #GetGovernmentDT_CAP
+ UNITED_PROVINCES_IM_CAP:1 "Соединённые провинции" #GetGovernmentIM_CAP
+ UNITED_PROVINCES_PR_CAP:1 "Соединённых провинциях" #GetGovernmentPR_CAP
+ UNITED_PROVINCES_RD_CAP:1 "Соединённых провинций" #GetGovernmentRD_CAP
+ UNITED_PROVINCES_TV_CAP:1 "Соединёнными провинциями" #GetGovernmentTV_CAP
+ VICEROYALTY_DT_CAP:1 "Вице-королевству" #GetGovernmentDT_CAP
+ VICEROYALTY_IM_CAP:1 "Вице-королевство" #GetGovernmentIM_CAP
+ VICEROYALTY_PR_CAP:1 "Вице-королевстве" #GetGovernmentPR_CAP
+ VICEROYALTY_RD_CAP:1 "Вице-королевства" #GetGovernmentRD_CAP
+ VICEROYALTY_TV_CAP:1 "Вице-королевством" #GetGovernmentTV_CAP
+ WARRIOR_MONK_HIGH_ORDER_DT_CAP:1 "Монашескому сёгунату" #GetGovernmentDT_CAP
+ WARRIOR_MONK_HIGH_ORDER_IM_CAP:1 "Монашеский сёгунат" #GetGovernmentIM_CAP
+ WARRIOR_MONK_HIGH_ORDER_PR_CAP:1 "Монашеском сёгунате" #GetGovernmentPR_CAP
+ WARRIOR_MONK_HIGH_ORDER_RD_CAP:1 "Монашеского сёгуната" #GetGovernmentRD_CAP
+ WARRIOR_MONK_HIGH_ORDER_TV_CAP:1 "Монашеским сёгунатом" #GetGovernmentTV_CAP
+ WARRIOR_MONK_ORDER_DT_CAP:1 "Сохэю" #GetGovernmentDT_CAP
+ WARRIOR_MONK_ORDER_IM_CAP:1 "Сохэй" #GetGovernmentIM_CAP
+ WARRIOR_MONK_ORDER_PR_CAP:1 "Сохэе" #GetGovernmentPR_CAP
+ WARRIOR_MONK_ORDER_RD_CAP:1 "Сохэя" #GetGovernmentRD_CAP
+ WARRIOR_MONK_ORDER_TV_CAP:1 "Сохэем" #GetGovernmentTV_CAP

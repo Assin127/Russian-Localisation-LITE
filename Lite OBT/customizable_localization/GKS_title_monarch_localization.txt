@@ -18,8 +18,9 @@
 ###																								 ###
 ####################################################################################################
 
+
 defined_text = {
-    name = GetTitleIM
+	name = GetTitleIM
 	#stateless_society
 	text = {
 		localisation_key = TRIBAL_LEADER_IM
@@ -47,6 +48,69 @@ defined_text = {
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEF_IM
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_IM
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_IM
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUKE_IM
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_IM
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_IM
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -493,6 +557,7 @@ defined_text = {
 		}
 	}
 
+
 	#military_dictatorship
 	text = {
 		localisation_key = CAPTAIN_GENERAL_IM
@@ -819,6 +884,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -1577,7 +1644,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = regent_IM
+		localisation_key = regent_male_IM
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -1638,10 +1705,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -1651,10 +1715,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -1663,10 +1724,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -3316,6 +3374,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -3325,6 +3384,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -3333,6 +3393,7 @@ defined_text = {
 			is_female = no
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -3685,6 +3746,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -3696,6 +3758,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -3706,6 +3769,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
@@ -3742,7 +3806,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -3754,7 +3823,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -3859,7 +3933,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAZ_IM
+		localisation_key = POSADNIK_IM
 		trigger = {
 			is_female = no
 			government_rank = 1 
@@ -3875,7 +3949,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAZ_IM
+		localisation_key = GRAND_POSADNIK_IM
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -3891,7 +3965,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAZ_IM
+		localisation_key = GREAT_POSADNIK_IM
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -4311,7 +4385,12 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -4779,6 +4858,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -4792,7 +4872,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -4809,7 +4889,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -4825,7 +4905,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -4849,7 +4929,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -4869,7 +4949,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -4888,7 +4968,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -4906,7 +4986,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -4922,7 +5002,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -4937,7 +5017,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -5808,6 +5888,7 @@ defined_text = {
 			has_country_modifier = sisters_takeover
 		}
 	}
+
 	#default_monarchy
 	text = {
 		localisation_key = DUKE_IM
@@ -5919,9 +6000,10 @@ defined_text = {
 			government = tribal
 		}
 	}
+
 	#stateless_society
 	text = {
-		localisation_key = TRIBAL_LEADER_IM
+		localisation_key = TRIBAL_LEADER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -5930,7 +6012,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_IM
+		localisation_key = TRIBAL_LEADER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -5939,13 +6021,76 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_IM
+		localisation_key = TRIBAL_LEADER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEFTESS_IM
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_IM
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_IM
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUCHESS_IM
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_IM
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_IM
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -6235,7 +6380,7 @@ defined_text = {
 
 	#gov_polish_republic
 	text = {
-		localisation_key = MARSHAL_IM
+		localisation_key = MARSHAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -6245,7 +6390,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SERENE_MARSHAL_IM
+		localisation_key = SERENE_MARSHAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -6255,7 +6400,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MOST_SERNE_MARSHAL_IM
+		localisation_key = MOST_SERNE_MARSHAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -6282,7 +6427,7 @@ defined_text = {
 
 	#gov_prussian_republic
 	text = {
-		localisation_key = FIELD_MARSHAL_IM
+		localisation_key = FIELD_MARSHAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -6291,7 +6436,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_IM
+		localisation_key = FIELD_MARSHAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -6300,7 +6445,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_IM
+		localisation_key = FIELD_MARSHAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -6310,7 +6455,7 @@ defined_text = {
 
 	#gov_admiralty
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_IM
+		localisation_key = LORD_HIGH_ADMIRAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -6319,7 +6464,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_IM
+		localisation_key = LORD_HIGH_ADMIRAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -6328,7 +6473,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SUPREME_ADMIRAL_IM
+		localisation_key = SUPREME_ADMIRAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -6364,9 +6509,38 @@ defined_text = {
 		}
 	}
 
+	#savonarola_unique
+	text = {
+		localisation_key = SISTER_IM
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_IM
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_IM
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_ruler_flag = savonarola_flag
+		}
+	}
+
+
 	#military_dictatorship
 	text = {
-		localisation_key = CAPTAIN_GENERAL_IM
+		localisation_key = CAPTAIN_GENERAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -6375,7 +6549,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_IM
+		localisation_key = CAPTAIN_GENERAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -6384,7 +6558,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_IM
+		localisation_key = CAPTAIN_GENERAL_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -6690,6 +6864,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -7055,7 +7231,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAN_IM
+		localisation_key = KHATUN_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -7065,7 +7241,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAGAN_IM
+		localisation_key = GREAT_KHATUN_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -7509,10 +7685,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -7522,10 +7695,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -7534,10 +7704,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -8998,7 +9165,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KING_IM
+		localisation_key = QUEEN_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -9187,6 +9354,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -9196,6 +9364,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -9204,6 +9373,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -9548,7 +9718,7 @@ defined_text = {
 
 	#muslim_monarchy
 	text = {
-		localisation_key = EMIR_IM
+		localisation_key = EMIRA_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -9556,6 +9726,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -9567,6 +9738,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -9577,13 +9749,14 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
 	#Republics
 	#german_free_city
 	text = {
-		localisation_key = BURGMEISTER_IM
+		localisation_key = BURGMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -9613,7 +9786,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -9625,7 +9803,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -9730,7 +9913,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAGINIA_IM
+		localisation_key = POSADNITSA_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -9746,7 +9929,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAGINIA_IM
+		localisation_key = GRAND_POSADNITSA_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -9762,7 +9945,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAGINIA_IM
+		localisation_key = GREAT_POSADNITSA_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -10067,6 +10250,7 @@ defined_text = {
 			is_march = yes
 		}
 	}
+
 	#gov_steppe_horde
 	text = {
 		localisation_key = JINONG_IM
@@ -10181,7 +10365,12 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -10649,6 +10838,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -10662,7 +10852,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -10679,7 +10869,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -10695,7 +10885,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -10719,7 +10909,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -10739,7 +10929,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -10758,7 +10948,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -10776,7 +10966,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -10792,7 +10982,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -10807,7 +10997,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -10817,7 +11007,7 @@ defined_text = {
 
 	#northerner_king_monastic_order
 	text = {
-		localisation_key = FIRST_RANGER_IM
+		localisation_key = FIRST_RANGER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -10930,7 +11120,7 @@ defined_text = {
 
 	#teutonic_monastic_order
 	text = {
-		localisation_key = HOCHMEISTER_IM
+		localisation_key = HOCHMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -10940,7 +11130,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MAGISTER_HOCHMEISTER_IM
+		localisation_key = MAGISTER_HOCHMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -10950,7 +11140,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = DEUTSCHMEISTER_IM
+		localisation_key = DEUTSCHMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -10962,7 +11152,7 @@ defined_text = {
 	#Theocracies - Specified Religion / Culture
 	#livonian_monastic_order
 	text = {
-		localisation_key = LANDMEISTER_IM
+		localisation_key = LANDMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -10972,7 +11162,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_IM
+		localisation_key = LANDMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -10982,7 +11172,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_IM
+		localisation_key = LANDMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -10993,7 +11183,7 @@ defined_text = {
 
 	#germanic_monastic_order
 	text = {
-		localisation_key = GROSSMEISTER_IM
+		localisation_key = GROSSMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -11009,7 +11199,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_IM
+		localisation_key = GROSSMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -11025,7 +11215,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_IM
+		localisation_key = GROSSMEISTER_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -11302,7 +11492,7 @@ defined_text = {
 
 	#ibadi_theocracy
 	text = {
-		localisation_key = IMAM_IM
+		localisation_key = IMAM_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -11315,7 +11505,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_IM
+		localisation_key = GREAT_IMAM_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -11328,7 +11518,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_IM
+		localisation_key = HIGH_IMAM_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -11342,7 +11532,7 @@ defined_text = {
 
 	#yemenite_theocracy
 	text = {
-		localisation_key = IMAM_IM
+		localisation_key = IMAM_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -11356,7 +11546,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_IM
+		localisation_key = GREAT_IMAM_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -11370,7 +11560,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_IM
+		localisation_key = HIGH_IMAM_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -11405,7 +11595,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_IM
+		localisation_key = IMAM_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -11416,7 +11606,7 @@ defined_text = {
 
 	#uyghur_theocracy
 	text = {
-		localisation_key = SHEIKH_IM
+		localisation_key = SHEIKHA_IM
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -11444,7 +11634,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KHOJA_IM
+		localisation_key = GREAT_KHOJA_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -11472,7 +11662,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_IM
+		localisation_key = IMAM_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -11485,7 +11675,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_IM
+		localisation_key = HIGH_IMAM_fem_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -11631,7 +11821,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = COMMANDER_EMPEROR_IM
+		localisation_key = COMMANDER_EMPRESS_IM
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -11677,8 +11867,7 @@ defined_text = {
 			has_reform = holy_state_reform
 			has_country_modifier = sisters_takeover
 		}
-	}# Fallback defaults
-	# Will pick the first valid one it finds in list
+	}
 
 	#default_monarchy
 	text = {
@@ -11792,8 +11981,9 @@ defined_text = {
 		}
 	}
 }
+
 defined_text = {
-    name = GetTitleRD
+	name = GetTitleRD
 	#stateless_society
 	text = {
 		localisation_key = TRIBAL_LEADER_RD
@@ -11821,6 +12011,69 @@ defined_text = {
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEF_RD
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_RD
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_RD
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUKE_RD
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_RD
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_RD
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -12267,6 +12520,7 @@ defined_text = {
 		}
 	}
 
+
 	#military_dictatorship
 	text = {
 		localisation_key = CAPTAIN_GENERAL_RD
@@ -12593,6 +12847,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -13351,7 +13607,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = regent_RD
+		localisation_key = regent_male_RD
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -13412,10 +13668,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -13425,10 +13678,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -13437,10 +13687,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -15090,6 +15337,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -15099,6 +15347,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -15107,6 +15356,7 @@ defined_text = {
 			is_female = no
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -15459,6 +15709,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -15470,6 +15721,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -15480,6 +15732,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
@@ -15516,7 +15769,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -15528,7 +15786,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -15633,7 +15896,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAZ_RD
+		localisation_key = POSADNIK_RD
 		trigger = {
 			is_female = no
 			government_rank = 1 
@@ -15649,7 +15912,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAZ_RD
+		localisation_key = GRAND_POSADNIK_RD
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -15665,7 +15928,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAZ_RD
+		localisation_key = GREAT_POSADNIK_RD
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -16085,7 +16348,12 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -16553,6 +16821,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -16566,7 +16835,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -16583,7 +16852,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -16599,7 +16868,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -16623,7 +16892,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -16643,7 +16912,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -16662,7 +16931,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -16680,7 +16949,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -16696,7 +16965,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -16711,7 +16980,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -17219,7 +17488,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_RD
+		localisation_key = GREAT_RDAM_RD
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -17232,7 +17501,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_RD
+		localisation_key = HIGH_RDAM_RD
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -17260,7 +17529,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_RD
+		localisation_key = GREAT_RDAM_RD
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -17274,7 +17543,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_RD
+		localisation_key = HIGH_RDAM_RD
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -17389,7 +17658,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_RD
+		localisation_key = HIGH_RDAM_RD
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -17582,6 +17851,7 @@ defined_text = {
 			has_country_modifier = sisters_takeover
 		}
 	}
+
 	#default_monarchy
 	text = {
 		localisation_key = DUKE_RD
@@ -17693,9 +17963,10 @@ defined_text = {
 			government = tribal
 		}
 	}
+
 	#stateless_society
 	text = {
-		localisation_key = TRIBAL_LEADER_RD
+		localisation_key = TRIBAL_LEADER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -17704,7 +17975,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_RD
+		localisation_key = TRIBAL_LEADER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -17713,13 +17984,76 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_RD
+		localisation_key = TRIBAL_LEADER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEFTESS_RD
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_RD
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_RD
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUCHESS_RD
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_RD
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_RD
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -18009,7 +18343,7 @@ defined_text = {
 
 	#gov_polish_republic
 	text = {
-		localisation_key = MARSHAL_RD
+		localisation_key = MARSHAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -18019,7 +18353,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SERENE_MARSHAL_RD
+		localisation_key = SERENE_MARSHAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -18029,7 +18363,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MOST_SERNE_MARSHAL_RD
+		localisation_key = MOST_SERNE_MARSHAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -18056,7 +18390,7 @@ defined_text = {
 
 	#gov_prussian_republic
 	text = {
-		localisation_key = FIELD_MARSHAL_RD
+		localisation_key = FIELD_MARSHAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -18065,7 +18399,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_RD
+		localisation_key = FIELD_MARSHAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -18074,7 +18408,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_RD
+		localisation_key = FIELD_MARSHAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -18084,7 +18418,7 @@ defined_text = {
 
 	#gov_admiralty
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_RD
+		localisation_key = LORD_HIGH_ADMIRAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -18093,7 +18427,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_RD
+		localisation_key = LORD_HIGH_ADMIRAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -18102,7 +18436,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SUPREME_ADMIRAL_RD
+		localisation_key = SUPREME_ADMIRAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -18138,9 +18472,38 @@ defined_text = {
 		}
 	}
 
+	#savonarola_unique
+	text = {
+		localisation_key = SISTER_RD
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_RD
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_RD
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_ruler_flag = savonarola_flag
+		}
+	}
+
+
 	#military_dictatorship
 	text = {
-		localisation_key = CAPTAIN_GENERAL_RD
+		localisation_key = CAPTAIN_GENERAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -18149,7 +18512,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_RD
+		localisation_key = CAPTAIN_GENERAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -18158,7 +18521,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_RD
+		localisation_key = CAPTAIN_GENERAL_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -18464,6 +18827,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -18829,7 +19194,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAN_RD
+		localisation_key = KHATUN_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -18839,7 +19204,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAGAN_RD
+		localisation_key = GREAT_KHATUN_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -19283,10 +19648,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -19296,10 +19658,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -19308,10 +19667,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -20772,7 +21128,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KING_RD
+		localisation_key = QUEEN_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -20961,6 +21317,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -20970,6 +21327,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -20978,6 +21336,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -21322,7 +21681,7 @@ defined_text = {
 
 	#muslim_monarchy
 	text = {
-		localisation_key = EMIR_RD
+		localisation_key = EMIRA_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -21330,6 +21689,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -21341,6 +21701,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -21351,13 +21712,14 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
 	#Republics
 	#german_free_city
 	text = {
-		localisation_key = BURGMEISTER_RD
+		localisation_key = BURGMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -21387,7 +21749,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -21399,7 +21766,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -21504,7 +21876,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAGINIA_RD
+		localisation_key = POSADNITSA_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -21520,7 +21892,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAGINIA_RD
+		localisation_key = GRAND_POSADNITSA_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -21536,7 +21908,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAGINIA_RD
+		localisation_key = GREAT_POSADNITSA_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -21841,6 +22213,7 @@ defined_text = {
 			is_march = yes
 		}
 	}
+
 	#gov_steppe_horde
 	text = {
 		localisation_key = JINONG_RD
@@ -21955,7 +22328,12 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -22423,6 +22801,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -22436,7 +22815,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -22453,7 +22832,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -22469,7 +22848,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -22493,7 +22872,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -22513,7 +22892,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -22532,7 +22911,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -22550,7 +22929,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -22566,7 +22945,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -22581,7 +22960,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -22591,7 +22970,7 @@ defined_text = {
 
 	#northerner_king_monastic_order
 	text = {
-		localisation_key = FIRST_RANGER_RD
+		localisation_key = FIRST_RANGER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -22704,7 +23083,7 @@ defined_text = {
 
 	#teutonic_monastic_order
 	text = {
-		localisation_key = HOCHMEISTER_RD
+		localisation_key = HOCHMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -22714,7 +23093,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MAGISTER_HOCHMEISTER_RD
+		localisation_key = MAGISTER_HOCHMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -22724,7 +23103,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = DEUTSCHMEISTER_RD
+		localisation_key = DEUTSCHMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -22736,7 +23115,7 @@ defined_text = {
 	#Theocracies - Specified Religion / Culture
 	#livonian_monastic_order
 	text = {
-		localisation_key = LANDMEISTER_RD
+		localisation_key = LANDMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -22746,7 +23125,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_RD
+		localisation_key = LANDMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -22756,7 +23135,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_RD
+		localisation_key = LANDMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -22767,7 +23146,7 @@ defined_text = {
 
 	#germanic_monastic_order
 	text = {
-		localisation_key = GROSSMEISTER_RD
+		localisation_key = GROSSMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -22783,7 +23162,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_RD
+		localisation_key = GROSSMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -22799,7 +23178,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_RD
+		localisation_key = GROSSMEISTER_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -23076,7 +23455,7 @@ defined_text = {
 
 	#ibadi_theocracy
 	text = {
-		localisation_key = IMAM_RD
+		localisation_key = IMAM_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -23089,7 +23468,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_RD
+		localisation_key = GREAT_RDAM_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -23102,7 +23481,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_RD
+		localisation_key = HIGH_RDAM_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -23116,7 +23495,7 @@ defined_text = {
 
 	#yemenite_theocracy
 	text = {
-		localisation_key = IMAM_RD
+		localisation_key = IMAM_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -23130,7 +23509,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_RD
+		localisation_key = GREAT_RDAM_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -23144,7 +23523,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_RD
+		localisation_key = HIGH_RDAM_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -23179,7 +23558,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_RD
+		localisation_key = IMAM_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -23190,7 +23569,7 @@ defined_text = {
 
 	#uyghur_theocracy
 	text = {
-		localisation_key = SHEIKH_RD
+		localisation_key = SHEIKHA_RD
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -23218,7 +23597,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KHOJA_RD
+		localisation_key = GREAT_KHOJA_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -23246,7 +23625,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_RD
+		localisation_key = IMAM_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -23259,7 +23638,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_RD
+		localisation_key = HIGH_RDAM_fem_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -23405,7 +23784,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = COMMANDER_EMPEROR_RD
+		localisation_key = COMMANDER_EMPRESS_RD
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -23451,8 +23830,7 @@ defined_text = {
 			has_reform = holy_state_reform
 			has_country_modifier = sisters_takeover
 		}
-	}# Fallback defaults
-	# Will pick the first valid one it finds in list
+	}
 
 	#default_monarchy
 	text = {
@@ -23566,8 +23944,9 @@ defined_text = {
 		}
 	}
 }
+
 defined_text = {
-    name = GetTitleDT
+	name = GetTitleDT
 	#stateless_society
 	text = {
 		localisation_key = TRIBAL_LEADER_DT
@@ -23595,6 +23974,69 @@ defined_text = {
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEF_DT
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_DT
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_DT
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUKE_DT
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_DT
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_DT
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -24041,6 +24483,7 @@ defined_text = {
 		}
 	}
 
+
 	#military_dictatorship
 	text = {
 		localisation_key = CAPTAIN_GENERAL_DT
@@ -24367,6 +24810,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -25125,7 +25570,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = regent_DT
+		localisation_key = regent_male_DT
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -25186,10 +25631,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -25199,10 +25641,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -25211,10 +25650,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -26864,6 +27300,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -26873,6 +27310,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -26881,6 +27319,7 @@ defined_text = {
 			is_female = no
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -27233,6 +27672,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -27244,6 +27684,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -27254,6 +27695,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
@@ -27290,7 +27732,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -27302,7 +27749,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -27407,7 +27859,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAZ_DT
+		localisation_key = POSADNIK_DT
 		trigger = {
 			is_female = no
 			government_rank = 1 
@@ -27423,7 +27875,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAZ_DT
+		localisation_key = GRAND_POSADNIK_DT
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -27439,7 +27891,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAZ_DT
+		localisation_key = GREAT_POSADNIK_DT
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -27859,7 +28311,12 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -28327,6 +28784,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -28340,7 +28798,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -28357,7 +28815,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -28373,7 +28831,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -28397,7 +28855,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -28417,7 +28875,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -28436,7 +28894,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -28454,7 +28912,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -28470,7 +28928,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -28485,7 +28943,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -28993,7 +29451,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_DT
+		localisation_key = GREAT_DTAM_DT
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -29006,7 +29464,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_DT
+		localisation_key = HIGH_DTAM_DT
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -29034,7 +29492,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_DT
+		localisation_key = GREAT_DTAM_DT
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -29048,7 +29506,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_DT
+		localisation_key = HIGH_DTAM_DT
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -29163,7 +29621,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_DT
+		localisation_key = HIGH_DTAM_DT
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -29356,6 +29814,7 @@ defined_text = {
 			has_country_modifier = sisters_takeover
 		}
 	}
+
 	#default_monarchy
 	text = {
 		localisation_key = DUKE_DT
@@ -29467,9 +29926,10 @@ defined_text = {
 			government = tribal
 		}
 	}
+
 	#stateless_society
 	text = {
-		localisation_key = TRIBAL_LEADER_DT
+		localisation_key = TRIBAL_LEADER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -29478,7 +29938,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_DT
+		localisation_key = TRIBAL_LEADER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -29487,13 +29947,76 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_DT
+		localisation_key = TRIBAL_LEADER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEFTESS_DT
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_DT
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_DT
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUCHESS_DT
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_DT
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_DT
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -29783,7 +30306,7 @@ defined_text = {
 
 	#gov_polish_republic
 	text = {
-		localisation_key = MARSHAL_DT
+		localisation_key = MARSHAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -29793,7 +30316,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SERENE_MARSHAL_DT
+		localisation_key = SERENE_MARSHAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -29803,7 +30326,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MOST_SERNE_MARSHAL_DT
+		localisation_key = MOST_SERNE_MARSHAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -29830,7 +30353,7 @@ defined_text = {
 
 	#gov_prussian_republic
 	text = {
-		localisation_key = FIELD_MARSHAL_DT
+		localisation_key = FIELD_MARSHAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -29839,7 +30362,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_DT
+		localisation_key = FIELD_MARSHAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -29848,7 +30371,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_DT
+		localisation_key = FIELD_MARSHAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -29858,7 +30381,7 @@ defined_text = {
 
 	#gov_admiralty
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_DT
+		localisation_key = LORD_HIGH_ADMIRAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -29867,7 +30390,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_DT
+		localisation_key = LORD_HIGH_ADMIRAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -29876,7 +30399,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SUPREME_ADMIRAL_DT
+		localisation_key = SUPREME_ADMIRAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -29912,9 +30435,38 @@ defined_text = {
 		}
 	}
 
+	#savonarola_unique
+	text = {
+		localisation_key = SISTER_DT
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_DT
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_DT
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_ruler_flag = savonarola_flag
+		}
+	}
+
+
 	#military_dictatorship
 	text = {
-		localisation_key = CAPTAIN_GENERAL_DT
+		localisation_key = CAPTAIN_GENERAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -29923,7 +30475,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_DT
+		localisation_key = CAPTAIN_GENERAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -29932,7 +30484,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_DT
+		localisation_key = CAPTAIN_GENERAL_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -30238,6 +30790,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -30603,7 +31157,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAN_DT
+		localisation_key = KHATUN_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -30613,7 +31167,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAGAN_DT
+		localisation_key = GREAT_KHATUN_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -31057,10 +31611,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -31070,10 +31621,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -31082,10 +31630,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -32546,7 +33091,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KING_DT
+		localisation_key = QUEEN_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -32735,6 +33280,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -32744,6 +33290,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -32752,6 +33299,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -33096,7 +33644,7 @@ defined_text = {
 
 	#muslim_monarchy
 	text = {
-		localisation_key = EMIR_DT
+		localisation_key = EMIRA_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -33104,6 +33652,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -33115,6 +33664,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -33125,13 +33675,14 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
 	#Republics
 	#german_free_city
 	text = {
-		localisation_key = BURGMEISTER_DT
+		localisation_key = BURGMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -33161,7 +33712,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -33173,7 +33729,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -33278,7 +33839,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAGINIA_DT
+		localisation_key = POSADNITSA_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -33294,7 +33855,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAGINIA_DT
+		localisation_key = GRAND_POSADNITSA_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -33310,7 +33871,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAGINIA_DT
+		localisation_key = GREAT_POSADNITSA_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -33615,6 +34176,7 @@ defined_text = {
 			is_march = yes
 		}
 	}
+
 	#gov_steppe_horde
 	text = {
 		localisation_key = JINONG_DT
@@ -33729,7 +34291,12 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -34197,6 +34764,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -34210,7 +34778,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -34227,7 +34795,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -34243,7 +34811,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -34267,7 +34835,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -34287,7 +34855,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -34306,7 +34874,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -34324,7 +34892,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -34340,7 +34908,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -34355,7 +34923,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -34365,7 +34933,7 @@ defined_text = {
 
 	#northerner_king_monastic_order
 	text = {
-		localisation_key = FIRST_RANGER_DT
+		localisation_key = FIRST_RANGER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -34478,7 +35046,7 @@ defined_text = {
 
 	#teutonic_monastic_order
 	text = {
-		localisation_key = HOCHMEISTER_DT
+		localisation_key = HOCHMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -34488,7 +35056,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MAGISTER_HOCHMEISTER_DT
+		localisation_key = MAGISTER_HOCHMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -34498,7 +35066,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = DEUTSCHMEISTER_DT
+		localisation_key = DEUTSCHMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -34510,7 +35078,7 @@ defined_text = {
 	#Theocracies - Specified Religion / Culture
 	#livonian_monastic_order
 	text = {
-		localisation_key = LANDMEISTER_DT
+		localisation_key = LANDMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -34520,7 +35088,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_DT
+		localisation_key = LANDMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -34530,7 +35098,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_DT
+		localisation_key = LANDMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -34541,7 +35109,7 @@ defined_text = {
 
 	#germanic_monastic_order
 	text = {
-		localisation_key = GROSSMEISTER_DT
+		localisation_key = GROSSMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -34557,7 +35125,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_DT
+		localisation_key = GROSSMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -34573,7 +35141,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_DT
+		localisation_key = GROSSMEISTER_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -34850,7 +35418,7 @@ defined_text = {
 
 	#ibadi_theocracy
 	text = {
-		localisation_key = IMAM_DT
+		localisation_key = IMAM_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -34863,7 +35431,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_DT
+		localisation_key = GREAT_DTAM_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -34876,7 +35444,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_DT
+		localisation_key = HIGH_DTAM_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -34890,7 +35458,7 @@ defined_text = {
 
 	#yemenite_theocracy
 	text = {
-		localisation_key = IMAM_DT
+		localisation_key = IMAM_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -34904,7 +35472,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_DT
+		localisation_key = GREAT_DTAM_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -34918,7 +35486,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_DT
+		localisation_key = HIGH_DTAM_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -34953,7 +35521,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_DT
+		localisation_key = IMAM_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -34964,7 +35532,7 @@ defined_text = {
 
 	#uyghur_theocracy
 	text = {
-		localisation_key = SHEIKH_DT
+		localisation_key = SHEIKHA_DT
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -34992,7 +35560,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KHOJA_DT
+		localisation_key = GREAT_KHOJA_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -35020,7 +35588,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_DT
+		localisation_key = IMAM_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -35033,7 +35601,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_DT
+		localisation_key = HIGH_DTAM_fem_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -35179,7 +35747,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = COMMANDER_EMPEROR_DT
+		localisation_key = COMMANDER_EMPRESS_DT
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -35225,8 +35793,7 @@ defined_text = {
 			has_reform = holy_state_reform
 			has_country_modifier = sisters_takeover
 		}
-	}# Fallback defaults
-	# Will pick the first valid one it finds in list
+	}
 
 	#default_monarchy
 	text = {
@@ -35340,8 +35907,9 @@ defined_text = {
 		}
 	}
 }
+
 defined_text = {
-    name = GetTitleVN
+	name = GetTitleVN
 	#stateless_society
 	text = {
 		localisation_key = TRIBAL_LEADER_VN
@@ -35369,6 +35937,69 @@ defined_text = {
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEF_VN
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_VN
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_VN
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUKE_VN
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_VN
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_VN
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -35815,6 +36446,7 @@ defined_text = {
 		}
 	}
 
+
 	#military_dictatorship
 	text = {
 		localisation_key = CAPTAIN_GENERAL_VN
@@ -36141,6 +36773,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -36899,7 +37533,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = regent_VN
+		localisation_key = regent_male_VN
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -36960,10 +37594,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -36973,10 +37604,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -36985,10 +37613,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -38638,6 +39263,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -38647,6 +39273,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -38655,6 +39282,7 @@ defined_text = {
 			is_female = no
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -39007,6 +39635,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -39018,6 +39647,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -39028,6 +39658,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
@@ -39064,7 +39695,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -39076,7 +39712,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -39181,7 +39822,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAZ_VN
+		localisation_key = POSADNIK_VN
 		trigger = {
 			is_female = no
 			government_rank = 1 
@@ -39197,7 +39838,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAZ_VN
+		localisation_key = GRAND_POSADNIK_VN
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -39213,7 +39854,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAZ_VN
+		localisation_key = GREAT_POSADNIK_VN
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -39633,7 +40274,12 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -40101,6 +40747,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -40114,7 +40761,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -40131,7 +40778,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -40147,7 +40794,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -40171,7 +40818,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -40191,7 +40838,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -40210,7 +40857,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -40228,7 +40875,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -40244,7 +40891,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -40259,7 +40906,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -40767,7 +41414,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_VN
+		localisation_key = GREAT_VNAM_VN
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -40780,7 +41427,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_VN
+		localisation_key = HIGH_VNAM_VN
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -40808,7 +41455,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_VN
+		localisation_key = GREAT_VNAM_VN
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -40822,7 +41469,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_VN
+		localisation_key = HIGH_VNAM_VN
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -40937,7 +41584,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_VN
+		localisation_key = HIGH_VNAM_VN
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -41130,6 +41777,7 @@ defined_text = {
 			has_country_modifier = sisters_takeover
 		}
 	}
+
 	#default_monarchy
 	text = {
 		localisation_key = DUKE_VN
@@ -41241,9 +41889,10 @@ defined_text = {
 			government = tribal
 		}
 	}
+
 	#stateless_society
 	text = {
-		localisation_key = TRIBAL_LEADER_VN
+		localisation_key = TRIBAL_LEADER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -41252,7 +41901,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_VN
+		localisation_key = TRIBAL_LEADER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -41261,13 +41910,76 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_VN
+		localisation_key = TRIBAL_LEADER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEFTESS_VN
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_VN
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_VN
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUCHESS_VN
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_VN
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_VN
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -41557,7 +42269,7 @@ defined_text = {
 
 	#gov_polish_republic
 	text = {
-		localisation_key = MARSHAL_VN
+		localisation_key = MARSHAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -41567,7 +42279,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SERENE_MARSHAL_VN
+		localisation_key = SERENE_MARSHAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -41577,7 +42289,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MOST_SERNE_MARSHAL_VN
+		localisation_key = MOST_SERNE_MARSHAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -41604,7 +42316,7 @@ defined_text = {
 
 	#gov_prussian_republic
 	text = {
-		localisation_key = FIELD_MARSHAL_VN
+		localisation_key = FIELD_MARSHAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -41613,7 +42325,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_VN
+		localisation_key = FIELD_MARSHAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -41622,7 +42334,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_VN
+		localisation_key = FIELD_MARSHAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -41632,7 +42344,7 @@ defined_text = {
 
 	#gov_admiralty
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_VN
+		localisation_key = LORD_HIGH_ADMIRAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -41641,7 +42353,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_VN
+		localisation_key = LORD_HIGH_ADMIRAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -41650,7 +42362,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SUPREME_ADMIRAL_VN
+		localisation_key = SUPREME_ADMIRAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -41686,9 +42398,38 @@ defined_text = {
 		}
 	}
 
+	#savonarola_unique
+	text = {
+		localisation_key = SISTER_VN
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_VN
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_VN
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_ruler_flag = savonarola_flag
+		}
+	}
+
+
 	#military_dictatorship
 	text = {
-		localisation_key = CAPTAIN_GENERAL_VN
+		localisation_key = CAPTAIN_GENERAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -41697,7 +42438,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_VN
+		localisation_key = CAPTAIN_GENERAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -41706,7 +42447,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_VN
+		localisation_key = CAPTAIN_GENERAL_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -42012,6 +42753,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -42377,7 +43120,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAN_VN
+		localisation_key = KHATUN_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -42387,7 +43130,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAGAN_VN
+		localisation_key = GREAT_KHATUN_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -42831,10 +43574,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -42844,10 +43584,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -42856,10 +43593,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -44320,7 +45054,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KING_VN
+		localisation_key = QUEEN_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -44509,6 +45243,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -44518,6 +45253,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -44526,6 +45262,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -44870,7 +45607,7 @@ defined_text = {
 
 	#muslim_monarchy
 	text = {
-		localisation_key = EMIR_VN
+		localisation_key = EMIRA_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -44878,6 +45615,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -44889,6 +45627,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -44899,13 +45638,14 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
 	#Republics
 	#german_free_city
 	text = {
-		localisation_key = BURGMEISTER_VN
+		localisation_key = BURGMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -44935,7 +45675,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -44947,7 +45692,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -45052,7 +45802,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAGINIA_VN
+		localisation_key = POSADNITSA_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -45068,7 +45818,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAGINIA_VN
+		localisation_key = GRAND_POSADNITSA_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -45084,7 +45834,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAGINIA_VN
+		localisation_key = GREAT_POSADNITSA_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -45389,6 +46139,7 @@ defined_text = {
 			is_march = yes
 		}
 	}
+
 	#gov_steppe_horde
 	text = {
 		localisation_key = JINONG_VN
@@ -45503,7 +46254,12 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -45971,6 +46727,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -45984,7 +46741,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -46001,7 +46758,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -46017,7 +46774,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -46041,7 +46798,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -46061,7 +46818,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -46080,7 +46837,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -46098,7 +46855,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -46114,7 +46871,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -46129,7 +46886,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -46139,7 +46896,7 @@ defined_text = {
 
 	#northerner_king_monastic_order
 	text = {
-		localisation_key = FIRST_RANGER_VN
+		localisation_key = FIRST_RANGER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -46252,7 +47009,7 @@ defined_text = {
 
 	#teutonic_monastic_order
 	text = {
-		localisation_key = HOCHMEISTER_VN
+		localisation_key = HOCHMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -46262,7 +47019,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MAGISTER_HOCHMEISTER_VN
+		localisation_key = MAGISTER_HOCHMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -46272,7 +47029,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = DEUTSCHMEISTER_VN
+		localisation_key = DEUTSCHMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -46284,7 +47041,7 @@ defined_text = {
 	#Theocracies - Specified Religion / Culture
 	#livonian_monastic_order
 	text = {
-		localisation_key = LANDMEISTER_VN
+		localisation_key = LANDMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -46294,7 +47051,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_VN
+		localisation_key = LANDMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -46304,7 +47061,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_VN
+		localisation_key = LANDMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -46315,7 +47072,7 @@ defined_text = {
 
 	#germanic_monastic_order
 	text = {
-		localisation_key = GROSSMEISTER_VN
+		localisation_key = GROSSMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -46331,7 +47088,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_VN
+		localisation_key = GROSSMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -46347,7 +47104,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_VN
+		localisation_key = GROSSMEISTER_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -46624,7 +47381,7 @@ defined_text = {
 
 	#ibadi_theocracy
 	text = {
-		localisation_key = IMAM_VN
+		localisation_key = IMAM_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -46637,7 +47394,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_VN
+		localisation_key = GREAT_VNAM_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -46650,7 +47407,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_VN
+		localisation_key = HIGH_VNAM_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -46664,7 +47421,7 @@ defined_text = {
 
 	#yemenite_theocracy
 	text = {
-		localisation_key = IMAM_VN
+		localisation_key = IMAM_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -46678,7 +47435,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_VN
+		localisation_key = GREAT_VNAM_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -46692,7 +47449,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_VN
+		localisation_key = HIGH_VNAM_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -46727,7 +47484,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_VN
+		localisation_key = IMAM_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -46738,7 +47495,7 @@ defined_text = {
 
 	#uyghur_theocracy
 	text = {
-		localisation_key = SHEIKH_VN
+		localisation_key = SHEIKHA_VN
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -46766,7 +47523,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KHOJA_VN
+		localisation_key = GREAT_KHOJA_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -46794,7 +47551,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_VN
+		localisation_key = IMAM_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -46807,7 +47564,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_VN
+		localisation_key = HIGH_VNAM_fem_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -46953,7 +47710,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = COMMANDER_EMPEROR_VN
+		localisation_key = COMMANDER_EMPRESS_VN
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -46999,8 +47756,7 @@ defined_text = {
 			has_reform = holy_state_reform
 			has_country_modifier = sisters_takeover
 		}
-	}# Fallback defaults
-	# Will pick the first valid one it finds in list
+	}
 
 	#default_monarchy
 	text = {
@@ -47114,8 +47870,9 @@ defined_text = {
 		}
 	}
 }
+
 defined_text = {
-    name = GetTitleTV
+	name = GetTitleTV
 	#stateless_society
 	text = {
 		localisation_key = TRIBAL_LEADER_TV
@@ -47143,6 +47900,69 @@ defined_text = {
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEF_TV
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_TV
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_TV
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUKE_TV
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_TV
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_TV
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -47589,6 +48409,7 @@ defined_text = {
 		}
 	}
 
+
 	#military_dictatorship
 	text = {
 		localisation_key = CAPTAIN_GENERAL_TV
@@ -47915,6 +48736,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -48673,7 +49496,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = regent_TV
+		localisation_key = regent_male_TV
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -48734,10 +49557,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -48747,10 +49567,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -48759,10 +49576,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -50412,6 +51226,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -50421,6 +51236,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -50429,6 +51245,7 @@ defined_text = {
 			is_female = no
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -50781,6 +51598,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -50792,6 +51610,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -50802,6 +51621,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
@@ -50838,7 +51658,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -50850,7 +51675,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -50955,7 +51785,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAZ_TV
+		localisation_key = POSADNIK_TV
 		trigger = {
 			is_female = no
 			government_rank = 1 
@@ -50971,7 +51801,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAZ_TV
+		localisation_key = GRAND_POSADNIK_TV
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -50987,7 +51817,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAZ_TV
+		localisation_key = GREAT_POSADNIK_TV
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -51407,7 +52237,12 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -51875,6 +52710,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -51888,7 +52724,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -51905,7 +52741,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -51921,7 +52757,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -51945,7 +52781,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -51965,7 +52801,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -51984,7 +52820,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -52002,7 +52838,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -52018,7 +52854,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -52033,7 +52869,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -52541,7 +53377,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_TV
+		localisation_key = GREAT_TVAM_TV
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -52554,7 +53390,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_TV
+		localisation_key = HIGH_TVAM_TV
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -52582,7 +53418,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_TV
+		localisation_key = GREAT_TVAM_TV
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -52596,7 +53432,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_TV
+		localisation_key = HIGH_TVAM_TV
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -52711,7 +53547,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_TV
+		localisation_key = HIGH_TVAM_TV
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -52904,6 +53740,7 @@ defined_text = {
 			has_country_modifier = sisters_takeover
 		}
 	}
+
 	#default_monarchy
 	text = {
 		localisation_key = DUKE_TV
@@ -53015,9 +53852,10 @@ defined_text = {
 			government = tribal
 		}
 	}
+
 	#stateless_society
 	text = {
-		localisation_key = TRIBAL_LEADER_TV
+		localisation_key = TRIBAL_LEADER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -53026,7 +53864,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_TV
+		localisation_key = TRIBAL_LEADER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -53035,13 +53873,76 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_TV
+		localisation_key = TRIBAL_LEADER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEFTESS_TV
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_TV
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_TV
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUCHESS_TV
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_TV
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_TV
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -53331,7 +54232,7 @@ defined_text = {
 
 	#gov_polish_republic
 	text = {
-		localisation_key = MARSHAL_TV
+		localisation_key = MARSHAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -53341,7 +54242,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SERENE_MARSHAL_TV
+		localisation_key = SERENE_MARSHAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -53351,7 +54252,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MOST_SERNE_MARSHAL_TV
+		localisation_key = MOST_SERNE_MARSHAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -53378,7 +54279,7 @@ defined_text = {
 
 	#gov_prussian_republic
 	text = {
-		localisation_key = FIELD_MARSHAL_TV
+		localisation_key = FIELD_MARSHAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -53387,7 +54288,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_TV
+		localisation_key = FIELD_MARSHAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -53396,7 +54297,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_TV
+		localisation_key = FIELD_MARSHAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -53406,7 +54307,7 @@ defined_text = {
 
 	#gov_admiralty
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_TV
+		localisation_key = LORD_HIGH_ADMIRAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -53415,7 +54316,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_TV
+		localisation_key = LORD_HIGH_ADMIRAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -53424,7 +54325,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SUPREME_ADMIRAL_TV
+		localisation_key = SUPREME_ADMIRAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -53460,9 +54361,38 @@ defined_text = {
 		}
 	}
 
+	#savonarola_unique
+	text = {
+		localisation_key = SISTER_TV
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_TV
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_TV
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_ruler_flag = savonarola_flag
+		}
+	}
+
+
 	#military_dictatorship
 	text = {
-		localisation_key = CAPTAIN_GENERAL_TV
+		localisation_key = CAPTAIN_GENERAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -53471,7 +54401,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_TV
+		localisation_key = CAPTAIN_GENERAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -53480,7 +54410,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_TV
+		localisation_key = CAPTAIN_GENERAL_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -53786,6 +54716,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -54151,7 +55083,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAN_TV
+		localisation_key = KHATUN_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -54161,7 +55093,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAGAN_TV
+		localisation_key = GREAT_KHATUN_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -54605,10 +55537,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -54618,10 +55547,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -54630,10 +55556,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -56094,7 +57017,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KING_TV
+		localisation_key = QUEEN_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -56283,6 +57206,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -56292,6 +57216,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -56300,6 +57225,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -56644,7 +57570,7 @@ defined_text = {
 
 	#muslim_monarchy
 	text = {
-		localisation_key = EMIR_TV
+		localisation_key = EMIRA_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -56652,6 +57578,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -56663,6 +57590,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -56673,13 +57601,14 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
 	#Republics
 	#german_free_city
 	text = {
-		localisation_key = BURGMEISTER_TV
+		localisation_key = BURGMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -56709,7 +57638,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -56721,7 +57655,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -56826,7 +57765,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAGINIA_TV
+		localisation_key = POSADNITSA_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -56842,7 +57781,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAGINIA_TV
+		localisation_key = GRAND_POSADNITSA_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -56858,7 +57797,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAGINIA_TV
+		localisation_key = GREAT_POSADNITSA_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -57163,6 +58102,7 @@ defined_text = {
 			is_march = yes
 		}
 	}
+
 	#gov_steppe_horde
 	text = {
 		localisation_key = JINONG_TV
@@ -57277,7 +58217,12 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -57745,6 +58690,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -57758,7 +58704,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -57775,7 +58721,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -57791,7 +58737,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -57815,7 +58761,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -57835,7 +58781,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -57854,7 +58800,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -57872,7 +58818,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -57888,7 +58834,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -57903,7 +58849,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -57913,7 +58859,7 @@ defined_text = {
 
 	#northerner_king_monastic_order
 	text = {
-		localisation_key = FIRST_RANGER_TV
+		localisation_key = FIRST_RANGER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -58026,7 +58972,7 @@ defined_text = {
 
 	#teutonic_monastic_order
 	text = {
-		localisation_key = HOCHMEISTER_TV
+		localisation_key = HOCHMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -58036,7 +58982,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MAGISTER_HOCHMEISTER_TV
+		localisation_key = MAGISTER_HOCHMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -58046,7 +58992,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = DEUTSCHMEISTER_TV
+		localisation_key = DEUTSCHMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -58058,7 +59004,7 @@ defined_text = {
 	#Theocracies - Specified Religion / Culture
 	#livonian_monastic_order
 	text = {
-		localisation_key = LANDMEISTER_TV
+		localisation_key = LANDMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -58068,7 +59014,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_TV
+		localisation_key = LANDMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -58078,7 +59024,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_TV
+		localisation_key = LANDMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -58089,7 +59035,7 @@ defined_text = {
 
 	#germanic_monastic_order
 	text = {
-		localisation_key = GROSSMEISTER_TV
+		localisation_key = GROSSMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -58105,7 +59051,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_TV
+		localisation_key = GROSSMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -58121,7 +59067,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_TV
+		localisation_key = GROSSMEISTER_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -58398,7 +59344,7 @@ defined_text = {
 
 	#ibadi_theocracy
 	text = {
-		localisation_key = IMAM_TV
+		localisation_key = IMAM_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -58411,7 +59357,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_TV
+		localisation_key = GREAT_TVAM_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -58424,7 +59370,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_TV
+		localisation_key = HIGH_TVAM_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -58438,7 +59384,7 @@ defined_text = {
 
 	#yemenite_theocracy
 	text = {
-		localisation_key = IMAM_TV
+		localisation_key = IMAM_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -58452,7 +59398,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_TV
+		localisation_key = GREAT_TVAM_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -58466,7 +59412,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_TV
+		localisation_key = HIGH_TVAM_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -58501,7 +59447,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_TV
+		localisation_key = IMAM_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -58512,7 +59458,7 @@ defined_text = {
 
 	#uyghur_theocracy
 	text = {
-		localisation_key = SHEIKH_TV
+		localisation_key = SHEIKHA_TV
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -58540,7 +59486,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KHOJA_TV
+		localisation_key = GREAT_KHOJA_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -58568,7 +59514,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_TV
+		localisation_key = IMAM_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -58581,7 +59527,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_TV
+		localisation_key = HIGH_TVAM_fem_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -58727,7 +59673,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = COMMANDER_EMPEROR_TV
+		localisation_key = COMMANDER_EMPRESS_TV
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -58773,8 +59719,7 @@ defined_text = {
 			has_reform = holy_state_reform
 			has_country_modifier = sisters_takeover
 		}
-	}# Fallback defaults
-	# Will pick the first valid one it finds in list
+	}
 
 	#default_monarchy
 	text = {
@@ -58888,8 +59833,9 @@ defined_text = {
 		}
 	}
 }
+
 defined_text = {
-    name = GetTitlePR
+	name = GetTitlePR
 	#stateless_society
 	text = {
 		localisation_key = TRIBAL_LEADER_PR
@@ -58917,6 +59863,69 @@ defined_text = {
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEF_PR
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_PR
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_PR
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUKE_PR
+		trigger = {
+			is_female = no
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_PR
+		trigger = {
+			is_female = no
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_PR
+		trigger = {
+			is_female = no
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -59363,6 +60372,7 @@ defined_text = {
 		}
 	}
 
+
 	#military_dictatorship
 	text = {
 		localisation_key = CAPTAIN_GENERAL_PR
@@ -59689,6 +60699,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -60447,7 +61459,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = regent_PR
+		localisation_key = regent_male_PR
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -60508,10 +61520,7 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -60521,10 +61530,7 @@ defined_text = {
 			is_female = no
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -60533,10 +61539,7 @@ defined_text = {
 		trigger = {
 			is_female = no
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -62186,6 +63189,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -62195,6 +63199,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -62203,6 +63208,7 @@ defined_text = {
 			is_female = no
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -62555,6 +63561,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -62566,6 +63573,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -62576,6 +63584,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
@@ -62612,7 +63621,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -62624,7 +63638,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -62729,7 +63748,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAZ_PR
+		localisation_key = POSADNIK_PR
 		trigger = {
 			is_female = no
 			government_rank = 1 
@@ -62745,7 +63764,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAZ_PR
+		localisation_key = GRAND_POSADNIK_PR
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -62761,7 +63780,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAZ_PR
+		localisation_key = GREAT_POSADNIK_PR
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -63181,7 +64200,12 @@ defined_text = {
 			is_female = no
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -63649,6 +64673,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -63662,7 +64687,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -63679,7 +64704,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -63695,7 +64720,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -63719,7 +64744,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -63739,7 +64764,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -63758,7 +64783,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -63776,7 +64801,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -63792,7 +64817,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -63807,7 +64832,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -64315,7 +65340,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_PR
+		localisation_key = GREAT_PRAM_PR
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -64328,7 +65353,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_PR
+		localisation_key = HIGH_PRAM_PR
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -64356,7 +65381,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_PR
+		localisation_key = GREAT_PRAM_PR
 		trigger = {
 			is_female = no
 			government_rank = 2 
@@ -64370,7 +65395,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_PR
+		localisation_key = HIGH_PRAM_PR
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -64485,7 +65510,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_PR
+		localisation_key = HIGH_PRAM_PR
 		trigger = {
 			is_female = no
 			government_rank = 3 
@@ -64678,6 +65703,7 @@ defined_text = {
 			has_country_modifier = sisters_takeover
 		}
 	}
+
 	#default_monarchy
 	text = {
 		localisation_key = DUKE_PR
@@ -64789,9 +65815,10 @@ defined_text = {
 			government = tribal
 		}
 	}
+
 	#stateless_society
 	text = {
-		localisation_key = TRIBAL_LEADER_PR
+		localisation_key = TRIBAL_LEADER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -64800,7 +65827,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_PR
+		localisation_key = TRIBAL_LEADER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -64809,13 +65836,76 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = TRIBAL_LEADER_PR
+		localisation_key = TRIBAL_LEADER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
 			has_reform = stateless_society
 		}
 	}
+
+	#kongo_tribal_kingdom
+	text = {
+		localisation_key = CHIEFTESS_PR
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_PR
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = tribal
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_PR
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = tribal
+		}
+	}
+
+	#kongo_monarchy_kingdom
+	text = {
+		localisation_key = DUCHESS_PR
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = MWENE_KONGO_fem_PR
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			tag = KON
+			government = monarchy
+		}
+	}
+	text = {
+		localisation_key = GREAT_MWENE_KONGO_fem_PR
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			tag = KON
+			government = monarchy
+		}
+	}
+
 
 	#islamic_caliphate
 	text = {
@@ -65105,7 +66195,7 @@ defined_text = {
 
 	#gov_polish_republic
 	text = {
-		localisation_key = MARSHAL_PR
+		localisation_key = MARSHAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -65115,7 +66205,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SERENE_MARSHAL_PR
+		localisation_key = SERENE_MARSHAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -65125,7 +66215,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MOST_SERNE_MARSHAL_PR
+		localisation_key = MOST_SERNE_MARSHAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -65152,7 +66242,7 @@ defined_text = {
 
 	#gov_prussian_republic
 	text = {
-		localisation_key = FIELD_MARSHAL_PR
+		localisation_key = FIELD_MARSHAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -65161,7 +66251,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_PR
+		localisation_key = FIELD_MARSHAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -65170,7 +66260,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = FIELD_MARSHAL_PR
+		localisation_key = FIELD_MARSHAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -65180,7 +66270,7 @@ defined_text = {
 
 	#gov_admiralty
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_PR
+		localisation_key = LORD_HIGH_ADMIRAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -65189,7 +66279,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LORD_HIGH_ADMIRAL_PR
+		localisation_key = LORD_HIGH_ADMIRAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -65198,7 +66288,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = SUPREME_ADMIRAL_PR
+		localisation_key = SUPREME_ADMIRAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -65234,9 +66324,38 @@ defined_text = {
 		}
 	}
 
+	#savonarola_unique
+	text = {
+		localisation_key = SISTER_PR
+		trigger = {
+			is_female = yes
+			government_rank = 1 
+			NOT = { government_rank = 2 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_PR
+		trigger = {
+			is_female = yes
+			government_rank = 2 
+			NOT = { government_rank = 3 }
+			has_ruler_flag = savonarola_flag
+		}
+	}
+	text = {
+		localisation_key = SISTER_PR
+		trigger = {
+			is_female = yes
+			government_rank = 3 
+			has_ruler_flag = savonarola_flag
+		}
+	}
+
+
 	#military_dictatorship
 	text = {
-		localisation_key = CAPTAIN_GENERAL_PR
+		localisation_key = CAPTAIN_GENERAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -65245,7 +66364,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_PR
+		localisation_key = CAPTAIN_GENERAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -65254,7 +66373,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = CAPTAIN_GENERAL_PR
+		localisation_key = CAPTAIN_GENERAL_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -65560,6 +66679,8 @@ defined_text = {
 				is_elector = yes
 		}
 	}
+
+
 
 	#palatine_electorate
 	text = {
@@ -65925,7 +67046,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAN_PR
+		localisation_key = KHATUN_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -65935,7 +67056,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KHAGAN_PR
+		localisation_key = GREAT_KHATUN_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -66379,10 +67500,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 			NOT = { government_rank = 2 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -66392,10 +67510,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 2 
 			NOT = { government_rank = 3 }
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -66404,10 +67519,7 @@ defined_text = {
 		trigger = {
 			is_female = yes
 			government_rank = 3 
-			OR = {
-				government = monarchy
-				government = has_harem
-			}
+			government = monarchy
 			primary_culture = turkish
 		}
 	}
@@ -67868,7 +68980,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = KING_PR
+		localisation_key = QUEEN_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -68057,6 +69169,7 @@ defined_text = {
 			government_rank = 1 
 			NOT = { government_rank = 2 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -68066,6 +69179,7 @@ defined_text = {
 			government_rank = 2 
 			NOT = { government_rank = 3 }
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 	text = {
@@ -68074,6 +69188,7 @@ defined_text = {
 			is_female = yes
 			government_rank = 3 
 			primary_culture = highland_scottish
+			government = monarchy
 		}
 	}
 
@@ -68418,7 +69533,7 @@ defined_text = {
 
 	#muslim_monarchy
 	text = {
-		localisation_key = EMIR_PR
+		localisation_key = EMIRA_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -68426,6 +69541,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -68437,6 +69553,7 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 	text = {
@@ -68447,13 +69564,14 @@ defined_text = {
 			government = monarchy
 			NOT = { has_reform = steppe_horde }
 			religion_group = muslim
+			NOT = { has_reform = feudal_theocracy }
 		}
 	}
 
 	#Republics
 	#german_free_city
 	text = {
-		localisation_key = BURGMEISTER_PR
+		localisation_key = BURGMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -68483,7 +69601,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			culture_group = iberian
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 	#If only two first levels used then reorder so that only 2 and 3 are used
@@ -68495,7 +69618,12 @@ defined_text = {
 			government_rank = 1 
 				NOT = { government_rank = 2 }
 			primary_culture = dutch
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -68600,7 +69728,7 @@ defined_text = {
 
 	#russian_republic
 	text = {
-		localisation_key = KNIAGINIA_PR
+		localisation_key = POSADNITSA_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -68616,7 +69744,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GRAND_KNIAGINIA_PR
+		localisation_key = GRAND_POSADNITSA_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -68632,7 +69760,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KNIAGINIA_PR
+		localisation_key = GREAT_POSADNITSA_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -68937,6 +70065,7 @@ defined_text = {
 			is_march = yes
 		}
 	}
+
 	#gov_steppe_horde
 	text = {
 		localisation_key = JINONG_PR
@@ -69051,7 +70180,12 @@ defined_text = {
 			is_female = yes
 			government_rank = 1 
 				NOT = { government_rank = 2 }
-			has_reform = colonial_government
+			OR = {
+				has_reform = colonial_government
+				has_reform = crown_colony_government
+				has_reform = private_enterprise_colony_government
+				has_reform = self_governing_colony_government
+			}
 		}
 	}
 
@@ -69519,6 +70653,7 @@ defined_text = {
 		}
 	}
 
+
 	#Ikko-Ikki Peasants
 
 	#ikko_ikki_peasants
@@ -69532,7 +70667,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -69549,7 +70684,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -69565,7 +70700,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -69589,7 +70724,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -69609,7 +70744,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -69628,7 +70763,7 @@ defined_text = {
 			has_country_flag = ikko_ikki_peasants_flag
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -69646,7 +70781,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -69662,7 +70797,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -69677,7 +70812,7 @@ defined_text = {
 			has_reform = monastic_order_reform
 			OR = {
 				religion_group = eastern
-				culture_group = japanese
+				culture_group = japanese_g
 				capital_scope = {
 					region = japan_region
 				}
@@ -69687,7 +70822,7 @@ defined_text = {
 
 	#northerner_king_monastic_order
 	text = {
-		localisation_key = FIRST_RANGER_PR
+		localisation_key = FIRST_RANGER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -69800,7 +70935,7 @@ defined_text = {
 
 	#teutonic_monastic_order
 	text = {
-		localisation_key = HOCHMEISTER_PR
+		localisation_key = HOCHMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -69810,7 +70945,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = MAGISTER_HOCHMEISTER_PR
+		localisation_key = MAGISTER_HOCHMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -69820,7 +70955,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = DEUTSCHMEISTER_PR
+		localisation_key = DEUTSCHMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -69832,7 +70967,7 @@ defined_text = {
 	#Theocracies - Specified Religion / Culture
 	#livonian_monastic_order
 	text = {
-		localisation_key = LANDMEISTER_PR
+		localisation_key = LANDMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -69842,7 +70977,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_PR
+		localisation_key = LANDMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -69852,7 +70987,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = LANDMEISTER_PR
+		localisation_key = LANDMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -69863,7 +70998,7 @@ defined_text = {
 
 	#germanic_monastic_order
 	text = {
-		localisation_key = GROSSMEISTER_PR
+		localisation_key = GROSSMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -69879,7 +71014,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_PR
+		localisation_key = GROSSMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -69895,7 +71030,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GROSSMEISTER_PR
+		localisation_key = GROSSMEISTER_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -70172,7 +71307,7 @@ defined_text = {
 
 	#ibadi_theocracy
 	text = {
-		localisation_key = IMAM_PR
+		localisation_key = IMAM_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -70185,7 +71320,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_PR
+		localisation_key = GREAT_PRAM_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -70198,7 +71333,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_PR
+		localisation_key = HIGH_PRAM_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -70212,7 +71347,7 @@ defined_text = {
 
 	#yemenite_theocracy
 	text = {
-		localisation_key = IMAM_PR
+		localisation_key = IMAM_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -70226,7 +71361,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_IMAM_PR
+		localisation_key = GREAT_PRAM_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -70240,7 +71375,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_PR
+		localisation_key = HIGH_PRAM_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -70275,7 +71410,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_PR
+		localisation_key = IMAM_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -70286,7 +71421,7 @@ defined_text = {
 
 	#uyghur_theocracy
 	text = {
-		localisation_key = SHEIKH_PR
+		localisation_key = SHEIKHA_PR
 		trigger = {
 			is_female = yes
 			government_rank = 1 
@@ -70314,7 +71449,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = GREAT_KHOJA_PR
+		localisation_key = GREAT_KHOJA_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -70342,7 +71477,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = IMAM_PR
+		localisation_key = IMAM_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 2 
@@ -70355,7 +71490,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = HIGH_IMAM_PR
+		localisation_key = HIGH_PRAM_fem_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -70501,7 +71636,7 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = COMMANDER_EMPEROR_PR
+		localisation_key = COMMANDER_EMPRESS_PR
 		trigger = {
 			is_female = yes
 			government_rank = 3 
@@ -70547,8 +71682,7 @@ defined_text = {
 			has_reform = holy_state_reform
 			has_country_modifier = sisters_takeover
 		}
-	}# Fallback defaults
-	# Will pick the first valid one it finds in list
+	}
 
 	#default_monarchy
 	text = {
