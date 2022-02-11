@@ -1,8 +1,0 @@
-﻿l_russian:
-
- demand_dummy_title:0 "Потребовать стать манекеном"
- demand_dummy_desc:0 "Потребовать, чтобы [From.Monarch.GetName] [From.GetTagRD] стал[From.GetMEndA] нашим манекеном. Это увеличит наше доверие!"
- demand_dummy_tooltip:0 "Потребовать, чтобы они стали нашим манекеном."
- demand_dummy_dialog:0 "Держава [This.GetName] потребовала, чтобы мы стали их манекеном. Это увеличит наше доверие!"
- demand_dummy_alert_tooltip:0 "Требование стать манекеном"
- HAS_MORE_MANPOWER:0 "Держава [This.GetName] имеет больше рекрутов, чем [From.GetName].\n"
