@@ -1,0 +1,760 @@
+﻿l_russian:
+ ###На вопрос в чем?
+ UNITED_PROVINCES_PR:0 "cоединённых провинциях" #GetGovernmentPR
+ FEDERAL_KINGDOM_PR:0 "федеральном королевстве" #GetGovernmentPR
+ FEDERAL_EMPIRE_PR:0 "федеральной империи" #GetGovernmentPR
+ REPUBLIC_PR:0 "республике" #GetGovernmentPR
+ GREAT_REPUBLIC_PR:0 "великой республике" #GetGovernmentPR
+ DUCHY_PR:0 "герцогстве" #GetGovernmentPR
+ KINGDOM_PR:0 "королевстве" #GetGovernmentPR
+ EMPIRE_PR:0 "империи" #GetGovernmentPR
+ EARLDOM_PR:0 "эрлстве" #GetGovernmentPR
+ DAIMYO_PR:0 "даймё" #GetGovernmentPR
+ KHANATE_PR:0 "ханстве" #GetGovernmentPR
+ PRINCEDOM_PR:0 "княжестве" #GetGovernmentPR
+ GRAND_DUCHY_PR:0 "великом княжестве" #GetGovernmentPR
+ ARCHDUCHY_PR:0 "эрцгерцогстве" #GetGovernmentPR
+ LORDSHIP_PR:0 "владении" #GetGovernmentPR
+ MARCH_PR:0 "марке" #GetGovernmentPR
+ VICEROYALTY_PR:0 "вице-королевстве" #GetGovernmentPR
+ IMAMATE_PR:0 "имамате" #GetGovernmentPR
+ GREAT_IMAMATE_PR:0 "великом имамате" #GetGovernmentPR
+ EMIRATE_PR:0 "эмирате" #GetGovernmentPR
+ SULTANATE_PR:0 "султанате" #GetGovernmentPR
+ MALIKATE_PR:0 "маликате" #GetGovernmentPR
+ SHEIKHDOM_PR:0 "шейхстве" #GetGovernmentPR
+ SHAHDOM_PR:0 "шахстве" #GetGovernmentPR
+ BEYLIK_PR:0 "бейлике" #GetGovernmentPR
+ DESPOTATE_PR:0 "деспотате" #GetGovernmentPR
+ NAWABATE_PR:0 "навабате" #GetGovernmentPR
+ NIZAMATE_PR:0 "низамате" #GetGovernmentPR
+ MONG_PR:0 "монге" #GetGovernmentPR
+ PRINCIPALITY_PR:0 "княжестве" #GetGovernmentPR
+ GRAND_PRINCIPALITY_PR:0 "великом княжестве" #GetGovernmentPR
+ ALTEPETL_PR:0 "альтепетле" #GetGovernmentPR
+ ALTEPETL_FEDERATION_PR:0 "альтепетльской федерации" #GetGovernmentPR
+ BISHOPRIC_PR:0 "епископстве" #GetGovernmentPR
+ ARCHBISHOPRIC_PR:0 "архиепископстве" #GetGovernmentPR
+ PATRIARCHATE_PR:0 "патриархате" #GetGovernmentPR
+ DESPOTISM_PR:0 "деспотии" #GetGovernmentPR
+ DICTATORSHIP_PR:0 "диктатуре" #GetGovernmentPR
+ PRESIDENTIAL_DICTATORSHIP_PR:0 "президентской диктатуре" #GetGovernmentPR
+ METROPOLIS_PR:0 "митрополии" #GetGovernmentPR
+ GREAT_METROPOLIS_PR:0 "великой митрополии" #GetGovernmentPR
+ HORDE_PR:0 "орде" #GetGovernmentPR
+ KHAGANATE_PR:0 "каганате" #GetGovernmentPR
+ CHIEFDOM_PR:0 "вождестве" #GetGovernmentPR
+ TRIBAL_KINGDOM_PR:0 "племенном королевстве" #GetGovernmentPR
+ TRIBAL_EMPIRE_PR:0 "племенной империи" #GetGovernmentPR
+ GRAND_CHIEFDOM_PR:0 "верховном вождестве" #GetGovernmentPR
+ GREAT_CHIEFDOM_PR:0 "великом вождестве" #GetGovernmentPR
+ HOLY_STATE_PR:0 "церковном государстве" #GetGovernmentPR
+ HIGH_IMAMATE_PR:0 "верховном имамате" #GetGovernmentPR
+ HOLY_EMPIRE_PR:0 "теократической империи" #GetGovernmentPR
+ GREAT_EMIRATE_PR:0 "великом эмирате" #GetGovernmentPR
+ PASHALIK_PR:0 "эялете" #GetGovernmentPR
+ SOGN_PR:0 "согне" #GetGovernmentPR
+ HERRED_PR:0 "сотне" #GetGovernmentPR
+ BONDEVALDE_PR:0 "бондевельде" #GetGovernmentPR
+ MISL_PR:0 "мисале" #GetGovernmentPR
+ CONFEDERATION_PR:0 "конфедерации" #GetGovernmentPR
+ TRIBE_PR:0 "племени" #GetGovernmentPR
+ HOLY_PRINCIPALITY_PR:0 "церковном княжестве" #GetGovernmentPR
+ TSARDOM_PR:0 "царстве" #GetGovernmentPR
+ GRAND_PRINCEDOM_PR:0 "великом княжестве" #GetGovernmentPR
+ GREAT_PRINCEDOM_PR:0 "светлейшем княжестве" #GetGovernmentPR
+ MONASTIC_ORDER_PR:0 "военно-монашеском ордене" #GetGovernmentPR
+ GRAND_REPUBLIC_PR:0 "великой республике" #GetGovernmentPR
+ FEDERAL_REPUBLIC_PR:0 "федеральной республике" #GetGovernmentPR
+ CAH_PR:0 "кахе" #GetGovernmentPR
+ KUCHKABAL_PR:0 "кучкабале" #GetGovernmentPR
+ GREAT_LEAGUE_PR:0 "великой лиге" #GetGovernmentPR
+ PAPACY_PR:0 "папстве" #GetGovernmentPR
+ COLONY_PR:0 "колонии" #GetGovernmentPR
+ SHOGUNATE_PR:0 "сёгунате" #GetGovernmentPR
+ INDEP_DAIMYO_PR:0 "независимом даймё" #GetGovernmentPR
+ GRAND_INDEP_DAIMYO_PR:0 "главном даймё" #GetGovernmentPR
+ GREAT_INDEP_DAIMYO_PR:0 "великом даймё" #GetGovernmentPR
+ HETMANATE_PR:0 "гетманщине" #GetGovernmentPR
+ GRAND_HETMANATE_PR:0 "большой гетманщине" #GetGovernmentPR
+ GREAT_HETMANATE_PR:0 "великом гетманате" #GetGovernmentPR
+ SHARIFATE_PR:0 "шарифате" #GetGovernmentPR
+ GREAT_SHARIFATE_PR:0 "великом шарифате" #GetGovernmentPR
+ GRAND_SHARIFATE_PR:0 "высшем шарифате" #GetGovernmentPR
+ BARANGAY_PR:0 "барангае" #GetGovernmentPR
+ GRAND_BARANGAY_PR:0 "большом барангае" #GetGovernmentPR
+ GREAT_BARANGAY_PR:0 "великом барангае" #GetGovernmentPR
+ PARLIAMENT_OF_HEAVEN_PR:0 "парламенте Небес" #GetGovernmentPR
+ REVOLUTIONARY_PEASANT_REPUBLIC_PR:0 "крестьянской хунте" #GetGovernmentPR
+ FREE_CITY_PR:0 "вольном городе" #GetGovernmentPR
+ SERENE_REPUBLIC_PR:0 "cветлейшей республике" #GetGovernmentPR
+ ###На вопрос кому?
+ UNITED_PROVINCES_DT:0 "cоединённым провинциям" #GetGovernmentDT
+ FEDERAL_KINGDOM_DT:0 "федеральному королевству" #GetGovernmentDT
+ FEDERAL_EMPIRE_DT:0 "федеральной империи" #GetGovernmentDT
+ REPUBLIC_DT:0 "республике" #GetGovernmentDT
+ GREAT_REPUBLIC_DT:0 "великой республике" #GetGovernmentDT
+ DUCHY_DT:0 "герцогству" #GetGovernmentDT
+ KINGDOM_DT:0 "королевству" #GetGovernmentDT
+ EMPIRE_DT:0 "империи" #GetGovernmentDT
+ EARLDOM_DT:0 "эрлству" #GetGovernmentDT
+ DAIMYO_DT:0 "даймё" #GetGovernmentDT
+ KHANATE_DT:0 "ханству" #GetGovernmentDT
+ PRINCEDOM_DT:0 "княжеству" #GetGovernmentDT
+ GRAND_DUCHY_DT:0 "великому княжеству" #GetGovernmentDT
+ ARCHDUCHY_DT:0 "эрцгерцогству" #GetGovernmentDT
+ LORDSHIP_DT:0 "владению" #GetGovernmentDT
+ MARCH_DT:0 "марке" #GetGovernmentDT
+ VICEROYALTY_DT:0 "вице-королевству" #GetGovernmentDT
+ IMAMATE_DT:0 "имамату" #GetGovernmentDT
+ GREAT_IMAMATE_DT:0 "великому имамату" #GetGovernmentDT
+ EMIRATE_DT:0 "эмирату" #GetGovernmentDT
+ SULTANATE_DT:0 "султанату" #GetGovernmentDT
+ MALIKATE_DT:0 "маликату" #GetGovernmentDT
+ SHEIKHDOM_DT:0 "шейхству" #GetGovernmentDT
+ SHAHDOM_DT:0 "шахству" #GetGovernmentDT
+ BEYLIK_DT:0 "бейлику" #GetGovernmentDT
+ DESPOTATE_DT:0 "деспотату" #GetGovernmentDT
+ NAWABATE_DT:0 "навабату" #GetGovernmentDT
+ NIZAMATE_DT:0 "низамату" #GetGovernmentDT
+ MONG_DT:0 "монгу" #GetGovernmentDT
+ PRINCIPALITY_DT:0 "княжеству" #GetGovernmentDT
+ GRAND_PRINCIPALITY_DT:0 "великому княжеству" #GetGovernmentDT
+ ALTEPETL_DT:0 "альтепетлю" #GetGovernmentDT
+ ALTEPETL_FEDERATION_DT:0 "альтепетльской федерации" #GetGovernmentDT
+ BISHOPRIC_DT:0 "епископству" #GetGovernmentDT
+ ARCHBISHOPRIC_DT:0 "архиепископству" #GetGovernmentDT
+ PATRIARCHATE_DT:0 "патриархату" #GetGovernmentDT
+ DESPOTISM_DT:0 "деспотии" #GetGovernmentDT
+ DICTATORSHIP_DT:0 "диктатуре" #GetGovernmentDT
+ PRESIDENTIAL_DICTATORSHIP_DT:0 "президентской диктатуре" #GetGovernmentDT
+ METROPOLIS_DT:0 "митрополии" #GetGovernmentDT
+ GREAT_METROPOLIS_DT:0 "великой митрополии" #GetGovernmentDT
+ HORDE_DT:0 "орде" #GetGovernmentDT
+ KHAGANATE_DT:0 "каганату" #GetGovernmentDT
+ CHIEFDOM_DT:0 "вождеству" #GetGovernmentDT
+ TRIBAL_KINGDOM_DT:0 "племенному королевству" #GetGovernmentDT
+ TRIBAL_EMPIRE_DT:0 "племенной империи" #GetGovernmentDT
+ GRAND_CHIEFDOM_DT:0 "верховному вождеству" #GetGovernmentDT
+ GREAT_CHIEFDOM_DT:0 "великому вождеству" #GetGovernmentDT
+ HOLY_STATE_DT:0 "церковному государству" #GetGovernmentDT
+ HIGH_IMAMATE_DT:0 "верховному имамату" #GetGovernmentDT
+ HOLY_EMPIRE_DT:0 "теократической империи" #GetGovernmentDT
+ GREAT_EMIRATE_DT:0 "великому эмирату" #GetGovernmentDT
+ PASHALIK_DT:0 "эялету" #GetGovernmentDT
+ SOGN_DT:0 "согну" #GetGovernmentDT
+ HERRED_DT:0 "сотну" #GetGovernmentDT
+ BONDEVALDE_DT:0 "бондевельду" #GetGovernmentDT
+ MISL_DT:0 "мисалю" #GetGovernmentDT
+ CONFEDERATION_DT:0 "конфедерации" #GetGovernmentDT
+ TRIBE_DT:0 "племени" #GetGovernmentDT
+ HOLY_PRINCIPALITY_DT:0 "церковному княжеству" #GetGovernmentDT
+ TSARDOM_DT:0 "царству" #GetGovernmentDT
+ GRAND_PRINCEDOM_DT:0 "великому княжеству" #GetGovernmentDT
+ GREAT_PRINCEDOM_DT:0 "светлейшему княжеству" #GetGovernmentDT
+ MONASTIC_ORDER_DT:0 "военно-монашескому ордену" #GetGovernmentDT
+ GRAND_REPUBLIC_DT:0 "великой республике" #GetGovernmentDT
+ FEDERAL_REPUBLIC_DT:0 "федеральной республике" #GetGovernmentDT
+ CAH_DT:0 "кахе" #GetGovernmentDT
+ KUCHKABAL_DT:0 "кучкабале" #GetGovernmentDT
+ GREAT_LEAGUE_DT:0 "великой лиге" #GetGovernmentDT
+ PAPACY_DT:0 "папству" #GetGovernmentDT
+ COLONY_DT:0 "колонии" #GetGovernmentDT
+ SHOGUNATE_DT:0 "сёгунату" #GetGovernmentDT
+ INDEP_DAIMYO_DT:0 "независимому даймё" #GetGovernmentDT
+ GRAND_INDEP_DAIMYO_DT:0 "главному даймё" #GetGovernmentDT
+ GREAT_INDEP_DAIMYO_DT:0 "великому даймё" #GetGovernmentDT
+ HETMANATE_DT:0 "гетманщине" #GetGovernmentDT
+ GRAND_HETMANATE_DT:0 "большой гетманщине" #GetGovernmentDT
+ GREAT_HETMANATE_DT:0 "великому гетманату" #GetGovernmentDT
+ SHARIFATE_DT:0 "шарифату" #GetGovernmentDT
+ GREAT_SHARIFATE_DT:0 "великому шарифату" #GetGovernmentDT
+ GRAND_SHARIFATE_DT:0 "высшему шарифату" #GetGovernmentDT
+ BARANGAY_DT:0 "барангаю" #GetGovernmentDT
+ GRAND_BARANGAY_DT:0 "большому барангаю" #GetGovernmentDT
+ GREAT_BARANGAY_DT:0 "великому барангаю" #GetGovernmentDT
+ PARLIAMENT_OF_HEAVEN_DT:0 "парламенту Небес" #GetGovernmentDT
+ REVOLUTIONARY_PEASANT_REPUBLIC_DT:0 "крестьянской хунте" #GetGovernmentDT
+ FREE_CITY_DT:0 "вольному городу" #GetGovernmentDT
+ SERENE_REPUBLIC_DT:0 "cветлейшей республике" #GetGovernmentDT
+ ###На вопрос нет кого?
+ UNITED_PROVINCES_RD:0 "cоединённых провинций" #GetGovernmentRD
+ FEDERAL_KINGDOM_RD:0 "федерального королевства" #GetGovernmentRD
+ FEDERAL_EMPIRE_RD:0 "федеральной империи" #GetGovernmentRD
+ REPUBLIC_RD:0 "республики" #GetGovernmentRD
+ GREAT_REPUBLIC_RD:0 "великой республики" #GetGovernmentRD
+ DUCHY_RD:0 "герцогства" #GetGovernmentRD
+ KINGDOM_RD:0 "королевства" #GetGovernmentRD
+ EMPIRE_RD:0 "империи" #GetGovernmentRD
+ EARLDOM_RD:0 "эрлства" #GetGovernmentRD
+ DAIMYO_RD:0 "даймё" #GetGovernmentRD
+ KHANATE_RD:0 "ханства" #GetGovernmentRD
+ PRINCEDOM_RD:0 "княжества" #GetGovernmentRD
+ GRAND_DUCHY_RD:0 "великого княжества" #GetGovernmentRD
+ ARCHDUCHY_RD:0 "эрцгерцогства" #GetGovernmentRD
+ LORDSHIP_RD:0 "владения" #GetGovernmentRD
+ MARCH_RD:0 "марки" #GetGovernmentRD
+ VICEROYALTY_RD:0 "вице-королевства" #GetGovernmentRD
+ IMAMATE_RD:0 "имамата" #GetGovernmentRD
+ GREAT_IMAMATE_RD:0 "великого имамата" #GetGovernmentRD
+ EMIRATE_RD:0 "эмирата" #GetGovernmentRD
+ SULTANATE_RD:0 "султаната" #GetGovernmentRD
+ MALIKATE_RD:0 "маликата" #GetGovernmentRD
+ SHEIKHDOM_RD:0 "шейхства" #GetGovernmentRD
+ SHAHDOM_RD:0 "шахства" #GetGovernmentRD
+ BEYLIK_RD:0 "бейлика" #GetGovernmentRD
+ DESPOTATE_RD:0 "деспотата" #GetGovernmentRD
+ NAWABATE_RD:0 "навабата" #GetGovernmentRD
+ NIZAMATE_RD:0 "низамата" #GetGovernmentRD
+ MONG_RD:0 "монга" #GetGovernmentRD
+ PRINCIPALITY_RD:0 "княжества" #GetGovernmentRD
+ GRAND_PRINCIPALITY_RD:0 "великого княжества" #GetGovernmentRD
+ ALTEPETL_RD:0 "альтепетли" #GetGovernmentRD
+ ALTEPETL_FEDERATION_RD:0 "альтепетльской федерации" #GetGovernmentRD
+ BISHOPRIC_RD:0 "епископства" #GetGovernmentRD
+ ARCHBISHOPRIC_RD:0 "архиепископства" #GetGovernmentRD
+ PATRIARCHATE_RD:0 "патриархата" #GetGovernmentRD
+ DESPOTISM_RD:0 "деспотии" #GetGovernmentRD
+ DICTATORSHIP_RD:0 "диктатуры" #GetGovernmentRD
+ PRESIDENTIAL_DICTATORSHIP_RD:0 "президентской диктатуры" #GetGovernmentRD
+ METROPOLIS_RD:0 "митрополии" #GetGovernmentRD
+ GREAT_METROPOLIS_RD:0 "великой митрополии" #GetGovernmentRD
+ HORDE_RD:0 "орды" #GetGovernmentRD
+ KHAGANATE_RD:0 "каганата" #GetGovernmentRD
+ CHIEFDOM_RD:0 "вождества" #GetGovernmentRD
+ TRIBAL_KINGDOM_RD:0 "племенного королевства" #GetGovernmentRD
+ TRIBAL_EMPIRE_RD:0 "племенной империи" #GetGovernmentRD
+ GRAND_CHIEFDOM_RD:0 "верховного вождества" #GetGovernmentRD
+ GREAT_CHIEFDOM_RD:0 "великого вождества" #GetGovernmentRD
+ HOLY_STATE_RD:0 "церковного государства" #GetGovernmentRD
+ HIGH_IMAMATE_RD:0 "верховного имамата" #GetGovernmentRD
+ HOLY_EMPIRE_RD:0 "теократической империи" #GetGovernmentRD
+ GREAT_EMIRATE_RD:0 "великого эмирата" #GetGovernmentRD
+ PASHALIK_RD:0 "эялета" #GetGovernmentRD
+ SOGN_RD:0 "согна" #GetGovernmentRD
+ HERRED_RD:0 "сотни" #GetGovernmentRD
+ BONDEVALDE_RD:0 "бондевельда" #GetGovernmentRD
+ MISL_RD:0 "мисаля" #GetGovernmentRD
+ CONFEDERATION_RD:0 "конфедерации" #GetGovernmentRD
+ TRIBE_RD:0 "племени" #GetGovernmentRD
+ HOLY_PRINCIPALITY_RD:0 "церковного княжества" #GetGovernmentRD
+ TSARDOM_RD:0 "царства" #GetGovernmentRD
+ GRAND_PRINCEDOM_RD:0 "великого княжества" #GetGovernmentRD
+ GREAT_PRINCEDOM_RD:0 "светлейшего княжества" #GetGovernmentRD
+ MONASTIC_ORDER_RD:0 "военно-монашеского ордена" #GetGovernmentRD
+ GRAND_REPUBLIC_RD:0 "великой республики" #GetGovernmentRD
+ FEDERAL_REPUBLIC_RD:0 "федеральной республики" #GetGovernmentRD
+ CAH_RD:0 "кахи" #GetGovernmentRD
+ KUCHKABAL_RD:0 "кучкабали" #GetGovernmentRD
+ GREAT_LEAGUE_RD:0 "великой лиги" #GetGovernmentRD
+ PAPACY_RD:0 "папства" #GetGovernmentRD
+ COLONY_RD:0 "колонии" #GetGovernmentRD
+ SHOGUNATE_RD:0 "сёгуната" #GetGovernmentRD
+ INDEP_DAIMYO_RD:0 "независимого даймё" #GetGovernmentRD
+ GRAND_INDEP_DAIMYO_RD:0 "главного даймё" #GetGovernmentRD
+ GREAT_INDEP_DAIMYO_RD:0 "великого даймё" #GetGovernmentRD
+ HETMANATE_RD:0 "гетманщины" #GetGovernmentRD
+ GRAND_HETMANATE_RD:0 "большой гетманщины" #GetGovernmentRD
+ GREAT_HETMANATE_RD:0 "великого гетманата" #GetGovernmentRD
+ SHARIFATE_RD:0 "шарифата" #GetGovernmentRD
+ GREAT_SHARIFATE_RD:0 "великого шарифата" #GetGovernmentRD
+ GRAND_SHARIFATE_RD:0 "высшего шарифата" #GetGovernmentRD
+ BARANGAY_RD:0 "барангая" #GetGovernmentRD
+ GRAND_BARANGAY_RD:0 "большого барангая" #GetGovernmentRD
+ GREAT_BARANGAY_RD:0 "великого барангая" #GetGovernmentRD
+ PARLIAMENT_OF_HEAVEN_RD:0 "парламента Небес" #GetGovernmentRD
+ REVOLUTIONARY_PEASANT_REPUBLIC_RD:0 "крестьянской хунты" #GetGovernmentRD
+ FREE_CITY_RD:0 "вольного города" #GetGovernmentRD
+ SERENE_REPUBLIC_RD:0 "cветлейшей республики" #GetGovernmentRD
+ ###На вопрос вижу что?
+ UNITED_PROVINCES_IM:0 "cоединённые провинции" #GetGovernmentIM
+ FEDERAL_KINGDOM_IM:0 "федеральное королевство" #GetGovernmentIM
+ FEDERAL_EMPIRE_IM:0 "федеральную империю" #GetGovernmentIM
+ REPUBLIC_IM:0 "республику" #GetGovernmentIM
+ GREAT_REPUBLIC_IM:0 "великую республику" #GetGovernmentIM
+ DUCHY_IM:0 "герцогство" #GetGovernmentIM
+ KINGDOM_IM:0 "королевство" #GetGovernmentIM
+ EMPIRE_IM:0 "империю" #GetGovernmentIM
+ EARLDOM_IM:0 "эрлство" #GetGovernmentIM
+ DAIMYO_IM:0 "даймё" #GetGovernmentIM
+ KHANATE_IM:0 "ханство" #GetGovernmentIM
+ PRINCEDOM_IM:0 "княжество" #GetGovernmentIM
+ GRAND_DUCHY_IM:0 "великое княжество" #GetGovernmentIM
+ ARCHDUCHY_IM:0 "эрцгерцогство" #GetGovernmentIM
+ LORDSHIP_IM:0 "владение" #GetGovernmentIM
+ MARCH_IM:0 "марку" #GetGovernmentIM
+ VICEROYALTY_IM:0 "вице-королевство" #GetGovernmentIM
+ IMAMATE_IM:0 "имамат" #GetGovernmentIM
+ GREAT_IMAMATE_IM:0 "великий имамат" #GetGovernmentIM
+ EMIRATE_IM:0 "эмират" #GetGovernmentIM
+ SULTANATE_IM:0 "султанат" #GetGovernmentIM
+ MALIKATE_IM:0 "маликат" #GetGovernmentIM
+ SHEIKHDOM_IM:0 "шейхство" #GetGovernmentIM
+ SHAHDOM_IM:0 "шахство" #GetGovernmentIM
+ BEYLIK_IM:0 "бейлик" #GetGovernmentIM
+ DESPOTATE_IM:0 "деспотат" #GetGovernmentIM
+ NAWABATE_IM:0 "навабат" #GetGovernmentIM
+ NIZAMATE_IM:0 "низамат" #GetGovernmentIM
+ MONG_IM:0 "монг" #GetGovernmentIM
+ PRINCIPALITY_IM:0 "княжество" #GetGovernmentIM
+ GRAND_PRINCIPALITY_IM:0 "великое княжество" #GetGovernmentIM
+ ALTEPETL_IM:0 "альтепетль" #GetGovernmentIM
+ ALTEPETL_FEDERATION_IM:0 "альтепетльскую федерацию" #GetGovernmentIM
+ BISHOPRIC_IM:0 "епископство" #GetGovernmentIM
+ ARCHBISHOPRIC_IM:0 "архиепископство" #GetGovernmentIM
+ PATRIARCHATE_IM:0 "патриархат" #GetGovernmentIM
+ DESPOTISM_IM:0 "деспотию" #GetGovernmentIM
+ DICTATORSHIP_IM:0 "диктатуру" #GetGovernmentIM
+ PRESIDENTIAL_DICTATORSHIP_IM:0 "президентскую диктатуру" #GetGovernmentIM
+ METROPOLIS_IM:0 "митрополию" #GetGovernmentIM
+ GREAT_METROPOLIS_IM:0 "великую митрополию" #GetGovernmentIM
+ HORDE_IM:0 "орду" #GetGovernmentIM
+ KHAGANATE_IM:0 "каганат" #GetGovernmentIM
+ CHIEFDOM_IM:0 "вождество" #GetGovernmentIM
+ TRIBAL_KINGDOM_IM:0 "племенное королевство" #GetGovernmentIM
+ TRIBAL_EMPIRE_IM:0 "племенную империю" #GetGovernmentIM
+ GRAND_CHIEFDOM_IM:0 "верховное вождество" #GetGovernmentIM
+ GREAT_CHIEFDOM_IM:0 "великое вождество" #GetGovernmentIM
+ HOLY_STATE_IM:0 "церковное государство" #GetGovernmentIM
+ HIGH_IMAMATE_IM:0 "верховный имамат" #GetGovernmentIM
+ HOLY_EMPIRE_IM:0 "теократическую империю" #GetGovernmentIM
+ GREAT_EMIRATE_IM:0 "великий эмират" #GetGovernmentIM
+ PASHALIK_IM:0 "эялет" #GetGovernmentIM
+ SOGN_IM:0 "согн" #GetGovernmentIM
+ HERRED_IM:0 "сотню" #GetGovernmentIM
+ BONDEVALDE_IM:0 "бондевельд" #GetGovernmentIM
+ MISL_IM:0 "мисаль" #GetGovernmentIM
+ CONFEDERATION_IM:0 "конфедерацию" #GetGovernmentIM
+ TRIBE_IM:0 "племя" #GetGovernmentIM
+ HOLY_PRINCIPALITY_IM:0 "церковное княжество" #GetGovernmentIM
+ TSARDOM_IM:0 "царство" #GetGovernmentIM
+ GRAND_PRINCEDOM_IM:0 "великое княжество" #GetGovernmentIM
+ GREAT_PRINCEDOM_IM:0 "светлейшее княжество" #GetGovernmentIM
+ MONASTIC_ORDER_IM:0 "военно-монашеский орден" #GetGovernmentIM
+ GRAND_REPUBLIC_IM:0 "великую республику" #GetGovernmentIM
+ FEDERAL_REPUBLIC_IM:0 "федеральную республику" #GetGovernmentIM
+ CAH_IM:0 "ках" #GetGovernmentIM
+ KUCHKABAL_IM:0 "кучкабаль" #GetGovernmentIM
+ GREAT_LEAGUE_IM:0 "великую лигу" #GetGovernmentIM
+ PAPACY_IM:0 "папство" #GetGovernmentIM
+ COLONY_IM:0 "колонию" #GetGovernmentIM
+ SHOGUNATE_IM:0 "сёгунат" #GetGovernmentIM
+ INDEP_DAIMYO_IM:0 "независимого даймё" #GetGovernmentIM
+ GRAND_INDEP_DAIMYO_IM:0 "главного даймё" #GetGovernmentIM
+ GREAT_INDEP_DAIMYO_IM:0 "великого даймё" #GetGovernmentIM
+ HETMANATE_IM:0 "гетманщину" #GetGovernmentIM
+ GRAND_HETMANATE_IM:0 "большую гетманщину" #GetGovernmentIM
+ GREAT_HETMANATE_IM:0 "великий гетманат" #GetGovernmentIM
+ SHARIFATE_IM:0 "шарифат" #GetGovernmentIM
+ GREAT_SHARIFATE_IM:0 "великий шарифат" #GetGovernmentIM
+ GRAND_SHARIFATE_IM:0 "высший шарифат" #GetGovernmentIM
+ BARANGAY_IM:0 "барангай" #GetGovernmentIM
+ GRAND_BARANGAY_IM:0 "большой барангай" #GetGovernmentIM
+ GREAT_BARANGAY_IM:0 "великой барангай" #GetGovernmentIM
+ PARLIAMENT_OF_HEAVEN_IM:0 "парламент Небес" #GetGovernmentIM
+ REVOLUTIONARY_PEASANT_REPUBLIC_IM:0 "крестьянскую хунту" #GetGovernmentIM
+ FREE_CITY_IM:0 "вольный город" #GetGovernmentIM
+ SERENE_REPUBLIC_IM:0 "cветлейшую республику" #GetGovernmentIM
+ ###На вопрос кем?
+ UNITED_PROVINCES_TV:0 "cоединёнными провинциями" #GetGovernmentTV
+ FEDERAL_KINGDOM_TV:0 "федеральным королевством" #GetGovernmentTV
+ FEDERAL_EMPIRE_TV:0 "федеральной империей" #GetGovernmentTV
+ REPUBLIC_TV:0 "республикой" #GetGovernmentTV
+ GREAT_REPUBLIC_TV:0 "великой республикой" #GetGovernmentTV
+ DUCHY_TV:0 "герцогством" #GetGovernmentTV
+ KINGDOM_TV:0 "королевством" #GetGovernmentTV
+ EMPIRE_TV:0 "империей" #GetGovernmentTV
+ EARLDOM_TV:0 "эрлством" #GetGovernmentTV
+ DAIMYO_TV:0 "даймё" #GetGovernmentTV
+ KHANATE_TV:0 "ханством" #GetGovernmentTV
+ PRINCEDOM_TV:0 "княжеством" #GetGovernmentTV
+ GRAND_DUCHY_TV:0 "великим княжеством" #GetGovernmentTV
+ ARCHDUCHY_TV:0 "эрцгерцогством" #GetGovernmentTV
+ LORDSHIP_TV:0 "владением" #GetGovernmentTV
+ MARCH_TV:0 "маркой" #GetGovernmentTV
+ VICEROYALTY_TV:0 "вице-королевством" #GetGovernmentTV
+ IMAMATE_TV:0 "имаматом" #GetGovernmentTV
+ GREAT_IMAMATE_TV:0 "великим имаматом" #GetGovernmentTV
+ EMIRATE_TV:0 "эмиратом" #GetGovernmentTV
+ SULTANATE_TV:0 "султанатом" #GetGovernmentTV
+ MALIKATE_TV:0 "маликатом" #GetGovernmentTV
+ SHEIKHDOM_TV:0 "шейхством" #GetGovernmentTV
+ SHAHDOM_TV:0 "шахством" #GetGovernmentTV
+ BEYLIK_TV:0 "бейликом" #GetGovernmentTV
+ DESPOTATE_TV:0 "деспотатом" #GetGovernmentTV
+ NAWABATE_TV:0 "навабатом" #GetGovernmentTV
+ NIZAMATE_TV:0 "низаматом" #GetGovernmentTV
+ MONG_TV:0 "монгом" #GetGovernmentTV
+ PRINCIPALITY_TV:0 "княжеством" #GetGovernmentTV
+ GRAND_PRINCIPALITY_TV:0 "великим княжеством" #GetGovernmentTV
+ ALTEPETL_TV:0 "альтепетлем" #GetGovernmentTV
+ ALTEPETL_FEDERATION_TV:0 "альтепетльской федерацией" #GetGovernmentTV
+ BISHOPRIC_TV:0 "епископством" #GetGovernmentTV
+ ARCHBISHOPRIC_TV:0 "архиепископством" #GetGovernmentTV
+ PATRIARCHATE_TV:0 "патриархатом" #GetGovernmentTV
+ DESPOTISM_TV:0 "деспотией" #GetGovernmentTV
+ DICTATORSHIP_TV:0 "диктатурой" #GetGovernmentTV
+ PRESIDENTIAL_DICTATORSHIP_TV:0 "президентской диктатурой" #GetGovernmentTV
+ METROPOLIS_TV:0 "митрополией" #GetGovernmentTV
+ GREAT_METROPOLIS_TV:0 "великой митрополией" #GetGovernmentTV
+ HORDE_TV:0 "ордой" #GetGovernmentTV
+ KHAGANATE_TV:0 "каганатом" #GetGovernmentTV
+ CHIEFDOM_TV:0 "вождеством" #GetGovernmentTV
+ TRIBAL_KINGDOM_TV:0 "племенным королевством" #GetGovernmentTV
+ TRIBAL_EMPIRE_TV:0 "племенной империей" #GetGovernmentTV
+ GRAND_CHIEFDOM_TV:0 "верховным вождеством" #GetGovernmentTV
+ GREAT_CHIEFDOM_TV:0 "великим вождеством" #GetGovernmentTV
+ HOLY_STATE_TV:0 "церковным государством" #GetGovernmentTV
+ HIGH_IMAMATE_TV:0 "верховным имаматом" #GetGovernmentTV
+ HOLY_EMPIRE_TV:0 "теократической империей" #GetGovernmentTV
+ GREAT_EMIRATE_TV:0 "великим эмиратом" #GetGovernmentTV
+ PASHALIK_TV:0 "эялетом" #GetGovernmentTV
+ SOGN_TV:0 "согном" #GetGovernmentTV
+ HERRED_TV:0 "сотней" #GetGovernmentTV
+ BONDEVALDE_TV:0 "бондевельдом" #GetGovernmentTV
+ MISL_TV:0 "мисалем" #GetGovernmentTV
+ CONFEDERATION_TV:0 "конфедерацией" #GetGovernmentTV
+ TRIBE_TV:0 "племенем" #GetGovernmentTV
+ HOLY_PRINCIPALITY_TV:0 "церковным княжеством" #GetGovernmentTV
+ TSARDOM_TV:0 "царством" #GetGovernmentTV
+ GRAND_PRINCEDOM_TV:0 "великим княжеством" #GetGovernmentTV
+ GREAT_PRINCEDOM_TV:0 "светлейшим княжеством" #GetGovernmentTV
+ MONASTIC_ORDER_TV:0 "военно-монашеским орденом" #GetGovernmentTV
+ GRAND_REPUBLIC_TV:0 "великой республикой" #GetGovernmentTV
+ FEDERAL_REPUBLIC_TV:0 "федеральной республикой" #GetGovernmentTV
+ CAH_TV:0 "кахом" #GetGovernmentTV
+ KUCHKABAL_TV:0 "кучкабалем" #GetGovernmentTV
+ GREAT_LEAGUE_TV:0 "великой лигой" #GetGovernmentTV
+ PAPACY_TV:0 "папством" #GetGovernmentTV
+ COLONY_TV:0 "колонией" #GetGovernmentTV
+ SHOGUNATE_TV:0 "сёгунатом" #GetGovernmentTV
+ INDEP_DAIMYO_TV:0 "независимым даймё" #GetGovernmentTV
+ GRAND_INDEP_DAIMYO_TV:0 "главным даймё" #GetGovernmentTV
+ GREAT_INDEP_DAIMYO_TV:0 "великим даймё" #GetGovernmentTV
+ HETMANATE_TV:0 "гетманщиной" #GetGovernmentTV
+ GRAND_HETMANATE_TV:0 "большой гетманщиной" #GetGovernmentTV
+ GREAT_HETMANATE_TV:0 "великим гетманатом" #GetGovernmentTV
+ SHARIFATE_TV:0 "шарифатом" #GetGovernmentTV
+ GREAT_SHARIFATE_TV:0 "великим шарифатом" #GetGovernmentTV
+ GRAND_SHARIFATE_TV:0 "высшим шарифатом" #GetGovernmentTV
+ BARANGAY_TV:0 "барангаем" #GetGovernmentTV
+ GRAND_BARANGAY_TV:0 "большим барангаем" #GetGovernmentTV
+ GREAT_BARANGAY_TV:0 "великим барангаем" #GetGovernmentTV
+ PARLIAMENT_OF_HEAVEN_TV:0 "парламентом Небес" #GetGovernmentTV
+ REVOLUTIONARY_PEASANT_REPUBLIC_TV:0 "крестьянской хунтой" #GetGovernmentTV
+ FREE_CITY_TV:0 "вольным городом" #GetGovernmentTV
+ SERENE_REPUBLIC_TV:0 "cветлейшей республикой" #GetGovernmentTV
+ ###Версия 1.28
+ PIRATE_REPUBLIC_PR:0 "пиратской республике" #GetGovernmentPR
+ PIRATE_CONFEDERACY_PR:0 "пиратской конфедерации" #GetGovernmentPR
+ GRAND_PIRATE_CONFEDERACY_PR:0 "большой пиратской конфедерации" #GetGovernmentPR
+ PIRATE_REPUBLIC_DT:0 "пиратской республике" #GetGovernmentDT
+ PIRATE_CONFEDERACY_DT:0 "пиратской конфедерации" #GetGovernmentDT
+ GRAND_PIRATE_CONFEDERACY_DT:0 "большой пиратской конфедерации" #GetGovernmentDT
+ PIRATE_REPUBLIC_RD:0 "пиратской республики" #GetGovernmentRD
+ PIRATE_CONFEDERACY_RD:0 "пиратской конфедерации" #GetGovernmentRD
+ GRAND_PIRATE_CONFEDERACY_RD:0 "большой пиратской конфедерации" #GetGovernmentRD
+ PIRATE_REPUBLIC_IM:0 "пиратскую республику" #GetGovernmentIM
+ PIRATE_CONFEDERACY_IM:0 "пиратскую конфедерацию" #GetGovernmentIM
+ GRAND_PIRATE_CONFEDERACY_IM:0 "большую пиратскую конфедерацию" #GetGovernmentIM
+ PIRATE_REPUBLIC_TV:0 "пиратской республикой" #GetGovernmentTV
+ PIRATE_CONFEDERACY_TV:0 "пиратской конфедерацией" #GetGovernmentTV
+ GRAND_PIRATE_CONFEDERACY_TV:0 "большой пиратской конфедерацией" #GetGovernmentTV
+ PIRATE_PRINCIPALITY_PR:0 "пиратском княжестве" #GetGovernmentPR
+ PIRATE_KINGDOM_PR:0 "королевстве пиратов" #GetGovernmentPR
+ PIRATE_EMPIRE_PR:0 "империи пиратов" #GetGovernmentPR
+ PIRATE_PRINCIPALITY_DT:0 "пиратскому княжеству" #GetGovernmentDT
+ PIRATE_KINGDOM_DT:0 "королевству пиратов" #GetGovernmentDT
+ PIRATE_EMPIRE_DT:0 "империи пиратов" #GetGovernmentDT
+ PIRATE_PRINCIPALITY_RD:0 "пиратского княжества" #GetGovernmentRD
+ PIRATE_KINGDOM_RD:0 "королевства пиратов" #GetGovernmentRD
+ PIRATE_EMPIRE_RD:0 "империи пиратов" #GetGovernmentRD
+ PIRATE_PRINCIPALITY_IM:0 "пиратское княжество" #GetGovernmentIM
+ PIRATE_KINGDOM_IM:0 "королевство пиратов" #GetGovernmentIM
+ PIRATE_EMPIRE_IM:0 "империю пиратов" #GetGovernmentIM
+ PIRATE_PRINCIPALITY_TV:0 "пиратским княжеством" #GetGovernmentTV
+ PIRATE_KINGDOM_TV:0 "королевством пиратов" #GetGovernmentTV
+ PIRATE_EMPIRE_TV:0 "империей пиратов" #GetGovernmentTV
+ ###Версия 1.29-1.31
+ SAVANAROLA_GOVERNMENT_PR:0 "правительстве Савонаролы" #GetGovernmentPR
+ SAVANAROLA_GOVERNMENT_DT:0 "правительству Савонаролы" #GetGovernmentDT
+ SAVANAROLA_GOVERNMENT_RD:0 "правительства Савонаролы" #GetGovernmentRD
+ SAVANAROLA_GOVERNMENT_IM:0 "правительство Савонаролы" #GetGovernmentIM
+ SAVANAROLA_GOVERNMENT_TV:0 "правительством Савонаролы" #GetGovernmentTV
+ 
+ MOST_SERENE_REPUBLIC_PR:0 "светлейшей республике" #GetGovernmentPR
+ MOST_SERENE_REPUBLIC_DT:0 "светлейшей республике" #GetGovernmentDT
+ MOST_SERENE_REPUBLIC_RD:0 "светлейшей республики" #GetGovernmentRD
+ MOST_SERENE_REPUBLIC_IM:0 "светлейшая республика" #GetGovernmentIM
+ MOST_SERENE_REPUBLIC_TV:0 "светлейшей республикой" #GetGovernmentTV
+ 
+ STATELESS_SOCIETY_IM:0 "общество без государства" #GetGovernmentIM
+ STATELESS_SOCIETY_RD:0 "общества без государства" #GetGovernmentRD
+ STATELESS_SOCIETY_DT:0 "обществу без государства" #GetGovernmentDT
+ STATELESS_SOCIETY_TV:0 "обществом без государства" #GetGovernmentTV
+ STATELESS_SOCIETY_PR:0 "обществе без государства" #GetGovernmentPR
+ 
+ ISLAMIC_CALIPHATE_IM:0 "исламский халифат" #GetGovernmentIM
+ ISLAMIC_CALIPHATE_RD:0 "исламского халифата" #GetGovernmentRD
+ ISLAMIC_CALIPHATE_DT:0 "исламскому халифату" #GetGovernmentDT
+ ISLAMIC_CALIPHATE_TV:0 "исламским халифатом" #GetGovernmentTV
+ ISLAMIC_CALIPHATE_PR:0 "исламском халифате" #GetGovernmentPR
+ 
+ REVOLUTIONARY_SPANISH_REPUBLIC_IM:0 "верховная хунта" #GetGovernmentIM
+ REVOLUTIONARY_SPANISH_REPUBLIC_RD:0 "верховной хунты" #GetGovernmentRD
+ REVOLUTIONARY_SPANISH_REPUBLIC_DT:0 "верховной хунте" #GetGovernmentDT
+ REVOLUTIONARY_SPANISH_REPUBLIC_TV:0 "верховной хунтой" #GetGovernmentTV
+ REVOLUTIONARY_SPANISH_REPUBLIC_PR:0 "верховной хунте" #GetGovernmentPR
+ 
+ REVOLUTIONARY_SWEDISH_REPUBLIC_IM:0 "Säkerhetstinget" #GetGovernmentIM
+ REVOLUTIONARY_SWEDISH_REPUBLIC_RD:0 "Säkerhetstinget" #GetGovernmentRD
+ REVOLUTIONARY_SWEDISH_REPUBLIC_DT:0 "Säkerhetstinget" #GetGovernmentDT
+ REVOLUTIONARY_SWEDISH_REPUBLIC_TV:0 "Säkerhetstinget" #GetGovernmentTV
+ REVOLUTIONARY_SWEDISH_REPUBLIC_PR:0 "Säkerhetstinget" #GetGovernmentPR
+ 
+ REVOLUTIONARY_DANISH_REPUBLIC_IM:0 "Sikkerhedtinget" #GetGovernmentIM
+ REVOLUTIONARY_DANISH_REPUBLIC_RD:0 "Sikkerhedtinget" #GetGovernmentRD
+ REVOLUTIONARY_DANISH_REPUBLIC_DT:0 "Sikkerhedtinget" #GetGovernmentDT
+ REVOLUTIONARY_DANISH_REPUBLIC_TV:0 "Sikkerhedtinget" #GetGovernmentTV
+ REVOLUTIONARY_DANISH_REPUBLIC_PR:0 "Sikkerhedtinget" #GetGovernmentPR
+ 
+ GOV_REVOLUTIONARY_REPUBLIC_IM:0 "революционная республика" #GetGovernmentIM
+ GOV_REVOLUTIONARY_REPUBLIC_RD:0 "революционной республики" #GetGovernmentRD
+ GOV_REVOLUTIONARY_REPUBLIC_DT:0 "революционной республике" #GetGovernmentDT
+ GOV_REVOLUTIONARY_REPUBLIC_TV:0 "революционной республикой" #GetGovernmentTV
+ GOV_REVOLUTIONARY_REPUBLIC_PR:0 "революционной республике" #GetGovernmentPR
+ 
+ KAISERREICH_IM:0 "империя" #GetGovernmentIM
+ KAISERREICH_RD:0 "империи" #GetGovernmentRD
+ KAISERREICH_DT:0 "империи" #GetGovernmentDT
+ KAISERREICH_TV:0 "империей" #GetGovernmentTV
+ KAISERREICH_PR:0 "империи" #GetGovernmentPR
+ 
+ STRATOCRACY_IM:0 "юнкерская стратократия" #GetGovernmentIM
+ STRATOCRACY_RD:0 "юнкерской стратократии" #GetGovernmentRD
+ STRATOCRACY_DT:0 "юнкерской стратократии" #GetGovernmentDT
+ STRATOCRACY_TV:0 "юнкерской стратократией" #GetGovernmentTV
+ STRATOCRACY_PR:0 "юнкерской стратократии" #GetGovernmentPR
+ 
+ ADMIRALTY_IM:0 "адмиралтейство" #GetGovernmentIM
+ ADMIRALTY_RD:0 "адмиралтейства" #GetGovernmentRD
+ ADMIRALTY_DT:0 "адмиралтейству" #GetGovernmentDT
+ ADMIRALTY_TV:0 "адмиралтейством" #GetGovernmentTV
+ ADMIRALTY_PR:0 "адмиралтействе" #GetGovernmentPR
+ 
+ HIGH_ADMIRALTY_IM:0 "высшее адмиралтейство" #GetGovernmentIM
+ HIGH_ADMIRALTY_RD:0 "высшего адмиралтейства" #GetGovernmentRD
+ HIGH_ADMIRALTY_DT:0 "высшему адмиралтейству" #GetGovernmentDT
+ HIGH_ADMIRALTY_TV:0 "высшим адмиралтейством" #GetGovernmentTV
+ HIGH_ADMIRALTY_PR:0 "высшем адмиралтействе" #GetGovernmentPR
+ 
+ SUPREME_ADMIRALTY_IM:0 "верховное адмиралтейство" #GetGovernmentIM
+ SUPREME_ADMIRALTY_RD:0 "верховного адмиралтейства" #GetGovernmentRD
+ SUPREME_ADMIRALTY_DT:0 "верховному адмиралтейству" #GetGovernmentDT
+ SUPREME_ADMIRALTY_TV:0 "верховным адмиралтейством" #GetGovernmentTV
+ SUPREME_ADMIRALTY_PR:0 "верховном адмиралтействе" #GetGovernmentPR
+ 
+ COMMONWEALTH_IM:0 "содружество" #GetGovernmentIM
+ COMMONWEALTH_RD:0 "содружества" #GetGovernmentRD
+ COMMONWEALTH_DT:0 "содружеству" #GetGovernmentDT
+ COMMONWEALTH_TV:0 "содружеством" #GetGovernmentTV
+ COMMONWEALTH_PR:0 "содружестве" #GetGovernmentPR
+ 
+ MILITARY_GOVERNMENT_IM:0 "военная республика" #GetGovernmentIM
+ MILITARY_GOVERNMENT_RD:0 "военной республики" #GetGovernmentRD
+ MILITARY_GOVERNMENT_DT:0 "военной республике" #GetGovernmentDT
+ MILITARY_GOVERNMENT_TV:0 "военной республикой" #GetGovernmentTV
+ MILITARY_GOVERNMENT_PR:0 "военной республике" #GetGovernmentPR
+ 
+ ELECTORAL_PALATINATE_IM:0 "выборное пфальцграфство" #GetGovernmentIM
+ ELECTORAL_PALATINATE_RD:0 "выборного пфальцграфства" #GetGovernmentRD
+ ELECTORAL_PALATINATE_DT:0 "выборному пфальцграфству" #GetGovernmentDT
+ ELECTORAL_PALATINATE_TV:0 "выборным пфальцграфством" #GetGovernmentTV
+ ELECTORAL_PALATINATE_PR:0 "выборном пфальцграфстве" #GetGovernmentPR
+ 
+ COUNTY_PALATINE_IM:0 "пфальцграфство" #GetGovernmentIM
+ COUNTY_PALATINE_RD:0 "пфальцграфства" #GetGovernmentRD
+ COUNTY_PALATINE_DT:0 "пфальцграфству" #GetGovernmentDT
+ COUNTY_PALATINE_TV:0 "пфальцграфством" #GetGovernmentTV
+ COUNTY_PALATINE_PR:0 "пфальцграфстве" #GetGovernmentPR
+ 
+ KINGDOM_PALATINE_IM:0 "пфальцкоролевство" #GetGovernmentIM
+ KINGDOM_PALATINE_RD:0 "пфальцкоролевства" #GetGovernmentRD
+ KINGDOM_PALATINE_DT:0 "пфальцкоролевству" #GetGovernmentDT
+ KINGDOM_PALATINE_TV:0 "пфальцкоролевством" #GetGovernmentTV
+ KINGDOM_PALATINE_PR:0 "пфальцкоролевстве" #GetGovernmentPR
+ 
+ HERCEGSEG_IM:0 "княжество" #GetGovernmentIM
+ HERCEGSEG_RD:0 "княжества" #GetGovernmentRD
+ HERCEGSEG_DT:0 "княжеству" #GetGovernmentDT
+ HERCEGSEG_TV:0 "княжеством" #GetGovernmentTV
+ HERCEGSEG_PR:0 "княжестве" #GetGovernmentPR
+ 
+ GRAND_HERCEGSEG_IM:0 "великое княжество" #GetGovernmentIM
+ GRAND_HERCEGSEG_RD:0 "великого княжества" #GetGovernmentRD
+ GRAND_HERCEGSEG_DT:0 "великому княжеству" #GetGovernmentDT
+ GRAND_HERCEGSEG_TV:0 "великим княжеством" #GetGovernmentTV
+ GRAND_HERCEGSEG_PR:0 "великом княжестве" #GetGovernmentPR
+ 
+ ELECTORATE_DUCHY_IM:0 "курфюршество" #GetGovernmentIM
+ ELECTORATE_DUCHY_RD:0 "курфюршества" #GetGovernmentRD
+ ELECTORATE_DUCHY_DT:0 "курфюршеству" #GetGovernmentDT
+ ELECTORATE_DUCHY_TV:0 "курфюршеством" #GetGovernmentTV
+ ELECTORATE_DUCHY_PR:0 "курфюршестве" #GetGovernmentPR
+ 
+ ELECTORATE_BISHOPRIC_IM:0 "епископство-курфюршество" #GetGovernmentIM
+ ELECTORATE_BISHOPRIC_RD:0 "епископства-курфюршества" #GetGovernmentRD
+ ELECTORATE_BISHOPRIC_DT:0 "епископству-курфюршеству" #GetGovernmentDT
+ ELECTORATE_BISHOPRIC_TV:0 "епископством-курфюршеством" #GetGovernmentTV
+ ELECTORATE_BISHOPRIC_PR:0 "епископстве-курфюршестве" #GetGovernmentPR
+ 
+ ELECTORAL_REPUBLIC_IM:0 "республика-курфюршество" #GetGovernmentIM
+ ELECTORAL_REPUBLIC_RD:0 "республики-курфюршества" #GetGovernmentRD
+ ELECTORAL_REPUBLIC_DT:0 "республике-курфюршеству" #GetGovernmentDT
+ ELECTORAL_REPUBLIC_TV:0 "республикой-курфюршеством" #GetGovernmentTV
+ ELECTORAL_REPUBLIC_PR:0 "республике-курфюршестве" #GetGovernmentPR
+ 
+ GRAND_ELECTORAL_REPUBLIC_IM:0 "великая республика-курфюршество" #GetGovernmentIM
+ GRAND_ELECTORAL_REPUBLIC_RD:0 "великой республики-курфюршества" #GetGovernmentRD
+ GRAND_ELECTORAL_REPUBLIC_DT:0 "великой республике-курфюршеству" #GetGovernmentDT
+ GRAND_ELECTORAL_REPUBLIC_TV:0 "великой республикой-курфюршеством" #GetGovernmentTV
+ GRAND_ELECTORAL_REPUBLIC_PR:0 "великой республике-курфюршестве" #GetGovernmentPR
+ 
+ GREAT_ELECTORAL_REPUBLIC_IM:0 "величайшая республика-курфюршество" #GetGovernmentIM
+ GREAT_ELECTORAL_REPUBLIC_RD:0 "величайшей республики-курфюршества" #GetGovernmentRD
+ GREAT_ELECTORAL_REPUBLIC_DT:0 "величайшей республике-курфюршеству" #GetGovernmentDT
+ GREAT_ELECTORAL_REPUBLIC_TV:0 "величайшей республикой-курфюршеством" #GetGovernmentTV
+ GREAT_ELECTORAL_REPUBLIC_PR:0 "величайшей республике-курфюршестве" #GetGovernmentPR
+ 
+ COUNTY_IM:0 "графство" #GetGovernmentIM
+ COUNTY_RD:0 "графства" #GetGovernmentRD
+ COUNTY_DT:0 "графству" #GetGovernmentDT
+ COUNTY_TV:0 "графством" #GetGovernmentTV
+ COUNTY_PR:0 "графстве" #GetGovernmentPR
+ 
+ COUNTY_IM:0 "графство" #GetGovernmentIM
+ COUNTY_RD:0 "графства" #GetGovernmentRD
+ COUNTY_DT:0 "графству" #GetGovernmentDT
+ COUNTY_TV:0 "графством" #GetGovernmentTV
+ COUNTY_PR:0 "графстве" #GetGovernmentPR
+ 
+ COUNTY_PALATINE_IM:0 "пфальцграфство" #GetGovernmentIM
+ COUNTY_PALATINE_RD:0 "пфальцграфства" #GetGovernmentRD
+ COUNTY_PALATINE_DT:0 "пфальцграфству" #GetGovernmentDT
+ COUNTY_PALATINE_TV:0 "пфальцграфством" #GetGovernmentTV
+ COUNTY_PALATINE_PR:0 "пфальцграфстве" #GetGovernmentPR
+ 
+ KINGDOM_PALATINE_IM:0 "пфальцкоролевство" #GetGovernmentIM
+ KINGDOM_PALATINE_RD:0 "пфальцкоролевства" #GetGovernmentRD
+ KINGDOM_PALATINE_DT:0 "пфальцкоролевству" #GetGovernmentDT
+ KINGDOM_PALATINE_TV:0 "пфальцкоролевством" #GetGovernmentTV
+ KINGDOM_PALATINE_PR:0 "пфальцкоролевстве" #GetGovernmentPR
+ 
+ IKKO_IKKI_COMMUNE_IM:0 "республика Икко-икки" #GetGovernmentIM
+ IKKO_IKKI_COMMUNE_RD:0 "республики Икко-икки" #GetGovernmentRD
+ IKKO_IKKI_COMMUNE_DT:0 "республике Икко-икки" #GetGovernmentDT
+ IKKO_IKKI_COMMUNE_TV:0 "республикой Икко-икки" #GetGovernmentTV
+ IKKO_IKKI_COMMUNE_PR:0 "республике Икко-икки" #GetGovernmentPR
+ 
+ IKKO_IKKI_ORDER_IM:0 "орден Икко-икки" #GetGovernmentIM
+ IKKO_IKKI_ORDER_RD:0 "ордена Икко-икки" #GetGovernmentRD
+ IKKO_IKKI_ORDER_DT:0 "ордену Икко-икки" #GetGovernmentDT
+ IKKO_IKKI_ORDER_TV:0 "орденом Икко-икки" #GetGovernmentTV
+ IKKO_IKKI_ORDER_PR:0 "ордене Икко-икки" #GetGovernmentPR
+ 
+ IKKO_IKKI_SHOGUN_IM:0 "сёгунат Икко-икки" #GetGovernmentIM
+ IKKO_IKKI_SHOGUN_RD:0 "сёгуната Икко-икки" #GetGovernmentRD
+ IKKO_IKKI_SHOGUN_DT:0 "сёгунату Икко-икки" #GetGovernmentDT
+ IKKO_IKKI_SHOGUN_TV:0 "сёгунатом Икко-икки" #GetGovernmentTV
+ IKKO_IKKI_SHOGUN_PR:0 "сёгунате Икко-икки" #GetGovernmentPR
+ 
+ IKKO_IKKI_EMPIRE_IM:0 "протекторат Икко-икки" #GetGovernmentIM
+ IKKO_IKKI_EMPIRE_RD:0 "протектората Икко-икки" #GetGovernmentRD
+ IKKO_IKKI_EMPIRE_DT:0 "протекторату Икко-икки" #GetGovernmentDT
+ IKKO_IKKI_EMPIRE_TV:0 "протекторатом Икко-икки" #GetGovernmentTV
+ IKKO_IKKI_EMPIRE_PR:0 "протекторате Икко-икки" #GetGovernmentPR
+ 
+ WARRIOR_MONK_ORDER_IM:0 "сохэй" #GetGovernmentIM
+ WARRIOR_MONK_ORDER_RD:0 "сохэя" #GetGovernmentRD
+ WARRIOR_MONK_ORDER_DT:0 "сохэю" #GetGovernmentDT
+ WARRIOR_MONK_ORDER_TV:0 "сохэем" #GetGovernmentTV
+ WARRIOR_MONK_ORDER_PR:0 "сохэе" #GetGovernmentPR
+ 
+ WARRIOR_MONK_HIGH_ORDER_IM:0 "монашеский сёгунат" #GetGovernmentIM
+ WARRIOR_MONK_HIGH_ORDER_RD:0 "монашеского сёгуната" #GetGovernmentRD
+ WARRIOR_MONK_HIGH_ORDER_DT:0 "монашескому сёгунату" #GetGovernmentDT
+ WARRIOR_MONK_HIGH_ORDER_TV:0 "монашеским сёгунатом" #GetGovernmentTV
+ WARRIOR_MONK_HIGH_ORDER_PR:0 "монашеском сёгунате" #GetGovernmentPR
+ 
+ DIVINE_PROTECTORS_IM:0 "божественный протекторат" #GetGovernmentIM
+ DIVINE_PROTECTORS_RD:0 "божественного протектората" #GetGovernmentRD
+ DIVINE_PROTECTORS_DT:0 "божественному протекторату" #GetGovernmentDT
+ DIVINE_PROTECTORS_TV:0 "божественным протекторатом" #GetGovernmentTV
+ DIVINE_PROTECTORS_PR:0 "божественном протекторате" #GetGovernmentPR
+ 
+ BLACK_KNIGHTS_IM:0 "рыцари Адриана" #GetGovernmentIM
+ BLACK_KNIGHTS_RD:0 "рыцарей Адриана" #GetGovernmentRD
+ BLACK_KNIGHTS_DT:0 "рыцарям Адриана" #GetGovernmentDT
+ BLACK_KNIGHTS_TV:0 "рыцарями Адриана" #GetGovernmentTV
+ BLACK_KNIGHTS_PR:0 "рыцарях Адриана" #GetGovernmentPR
+ 
+ BLACK_LONG_KNIGHTS_IM:0 "рыцари Адриана" #GetGovernmentIM
+ BLACK_LONG_KNIGHTS_RD:0 "рыцарей Адриана" #GetGovernmentRD
+ BLACK_LONG_KNIGHTS_DT:0 "рыцарям Адриана" #GetGovernmentDT
+ BLACK_LONG_KNIGHTS_TV:0 "рыцарями Адриана" #GetGovernmentTV
+ BLACK_LONG_KNIGHTS_PR:0 "рыцарях Адриана" #GetGovernmentPR
+ 
+ BLACK_WATCH_IM:0 "дозор Адриана" #GetGovernmentIM
+ BLACK_WATCH_RD:0 "дозора Адриана" #GetGovernmentRD
+ BLACK_WATCH_DT:0 "дозору Адриана" #GetGovernmentDT
+ BLACK_WATCH_TV:0 "дозором Адриана" #GetGovernmentTV
+ BLACK_WATCH_PR:0 "дозоре Адриана" #GetGovernmentPR
+ 
+ SOVREIGN_MONASTIC_ORDER_IM:0 "суверенный военный орден" #GetGovernmentIM
+ SOVREIGN_MONASTIC_ORDER_RD:0 "суверенного военного ордена" #GetGovernmentRD
+ SOVREIGN_MONASTIC_ORDER_DT:0 "суверенному военному ордену" #GetGovernmentDT
+ SOVREIGN_MONASTIC_ORDER_TV:0 "суверенном военном орденом" #GetGovernmentTV
+ SOVREIGN_MONASTIC_ORDER_PR:0 "суверенном военном ордене" #GetGovernmentPR
+ 
+ SOVREIGN_MONASTIC_CONFEDERATION_IM:0 "суверенная рыцарская конфедерация" #GetGovernmentIM
+ SOVREIGN_MONASTIC_CONFEDERATION_RD:0 "суверенной рыцарской конфедерации" #GetGovernmentRD
+ SOVREIGN_MONASTIC_CONFEDERATION_DT:0 "суверенной рыцарской конфедерации" #GetGovernmentDT
+ SOVREIGN_MONASTIC_CONFEDERATION_TV:0 "суверенной рыцарской конфедерацией" #GetGovernmentTV
+ SOVREIGN_MONASTIC_CONFEDERATION_PR:0 "суверенной рыцарской конфедерации" #GetGovernmentPR
+ 
+ SISTERHOOD_IM:0 "сестричество" #GetGovernmentIM
+ SISTERHOOD_RD:0 "сестричества" #GetGovernmentRD
+ SISTERHOOD_DT:0 "сестричеству" #GetGovernmentDT
+ SISTERHOOD_TV:0 "сестричеством" #GetGovernmentTV
+ SISTERHOOD_PR:0 "сестричестве" #GetGovernmentPR
+ 
+ GRAND_SISTERHOOD_IM:0 "великое сестричество" #GetGovernmentIM
+ GRAND_SISTERHOOD_RD:0 "великого сестричества" #GetGovernmentRD
+ GRAND_SISTERHOOD_DT:0 "великому сестричеству" #GetGovernmentDT
+ GRAND_SISTERHOOD_TV:0 "великим сестричеством" #GetGovernmentTV
+ GRAND_SISTERHOOD_PR:0 "великом сестричестве" #GetGovernmentPR
+ 
+ TRAPPIST_STATE_IM:0 "орден траппистов" #GetGovernmentIM
+ TRAPPIST_STATE_RD:0 "ордена траппистов" #GetGovernmentRD
+ TRAPPIST_STATE_DT:0 "ордену траппистов" #GetGovernmentDT
+ TRAPPIST_STATE_TV:0 "орденом траппистов" #GetGovernmentTV
+ TRAPPIST_STATE_PR:0 "ордене траппистов" #GetGovernmentPR
+ 
+ MONASTIC_STATE_IM:0 "монашеское государство" #GetGovernmentIM
+ MONASTIC_STATE_RD:0 "монашеского государства" #GetGovernmentRD
+ MONASTIC_STATE_DT:0 "монашескому государству" #GetGovernmentDT
+ MONASTIC_STATE_TV:0 "монашеским государством" #GetGovernmentTV
+ MONASTIC_STATE_PR:0 "монашеском государстве" #GetGovernmentPR
+ 
+ BREWING_EMPIRE_IM:0 "пивная империя" #GetGovernmentIM
+ BREWING_EMPIRE_RD:0 "пивной империи" #GetGovernmentRD
+ BREWING_EMPIRE_DT:0 "пивной империи" #GetGovernmentDT
+ BREWING_EMPIRE_TV:0 "пивной империей" #GetGovernmentTV
+ BREWING_EMPIRE_PR:0 "пивной империи" #GetGovernmentPR
+ 
+ SYNTH_GOV_IM:0 "машинный интеллект" #GetGovernmentIM
+ SYNTH_GOV_RD:0 "машинного интеллекта" #GetGovernmentRD
+ SYNTH_GOV_DT:0 "машинному интеллекту" #GetGovernmentDT
+ SYNTH_GOV_TV:0 "машинным интеллектом" #GetGovernmentTV
+ SYNTH_GOV_PR:0 "машинном интеллекте" #GetGovernmentPR
+ 
