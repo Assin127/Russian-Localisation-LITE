@@ -386,7 +386,7 @@
  TAG_RD_GAZ:0 "Газикумуха" #GetTagRD
  TAG_RD_IME:0 "Имеретии" #GetTagRD
  TAG_RD_TAB:1 "Мазандарана" #GetTagRD
- TAG_RD_MYR:0 "Ежэня" #GetTagRD
+ TAG_RD_MYR:0 "Сибо" #GetTagRD
  TAG_RD_MHX:0 "Хайси" #GetTagRD
  TAG_RD_KRC:0 "Хорчинов" #GetTagRD
  TAG_RD_KLK:0 "Халхи" #GetTagRD
@@ -808,8 +808,8 @@
  TAG_RD_SOO:0 "Со" #GetTagRD
  TAG_RD_SOL:0 "Солонов" #GetTagRD
  TAG_RD_NVK:0 "Нивхов" #GetTagRD
- TAG_RD_EJZ:0 "Дунхая" #GetTagRD
- TAG_RD_NHX:0 "Удэге" #GetTagRD
+ TAG_RD_EJZ:0 "Наная" #GetTagRD
+ TAG_RD_NHX:0 "Орочи" #GetTagRD
  #Государства, отвечающие на вопрос "Куда?"
  TAG_VN_DYN:0 "державу [Root.GetName]" #GetTagVN
  TAG_VN_ADA:0 "Адаль" #GetTagVN
@@ -1197,7 +1197,7 @@
  TAG_VN_GAZ:0 "Газикумух" #GetTagVN
  TAG_VN_IME:0 "Имеретию" #GetTagVN
  TAG_VN_TAB:1 "Мазандаран" #GetTagVN
- TAG_VN_MYR:0 "Ежэнь" #GetTagVN
+ TAG_VN_MYR:0 "Сибо" #GetTagVN
  TAG_VN_MHX:0 "Хайси" #GetTagVN
  TAG_VN_KRC:0 "орду Хорчинов" #GetTagVN
  TAG_VN_KLK:0 "Халху" #GetTagVN
@@ -1619,8 +1619,8 @@
  TAG_VN_SOO:0 "Со" #GetTagU
  TAG_VN_SOL:0 "державу Солонов" #GetTagVN
  TAG_VN_NVK:0 "державу Нивхов" #GetTagVN
- TAG_VN_EJZ:0 "Дунхай" #GetTagVN
- TAG_VN_NHX:0 "Удэге" #GetTagVN
+ TAG_VN_EJZ:0 "Нанай" #GetTagVN
+ TAG_VN_NHX:0 "Орочи" #GetTagVN
  #Государства, отвечающие на вопрос "Сделано чем?"
  TAG_TV_DYN:0 "державой [Root.GetName]" #GetTagTV
  TAG_TV_ADA:0 "Адалем" #GetTagTV
@@ -2008,7 +2008,7 @@
  TAG_TV_GAZ:0 "Газикумухом" #GetTagTV
  TAG_TV_IME:0 "Имеретией" #GetTagTV
  TAG_TV_TAB:1 "Мазандараном" #GetTagTV
- TAG_TV_MYR:0 "Ежэнью" #GetTagTV
+ TAG_TV_MYR:0 "Сибо" #GetTagTV
  TAG_TV_MHX:0 "Хайси" #GetTagTV
  TAG_TV_KRC:0 "Хорчинами" #GetTagTV
  TAG_TV_KLK:0 "Халхой" #GetTagTV
@@ -2430,8 +2430,8 @@
  TAG_TV_SOO:0 "Со" #GetTagTV
  TAG_TV_SOL:0 "Солонами" #GetTagTV
  TAG_TV_NVK:0 "Нивхами" #GetTagTV
- TAG_TV_EJZ:0 "Дунхайем" #GetTagTV
- TAG_TV_NHX:0 "Удэге" #GetTagTV
+ TAG_TV_EJZ:0 "Нанаем" #GetTagTV
+ TAG_TV_NHX:0 "Орочи" #GetTagTV
  #Государства, отвечающие на вопрос "Где?"
  TAG_PR_DYN:0 "державе [Root.GetName]" #GetTagPR
  TAG_PR_ADA:0 "Адале" #GetTagPR
@@ -2819,7 +2819,7 @@
  TAG_PR_GAZ:0 "Газикумухе" #GetTagPR
  TAG_PR_IME:0 "Имеретии" #GetTagPR
  TAG_PR_TAB:1 "Мазандаране" #GetTagPR
- TAG_PR_MYR:0 "Ежэне" #GetTagPR
+ TAG_PR_MYR:0 "Сибо" #GetTagPR
  TAG_PR_MHX:0 "Хайси" #GetTagPR
  TAG_PR_KRC:0 "Хорчинах" #GetTagPR
  TAG_PR_KLK:0 "Халхе" #GetTagPR
@@ -3241,8 +3241,8 @@
  TAG_PR_SOO:0 "Со" #GetTagPR
  TAG_PR_SOL:0 "державе Солонов" #GetTagPR
  TAG_PR_NVK:0 "державе Нивхов" #GetTagPR
- TAG_PR_EJZ:0 "Дунхайе" #GetTagPR
- TAG_PR_NHX:0 "Удэге" #GetTagPR
+ TAG_PR_EJZ:0 "Нанае" #GetTagPR
+ TAG_PR_NHX:0 "Орочи" #GetTagPR
  #Государства, отвечающие на вопрос "Кому?"
  TAG_DT_DYN:0 "державе [Root.GetName]" #GetTagDT
  TAG_DT_ADA:0 "Адалю" #GetTagDT
@@ -3630,7 +3630,7 @@
  TAG_DT_GAZ:0 "Газикумуху" #GetTagDT
  TAG_DT_IME:0 "Имеретии" #GetTagDT
  TAG_DT_TAB:1 "Мазандарану" #GetTagDT
- TAG_DT_MYR:0 "Ежэню" #GetTagDT
+ TAG_DT_MYR:0 "Сибо" #GetTagDT
  TAG_DT_MHX:0 "Хайси" #GetTagDT
  TAG_DT_KRC:0 "Хорчинам" #GetTagDT
  TAG_DT_KLK:0 "Халхе" #GetTagDT
@@ -4052,8 +4052,8 @@
  TAG_DT_SOO:0 "Со" #GetTagDT
  TAG_DT_SOL:0 "державе Солонов" #GetTagDT
  TAG_DT_NVK:0 "державе Нивхов" #GetTagDT
- TAG_DT_EJZ:0 "Дунхаю" #GetTagDT
- TAG_DT_NHX:0 "Удэге" #GetTagDT
+ TAG_DT_EJZ:0 "Нанаю" #GetTagDT
+ TAG_DT_NHX:0 "Орочи" #GetTagDT
  ### 1.30
  TAG_RD_SNA:0 "Соноре" #GetTagRD
  TAG_RD_WSI:0 "Вест-Индии" #GetTagRD
@@ -4414,7 +4414,7 @@
  TAG_RD_MSG:0 "Миссиссаги" #GetTagRD
  TAG_RD_WCY:0 "Вичиена" #GetTagRD
  TAG_RD_LAK:0 "Лакота" #GetTagRD
- TAG_RD_INN:0 "Инну" #GetTagRD
+ TAG_RD_INN:0 "Инну"  #GetTagRD
  TAG_RD_WAM:0 "Вампаноаги" #GetTagRD
  TAG_RD_AGQ:0 "Алгонкинов" #GetTagRD
  
@@ -4517,7 +4517,7 @@
  TAG_DT_MSG:0 "Миссиссаги" #GetTagDT
  TAG_DT_WCY:0 "Вичиена" #GetTagDT
  TAG_DT_LAK:0 "Лакота" #GetTagDT
- TAG_DT_INN:0 "Инну" #GetTagDT
+ TAG_DT_INN:0 "Инну"  #GetTagDT
  TAG_DT_WAM:0 "Вампаноаги" #GetTagDT
  TAG_DT_AGQ:0 "Алгонкинам" #GetTagDT
  
@@ -4620,7 +4620,7 @@
  TAG_VN_MSG:0 "Миссиссаги" #GetTagVN
  TAG_VN_WCY:0 "Вичиена" #GetTagVN
  TAG_VN_LAK:0 "Лакота" #GetTagVN
- TAG_VN_INN:0 "Инну" #GetTagVN
+ TAG_VN_INN:0 "Инну"  #GetTagVN
  TAG_VN_WAM:0 "Вампаноаги" #GetTagVN
  TAG_VN_AGQ:0 "Алгонкинов" #GetTagVN
  
@@ -4723,7 +4723,7 @@
  TAG_TV_MSG:0 "Миссиссаги" #GetTagTV
  TAG_TV_WCY:0 "Вичиена" #GetTagTV
  TAG_TV_LAK:0 "Лакота" #GetTagTV
- TAG_TV_INN:0 "Инну" #GetTagTV
+ TAG_TV_INN:0 "Инну"  #GetTagTV
  TAG_TV_WAM:0 "Вампаноаги" #GetTagTV
  TAG_TV_AGQ:0 "Алгонкинами" #GetTagTV
  
@@ -4826,81 +4826,7 @@
  TAG_PR_MSG:0 "Миссиссаги" #GetTagPR
  TAG_PR_WCY:0 "Вичиена" #GetTagPR
  TAG_PR_LAK:0 "Лакота" #GetTagPR
- TAG_PR_INN:0 "Инну" #GetTagPR
+ TAG_PR_INN:0 "Инну"  #GetTagPR
  TAG_PR_WAM:0 "Вампаноаги" #GetTagPR
  TAG_PR_AGQ:0 "Алгонкинах" #GetTagPR
- ### 1.32
- TAG_RD_ZUL:0 "Зулусов" #GetTagRD
- TAG_RD_ISR:0 "Израиля" #GetTagRD
- TAG_RD_WGD:0 "Уагадугу" #GetTagRD
- TAG_RD_ZND:0 "Зандомы" #GetTagRD
- TAG_RD_GUR:0 "Фада Нгурмы" #GetTagRD
- TAG_RD_TEN:0 "Тенкодого" #GetTagRD
- TAG_RD_SOM:0 "Сомали" #GetTagRD
- TAG_RD_OGD:0 "Огадена" #GetTagRD
- TAG_RD_AKS:0 "Аксума" #GetTagRD
- TAG_RD_GZI:0 "Зимбабве" #GetTagRD
- TAG_RD_NBI:0 "Нубии" #GetTagRD
- TAG_RD_RZI:0 "Империи Розви" #GetTagRD
- TAG_RD_KIT:0 "Китары" #GetTagRD
- TAG_RD_WAD:0 "Вадаи" #GetTagRD
  
- TAG_DT_ZUL:0 "Зулусам" #GetTagDT
- TAG_DT_ISR:0 "Израилю" #GetTagDT
- TAG_DT_WGD:0 "Уагадугу" #GetTagDT
- TAG_DT_ZND:0 "Зандоме" #GetTagDT
- TAG_DT_GUR:0 "Фада Нгурме" #GetTagDT
- TAG_DT_TEN:0 "Тенкодого" #GetTagDT
- TAG_DT_SOM:0 "Сомали" #GetTagDT
- TAG_DT_OGD:0 "Огадену" #GetTagDT
- TAG_DT_AKS:0 "Аксуму" #GetTagDT
- TAG_DT_GZI:0 "Зимбабве" #GetTagDT
- TAG_DT_NBI:0 "Нубии" #GetTagDT
- TAG_DT_RZI:0 "Империи Розви" #GetTagDT
- TAG_DT_KIT:0 "Китаре" #GetTagDT
- TAG_DT_WAD:0 "Вадаи" #GetTagDT
- 
- TAG_VN_ZUL:0 "Зулусов" #GetTagVN
- TAG_VN_ISR:0 "Израиль" #GetTagVN
- TAG_VN_WGD:0 "Уагадугу" #GetTagVN
- TAG_VN_ZND:0 "Зандому" #GetTagVN
- TAG_VN_GUR:0 "Фада Нгурму" #GetTagVN
- TAG_VN_TEN:0 "Тенкодого" #GetTagVN
- TAG_VN_SOM:0 "Сомали" #GetTagVN
- TAG_VN_OGD:0 "Огаден" #GetTagVN
- TAG_VN_AKS:0 "Аксум" #GetTagVN
- TAG_VN_GZI:0 "Зимбабве" #GetTagVN
- TAG_VN_NBI:0 "Нубию" #GetTagVN
- TAG_VN_RZI:0 "Империю Розви" #GetTagVN
- TAG_VN_KIT:0 "Китару" #GetTagVN
- TAG_VN_WAD:0 "Вадаи" #GetTagVN
- 
- TAG_TV_ZUL:0 "Зулусами" #GetTagTV
- TAG_TV_ISR:0 "Израилем" #GetTagTV
- TAG_TV_WGD:0 "Уагадугу" #GetTagTV
- TAG_TV_ZND:0 "Зандомой" #GetTagTV
- TAG_TV_GUR:0 "Фада Нгурмой" #GetTagTV
- TAG_TV_TEN:0 "Тенкодого" #GetTagTV
- TAG_TV_SOM:0 "Сомали" #GetTagTV
- TAG_TV_OGD:0 "Огаденом" #GetTagTV
- TAG_TV_AKS:0 "Аксумом" #GetTagTV
- TAG_TV_GZI:0 "Зимбабве" #GetTagTV
- TAG_TV_NBI:0 "Нубией" #GetTagTV
- TAG_TV_RZI:0 "Империей Розви" #GetTagTV
- TAG_TV_KIT:0 "Китарой" #GetTagTV
- TAG_TV_WAD:0 "Вадаи" #GetTagTV
- 
- TAG_PR_ZUL:0 "Зулусах" #GetTagPR
- TAG_PR_ISR:0 "Израиле" #GetTagPR
- TAG_PR_WGD:0 "Уагадугу" #GetTagPR
- TAG_PR_ZND:0 "Зандоме" #GetTagPR
- TAG_PR_GUR:0 "Фада Нгурме" #GetTagPR
- TAG_PR_TEN:0 "Тенкодого" #GetTagPR
- TAG_PR_SOM:0 "Сомали" #GetTagPR
- TAG_PR_OGD:0 "Огадене" #GetTagPR
- TAG_PR_AKS:0 "Аксуме" #GetTagPR
- TAG_PR_GZI:0 "Зимбабве" #GetTagPR
- TAG_PR_NBI:0 "Нубии" #GetTagPR
- TAG_PR_RZI:0 "Империи Розви" #GetTagPR
- TAG_PR_KIT:0 "Китаре" #GetTagPR
- TAG_PR_WAD:0 "Вадаи" #GetTagPR

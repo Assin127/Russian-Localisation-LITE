@@ -419,6 +419,7 @@
  empire_of_china_nomadic_border_events.2.db:0 "Китайской империи больше не существует. Крушение нашей некогда великой страны привело к тому что людей больше не заботит незащищённая граница с кочевниками."
  empire_of_china_nomadic_border_events.2.a:0 "Это воля Небес."
  empire_of_china_nomadic_border:0 "Незащищённая граница с кочевниками"
+ empire_of_china_nomadic_border_tt:0 "Является §Yордой§! и имеет как минимум §Y300§! собственного развития или развития субъектов, не являющихся данниками"
  eoc_nomadic_border_tooltip:0 "Общее развитие превышает §Y300§!"
  shogunate_mechanic_explanation:0 "§BДержава может стать сёгунатом и контролировать всех подчинённых даймё, захватив Киото.§!"
  wokou_pirate_stronghold_indifferent:0 "Пиратская крепость"
@@ -823,3 +824,5 @@
  ENEMY_ALLY_PLAYER:0 "@$TAG$ $NAME$ (игрок)\n"
  ENEMY_ALLY:0 "@$TAG$ $NAME$\n"
  TRIBUTE_INCOME:0 "Держава §Y$NAME$§! ежегодно выплачивает §Y$VAL$§!¤."
+ temple_of_confucius_modifier:0 "Temple of Confucius"
+ desc_temple_of_confucius_modifier:0 "The Temple of Confucius in Qufu is the largest and most renowned temple of Confucius. Originally the house of Confucius himself, the temple has become somewhat of a holy site for the Confucian ways. Many emperors visited this temple in order to offer sacrifices to the memory of Confucius."

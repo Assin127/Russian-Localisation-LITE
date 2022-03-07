@@ -388,6 +388,7 @@
  flavor_nav.4.b:0 "Посмотрим, как поступит король Хуан."
  flavor_nav.4.c:0 "Мы не пойдём на уступки!"
  flavor_nav.5.a:0 "Наварра должна быть старшим партнёром в унии!"
+ flavor_nav.5.a.tt:0 "Представитель рода §Y[ARA.Monarch.Dynasty.GetName]§! взойдёт на трон державы [ARA.GetName]."
  flavor_nav.5.b:0 "Мы примем своё место под властью Арагона."
  MISSIONARY_MAINT_ENVOY_ENTRY:0 "$NAME|Y$ в провинции $LOCATION|Y$ обходится в $COST|R$¤/месяц.\n"
  CONFIRMMISSION_MAINTENANCE_COST:1 "Обращение этой провинции из-за её развития и автономии обойдётся нам в $COST|R$¤/месяц."

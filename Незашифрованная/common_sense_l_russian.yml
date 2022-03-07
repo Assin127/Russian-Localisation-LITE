@@ -1680,7 +1680,7 @@
  TRANSFER_OCCUPATION_TITLE:0 "Передать оккупацию"
  CANT_BUILD_IN_OCCUPIED:0 "Здесь есть свободный участок, но так как провинция оккупирована, Вы не можете построить здания."
  FORT_FLIPPING:2 "Контроль над провинцией $PROV$ перейдёт к державе $FLIPPER$, так как она находится в зоне контроля крепости $FORT$. Текущий прогресс равен $PERCENT|Y$%."
- FORT_FLIPPING_SLIPPING:0 "Контроль над провинцией $PROV$ снова ускользает от державы $FLIPPER$. Текущий прогресс равен $PERCENT|Y$%."
+ FORT_FLIPPING_SLIPPING:1 "$FLIPPERADJ$ие попытки перехватить контроль державы $CONTROLLER$ над провинцией пресекаются враждебными армиями. Текущий прогресс равен $PERCENT|Y$%."
  BUILDING_DISCOUNT:0 "$DISCOUNT$¤ скидки, так как уже построено здание $NAME|Y$."
  guarantee_religious_tolerance_tooltip:0 "Одна провинция получит §G-10%§! к §Yстоимости развития§!"
  guarantee_religious_tolerance_tooltip_2:0 "Провинция [Root.GetName] получит §G-10%§! к §Yстоимости развития§! на следующие 10 лет."

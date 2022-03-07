@@ -40,6 +40,7 @@
  FEMALE_ENDING_LNA:0 "ьна" #GetEndLna
  MALE_ENDING_EL:0 "ёл" #GetEndEl
  FEMALE_ENDING_EL:0 "ла" #GetEndEl
+ FEMALE_ENDING_ELA:0 "ела" #GetHEndElEla
  MALE_ENDING_EYEM:0 "ём" #GetEndEyEm
  FEMALE_ENDING_EYEM:0 "ей" #GetEndEyEm
  MALE_ENDING_IM:0 "им" #GetEndEyIm
@@ -1011,24 +1012,6 @@
  EST_rangatiraIM:0 "рангатира" #NoblesIM
  EST_eikiIM:1 "еики" #NoblesIM
  EST_ratuIM:1 "рату" #NoblesIM
- EST_chieftainsIM:0 "вожди" #NoblesIM
- EST_tengbiiseIM:0 "тенгбиисе" #ChurchIM
- EST_nakomseIM:0 "накомсе" #NoblesIM
- EST_oyo_mesiIM:0 "ойо меси" #NoblesIM
- EST_ogboniIM:0 "огбони" #ChurchIM
- EST_pastorsIM:0 "пасторы" #ChurchIM
- EST_popesIM:0 "патриархи" #ChurchIM
- EST_shamansIM:0 "шаманы" #ChurchIM
- EST_gurusIM:0 "гуру" #ChurchIM
- EST_medicine_menIM:0 "врачи" #ChurchIM
- EST_godarIM:0 "годи" #ChurchIM
- EST_rabbisIM:0 "раввины" #ChurchIM
- EST_mobedsIM:0 "мобеды" #ChurchIM
- EST_kannushiIM:0 "каннуси" #ChurchIM
- EST_panacasIM:0 "панаки" #ChurchIM
- EST_warriorsIM:0 "воины" #NoblesIM
- EST_maniIM:0 "мани" #NoblesIM
- EST_pochtecaIM:0 "почтека" #BurghersIM
  #Переменные в родительном падеже с маленькой буквы
  EST_BrahminsRD:0 "брахманов" #BrahminsRD
  EST_MarathaRD:0 "маратхов" #MarathaRD
@@ -1076,25 +1059,7 @@
  EST_aliiRD:1 "али" #NoblesRD
  EST_rangatiraRD:0 "рангатира" #NoblesRD
  EST_eikiRD:1 "еики" #NoblesRD
- EST_ratuRD:1 "рату" #NoblesRD
- EST_chieftainsRD:0 "вождей" #NoblesRD
- EST_tengbiiseRD:0 "тенгбиисе" #ChurchRD
- EST_nakomseRD:0 "накомсе" #NoblesRD
- EST_oyo_mesiRD:0 "ойо меси" #NoblesRD
- EST_ogboniRD:0 "огбони" #ChurchRD
- EST_pastorsRD:0 "пасторов" #ChurchRD
- EST_popesRD:0 "патриархов" #ChurchRD
- EST_shamansRD:0 "шаманов" #ChurchRD
- EST_gurusRD:0 "гуру" #ChurchRD
- EST_medicine_menRD:0 "врачей" #ChurchRD
- EST_godarRD:0 "годи" #ChurchRD
- EST_rabbisRD:0 "раввинов" #ChurchRD
- EST_mobedsRD:0 "мобедов" #ChurchRD
- EST_kannushiRD:0 "каннуси" #ChurchRD
- EST_panacasRD:0 "панаки" #ChurchRD
- EST_warriorsRD:0 "воинов" #NoblesRD
- EST_maniRD:0 "мани" #NoblesRD
- EST_pochtecaRD:0 "почтека" #BurghersRD
+ EST_ratuRD:1 "рату" #Nobles
  #Переменные в дательном падеже с маленькой буквы
  EST_BrahminsDT:0 "брахманам" #BrahminsDT
  EST_MarathaDT:0 "маратхам" #MarathaDT
@@ -1143,24 +1108,6 @@
  EST_rangatiraDT:0 "рангатира" #NoblesDT
  EST_eikiDT:1 "еики" #NoblesDT
  EST_ratuDT:1 "рату" #NoblesDT
- EST_chieftainsDT:0 "вождям" #NoblesDT
- EST_tengbiiseDT:0 "тенгбиисе" #ChurchDT
- EST_nakomseDT:0 "накомсе" #NoblesDT
- EST_oyo_mesiDT:0 "ойо меси" #NoblesDT
- EST_ogboniDT:0 "огбони" #ChurchDT
- EST_pastorsDT:0 "пасторам" #ChurchDT
- EST_popesDT:0 "патриархам" #ChurchDT
- EST_shamansDT:0 "шаманам" #ChurchDT
- EST_gurusDT:0 "гуру" #ChurchDT
- EST_medicine_menDT:0 "врачам" #ChurchDT
- EST_godarDT:0 "годи" #ChurchDT
- EST_rabbisDT:0 "раввинам" #ChurchDT
- EST_mobedsDT:0 "мобедам" #ChurchDT
- EST_kannushiDT:0 "каннуси" #ChurchDT
- EST_panacasDT:0 "панаки" #ChurchDT
- EST_warriorsDT:0 "воинам" #NoblesDT
- EST_maniDT:0 "мани" #NoblesDT
- EST_pochtecaDT:0 "почтека" #BurghersDT
  #Переменные в винительном падеже с маленькой буквы
  EST_BrahminsVN:0 "брахманов" #BrahminsVN
  EST_MarathaVN:0 "маратхов" #MarathaVN
@@ -1209,24 +1156,6 @@
  EST_rangatiraVN:0 "рангатира" #NoblesVN
  EST_eikiVN:1 "еики" #NoblesVN
  EST_ratuVN:1 "рату" #NoblesVN
- EST_chieftainsVN:0 "вождей" #NoblesVN
- EST_tengbiiseVN:0 "тенгбиисе" #ChurchVN
- EST_nakomseVN:0 "накомсе" #NoblesVN
- EST_oyo_mesiVN:0 "ойо меси" #NoblesVN
- EST_ogboniVN:0 "огбони" #ChurchVN
- EST_pastorsVN:0 "пасторов" #ChurchVN
- EST_popesVN:0 "патриархов" #ChurchVN
- EST_shamansVN:0 "шаманов" #ChurchVN
- EST_gurusVN:0 "гуру" #ChurchVN
- EST_medicine_menVN:0 "врачей" #ChurchVN
- EST_godarVN:0 "годи" #ChurchVN
- EST_rabbisVN:0 "раввинов" #ChurchVN
- EST_mobedsVN:0 "мобедов" #ChurchVN
- EST_kannushiVN:0 "каннуси" #ChurchVN
- EST_panacasVN:0 "панаки" #ChurchVN
- EST_warriorsVN:0 "воинов" #NoblesVN
- EST_maniVN:0 "мани" #NoblesVN
- EST_pochtecaVN:0 "почтека" #BurghersVN
  #Переменные в творительном падеже с маленькой буквы
  EST_BrahminsTV:0 "брахманами" #BrahminsTV
  EST_MarathaTV:0 "маратхами" #MarathaTV
@@ -1275,24 +1204,6 @@
  EST_rangatiraTV:0 "рангатира" #NoblesTV
  EST_eikiTV:1 "еики" #NoblesTV
  EST_ratuTV:1 "рату" #NoblesTV
- EST_chieftainsTV:0 "вождями" #NoblesTV
- EST_tengbiiseTV:0 "тенгбиисе" #ChurchTV
- EST_nakomseTV:0 "накомсе" #NoblesTV
- EST_oyo_mesiTV:0 "ойо меси" #NoblesTV
- EST_ogboniTV:0 "огбони" #ChurchTV
- EST_pastorsTV:0 "пасторами" #ChurchTV
- EST_popesTV:0 "патриархами" #ChurchTV
- EST_shamansTV:0 "шаманами" #ChurchTV
- EST_gurusTV:0 "гуру" #ChurchTV
- EST_medicine_menTV:0 "врачами" #ChurchTV
- EST_godarTV:0 "годи" #ChurchTV
- EST_rabbisTV:0 "раввинами" #ChurchTV
- EST_mobedsTV:0 "мобедами" #ChurchTV
- EST_kannushiTV:0 "каннуси" #ChurchTV
- EST_panacasTV:0 "панаки" #ChurchTV
- EST_warriorsTV:0 "воинами" #NoblesTV
- EST_maniTV:0 "мани" #NoblesTV
- EST_pochtecaTV:0 "почтека" #BurghersTV
  #Переменные в предложном падеже с маленькой буквы
  EST_BrahminsPR:0 "брахманах" #BrahminsPR
  EST_MarathaPR:0 "маратхах" #MarathaPR
@@ -1341,24 +1252,6 @@
  EST_rangatiraPR:0 "рангатира" #NoblesPR
  EST_eikiPR:1 "еики" #NoblesPR
  EST_ratuPR:1 "рату" #NoblesPR
- EST_chieftainsPR:0 "вождях" #NoblesPR
- EST_tengbiisePR:0 "тенгбиисе" #ChurchPR
- EST_nakomsePR:0 "накомсе" #NoblesPR
- EST_oyo_mesiPR:0 "ойо меси" #NoblesPR
- EST_ogboniPR:0 "огбони" #ChurchPR
- EST_pastorsPR:0 "пасторах" #ChurchPR
- EST_popesPR:0 "патриарах" #ChurchPR
- EST_shamansPR:0 "шаманах" #ChurchPR
- EST_gurusPR:0 "гуру" #ChurchPR
- EST_medicine_menPR:0 "врачах" #ChurchPR
- EST_godarPR:0 "годи" #ChurchPR
- EST_rabbisPR:0 "раввинах" #ChurchPR
- EST_mobedsPR:0 "мобедах" #ChurchPR
- EST_kannushiPR:0 "каннуси" #ChurchPR
- EST_panacasPR:0 "панаки" #ChurchPR
- EST_warriorsPR:0 "воинах" #NoblesPR
- EST_maniPR:0 "мани" #NoblesPR
- EST_pochtecaPR:0 "почтека" #BurghersPR
  #Переменные в именительном падеже с большой буквы
  EST_BrahminsIM_CAP:0 "Брахманы" #BrahminsIM_CAP
  EST_MarathaIM_CAP:0 "Маратхи" #MarathaIM_CAP
@@ -1407,24 +1300,6 @@
  EST_rangatiraIM_CAP:0 "Рангатира" #NoblesIM_CAP
  EST_eikiIM_CAP:1 "Еики" #NoblesIM_CAP
  EST_ratuIM_CAP:1 "Рату" #NoblesIM_CAP
- EST_chieftainsIM_CAP:0 "Вожди" #NoblesIM_CAP
- EST_tengbiiseIM_CAP:0 "Тенгбиисе" #ChurchIM_CAP
- EST_nakomseIM_CAP:0 "Накомсе" #NoblesIM_CAP
- EST_oyo_mesiIM_CAP:0 "Ойо Меси" #NoblesIM_CAP
- EST_ogboniIM_CAP:0 "Огбони" #ChurchIM_CAP
- EST_pastorsIM_CAP:0 "Пасторы" #ChurchIM_CAP
- EST_popesIM_CAP:0 "Патриархи" #ChurchIM_CAP
- EST_shamansIM_CAP:0 "Шаманы" #ChurchIM_CAP
- EST_gurusIM_CAP:0 "Гуру" #ChurchIM_CAP
- EST_medicine_menIM_CAP:0 "Врачи" #ChurchIM_CAP
- EST_godarIM_CAP:0 "Годи" #ChurchIM_CAP
- EST_rabbisIM_CAP:0 "Раввины" #ChurchIM_CAP
- EST_mobedsIM_CAP:0 "Мобеды" #ChurchIM_CAP
- EST_kannushiIM_CAP:0 "Каннуси" #ChurchIM_CAP
- EST_panacasIM_CAP:0 "Панаки" #ChurchIM_CAP
- EST_warriorsIM_CAP:0 "Воины" #NoblesIM_CAP
- EST_maniIM_CAP:0 "Мани" #NoblesIM_CAP
- EST_pochtecaIM_CAP:0 "Почтека" #BurghersIM_CAP
  #Переменные в родительном падеже с большой буквы
  EST_BrahminsRD_CAP:0 "Брахманов" #BrahminsRD_CAP
  EST_MarathaRD_CAP:0 "Маратхов" #MarathaRD_CAP
@@ -1473,24 +1348,6 @@
  EST_rangatiraRD_CAP:0 "Рангатира" #NoblesRD_CAP
  EST_eikiRD_CAP:1 "Еики" #NoblesRD_CAP
  EST_ratuRD_CAP:1 "Рату" #NoblesRD_CAP
- EST_chieftainsRD_CAP:0 "Вождей" #NoblesRD_CAP
- EST_tengbiiseRD_CAP:0 "Тенгбиисе" #ChurchRD_CAP
- EST_nakomseRD_CAP:0 "Накомсе" #NoblesRD_CAP
- EST_oyo_mesiRD_CAP:0 "Ойо Меси" #NoblesRD_CAP
- EST_ogboniRD_CAP:0 "Огбони" #ChurchRD_CAP
- EST_pastorsRD_CAP:0 "Пасторов" #ChurchRD_CAP
- EST_popesRD_CAP:0 "Патриархов" #ChurchRD_CAP
- EST_shamansRD_CAP:0 "Шаманов" #ChurchRD_CAP
- EST_gurusRD_CAP:0 "Гуру" #ChurchRD_CAP
- EST_medicine_menRD_CAP:0 "Врачей" #ChurchRD_CAP
- EST_godarRD_CAP:0 "Годи" #ChurchRD_CAP
- EST_rabbisRD_CAP:0 "Раввинов" #ChurchRD_CAP
- EST_mobedsRD_CAP:0 "Мобедов" #ChurchRD_CAP
- EST_kannushiRD_CAP:0 "Каннуси" #ChurchRD_CAP
- EST_panacasRD_CAP:0 "Панаки" #ChurchRD_CAP
- EST_warriorsRD_CAP:0 "Воинов" #NoblesRD_CAP
- EST_maniRD_CAP:0 "Мани" #NoblesRD_CAP
- EST_pochtecaRD_CAP:0 "Почтека" #BurghersRD_CAP
  #Переменные в дательном падеже с большой буквы
  EST_BrahminsDT_CAP:0 "Брахманам" #BrahminsDT_CAP
  EST_MarathaDT_CAP:0 "Маратхам" #MarathaDT_CAP
@@ -1539,24 +1396,6 @@
  EST_rangatiraDT_CAP:0 "Рангатира" #NoblesDT_CAP
  EST_eikiDT_CAP:1 "Еики" #NoblesDT_CAP
  EST_ratuDT_CAP:1 "Рату" #NoblesDT_CAP
- EST_chieftainsDT_CAP:0 "Вождям" #NoblesDT_CAP
- EST_tengbiiseDT_CAP:0 "Тенгбиисе" #ChurchDT_CAP
- EST_nakomseDT_CAP:0 "Накомсе" #NoblesDT_CAP
- EST_oyo_mesiDT_CAP:0 "Ойо Меси" #NoblesDT_CAP
- EST_ogboniDT_CAP:0 "Огбони" #ChurchDT_CAP
- EST_pastorsDT_CAP:0 "Пасторам" #ChurchDT_CAP
- EST_popesDT_CAP:0 "Патриархам" #ChurchDT_CAP
- EST_shamansDT_CAP:0 "Шаманам" #ChurchDT_CAP
- EST_gurusDT_CAP:0 "Гуру" #ChurchDT_CAP
- EST_medicine_menDT_CAP:0 "Врачам" #ChurchDT_CAP
- EST_godarDT_CAP:0 "Годи" #ChurchDT_CAP
- EST_rabbisDT_CAP:0 "Раввинам" #ChurchDT_CAP
- EST_mobedsDT_CAP:0 "Мобедам" #ChurchDT_CAP
- EST_kannushiDT_CAP:0 "Каннуси" #ChurchDT_CAP
- EST_panacasDT_CAP:0 "Панаки" #ChurchDT_CAP
- EST_warriorsDT_CAP:0 "Воинам" #NoblesDT_CAP
- EST_maniDT_CAP:0 "Мани" #NoblesDT_CAP
- EST_pochtecaDT_CAP:0 "Почтека" #BurghersDT_CAP
  #Переменные в винительном падеже с большой буквы
  EST_BrahminsVN_CAP:0 "Брахманов" #BrahminsVN_CAP
  EST_MarathaVN_CAP:0 "Маратхов" #MarathaVN_CAP
@@ -1605,24 +1444,6 @@
  EST_rangatiraVN_CAP:0 "Рангатира" #NoblesVN_CAP
  EST_eikiVN_CAP:1 "Еики" #NoblesVN_CAP
  EST_ratuVN_CAP:1 "Рату" #NoblesVN_CAP
- EST_chieftainsVN_CAP:0 "Вождей" #NoblesVN_CAP
- EST_tengbiiseVN_CAP:0 "Тенгбиисе" #ChurchVN_CAP
- EST_nakomseVN_CAP:0 "Накомсе" #NoblesVN_CAP
- EST_oyo_mesiVN_CAP:0 "Ойо Меси" #NoblesVN_CAP
- EST_ogboniVN_CAP:0 "Огбони" #ChurchVN_CAP
- EST_pastorsVN_CAP:0 "Пасторов" #ChurchVN_CAP
- EST_popesVN_CAP:0 "Патриархов" #ChurchVN_CAP
- EST_shamansVN_CAP:0 "Шаманов" #ChurchVN_CAP
- EST_gurusVN_CAP:0 "Гуру" #ChurchVN_CAP
- EST_medicine_menVN_CAP:0 "Врачей" #ChurchVN_CAP
- EST_godarVN_CAP:0 "Годи" #ChurchVN_CAP
- EST_rabbisVN_CAP:0 "Раввинов" #ChurchVN_CAP
- EST_mobedsVN_CAP:0 "Мобедов" #ChurchVN_CAP
- EST_kannushiVN_CAP:0 "Каннуси" #ChurchVN_CAP
- EST_panacasVN_CAP:0 "Панаки" #ChurchVN_CAP
- EST_warriorsVN_CAP:0 "Воинов" #NoblesVN_CAP
- EST_maniVN_CAP:0 "Мани" #NoblesVN_CAP
- EST_pochtecaVN_CAP:0 "Почтека" #BurghersVN_CAP
  #Переменные в творительном падеже с большой буквы
  EST_BrahminsTV_CAP:0 "Брахманами" #BrahminsTV_CAP
  EST_MarathaTV_CAP:0 "Маратхами" #MarathaTV_CAP
@@ -1671,24 +1492,6 @@
  EST_rangatiraTV_CAP:0 "Рангатира" #NoblesTV_CAP
  EST_eikiTV_CAP:1 "Еики" #NoblesTV_CAP
  EST_ratuTV_CAP:1 "Рату" #NoblesTV_CAP
- EST_chieftainsTV_CAP:0 "Вождями" #NoblesTV_CAP
- EST_tengbiiseTV_CAP:0 "Тенгбиисе" #ChurchTV_CAP
- EST_nakomseTV_CAP:0 "Накомсе" #NoblesTV_CAP
- EST_oyo_mesiTV_CAP:0 "Ойо Меси" #NoblesTV_CAP
- EST_ogboniTV_CAP:0 "Огбони" #ChurchTV_CAP
- EST_pastorsTV_CAP:0 "Пасторами" #ChurchTV_CAP
- EST_popesTV_CAP:0 "Патриархами" #ChurchTV_CAP
- EST_shamansTV_CAP:0 "Шаманами" #ChurchTV_CAP
- EST_gurusTV_CAP:0 "Гуру" #ChurchTV_CAP
- EST_medicine_menTV_CAP:0 "Врачами" #ChurchTV_CAP
- EST_godarTV_CAP:0 "Годи" #ChurchTV_CAP
- EST_rabbisTV_CAP:0 "Раввинами" #ChurchTV_CAP
- EST_mobedsTV_CAP:0 "Мобедами" #ChurchTV_CAP
- EST_kannushiTV_CAP:0 "Каннуси" #ChurchTV_CAP
- EST_panacasTV_CAP:0 "Панаки" #ChurchTV_CAP
- EST_warriorsTV_CAP:0 "Воинами" #NoblesTV_CAP
- EST_maniTV_CAP:0 "Мани" #NoblesTV_CAP
- EST_pochtecaTV_CAP:0 "Почтека" #BurghersTV_CAP
  #Переменные в предложном падеже с большой буквы
  EST_BrahminsPR_CAP:0 "Брахманах" #BrahminsPR_CAP
  EST_MarathaPR_CAP:0 "Маратхах" #MarathaPR_CAP
@@ -1737,21 +1540,3 @@
  EST_rangatiraPR_CAP:0 "Рангатира" #NoblesPR_CAP
  EST_eikiPR_CAP:1 "Еики" #NoblesPR_CAP
  EST_ratuPR_CAP:1 "Рату" #NoblesPR_CAP
- EST_chieftainsPR_CAP:0 "Вождях" #NoblesPR_CAP
- EST_tengbiisePR_CAP:0 "Тенгбиисе" #ChurchPR_CAP
- EST_nakomsePR_CAP:0 "Накомсе" #NoblesPR_CAP
- EST_oyo_mesiPR_CAP:0 "Ойо Меси" #NoblesPR_CAP
- EST_ogboniPR_CAP:0 "Огбони" #ChurchPR_CAP
- EST_pastorsPR_CAP:0 "Пасторах" #ChurchPR_CAP
- EST_popesPR_CAP:0 "Патриарах" #ChurchPR_CAP
- EST_shamansPR_CAP:0 "Шаманах" #ChurchPR_CAP
- EST_gurusPR_CAP:0 "Гуру" #ChurchPR_CAP
- EST_medicine_menPR_CAP:0 "Врачах" #ChurchPR_CAP
- EST_godarPR_CAP:0 "Годи" #ChurchPR_CAP
- EST_rabbisPR_CAP:0 "Раввинах" #ChurchPR_CAP
- EST_mobedsPR_CAP:0 "Мобедах" #ChurchPR_CAP
- EST_kannushiPR_CAP:0 "Каннуси" #ChurchPR_CAP
- EST_panacasPR_CAP:0 "Панаки" #ChurchPR_CAP
- EST_warriorsPR_CAP:0 "Воинах" #NoblesPR_CAP
- EST_maniPR_CAP:0 "Мани" #NoblesPR_CAP
- EST_pochtecaPR_CAP:0 "Почтека" #BurghersPR_CAP

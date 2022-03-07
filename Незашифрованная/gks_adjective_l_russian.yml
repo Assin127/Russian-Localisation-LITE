@@ -386,7 +386,7 @@
  ADJ_GAZ:0 "газикумухск" #GetAdjectiveSmall
  ADJ_IME:0 "имеретинск" #GetAdjectiveSmall
  ADJ_TAB:0 "мазандаранск" #GetAdjectiveSmall
- ADJ_MYR:0 "ежэньск" #GetAdjectiveSmall
+ ADJ_MYR:0 "сибинск" #GetAdjectiveSmall
  ADJ_MHX:0 "хайсийск" #GetAdjectiveSmall
  ADJ_KRC:0 "хорчинск" #GetAdjectiveSmall
  ADJ_KLK:0 "халхийск" #GetAdjectiveSmall
@@ -809,8 +809,8 @@
  ADJ_SOO:0 "сойск" #GetAdjectiveSmall
  ADJ_SOL:0 "солонск" #GetAdjectiveSmall
  ADJ_NVK:0 "нивхск" #GetAdjectiveSmall
- ADJ_EJZ:0 "дунхайск" #GetAdjectiveSmall
- ADJ_NHX:0 "удэгейск" #GetAdjectiveSmall
+ ADJ_EJZ:0 "нанайск" #GetAdjectiveSmall
+ ADJ_NHX:0 "орочийск" #GetAdjectiveSmall
  # Версия 1.30
  ADJ_SNA:0 "сонорск" #GetAdjectiveSmall
  ADJ_WSI:0 "карибск" #GetAdjectiveSmall
@@ -863,122 +863,3 @@
  ADJ_TTS:0 "сицилийск" #GetAdjectiveSmall
  ADJ_LOT:0 "лотарингск" #GetAdjectiveSmall
  ADJ_PGA:0 "перуджск" #GetAdjectiveSmall
- # Версия 1.31
- ADJ_BNE:0 "бонесск" #GetAdjectiveSmall
- ADJ_BEU:0 "бераусск" #GetAdjectiveSmall
- ADJ_SMB:0 "самбасск" #GetAdjectiveSmall
- ADJ_BRS:0 "барусск" #GetAdjectiveSmall
- ADJ_DLI:0 "делийск" #GetAdjectiveSmall
- ADJ_JMB:0 "джамбийск" #GetAdjectiveSmall
- ADJ_PAH:0 "пахангск" #GetAdjectiveSmall
- ADJ_KEL:0 "келантанск" #GetAdjectiveSmall
- ADJ_IND:0 "индрапурск" #GetAdjectiveSmall
- ADJ_JAR:0 "зярайск" #GetAdjectiveSmall
- ADJ_RHA:0 "эдесск" #GetAdjectiveSmall
- ADJ_KOH:0 "кохосск" #GetAdjectiveSmall
- ADJ_SIA:0 "сиамск" #GetAdjectiveSmall
- ADJ_TIW:0 "тивийск" #GetAdjectiveSmall
- ADJ_LAR:0 "ларракийск" #GetAdjectiveSmall
- ADJ_YOL:0 "йолнгуйск" #GetAdjectiveSmall
- ADJ_YNU:0 "янюванск" #GetAdjectiveSmall
- ADJ_AWN:0 "аунгтимск" #GetAdjectiveSmall
- ADJ_GMI:0 "гамиларайск" #GetAdjectiveSmall
- ADJ_MIA:0 "мианджинск" #GetAdjectiveSmall
- ADJ_EOR:0 "эорск" #GetAdjectiveSmall
- ADJ_KUL:0 "кулинск" #GetAdjectiveSmall
- ADJ_KAU:0 "каурнск" #GetAdjectiveSmall
- ADJ_PLW:0 "палавск" #GetAdjectiveSmall
- ADJ_WRU:0 "вурунтьерск" #GetAdjectiveSmall
- ADJ_NOO:0 "ньюнгарск" #GetAdjectiveSmall
- ADJ_MLG:0 "малаганск" #GetAdjectiveSmall
- ADJ_AOT:0 "аотеароанск" #GetAdjectiveSmall
- ADJ_MAA:0 "нгати авасск" #GetAdjectiveSmall
- ADJ_TAN:0 "тайнуиск" #GetAdjectiveSmall
- ADJ_TAK:0 "нгати кахугунусск" #GetAdjectiveSmall
- ADJ_TNK:0 "нгати тоасск" #GetAdjectiveSmall
- ADJ_TEA:0 "нгати рангинуйск" #GetAdjectiveSmall
- ADJ_TTT:0 "нгапухск" #GetAdjectiveSmall
- ADJ_WAI:0 "вайтахск" #GetAdjectiveSmall
- ADJ_UHW:0 "гавайск" #GetAdjectiveSmall
- ADJ_HAW:0 "гавайск" #GetAdjectiveSmall
- ADJ_MAU:0 "мауйск" #GetAdjectiveSmall
- ADJ_OAH:0 "оахск" #GetAdjectiveSmall
- ADJ_KAA:0 "кауаиск" #GetAdjectiveSmall
- ADJ_TOG:0 "тонганск" #GetAdjectiveSmall
- ADJ_SAM:0 "самоанск" #GetAdjectiveSmall
- ADJ_VIT:0 "витийск" #GetAdjectiveSmall
- ADJ_VIL:0 "витийск" #GetAdjectiveSmall
- ADJ_VNL:0 "вануанск" #GetAdjectiveSmall
- ADJ_LAI:0 "лауск" #GetAdjectiveSmall
- ADJ_ALT:0 "алтамахск" #GetAdjectiveSmall
- ADJ_ICH:0 "ичисск" #GetAdjectiveSmall
- ADJ_COF:0 "кофитачекск" #GetAdjectiveSmall
- ADJ_JOA:0 "жоарск" #GetAdjectiveSmall
- ADJ_ETO:0 "этовск" #GetAdjectiveSmall
- ADJ_SAT:0 "сатапск" #GetAdjectiveSmall
- ADJ_CIA:0 "чиахск" #GetAdjectiveSmall
- ADJ_COO:0 "кусск" #GetAdjectiveSmall
- ADJ_ABI:0 "абикск" #GetAdjectiveSmall
- ADJ_COW:0 "коветск" #GetAdjectiveSmall
- ADJ_NTZ:0 "натчезск" #GetAdjectiveSmall
- ADJ_CAQ:0 "каскийск" #GetAdjectiveSmall
- ADJ_PCH:0 "пакахск" #GetAdjectiveSmall
- ADJ_QUI:0 "кизкизск" #GetAdjectiveSmall
- ADJ_CCA:0 "чискск" #GetAdjectiveSmall
- ADJ_ATA:0 "атахачийск" #GetAdjectiveSmall
- ADJ_KSI:0 "касихтск" #GetAdjectiveSmall
- ADJ_OEO:0 "онеотск" #GetAdjectiveSmall
- ADJ_ANL:0 "анилкосск" #GetAdjectiveSmall
- ADJ_NTC:0 "накитошск" #GetAdjectiveSmall
- ADJ_HNI:0 "хасинайск" #GetAdjectiveSmall
- ADJ_MOH:0 "могавкск" #GetAdjectiveSmall
- ADJ_ONE:0 "онайдск" #GetAdjectiveSmall
- ADJ_ONO:0 "онондагск" #GetAdjectiveSmall
- ADJ_CAY:0 "кайюгск" #GetAdjectiveSmall
- ADJ_SEN:0 "сенекск" #GetAdjectiveSmall
- ADJ_TAH:0 "тахонтаэнратск" #GetAdjectiveSmall
- ADJ_ATT:0 "аттинаватанск" #GetAdjectiveSmall
- ADJ_AGG:0 "аттинэнонахакск" #GetAdjectiveSmall
- ADJ_ATW:0 "аттивандаронск" #GetAdjectiveSmall
- ADJ_ARN:0 "арендарононск" #GetAdjectiveSmall
- ADJ_TIO:0 "тиононтатск" #GetAdjectiveSmall
- ADJ_OSH:0 "ошелагск" #GetAdjectiveSmall
- ADJ_STA:0 "стадаконск" #GetAdjectiveSmall
- ADJ_ERI:0 "эрийск" #GetAdjectiveSmall
- ADJ_WEN:0 "венросск" #GetAdjectiveSmall
- ADJ_TSC:0 "тускарорск" #GetAdjectiveSmall
- ADJ_OHK:0 "оке-овингск" #GetAdjectiveSmall
- ADJ_ISL:0 "айлетск" #GetAdjectiveSmall
- ADJ_ACO:0 "акомск" #GetAdjectiveSmall
- ADJ_CAO:0 "кахокийск" #GetAdjectiveSmall
- ADJ_PEO:0 "пеорийск" #GetAdjectiveSmall
- ADJ_KSK:0 "каскаскийск" #GetAdjectiveSmall
- ADJ_PEN:0 "пенобскотск" #GetAdjectiveSmall
- ADJ_MLS:0 "малеситск" #GetAdjectiveSmall
- ADJ_NEH:0 "нехьюск" #GetAdjectiveSmall
- ADJ_NAK:0 "накавск" #GetAdjectiveSmall
- ADJ_HWK:0 "хатавекелск" #GetAdjectiveSmall
- ADJ_CLG:0 "чалаготск" #GetAdjectiveSmall
- ADJ_KSP:0 "киспокск" #GetAdjectiveSmall
- ADJ_MSG:0 "миссиссагск" #GetAdjectiveSmall
- ADJ_WCY:0 "вичиенск" #GetAdjectiveSmall
- ADJ_LAK:0 "лакотск" #GetAdjectiveSmall
- ADJ_INN:0 "иннуск" #GetAdjectiveSmall
- ADJ_WAM:0 "вампаноагск" #GetAdjectiveSmall
- ADJ_AGQ:0 "алгонкинск" #GetAdjectiveSmall
- # Версия 1.32
- ADJ_ZUL:0 "зулусск" #GetAdjectiveSmall
- ADJ_ISR:0 "израильск" #GetAdjectiveSmall
- ADJ_WGD:0 "уагадугск" #GetAdjectiveSmall
- ADJ_ZND:0 "зандоманск" #GetAdjectiveSmall
- ADJ_GUR:0 "фада нгурмск" #GetAdjectiveSmall
- ADJ_TEN:0 "тенкодогонск" #GetAdjectiveSmall
- ADJ_SOM:0 "сомалийск" #GetAdjectiveSmall
- ADJ_OGD:0 "огаденск" #GetAdjectiveSmall
- ADJ_AKS:0 "аксумск" #GetAdjectiveSmall
- ADJ_GZI:0 "зимбабвийск" #GetAdjectiveSmall
- ADJ_NBI:0 "нубийск" #GetAdjectiveSmall
- ADJ_RZI:0 "розвийск" #GetAdjectiveSmall
- ADJ_KIT:0 "китарск" #GetAdjectiveSmall
- ADJ_WAD:0 "вадаиск" #GetAdjectiveSmall
- 
